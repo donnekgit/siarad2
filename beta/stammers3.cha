@@ -14,7 +14,7 @@
 @Time Duration:	00:31:16
 @Comment:	Filename: Stammers3.CHA; Soundfile: Stammers3.WAV
 @Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
-*GUT:	um@s:cym&eng # <trot@s:eng and@s:eng walk@s:eng ride@s:cym&eng> ["] oedd o . %snd:"stammers3"_513_3924
+*GUT:	um@s:cym&eng # “trot@s:eng and@s:eng walk@s:eng ride@s:cym&eng” oedd o . %snd:"stammers3"_513_3924
 %gls:	IM trot and walk ride be.3S.IMP PRON.3SM
 %eng:	um, it was a "trot-and-walk ride" .
 *GUT:	er@s:cym&eng wnaeth [//] wnes i (dd)im ganter_o@s:eng+cym . %snd:"stammers3"_4760_6014
@@ -301,7 +301,7 @@
 *NER:	ond <oedden ni> [/] <oedden ni> [///] &n wnes i dechrau deud gynnau do . %snd:"stammers3"_200444_203080
 %gls:	but be.1PL.IMP PRON.1PL be.1PL.IMP PRON.1PL do.1S.PAST PRON.1S start.NONFIN say.NONFIN earlier yes
 %eng:	but we.. . I started to say before didn't I
-*NER:	oedden ni (we)di wneud <yr &p> [/] yr [/] ## yr [/] # <functional@s:eng analysis@s:eng> ["] mae (y)n cael ei alw . %snd:"stammers3"_203039_208159
+*NER:	oedden ni (we)di wneud <yr &p> [/] yr [/] ## yr [/] # “functional@s:eng analysis@s:eng” mae (y)n cael ei alw . %snd:"stammers3"_203039_208159
 %gls:	be.1PL.IMP PRON.1PL PRT.PAST do.NONFIN DET DET DET functional analysis be.3S.PRES PRT get.NONFIN POSS.3SM call.NONFIN
 %eng:	we'd done the.. . "functional analysis", it's called.
 *GUT:	ia . %snd:"stammers3"_208238_208772
@@ -318,7 +318,7 @@
 *NER:	<mae o (y)n> [/] mae o (y)n # medru attack_io@s:eng+cym (y)n ofnadwy tydy . %snd:"stammers3"_226503_229394
 %gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT can.NONFIN attack.NONFIN PRT awful be.3S.PRES.NEG
 %eng:	he's able to attack you dreadfully, isn't he?
-*GUT:	ymosod ["] yeah@s:cym&eng . %snd:"stammers3"_229421_230570
+*GUT:	“ymosod” yeah@s:cym&eng . %snd:"stammers3"_229421_230570
 %gls:	attack.NONFIN yeah
 %eng:	"attack", yeah.
 *NER:	um@s:cym&eng er@s:cym&eng yeah@s:cym&eng . %snd:"stammers3"_230956_231723
@@ -350,7 +350,7 @@
 %eng:	so they're trying to do this study where we're trying to find out whether there's anything apart from his environment causing the self-injury and the attacks, right
 *GUT:	+< mmm@s:cym&eng . %snd:"stammers3"_257659_257938
 *GUT:	mmm@s:cym&eng . %snd:"stammers3"_262349_262628
-*NER:	+, neu ymosod ["] ! %snd:"stammers3"_262547_263336
+*NER:	+, neu “ymosod” ! %snd:"stammers3"_262547_263336
 %gls:	or attack.NONFIN
 %eng:	"attacks", rather!
 *GUT:	mmm@s:cym&eng . %snd:"stammers3"_263557_263998
@@ -476,10 +476,10 @@
 *GUT:	ar un adeg oedda chdi sôn am bod yn educational@s:eng psychologist@s:eng # neu seicoloegwr neu &se seicolegwraig addysgol . %snd:"stammers3"_349092_355304
 %gls:	on one period be.2S.IMP PRON.2S talk.NONFIN about be.NONFIN PRT educational psychologist or psychologist_man or psychologist_woman educational
 %eng:	at one time you we're talking about becoming an educational psychologist.. . or "educational psychologist woman" .
-*NER:	na seicolegydd ["] (ba)set ti ddeud de . %snd:"stammers3"_354992_357185
+*NER:	na “seicolegydd” (ba)set ti ddeud de . %snd:"stammers3"_354992_357185
 %gls:	no psychologist be.2S.CONDIT PRON.2S say.NONFIN TAG
 %eng:	no, "psychologist", you say, right.
-*GUT:	oh@s:cym&eng sorry@s:cym&eng seicolegydd ["] . %snd:"stammers3"_357127_358253
+*GUT:	oh@s:cym&eng sorry@s:cym&eng “seicolegydd” . %snd:"stammers3"_357127_358253
 %gls:	IM sorry psychologist
 %eng:	oh, sorry, "psychologist" .
 *NER:	&=mumble . %snd:"stammers3"_358300_358648
@@ -1220,7 +1220,7 @@
 *GUT:	dw (ddi)m yn teimlo (y)n # complete@s:eng (fe)lly . %snd:"stammers3"_957216_958910
 %gls:	be.1S.PRES NEG PRT feel.NONFIN PRT complete thus
 %eng:	I don't feel complete, like.
-*GUT:	neu cyflawn ["] (y)dy (y)r gair Cymraeg de . %snd:"stammers3"_959142_960501
+*GUT:	neu “cyflawn” (y)dy (y)r gair Cymraeg de . %snd:"stammers3"_959142_960501
 %gls:	or complete be.3S.PRES DET word Welsh TAG
 %eng:	or "cyflawn" is the Welsh word, isn't it.
 *NER:	+< na # na na . %snd:"stammers3"_959328_961383
@@ -1466,7 +1466,7 @@
 *NER:	oh@s:cym&eng na(g) (y)dy [?] . %snd:"stammers3"_1118369_1119112
 %gls:	IM no be.3S.PRES
 %eng:	oh, no.
-*NER:	na &n just@s:cym&eng [/] just@s:cym&eng fath â <come@s:eng on@s:eng wan> ["] de . %snd:"stammers3"_1119054_1121364
+*NER:	na &n just@s:cym&eng [/] just@s:cym&eng fath â “come@s:eng on@s:eng wan” de . %snd:"stammers3"_1119054_1121364
 %gls:	no just just kind with come on now TAG
 %eng:	no, just sort of, "come on, now", eh.
 *GUT:	yeah@s:cym&eng dw i gwybod . %snd:"stammers3"_1121469_1122293
@@ -1671,7 +1671,7 @@
 %gls:	from DET Scotland be.3S.IMP PRON.3SF yeah
 %eng:	from Scotland ["Yr Alban"], was she, yeah?
 *GUT:	oh@s:cym&eng right@s:cym&eng yeah@s:cym&eng . %snd:"stammers3"_1231386_1232407
-*GUT:	dim Scotland@s:eng ["] ? %snd:"stammers3"_1232431_1233000
+*GUT:	dim “Scotland@s:eng” ? %snd:"stammers3"_1232431_1233000
 %gls:	NEG Scotland
 %eng:	not "Scotland"?
 *NER:	&=laugh <<ac oedd> [?] hi o (y)r> [=! laughs] Alban . %snd:"stammers3"_1233023_1235623
@@ -1815,7 +1815,7 @@
 *NER:	ti (we)di darllen &prɨ +/ . %snd:"stammers3"_1304097_1304748
 %gls:	PRON.2S PRT.PAST read.NONFIN
 %eng:	have you read...
-*GUT:	+< ti fod efo partner@s:cym&eng ["] tibod ? %snd:"stammers3"_1304431_1305801
+*GUT:	+< ti fod efo “partner@s:cym&eng” tibod ? %snd:"stammers3"_1304431_1305801
 %gls:	PRON.2S be.NONFIN with partner know.2S
 %eng:	you're supposed to have a "partner", you know?
 %com:	mimics American pronunciation of "partner" .
@@ -1857,7 +1857,7 @@
 %gls:	so be.3S.PRES DET humidity still bad here
 %eng:	so, is the humidity still bad here?
 *NER:	&=laugh ! %snd:"stammers3"_1332893_1334762
-*GUT:	dw (ddi)m yn gwybod be (y)dy gair Cymraeg am humidity@s:eng ["] de . %snd:"stammers3"_1336077_1338027
+*GUT:	dw (ddi)m yn gwybod be (y)dy gair Cymraeg am “humidity@s:eng” de . %snd:"stammers3"_1336077_1338027
 %gls:	be.1S.PRES NEG PRT know.NONFIN what be.3S.PRES word Welsh for humidity TAG
 %eng:	I don't know what the Welsh word for "humidity" is, eh.
 *NER:	+< &=laugh . %snd:"stammers3"_1336286_1336541
@@ -2145,7 +2145,7 @@
 *GUT:	++ yeah@s:cym&eng maen nhw (y)n codi speed@s:cym&eng . %snd:"stammers3"_1531203_1532155
 %gls:	yeah be.3PL.PRES PRON.3PL PRT raise.NONFIN speed
 %eng:	yeah, they gain speed.
-*NER:	maen nhw just@s:cym&eng yn meddwl <ooh@s:cym&eng ah@s:cym&eng> ["] ! %snd:"stammers3"_1532062_1533653
+*NER:	maen nhw just@s:cym&eng yn meddwl “ooh@s:cym&eng ah@s:cym&eng” ! %snd:"stammers3"_1532062_1533653
 %gls:	be.3PL.PRES PRON.3PL just PRT think.NONFIN IM IM
 %eng:	they just think "ooh, ah!"
 *GUT:	yeah@s:cym&eng . %snd:"stammers3"_1533769_1534175
@@ -2493,7 +2493,7 @@
 *GUT:	a bach [!] fydd o (he)fyd de +! ? %snd:"stammers3"_1759248_1760351
 %gls:	and little be.3S.FUT PRON.3SM too TAG
 %eng:	and it will be little, too, won't it!?
-*NER:	+< &=laugh <Tardis@s:cym&eng ["] enw da (i)ddo fo> [=! laughs] ! %snd:"stammers3"_1759852_1763207
+*NER:	+< &=laugh <“Tardis@s:cym&eng” enw da (i)ddo fo> [=! laughs] ! %snd:"stammers3"_1759852_1763207
 %gls:	Tardis name good for.3SM PRON.3SM
 %eng:	"Tardis" is a good name for it
 *NER:	mi fydd o sti ! %snd:"stammers3"_1763521_1764507
@@ -2607,7 +2607,7 @@
 %gls:	DET team leaders be.3S.PRES this TAG
 %eng:	this is the team leaders, right.
 *NER:	mmhm@s:cym&eng . %snd:"stammers3"_1846135_1846530
-*GUT:	neu (y)r <arweinydd team@s:cym&eng> ["] <ddylwn i ddeud> [?] . %snd:"stammers3"_1846483_1847853
+*GUT:	neu (y)r “arweinydd team@s:cym&eng” <ddylwn i ddeud> [?] . %snd:"stammers3"_1846483_1847853
 %gls:	or DET leader team should.1S.CONDIT PRON.1S say.NONFIN
 %eng:	or the "team leader", I should say.
 *GUT:	um@s:cym&eng dyna be (y)dy o yn Gwynedd@s:cym&eng . %snd:"stammers3"_1848712_1850152

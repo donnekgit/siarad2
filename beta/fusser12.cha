@@ -440,22 +440,22 @@
 *WEN:	+< mmm@s:cym&eng mmm@s:cym&eng mmm@s:cym&eng . %snd:"fusser12"_262626_264507
 %gls:	IM IM IM
 %eng:	mmm, mmm, mmm
-*WEN:	Woman_with_Full_Moon_and_Deer@s:cym&eng ["] . %snd:"fusser12"_264507_266817
+*WEN:	“Woman_with_Full_Moon_and_Deer@s:cym&eng” . %snd:"fusser12"_264507_266817
 %gls:	Woman_with_Full_Moon_and_Deer
 %eng:	"Woman with Full Moon and Deer"
 *CEW:	[- eng] ear ? %snd:"fusser12"_266817_269174
 %gls:	ear
 %eng:	ear?
-*LNW:	na Deer@s:cym&eng ["] . %snd:"fusser12"_269174_270277
+*LNW:	na “Deer@s:cym&eng” . %snd:"fusser12"_269174_270277
 %gls:	no Deer
 %eng:	no, Deer
-*CEW:	Deer@s:cym&eng ["] oh@s:cym&eng . %snd:"fusser12"_270056_270915
+*CEW:	“Deer@s:cym&eng” oh@s:cym&eng . %snd:"fusser12"_270056_270915
 %gls:	Deer IM
 %eng:	"Deer" oh
-*WEN:	+< Deer@s:cym&eng ["] . %snd:"fusser12"_270230_270637
+*WEN:	+< “Deer@s:cym&eng” . %snd:"fusser12"_270230_270637
 %gls:	Deer
 %eng:	"Deer"
-*WEN:	Deer@s:cym&eng ["] . %snd:"fusser12"_270915_271229
+*WEN:	“Deer@s:cym&eng” . %snd:"fusser12"_270915_271229
 %gls:	Deer
 %eng:	"Deer"
 *LNW:	+< &=laugh . %snd:"fusser12"_271066_271426
@@ -465,10 +465,10 @@
 *WEN:	+< yeah@s:cym&eng oes . %snd:"fusser12"_272343_273470
 %gls:	yeah be.3S.PRES
 %eng:	yeah, yes there is
-*WEN:	na Deer@s:cym&eng ["] ydy o . %snd:"fusser12"_273470_274549
+*WEN:	na “Deer@s:cym&eng” ydy o . %snd:"fusser12"_273470_274549
 %gls:	no deer be.3S.PRES PRON.3SM
 %eng:	no it's "Deer"
-*WEN:	carw ["] de . %snd:"fusser12"_274549_275327
+*WEN:	“carw” de . %snd:"fusser12"_274549_275327
 %gls:	deer TAG
 %eng:	"carw", isn't it
 *CEW:	ie . %snd:"fusser12"_275327_276186
@@ -502,7 +502,7 @@
 *WEN:	+< oes . %snd:"fusser12"_284622_284970
 %gls:	be.3S.PRES
 %eng:	yes
-*WEN:	yeah@s:cym&eng deer@s:eng ["] # yn yr lluosog mae o <(y)n feddwl de> [?] . %snd:"fusser12"_285713_289185
+*WEN:	yeah@s:cym&eng “deer@s:eng” # yn yr lluosog mae o <(y)n feddwl de> [?] . %snd:"fusser12"_285713_289185
 %gls:	yeah deer in DET plural be.3S.PRES PRON.3SM PRT think.NONFIN TAG
 %eng:	yeah, he means "deer" in the plural, doesn't he
 *CEW:	+< lluosog ia . %snd:"fusser12"_287397_288616
@@ -961,7 +961,7 @@
 *WEN:	sbïwch chi tua (y)r cefn (y)ma . %snd:"fusser12"_530550_531642
 %gls:	look.2PL.IMPER PRON.2PL towards DET back here
 %eng:	look at the back here
-*WEN:	y <later@s:eng years@s:eng> ["] # xxx . %snd:"fusser12"_531642_534033
+*WEN:	y “later@s:eng years@s:eng” # xxx . %snd:"fusser12"_531642_534033
 %gls:	DET later years xxx
 %eng:	the later years [...]
 *LNW:	yeah@s:cym&eng hwyrach (ba)sai (y)n ddiddorol gweld xxx . %snd:"fusser12"_534033_535961
@@ -1315,7 +1315,7 @@
 %gls:	how should.3S.CONDIT things be.NONFIN
 %eng:	how things should be
 *WEN:	xxx +// . %snd:"fusser12"_730995_731587
-*WEN:	sut [/] &=laugh <sut ddylsai pethau fod> ["] [=! laughs] . %snd:"fusser12"_731587_733758
+*WEN:	sut [/] &=laugh <“sut ddylsai pethau fod”> [=! laughs] . %snd:"fusser12"_731587_733758
 %gls:	how how should.3S.CONDIT things be.NONFIN
 %eng:	"how things should be"!
 *WEN:	ond [=? oh@s:cym&eng] mae o (y)n ddiddorol . %snd:"fusser12"_733758_734571
@@ -2731,7 +2731,7 @@
 *WEN:	+< well@s:cym&eng ydy . %snd:"fusser12"_1570280_1571070
 %gls:	well be.3S.PRES
 %eng:	well yes
-*CEW:	er@s:cym&eng spastic@s:cym&eng (y)dy o &vɛ be oedd pobl yn galw (y)n spastic@s:cym&eng ["] ers_talwm . %snd:"fusser12"_1571464_1574843
+*CEW:	er@s:cym&eng spastic@s:cym&eng (y)dy o &vɛ be oedd pobl yn galw (y)n “spastic@s:cym&eng” ers_talwm . %snd:"fusser12"_1571464_1574843
 %gls:	IM spastic be.3S.PRES PRON.3SM what be.3S.IMP people PRT call.NONFIN spastic in_the_past
 %eng:	er, it's spastic, what people used to call "spastic"
 *LNW:	+< na dim +// . %snd:"fusser12"_1571639_1572405
@@ -5225,7 +5225,7 @@
 *CEW:	ia (dy)dy o (ddi)m yn anodd iawn . %snd:"fusser12"_2984259_2985629
 %gls:	yes be.3S.PRES.NEG PRON.3SM NEG PRT difficult very
 %eng:	yes, it's not very difficult
-*CEW:	ti just@s:cym&eng yn mynd atyn nhw ac yn deud hello@s:cym&eng ["] . %snd:"fusser12"_2985629_2987290
+*CEW:	ti just@s:cym&eng yn mynd atyn nhw ac yn deud “hello@s:cym&eng” . %snd:"fusser12"_2985629_2987290
 %gls:	PRON.2S just PRT go.NONFIN to.3PL PRON.3PL and PRT say.NONFIN hello
 %eng:	you just go up to them and say "hello"
 *LNW:	+< fyddach chi (y)mysg y sêr . %snd:"fusser12"_2985734_2986941
@@ -5254,7 +5254,7 @@
 *WEN:	ia . %snd:"fusser12"_2997437_2998307
 %gls:	yes
 %eng:	yes
-*LNW:	<geith y peth fwy o sylw> ["] dw i (y)n drio ddeud . %snd:"fusser12"_2998307_3000606
+*LNW:	“geith y peth fwy o sylw” dw i (y)n drio ddeud . %snd:"fusser12"_2998307_3000606
 %gls:	get.3S.NONPAST DET thing more of attention be.1S.PRES PRON.1S PRT try.NONFIN say.NONFIN
 %eng:	"it'll get more attention" I'm trying to say
 *CEW:	+< ia . %snd:"fusser12"_2999828_3000606
@@ -5494,7 +5494,7 @@
 *CEW:	a wedyn dan ni # ella yn wneud hynna . %snd:"fusser12"_3112019_3115026
 %gls:	and then be.1PL.PRES PRON.1PL perhaps PRT do.NONFIN that
 %eng:	and then we perhaps do that
-*CEW:	neu os dyn nhw (y)n deud <na chewch> ["] # wedyn dan ni &mis [//] # mynd i Strasbourg@s:cym&eng . %snd:"fusser12"_3115026_3119043
+*CEW:	neu os dyn nhw (y)n deud “na chewch” # wedyn dan ni &mis [//] # mynd i Strasbourg@s:cym&eng . %snd:"fusser12"_3115026_3119043
 %gls:	or if be.3PL.PRES PRON.3PL PRT say.NONFIN no get.2PL.NONPAST then be.1PL.PRES PRON.1PL go.NONFIN to Strasbourg
 %eng:	or if they say "no you can't" then we're going to Strasbourg
 *LNW:	mmm@s:cym&eng . %snd:"fusser12"_3119043_3119774
@@ -5760,7 +5760,7 @@
 *LNW:	+< mmm@s:cym&eng . %snd:"fusser12"_3260931_3261767
 %gls:	IM
 %eng:	mmm
-*CEW:	dyna be mae nhw (y)n galw (y)n <crocodile@s:cym&eng tears@s:eng> ["] . %snd:"fusser12"_3261767_3264228
+*CEW:	dyna be mae nhw (y)n galw (y)n “crocodile@s:cym&eng tears@s:eng” . %snd:"fusser12"_3261767_3264228
 %gls:	there what be.3PL.PRES PRON.3PL PRT call.NONFIN PRT crocodile tears
 %eng:	that's what they call "crocodile tears"
 *WEN:	+< ia # mmm@s:cym&eng . %snd:"fusser12"_3263450_3264913
@@ -5782,7 +5782,7 @@
 *LNW:	na . %snd:"fusser12"_3270029_3270528
 %gls:	no
 %eng:	no
-*WEN:	xxx dw i sure@s:cym&eng bod (y)na rywbeth am <grocodile@s:cym&eng tears@s:eng> ["] yn Gymraeg . %snd:"fusser12"_3270110_3272943
+*WEN:	xxx dw i sure@s:cym&eng bod (y)na rywbeth am “grocodile@s:cym&eng tears@s:eng” yn Gymraeg . %snd:"fusser12"_3270110_3272943
 %gls:	xxx be.1S.PRES PRON.1S sure be.NONFIN there something about crocodile tears in Welsh
 %eng:	[...] I'm sure there's something about "crocodile tears" in Welsh
 *CEW:	+< oes ? %snd:"fusser12"_3272281_3272710
@@ -5799,7 +5799,7 @@
 %eng:	yes
 *CEW:	xxx . %snd:"fusser12"_3275369_3276077
 *LNW:	&=laugh . %snd:"fusser12"_3275787_3276646
-*WEN:	ryw ddagrau ["] rywbeth de . %snd:"fusser12"_3276089_3278121
+*WEN:	ryw “ddagrau” rywbeth de . %snd:"fusser12"_3276089_3278121
 %gls:	some tear something TAG
 %eng:	some "tears" something, isn't it
 *WEN:	ia . %snd:"fusser12"_3278121_3279816
@@ -6086,7 +6086,7 @@
 *WEN:	oh@s:cym&eng felly be wnawn ni wan &si [//] wsti ni [!] bach wan bwysig +//? %snd:"fusser12"_3450002_3453787
 %gls:	IM thus what do.1PL.NONPAST PRON.1PL now know.2S PRON.1PL small now important
 %eng:	oh so what will we do now, you know the small important "us"
-*WEN:	&=laugh <ni bwysig> ["] ! %snd:"fusser12"_3453787_3456364
+*WEN:	&=laugh “ni bwysig” ! %snd:"fusser12"_3453787_3456364
 %gls:	PRON.1PL important
 %eng:	"the important us"!
 *LNW:	+< &=laugh . %snd:"fusser12"_3454147_3456329
