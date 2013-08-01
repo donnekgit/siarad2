@@ -1,0 +1,2681 @@
+@Font:	Win95:Arial:-21:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	JEA Jean Adult, GRG George Adult, SAN Sandra Adult, ART Arthur Adult, RES Researcher Adult
+@ID:	cy|siarad|JEA|53;|female|||Adult||
+@ID:	cy|siarad|GRG|53;|male|||Adult||
+@ID:	cy|siarad|SAN|22;|female|||Adult||
+@ID:	cy|siarad|ART|26;|male|||Adult||
+@Situation:	Familial conversation at speakers' home. George and Jean are husband and wife and Sandra and Arthur are their daughter and son respectively
+@Comment:	JEA was brought up in north-west Wales and has lived there all her life
+@Comment:	GRG was brought up in England but moved to north-west Wales as a teenager, where he has lived since
+@Comment:	SAN was brought up in north-west Wales and has lived there all her life
+@Comment:	ART was brought up in north-west Wales but has been living in England for a number of years
+@Date:	24-MAR-2008
+@Comment:	Researcher:	Siân Wynn Lloyd, Bangor University
+@Coder:	Siân Wynn Lloyd, Bangor University
+@Time Duration:	00:34:56
+@Comment:	Filename:	Lloyd1.CHA; Soundfile:	Lloyd1.WAV
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+*ART:	eh@s:cym&eng ? %snd:"lloyd1"_0_1068
+%gls:	IM
+%eng:	eh
+*JEA:	&=laughs . %snd:"lloyd1"_1022_2252
+*RES:	gei di siarad Arthur@s:cym&eng . %snd:"lloyd1"_2159_3994
+%gls:	can.2S.NONPAST PRON.2S talk.NONFIN Arthur
+%eng:	you can talk Arthur
+*JEA:	+< Sandra@s:cym&eng ti (y)n shower@s:eng ? %snd:"lloyd1"_3541_4807
+%gls:	Sandra PRON.2S in shower
+%eng:	Sandra, are you in the shower?
+*SAN:	a i â fo nesa [?] . %snd:"lloyd1"_4795_6118
+%gls:	go.1S.NONPAST PRON.1S with PRON.3SM next
+%eng:	I'll take it next
+*SAN:	dw i just@s:cym&eng yn torri gwinedd fi . %snd:"lloyd1"_6118_7465
+%gls:	be.1S.PRES PRON.1S just PRT cut.NONFIN nails POSS.1S
+%eng:	I'm just cutting my nails
+*JEA:	o_k@s:cym&eng . %snd:"lloyd1"_7430_8034
+%gls:	o_k
+%eng:	ok
+*RES:	xxx isio chi siarad <efo (ei)ch_gilydd> [?] really@s:eng . %snd:"lloyd1"_7887_10766
+%gls:	xxx need PRON.2PL talk.NONFIN with each_other really
+%eng:	[...] need you to speak with each other really
+*JEA:	well@s:cym&eng oes . %snd:"lloyd1"_10476_11556
+%gls:	well be.3S.PRES
+%eng:	well yes
+*JEA:	mae o allan a finnau mewn . %snd:"lloyd1"_11428_13193
+%gls:	be.3S.PRES PRON.3SM out and PRON.1S in
+%eng:	he's out and I'm inside
+*RES:	oh@s:cym&eng na ti [//] chimod +/ . %snd:"lloyd1"_13193_14222
+%gls:	IM no PRON.2S know.2PL
+%eng:	oh no you know...
+*JEA:	+< ti (y)n aros i_mewn wan ? %snd:"lloyd1"_13588_14889
+%gls:	PRON.2S PRT stay.NONFIN in now
+%eng:	are you going to stay inside now?
+*GRG:	na . %snd:"lloyd1"_14854_15782
+%gls:	no
+%eng:	no
+*JEA:	o'n <i mynd i> [?] wneud paned . %snd:"lloyd1"_15748_16933
+%gls:	be.1S.IMP PRON.1S go.NONFIN to do.NONFIN cuppa
+%eng:	I was going to make a cuppa
+*GRG:	gymra i baned os gwelwch yn dda . %snd:"lloyd1"_16909_18616
+%gls:	take.1S.NONPAST PRON.1S cuppa if see.2PL .NONPAST PRT good
+%eng:	I'll take a cuppa if you please
+%com:	silence as Jean starts making a cuppa
+*JEA:	coffee@s:cym&eng ia neu ti isio te ? %snd:"lloyd1"_18602_26334
+%gls:	coffee yes or PRON.2S want tea
+%eng:	coffee yes or do you want tea ?
+%com:	moving around the kitchen
+*GRG:	coffee@s:cym&eng please@s:cym&eng . %snd:"lloyd1"_26326_28904
+%gls:	coffee please
+%eng:	coffee please
+%com:	Both moving around the kitchen . %snd:"Lloyd1"_28775_43381
+*GRG:	&=sings . %snd:"lloyd1"_43381_45645
+%com:	Jean makes the tea and shakes the sweeteners . %snd:"Lloyd1"_45627_65085
+*JEA:	mae isio hen glwt i wneud hwn does . %snd:"lloyd1"_65047_67276
+%gls:	be.3S.PRES need old cloth to do.NONFIN this be.3S.PRES.NEG
+%eng:	we need an old cloth to do this don't we
+*GRG:	eh@s:cym&eng ? %snd:"lloyd1"_67229_67996
+%gls:	IM
+%eng:	eh?
+*JEA:	hen glwt i olchi (y)r peth adar (y)ma . %snd:"lloyd1"_67972_70259
+%gls:	old cloth to wash.NONFIN DET thing birds here
+%eng:	an old cloth to wash this bird thing
+*GRG:	yeah@s:cym&eng yeah@s:cym&eng # dim problem@s:cym&eng . %snd:"lloyd1"_70257_74313
+%gls:	yeah yeah NEG problem
+%eng:	yeah yeah no problem
+*JEA:	oh@s:cym&eng lle mae (y)na un ? %snd:"lloyd1"_74290_76333
+%gls:	IM place be.3S.PRES there one
+%eng:	oh where can I find one ?
+*GRG:	[- eng] I (wi)ll find one in the back now . %snd:"lloyd1"_76355_80801
+%gls:	I will find one in the back now
+%eng:	I will find one in the back now
+*JEA:	i pwy mae hwnna ? %snd:"lloyd1"_80780_85413
+%gls:	for who be.3S.PRES that
+%eng:	who is that for?
+*JEA:	i pwy mae hwnna ? %snd:"lloyd1"_85409_87430
+%gls:	for who be.3S.PRES that
+%eng:	who's that for ?
+*GRG:	fi . %snd:"lloyd1"_87441_88103
+%gls:	PRON.1S
+%eng:	me
+*GRG:	what@s:eng was@s:eng the@s:eng second@s:eng # um@s:cym&eng Monday@s:eng in@s:eng # March@s:eng xxx # the@s:eng date@s:eng ? %snd:"lloyd1"_88039_93646
+%gls:	what was the second IM Monday in March xxx the date
+%eng:	what was the second um Monday in March [...] the date ?
+*GRG:	&=sighs . %snd:"lloyd1"_93496_96190
+*JEA:	wna i edrych wan . %snd:"lloyd1"_96102_105946
+%gls:	do.1S.NONPAST PRON.1S look.NONFIN now
+%eng:	I'll look now
+%com:	Jean's goes to look for the correct date .
+*JEA:	deg # tenth@s:eng . %snd:"lloyd1"_105908_108265
+%gls:	ten tenth
+%eng:	ten, tenth
+*GRG:	iawn . %snd:"lloyd1"_108218_109054
+%gls:	right
+%eng:	fine
+*JEA:	pam ? %snd:"lloyd1"_109054_109901
+%gls:	why
+%eng:	why ?
+*GRG:	xxx . %snd:"lloyd1"_109766_112030
+*GRG:	[- eng] shred that . %snd:"lloyd1"_111983_113702
+*JEA:	pam ? %snd:"lloyd1"_113750_117303
+%gls:	why
+%eng:	why ?
+*GRG:	[- eng] (be)cause (it')s mine . %snd:"lloyd1"_117291_118522
+%gls:	because it's mine
+%eng:	because it's mine
+*GRG:	[- eng] I'm not having it am I . %snd:"lloyd1"_118561_120488
+%gls:	I'm not having it am I
+%eng:	I'm not having it am I
+*JEA:	oh@s:cym&eng right@s:cym&eng . %snd:"lloyd1"_120511_122322
+%gls:	IM right
+%eng:	oh right
+*GRG:	[- eng] so I've gotta put it on there haven't I . %snd:"lloyd1"_122253_123925
+%gls:	so I've gotta put it on there haven't I
+%eng:	so I've gotta put it on there haven't I
+*JEA:	iawn . %snd:"lloyd1"_123902_125377
+%gls:	right
+%eng:	fine
+*JEA:	dw i (fa)th â <Duw # blank@s:cym&eng cheque@s:cym&eng> ["] . %snd:"lloyd1"_125373_133509
+%gls:	be.1S.PRES PRON.1S kind with God blank cheque
+%eng:	I'm like "God, a blank cheque"
+*SAN:	&=laughs . %snd:"lloyd1"_133544_134380
+*JEA:	mae dad@s:cym&eng (we)di ennill y # Clwb_Cant . %snd:"lloyd1"_134331_136525
+%gls:	be.3S.PRES dad PRT.PAST win.NONFIN DET One_Hundred_Club
+%eng:	your father's won the One Hundred Club
+*SAN:	iawn de . %snd:"lloyd1"_136493_137852
+%gls:	right TAG
+%eng:	good isn't it
+*JEA:	ond mae (y)r peth yn mynd i dalu am ei diced o (y)n_dydy . %snd:"lloyd1"_137782_140475
+%gls:	but be.3S.PRES DET thing PRT go.NONFIN to pay.NONFIN for POSS.3SM ticket PRON.3SM be.3S.PRES.NEG
+%eng:	but the money's going to pay for his ticket isn't it
+*JEA:	so@s:cym&eng dw i (y)n shredio (y)r check@s:cym&eng . %snd:"lloyd1"_140429_144820
+%gls:	so be.1S.PRES PRON.1S PRT shred.NONFIN DET check
+%eng:	so I'm shredding the check
+%com:	shredding noise .
+*JEA:	agor y curtains@s:cym&eng Arthur@s:cym&eng . %snd:"lloyd1"_144831_147060
+%gls:	open.2S.IMPER DET curtains Arthur
+%eng:	open the curtains Arthur
+*ART:	dw i (y)n mynd i newid yn munud (yn)dw . %snd:"lloyd1"_147002_158329
+%gls:	be.1S.PRES PRON.1S PRT go.NONFIN to change.NONFIN in minute be.1S.PRES
+%eng:	I'm going to change in a minute aren't I
+%com:	Jean walks around .
+*JEA:	dach chi (y)n dod i gael paned ta be ? %snd:"lloyd1"_158321_160446
+%gls:	be.2PL.PRES PRON.2PL PRT come.NONFIN to get.NONFIN cuppa or what
+%eng:	are you coming to have a cuppa or what ?
+*ART:	ia ddo i am baned . %snd:"lloyd1"_160435_171555
+%gls:	yes come.1S.NONPAST PRON.1S for cuppa
+%eng:	yes I'll come for a cuppa
+%com:	Jean makes tea .
+*ART:	xxx . %snd:"lloyd1"_171618_174045
+*ART:	ia gymra i baned please@s:cym&eng thank@s:eng you@s:eng . %snd:"lloyd1"_174091_179938
+%gls:	yes take.1S.NONPAST PRON.1S cuppa please thank you
+%eng:	yes I'll take a cuppa please, thank you
+*GRG:	faint o gloch ti (y)n mynd ? %snd:"lloyd1"_179938_180987
+%gls:	how_much of time PRON.2S PRT go.NONFIN
+%eng:	what time are you going ?
+*JEA:	croeso . %snd:"lloyd1"_180867_181540
+%gls:	welcome
+%eng:	you're welcome
+*ART:	[- eng] I don't know . %snd:"lloyd1"_181679_182968
+%gls:	I don't know
+%eng:	I don't know
+*GRG:	well@s:cym&eng you@s:eng wanna@s:eng get@s:eng off@s:cym&eng &s # today don't@s:eng you@s:eng ? %snd:"lloyd1"_182980_184837
+%gls:	well you wanna get off today don't you
+%eng:	well you wanna get off today don't you?
+*ART:	[- eng] in about an hour . %snd:"lloyd1"_184802_185836
+%gls:	in about an hour
+%eng:	in about an hour
+*GRG:	oh@s:cym&eng . %snd:"lloyd1"_185758_186803
+%gls:	IM
+%eng:	oh
+*ART:	trio cael gwared arnan ni # diawl . %snd:"lloyd1"_186803_188463
+%gls:	try.NONFIN get.NONFIN riddance on.1PL PRON.1PL devil
+%eng:	trying to get rid of us you devil
+*ART:	ti (y)n gorfod siarad . %snd:"lloyd1"_188533_189671
+%gls:	PRON.2S PRT must.NONFIN talk.NONFIN
+%eng:	you have to talk
+*GRG:	+< well@s:cym&eng you@s:eng were@s:eng the@s:eng one@s:eng who@s:eng was@s:eng um@s:cym&eng saying@s:eng you@s:eng wanna@s:eng leave@s:eng Cynwyd@s:cym&eng at@s:eng three@s:eng o'clock@s:eng . %snd:"lloyd1"_189036_193587
+%gls:	well you were the one who was IM saying you wanna leave Cynwyd at three o'clock
+%eng:	well you were the one who was saying you wanna leave Cynwyd at three o'clock
+*ART:	aye@s:cym&eng . %snd:"lloyd1"_193552_194899
+%gls:	aye
+%eng:	aye
+*JEA:	Duw pwy (y)dy honna ? %snd:"lloyd1"_194911_198138
+%gls:	God who be.3S.PRES that
+%eng:	God, who is she ?
+*GRG:	pwy ? %snd:"lloyd1"_198202_199595
+%gls:	who
+%eng:	who?
+*JEA:	honna mae (y)n edrych yn # gyfarwydd . %snd:"lloyd1"_199618_201998
+%gls:	that be.3S.PRES PRT look.NONFIN PRT familiar
+%eng:	her, she looks familiar
+*GRG:	+< the@s:eng one@s:eng in@s:eng the@s:eng front@s:cym&eng who's@s:eng fallen@s:eng looks@s:eng familiar@s:eng . %snd:"lloyd1"_201334_203517
+%gls:	the one in the front who's fallen looks familiar
+%eng:	the one in the front who's fallen looks familiar
+*GRG:	she@s:eng used@s:eng to@s:eng work@s:eng in@s:eng Barmouth@s:eng I'm@s:eng sure@s:cym&eng . %snd:"lloyd1"_203505_205096
+%gls:	she used to work in Barmouth I'm sure
+%eng:	she used to work in Barmouth I'm sure
+*JEA:	troi page@s:eng cyntaf Arthur@s:cym&eng # i gael gweld pwy (y)dy . %snd:"lloyd1"_205078_208363
+%gls:	turn.2S.IMPER page first Arthur to get.NONFIN see.NONFIN who be.3S.PRES
+%eng:	turn the first page, Arthur, to see who she is
+*ART:	yeah@s:cym&eng dw i (y)n nabod y gwyneb (he)fyd . %snd:"lloyd1"_208306_210407
+%gls:	yeah be.1S.PRES PRON.1S PRT recognise.NONFIN DET face also
+%eng:	yeah I recognise the face as well
+*GRG:	I'm@s:eng sure@s:cym&eng she@s:eng used@s:eng to@s:eng work@s:eng where@s:eng um@s:cym&eng +/ . %snd:"lloyd1"_210407_212637
+%gls:	I'm sure she used to work where IM
+%eng:	I'm sure she used to work where IM
+*JEA:	+< be (y)dy enw hi ? %snd:"lloyd1"_211928_212741
+%gls:	what be.3S.PRES name PRON.3SF
+%eng:	what's her name ?
+*ART:	Mair_Dafydd@s:cym&eng . %snd:"lloyd1"_212706_213345
+%gls:	Mair_Dafydd
+%eng:	Mair_Dafydd
+*GRG:	used@s:eng to@s:eng work@s:eng where@s:eng um@s:cym&eng Sionyn@s:cym&eng [?] worked@s:eng in@s:eng the@s:eng &ts shop@s:cym&eng . %snd:"lloyd1"_213345_216851
+%gls:	used to work where IM Sionyn worked in the shop
+%eng:	used to work where IM Sionyn worked in the shop
+*JEA:	Cadwaladers@s:cym&eng ? %snd:"lloyd1"_216874_217768
+%gls:	Cadwaladers
+%eng:	Cadwaladers ?
+*GRG:	na no@s:eng no@s:eng . %snd:"lloyd1"_217733_218650
+%gls:	no no no
+%eng:	no no no
+*GRG:	the@s:eng junk@s:eng shop@s:cym&eng where@s:eng the@s:eng newsagents@s:eng used@s:eng to@s:eng be@s:eng . %snd:"lloyd1"_218745_222855
+%gls:	the junk shop where the nesagents used to be
+%eng:	the junk shop where the nesagents used to be
+*JEA:	oh@s:cym&eng dw i (ddi)m (gwy)bod . %snd:"lloyd1"_222870_236713
+%gls:	IM be.1S.PRES PRON.1S NEG know.NONFIN
+%eng:	oh I don't know
+%com:	moving about the kitchen .
+*JEA:	(dy)na fo . %snd:"lloyd1"_236712_237409
+%gls:	there PRON.3SM
+%eng:	that's it
+*JEA:	gewch chi de o (y)r tebot heddiw . %snd:"lloyd1"_237194_239435
+%gls:	get.2PL.NONPAST PRON.2PL tea from DET teapot today
+%eng:	you can have tea from the teapot today
+*JEA:	i fod yn posh@s:cym&eng de . %snd:"lloyd1"_239446_242597
+%gls:	to be.NONFIN PRT posh TAG
+%eng:	to be posh you know
+*ART:	oh@s:cym&eng please@s:cym&eng thank@s:eng you@s:eng . %snd:"lloyd1"_242527_244512
+%gls:	IM please thank you
+%eng:	oh please thank you
+*GRG:	+< xxx . %snd:"lloyd1"_243456_244919
+*JEA:	&t ti (ddi)m (y)n rhoid o . %snd:"lloyd1"_244859_246659
+%gls:	PRON.2S NEG PRT put.NONFIN PRON.3SM
+%eng:	your not putting it
+*GRG:	&=coughs be (y)dy (y)r date@s:eng heddiw um@s:cym&eng tenth@s:eng um@s:cym&eng +.. . %snd:"lloyd1"_246612_249166
+%gls:	what be.3S.PRES DET date today IM tenth IM
+%eng:	what's the date today um tenth um...
+*JEA:	+< ro i o (y)n fa(n) (y)ma # ti a Siân@s:cym&eng . %snd:"lloyd1"_248389_249840
+%gls:	put.1S.NONPAST PRON.1S PRON.3SM in place here PRON.2S and Siân
+%eng:	I'll put it here for you and Siân
+*GRG:	um@s:cym&eng no@s:eng that's@s:eng not@s:eng the@s:eng date@s:eng no@s:eng . %snd:"lloyd1"_249166_251047
+%gls:	IM no that's not the date no
+%eng:	um no that's not the date no
+*JEA:	+" Ifans@s:cym&eng goes@s:eng home@s:eng . %snd:"lloyd1"_251086_258531
+%gls:	Ifans goes home
+%eng:	Ifans goes home
+%com:	reads from the paper .
+*JEA:	oh@s:cym&eng mae o (y)n mynd i brynu tŷ yn gogledd Cymru . %snd:"lloyd1"_258542_260528
+%gls:	IM be.3S.PRES PRON.3SM PRT go.NONFIN to buy.NONFIN house in north Wales
+%eng:	oh he's going to buy a house in north Wales
+*ART:	efo Sienna_Miller@s:cym&eng ? %snd:"lloyd1"_260457_261688
+%gls:	with Sienna_Miller
+%eng:	with Sienna Miller?
+*JEA:	mmm@s:cym&eng ? %snd:"lloyd1"_261665_262837
+%gls:	IM
+%eng:	mmm?
+*GRG:	+< pwy ? %snd:"lloyd1"_262477_263325
+%gls:	who
+%eng:	who?
+*JEA:	Rhys_Ifans@s:cym&eng . %snd:"lloyd1"_263348_264219
+%gls:	Rhys_Ifans
+%eng:	Rhys Ifans
+*JEA:	dyna be mae nhw (y)n ddeud . %snd:"lloyd1"_264224_267626
+%gls:	there what be.3PL.PRES PRON.3PL PRT say.NONFIN
+%eng:	that's what they say
+%com:	silence
+*JEA:	yn_de . %snd:"lloyd1"_267619_278754
+%gls:	TAG
+%eng:	you know
+*GRG:	&=sings . %snd:"lloyd1"_278750_284637
+*JEA:	dach chi (we)di bwcio rywle i gael swper heno ? %snd:"lloyd1"_284579_286332
+%gls:	be.2PL.PRES PRON.2PL PRT.PAST book.NONFIN somewhere to get.NONFIN supper tonight
+%eng:	have you booked anywhere to have supper tonight ?
+*JEA:	neu dach chi (y)n mynd i gael +.. . %snd:"lloyd1"_286379_287319
+%gls:	or be.2PL.PRES PRON.2PL PRT go.NONFIN to get.NONFIN
+%eng:	or are you going to have..?
+*ART:	na gawn ni rywbeth yna . %snd:"lloyd1"_287273_288318
+%gls:	no get.1PL.NONPAST PRON.1PL something there
+%eng:	no we'll get something there
+*JEA:	yeah@s:cym&eng # yn y pub@s:cym&eng ? %snd:"lloyd1"_288271_290558
+%gls:	yeah in DET pub
+%eng:	yeah in the pub?
+*JEA:	be (y)dy enw (y)r pub@s:cym&eng ? %snd:"lloyd1"_290612_293003
+%gls:	what be.3S.PRES name DET pub
+%eng:	what's the name of the pub?
+*ART:	Fox_and_Hound@s:cym&eng . %snd:"lloyd1"_293003_294292
+%gls:	Fox_and_Hound
+%eng:	Fox and Hound
+*JEA:	oh@s:cym&eng ia . %snd:"lloyd1"_294206_295948
+%gls:	oh yes
+%eng:	oh yes
+*JEA:	paid â mynd am ice_cream@s:cym&eng lawr y ffordd na wnei . %snd:"lloyd1"_295948_298513
+%gls:	desist.2S.IMPER PRT go.NONFIN for ice_cream down DET road NEG do.2S.NONPAST
+%eng:	you won't go for an ice-cream down the road will you
+*JEA:	timod y diwrnod y ffair yna ? %snd:"lloyd1"_298502_300290
+%gls:	know.2S DET day DET ffair that
+%eng:	you know the day of that fair?
+*GRG:	+< xxx . %snd:"lloyd1"_299222_299918
+*ART:	yeah@s:cym&eng . %snd:"lloyd1"_300292_301430
+%gls:	yeah
+%eng:	yeah
+*GRG:	bloody@s:cym&eng drud de . %snd:"lloyd1"_301499_302962
+%gls:	bloody expensive TAG
+%eng:	bloody expensive you know
+*JEA:	+< <gaethon ni un> [///] # oedd o (ddi)m yn un scoop@s:cym&eng chwaith . %snd:"lloyd1"_301499_305027
+%gls:	get.1PL.PAST PRON.1PL one be.3S.IMP PRON.3SM NEG PRT one scoop either
+%eng:	we had one...it wasn't even one scoop either
+*JEA:	faint oedd o # two@s:eng pound@s:eng rywbeth ? %snd:"lloyd1"_304943_306568
+%gls:	how_much be.3S.IMP PRON.3SM two pound something
+%eng:	how much was it, two pound something?
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_306592_307230
+%gls:	yeah
+%eng:	yeah
+*ART:	bloody@s:cym&eng hell@s:eng . %snd:"lloyd1"_307136_307809
+%gls:	bloody hell
+%eng:	bloody hell
+*JEA:	+< &=laughs oedd o (y)r creadur methu dynnu o allan o (y)r box@s:cym&eng o(edd) (we)di rewi gymaint . %snd:"lloyd1"_307136_310909
+%gls:	be.3S.IMP PRON.3SM DET creature fail.NONFIN pull.NONFIN PRON.3SM out of DET box be.3S.IMP PRT.PAST freeze.NONFIN so_much
+%eng:	the poor man couldn't take it out of the box it had frozen so much
+*GRG:	what's@s:eng the@s:eng name@s:eng of@s:eng that@s:eng firm@s:cym&eng Pentrefoelas@s:cym&eng # we@s:eng had@s:eng the@s:eng stuff@s:cym&eng off@s:cym&eng ? %snd:"lloyd1"_310906_314215
+%gls:	what's the name of that firm Pentrefoelas we had the stuff off
+%eng:	what's the name of that firm Pentrefoelas we had the stuff off ?
+*GRG:	&=sighs . %snd:"lloyd1"_314304_317369
+*JEA:	+< ah@s:cym&eng Brodwaith@s:cym&eng . %snd:"lloyd1"_315953_317741
+%gls:	IM Brodwaith
+%eng:	ah, Brodwaith
+*GRG:	[- eng] xxx we gotta pay them . %snd:"lloyd1"_317752_319030
+%gls:	xxx we gotta pay them
+%eng:	[...] we gotta pay them
+*GRG:	have@s:eng some@s:eng checks@s:cym&eng signed@s:eng off@s:cym&eng Twm@s:cym&eng [?] . %snd:"lloyd1"_319048_321416
+%gls:	have some checks signed off Twm
+%eng:	have some checks signed off Twm
+*JEA:	(fa)sai waeth i fi sgwennu fo ddim na (fa)sai . %snd:"lloyd1"_321370_323518
+%gls:	be.3S.CONDIT worse to PRON.1S write.NONFIN PRON.3SM NEG NEG be.3S.CONDIT
+%eng:	I might as well write it myself, hadn't I
+*ART:	dyn nhw ddim mynd i ddallt y bloody@s:cym&eng check@s:cym&eng na(g) (y)dyn . %snd:"lloyd1"_323507_325121
+%gls:	be.3PL.PRES.NEG PRON.3PL NEG go.NONFIN to understand.NONFIN DET bloody check NEG be.3PL.PRES
+%eng:	they're not going to understand the bloody check are they
+*JEA:	+< cyf ["] . %snd:"lloyd1"_324935_325527
+%gls:	limited
+%eng:	"Ltd"
+*GRG:	&=sings . %snd:"lloyd1"_325488_332434
+*GRG:	right@s:cym&eng I'll@s:eng go@s:eng to@s:eng school@s:eng after@s:eng . %snd:"lloyd1"_332399_333955
+%gls:	right I'll go to school after
+%eng:	right I'll go to school after
+*GRG:	go@s:eng to@s:eng Twm@s:cym&eng . %snd:"lloyd1"_333955_334512
+%gls:	go to Tom
+%eng:	go to Tom
+*GRG:	you@s:eng going@s:eng to@s:eng um@s:cym&eng +/ . %snd:"lloyd1"_334524_335488
+%gls:	you going to IM
+%eng:	you going to um
+*JEA:	Nia's@s:cym&eng . %snd:"lloyd1"_335442_336255
+%gls:	Nia's
+%eng:	Nia's
+*GRG:	+, Nia's@s:cym&eng . %snd:"lloyd1"_336185_337009
+%gls:	Nia's
+%eng:	Nia's
+*JEA:	mynd â presantau penblwydd . %snd:"lloyd1"_336557_338055
+%gls:	go.NONFIN with presents birthday
+%eng:	taking birthday presents
+*GRG:	[- eng] +< what's for tea ? %snd:"lloyd1"_337010_337707
+%gls:	what's for tea
+%eng:	what's for tea?
+*GRG:	+< oh@s:cym&eng we@s:eng got@s:eng +// . %snd:"lloyd1"_337772_338178
+%gls:	IM we got
+%eng:	oh we got...
+*GRG:	um@s:cym&eng do@s:eng we@s:eng eat@s:eng the@s:eng aubergine@s:cym&eng that's@s:eng in@s:eng the@s:eng middle@s:eng ? %snd:"lloyd1"_338171_340017
+%gls:	IM do we eat the aubergine that's in the middle
+%eng:	um do we eat the aubergine that's in the middle?
+*JEA:	yeah@s:cym&eng . %snd:"lloyd1"_339936_340957
+%gls:	yeah
+%eng:	yeah
+*JEA:	well@s:cym&eng wyt sure@s:cym&eng # just@s:cym&eng cynhesu fo (y)n_de xxx. %snd:"lloyd1"_340903_343225
+%gls:	well be.2S.PRES sure just warm.NONFIN PRON.3SM PRT TAG xxx
+%eng:	well of course you do just wram it up you know [...]
+*ART:	[- eng] +< eat everything . %snd:"lloyd1"_342528_343295
+%gls:	eat everything
+%eng:	eat everything
+*GRG:	will@s:eng it@s:eng <go@s:eng um@s:cym&eng> [//] go@s:eng soft@s:eng ? %snd:"lloyd1"_343295_344862
+%gls:	will it go IM go soft
+%eng:	will it go um go soft?
+*ART:	[- eng] yes . %snd:"lloyd1"_344849_345244
+%gls:	yes
+%eng:	yes
+*JEA:	be sy mewn efo (y)r # mince@s:cym&eng ? %snd:"lloyd1"_345220_346857
+%gls:	what be.PRES.REL in with DET mince
+%eng:	what's in with the mince ?
+*GRG:	courgette@s:cym&eng # ac aubergine@s:cym&eng . %snd:"lloyd1"_346869_348819
+%gls:	courgette and aubergine
+%eng:	courgette and aubergine
+*JEA:	<(dy)na (f)o> [?] . %snd:"lloyd1"_348808_349249
+%gls:	there PRON.3SM
+%eng:	that's it
+*JEA:	be sy mewn efo (y)r mince@s:cym&eng ? %snd:"lloyd1"_349261_350387
+%gls:	what be.PRES.REL in with DET mince
+%eng:	what's in with the mince ?
+*ART:	well@s:cym&eng [?] rest@s:cym&eng o (y)r aubergine@s:cym&eng o (y)r tu_mewn # (we)di ffrio . %snd:"lloyd1"_350429_352843
+%gls:	well rest of DET aubergine from DET inside PRT.PAST fry.NONFIN
+%eng:	well the rest of the aubergine inside, fried
+*JEA:	+< nionyn . %snd:"lloyd1"_352077_352576
+%gls:	onion
+%eng:	onion
+*ART:	nionyn . %snd:"lloyd1"_352797_353900
+%gls:	onion
+%eng:	onion
+*ART:	dw i (we)di mynd yn blank@s:cym&eng . %snd:"lloyd1"_353917_356668
+%gls:	be.1S.PRES PRON.1S PRT.PAST go.NONFIN PRT blank
+%eng:	I've gone blank
+*ART:	aubergine@s:cym&eng # nionyn ## garlleg # mach o # cumin@s:cym&eng . %snd:"lloyd1"_356726_363316
+%gls:	aubergine onion garlic little of cumin
+%eng:	aubergine, onion, garlic, a little cumin
+*JEA:	oedd (y)na cumin@s:cym&eng yn yr un (dd)aru fi wneud . %snd:"lloyd1"_363301_365635
+%gls:	be.3S.IMP there cumin in DET one happen.PAST PRON.1S do.NONFIN
+%eng:	there was cumin in the one I did
+*JEA:	&s so@s:cym&eng oedd hwnnw (y)n iawn . %snd:"lloyd1"_365612_366901
+%gls:	so be.3S.IMP that PRT right
+%eng:	so that was fine
+*GRG:	[- eng] xxx shouldn't have been there . %snd:"lloyd1"_365786_366842
+%gls:	xxx shouldn't have been there
+%eng:	[...] shouldn't have been there
+*GRG:	it@s:eng shouldn't@s:eng have@s:eng been@s:eng cumin@s:cym&eng though@s:eng should@s:eng it@s:eng . %snd:"lloyd1"_366819_368201
+%gls:	it shouldn't have been cumin though should it
+%eng:	it shouldn't have been cumin though should it
+*JEA:	na . %snd:"lloyd1"_367760_368236
+%gls:	no
+%eng:	no
+*JEA:	doedd genna i (ddi)m y llall . %snd:"lloyd1"_368160_369657
+%gls:	be.3S.IMP.NEG with.1S PRON.1S NEG DET other
+%eng:	I didn't have the other
+*ART:	a peth arall dw i (ddi)m yn cofio . %snd:"lloyd1"_369356_370772
+%gls:	and thing other be.1S.PRES PRON.1S NEG PRT remember.NONFIN
+%eng:	and another thing I don't remember
+*JEA:	[- eng] mushrooms ? %snd:"lloyd1"_370737_371968
+%gls:	mushrooms
+%eng:	mushrooms ?
+*ART:	na . %snd:"lloyd1"_372086_372817
+%gls:	no
+%eng:	no
+*GRG:	hiya@s:cym&eng Bob@s:cym&eng . %snd:"lloyd1"_372852_374222
+%gls:	hiya Bob
+%eng:	hiya Bob
+%com:	George is talking to the dog.
+*ART:	nag oedd . %snd:"lloyd1"_374176_374954
+%gls:	NEG be.3S.IMP
+%eng:	no
+*GRG:	oh@s:cym&eng well@s:cym&eng # Bob@s:cym&eng dim yn mynd . %snd:"lloyd1"_374954_376393
+%gls:	IM well Bob NEG PRT go.NONFIN
+%eng:	oh well Bob isn't going
+%com:	George talks to the dog.
+*JEA:	hwyrach wna i wneud # top@s:cym&eng yn hun ta . %snd:"lloyd1"_376361_378427
+%gls:	maybe do.1S.NONPAST PRON.1S do.NONFIN top POSS.1S self then
+%eng:	maybe I'll make my own top then
+*JEA:	<os (y)dy hwnna> [//] (rha)g ofn bod (y)na ŵy (we)di mynd off@s:cym&eng neu (ry)wbeth . %snd:"lloyd1"_378392_380262
+%gls:	if be.3S.PRES that lest fear be.NONFIN there egg PRT.PAST go.NONFIN off or something
+%eng:	if that's...in case an egg has gone off or something
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_380262_380715
+%gls:	yeah
+%eng:	yeah
+*GRG:	[- eng] I wouldn't . %snd:"lloyd1"_380680_381307
+%gls:	I wouldn't
+%eng:	I wouldn't
+*ART:	&ai gyd ti isio wneud ydy xxx . %snd:"lloyd1"_381285_383096
+%gls:	all PRON.2S want do.NONFIN be.3S.PRES xxx
+%eng:	all you need to do is [...]
+*GRG:	[- eng] +< <cause it> [/] cause it wasn't in the fridge for a start . %snd:"lloyd1"_381912_384361
+%gls:	cause it cause it wasn't in the fridge for a start
+%eng:	cause it wasn't in the fridge for a start
+*JEA:	+< <alla i roid y> [//] neu iwsio (y)r greek@s:eng yoghurt@s:cym&eng (y)na . %snd:"lloyd1"_383096_385034
+%gls:	can.1S.NONPAST PRON.1S give.NONFIN DET or use.NONFIN DET greek yoghurt there
+%eng:	I can put the...or use that Greek yougurt
+*GRG:	[- eng] it wasn't in the fridge for a start . %snd:"lloyd1"_385069_386207
+%gls:	it wasn't in the fridge for a start
+%eng:	it wasn't in the fridge for a start
+*JEA:	well@s:cym&eng oedd . %snd:"lloyd1"_386172_386787
+%gls:	well be.3S.IMP
+%eng:	well yes it was
+*GRG:	+< na . %snd:"lloyd1"_386241_387089
+%gls:	no
+%eng:	no
+*GRG:	no@s:eng you@s:eng can@s:eng make@s:eng moussaka@s:cym&eng er@s:cym&eng this@s:eng week@s:eng . %snd:"lloyd1"_387033_389251
+%gls:	no you can make moussaka IM this week
+%eng:	no you can make moussaka uh this week
+*GRG:	[- eng] our own . %snd:"lloyd1"_389231_389950
+%gls:	our own
+%eng:	our own
+*GRG:	with@s:eng the@s:eng Greek@s:eng yoghurt@s:cym&eng . %snd:"lloyd1"_389927_391332
+%gls:	with the Greek yoghurt
+%eng:	with the Greek yoghurt
+*ART:	oh@s:cym&eng bloody@s:cym&eng hell@s:eng fydd chi (y)n bored@s:eng o bloody@s:cym&eng moussaka@s:cym&eng xxx . %snd:"lloyd1"_391378_393608
+%gls:	IM bloody hell be.2PL.FUT PRON.2PL PRT bored of bloody moussaka xxx
+%eng:	oh bloody hell you'll be bored of bloody moussaka [...]
+*GRG:	oh@s:cym&eng we@s:eng got@s:eng Greek@s:eng yoghurt@s:cym&eng . %snd:"lloyd1"_393666_394443
+%gls:	IM we got Greek yoghurt
+%eng:	oh we got Greek yoghurt
+*GRG:	[- eng] cause your mother bought it . %snd:"lloyd1"_394443_395361
+%gls:	cause your mother bought it
+%eng:	cause your mother bought it
+*JEA:	oh@s:cym&eng ia . %snd:"lloyd1"_395338_395942
+%gls:	IM yes
+%eng:	oh yes
+*JEA:	mae (y)na ddate@s:eng arno fo . %snd:"lloyd1"_395953_397068
+%gls:	be.3S.PRES there date on.3S PRON.3SM
+%eng:	there's a date on it
+*JEA:	dw i (ddi)m yn gwybod . %snd:"lloyd1"_396950_397670
+%gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN
+%eng:	I don't know
+*JEA:	be ydy (y)r date@s:eng ? %snd:"lloyd1"_397704_398889
+%gls:	what be.3S.PRES DET date
+%eng:	what is the date ?
+*GRG:	did@s:eng you@s:eng wanna@s:eng have@s:eng cufflinks@s:cym&eng ? %snd:"lloyd1"_398865_402546
+%gls:	did you wanna have cufflinks
+%eng:	did you wanna have cufflinks ?
+*JEA:	&=sound do mae isio sbïo dano fo eto (y)n_does . %snd:"lloyd1"_402563_405663
+%gls:	yes be.3S.PRES want look.NONFIN under.3SM PRON.3SM again be.3S.PRES.NEG
+%eng:	yes we need look under it again don't we
+*GRG:	+< do@s:eng you@s:eng want@s:eng cufflinks@s:cym&eng # or@s:eng something@s:eng ? %snd:"lloyd1"_405396_407276
+%gls:	do you want cufflinks or something
+%eng:	do you want cufflinks or something ?
+*ART:	+< I've@s:eng got@s:eng # Auntie@s:cym&eng Jane's@s:cym&eng . %snd:"lloyd1"_406312_408019
+%gls:	I've got Auntie Jane's
+%eng:	I've got Auntie Jane's
+*ART:	[- eng] the ones that she gave me xxx <she gave me> [?] . %snd:"lloyd1"_408019_410294
+%gls:	the ones that she gave me xxx she gave me
+%eng:	the ones that she gave me [...] she gave me
+*GRG:	[- eng] what [//] why the heck were you looking xxx ? %snd:"lloyd1"_410301_412751
+%gls:	what why the heck were you looking xxx
+%eng:	what, why the heck were you looking [...] ?
+*JEA:	be mae (y)n ddeud yn fan (y)na ? %snd:"lloyd1"_412786_414318
+%gls:	what be.3S.PRES PRT say.NONFIN in place there
+%eng:	what does it say there ?
+*GRG:	+< she@s:eng [//] Siân@s:cym&eng said@s:eng you@s:eng wanted@s:eng # cufflinks@s:eng . %snd:"lloyd1"_413169_415601
+%gls:	she Siân said you wanted cufflinks
+%eng:	she...Siân said you wanted cufflinks
+*JEA:	[- eng] twenty_ninth of the third . %snd:"lloyd1"_415519_416947
+%gls:	twenty_ninth of the third
+%eng:	twenty_ninth of the third
+*JEA:	mae (y)n iawn dydy ? %snd:"lloyd1"_416947_417714
+%gls:	be.3S.PRES PRT right be.3S.PRES.NEG
+%eng:	it's fine isn't it ?
+*GRG:	[- eng] xxx twenty_ninth xxx . %snd:"lloyd1"_417760_419246
+%gls:	xxx twenty_ninth xxx
+%eng:	[...] twenty_ninth [...]
+*JEA:	+< be (y)dy heddiw ? %snd:"lloyd1"_418317_419177
+%gls:	what be.3S.PRES today
+%eng:	what is it today ?
+*GRG:	twentieth@s:eng yeah@s:cym&eng # twenty_second@s:eng . %snd:"lloyd1"_419165_422590
+%gls:	twentieth yeah twenty_second
+%eng:	twentieth yeah, twenty-second
+*ART:	+< xxx . %snd:"lloyd1"_421406_422508
+*JEA:	+< oh@s:cym&eng . %snd:"lloyd1"_421673_422764
+%gls:	IM
+%eng:	oh
+*ART:	na it@s:eng isn't@s:eng twenty_third@s:eng . %snd:"lloyd1"_422752_424099
+%gls:	no it isn't twenty_third
+%eng:	no it isn't twenty-third
+*GRG:	[- eng] twenty_third . %snd:"lloyd1"_424053_424970
+%gls:	twenty_third
+%eng:	twenty_third
+*ART:	no@s:eng twenty_fourth@s:eng (y)dy heddiw . %snd:"lloyd1"_424977_426231
+%gls:	no twenty_fourth be.3S.PRES today
+%eng:	no it's twenty-fourth today
+*GRG:	na . %snd:"lloyd1"_426207_427206
+%gls:	no
+%eng:	no
+*ART:	it's@s:eng twenty_fourth@s:eng heddiw . %snd:"lloyd1"_427207_428809
+%gls:	it's twenty_fourth today
+%eng:	it's twenty-fourth today
+*JEA:	ia mae Nia@s:cym&eng (y)n cael ei phen_blwydd fory . %snd:"lloyd1"_427694_430190
+%gls:	yes be.3S.PRES Nia PRT get.NONFIN POSS.3SF birthday tomorrow
+%eng:	yes it's Nia's birthday tomorrow
+*GRG:	+< yeah@s:cym&eng . %snd:"lloyd1"_428902_429598
+%gls:	yeah
+%eng:	yeah
+*ART:	+< dw i (y)n cael y nhalu fory twenty_fifth@s:eng . %snd:"lloyd1"_428960_430562
+%gls:	be.1S.PRES PRON.1S PRT get.NONFIN POSS.1S pay.NONFIN tomorrow twenty_fifth
+%eng:	I get paid tomorrow, twenty-fifth
+*GRG:	cause@s:eng it's@s:eng um@s:cym&eng &ə Gel's@s:cym&eng birthday@s:eng tomorrow@s:eng [//] week@s:eng tomorrow@s:eng . %snd:"lloyd1"_430571_433230
+%gls:	cause it's IM Gel's birthday tomorrow week tomorrow
+%eng:	cause it's um Gel's birthday tomorrow, week tomorrow
+%com:	Gel also known as Gelert is a dog.
+*JEA:	so@s:cym&eng faint (ddu)daist ti oedd o ? %snd:"lloyd1"_433225_435512
+%gls:	so how_much say.2S.PAST PRON.2S be.3S.IMP PRON.3SM
+%eng:	so how much did you say he was?
+*JEA:	yn lle cael ei eni yn two@s:eng thousand@s:eng and@s:eng two@s:eng two@s:eng thousand@s:eng and@s:eng three@s:eng oedd o ? %snd:"lloyd1"_435535_438542
+%gls:	in place get.NONFIN POSS.3SM bear.NONFIN in two thousand and two two thousand and three be.3S.IMP PRON.3SM
+%eng:	instead of being born in two thousand and two, it was two thousand and three?
+*ART:	+< two@s:eng thousand@s:eng and@s:eng two@s:eng [?] gaeth o ei eni ia . %snd:"lloyd1"_437103_438531
+%gls:	two thousand and two get.3S.PAST PRON.3SM POSS.3SM bear.NONFIN yes
+%eng:	he was born in two thousand and two, yes?
+*ART:	<wnaeth hi> [///] # oedd hi (y)n chwil pan roth hi tattoo@s:cym&eng i glust o creadur . %snd:"lloyd1"_438517_442034
+%gls:	do.3S.PAST PRON.3SF be.3S.IMP PRON.3SF PRT drunk when give.3S.PAST PRON.3SF tattoo to ear PRON.3SM creature
+%eng:	she was drunk when she put the tattoo on his ear, poor thing
+*JEA:	ddylai bod hi (ddi)m (we)di wneud felly na ddylai . %snd:"lloyd1"_442040_443944
+%gls:	should.3S.CONDIT be.NONFIN PRON.3SF NEG PRT.PAST do.NONFIN thus NEG should.3S.CONDIT
+%eng:	she shouldn't have done so then, should she
+*ART:	na . %snd:"lloyd1"_443960_444970
+%gls:	no
+%eng:	no
+*JEA:	mae (y)n cysgu eto . %snd:"lloyd1"_444950_447910
+%gls:	be.3S.PRES PRT sleep.NONFIN again
+%eng:	he's sleeping again
+*JEA:	dw i (y)n sure@s:cym&eng bod o (ddi)m yn dda sti . %snd:"lloyd1"_447922_449629
+%gls:	be.1S.PRES PRON.1S PRT sure be.NONFIN PRON.3SM NEG PRT good know.2S
+%eng:	I'm sure he's not well you know
+*GRG:	I@s:eng don't@s:eng think@s:eng he@s:eng did@s:eng a@s:eng poo@s:cym&eng while@s:eng he@s:eng was@s:eng out@s:eng this@s:eng morning@s:eng . %snd:"lloyd1"_449581_451869
+%gls:	I don't think he did a poo while he was out this morning
+%eng:	I don't think he did a poo while he was out this morning
+*GRG:	that's@s:eng <a@s:eng &ʧa> [//] a@s:eng finch@s:eng [//] bullfinch@s:eng I@s:eng think@s:eng you'll@s:eng find@s:eng that@s:eng was@s:eng we@s:eng were@s:eng looking@s:eng at@s:eng Arthur@s:cym&eng . %snd:"lloyd1"_451869_456130
+%gls:	that's a a finch bullfinch I think you'll find that was we were looking at Iwan
+%eng:	that's a finch...bullfinch I think you'll find, that was, we were looking at, Iwan
+*JEA:	+< &=laughs . %snd:"lloyd1"_452043_460663
+%com:	Jean begins to laugh and Arthur and George join in.
+*ART:	<oh@s:cym&eng did@s:eng you@s:eng take@s:eng the@s:eng paper@s:eng out@s:eng to@s:eng wipe@s:eng his@s:eng arse@s:eng as@s:eng well@s:eng> [=! laughs] ? %snd:"lloyd1"_460628_463762
+%gls:	IM did you take the paper out to wipe his arse as well
+%eng:	oh did you take the paper out to wipe his arse as well?
+*JEA:	&=laugh papur i godi o oddi_ar y llawr [=! laughs] . %snd:"lloyd1"_463771_467184
+%gls:	paper to lift.NONFIN PRON.3SM from DET floor
+%eng:	paper to lift it from the floor
+*GRG:	[- eng] +< no xxx ## I've [//] (be)cause I didn't have to pick any up this morning that's why I know . %snd:"lloyd1"_465013_469785
+%gls:	no xxx I've cause I didn't have to pick any up this morning that's why I know
+%eng:	no [...] I've...cause I didn't have to pick any up this morning that's why I know
+*RES:	mae hwnna (y)n aros mewn &=laughs . %snd:"lloyd1"_469780_471243
+%gls:	be.3S.PRES that PRT stay.NONFIN in
+%eng:	that's staying in
+*JEA:	&=laughs . %snd:"lloyd1"_471487_475071
+*GRG:	+< you@s:eng want@s:eng us@s:eng to@s:eng talk@s:eng normal@s:cym&eng or@s:eng what@s:eng ? %snd:"lloyd1"_472613_474331
+%gls:	you want us to talk normal or what
+%eng:	you want us to talk normal or what ?
+*JEA:	&=gasp . %snd:"lloyd1"_475071_476000
+*GRG:	and@s:eng you@s:eng can@s:eng stop@s:eng farting@s:eng Arthur_Llywelyn@s:cym&eng . %snd:"lloyd1"_475977_477691
+%gls:	and you can stop farting Arthur_Llywelyn
+%eng:	and you can stop farting Arthur Llywelyn
+*JEA:	mae (y)r te (y)ma (y)n stiw(io) [?] &=laughs +// . %snd:"lloyd1"_476360_479204
+%gls:	be.3S.PRES DET tea here PRT stew.NONFIN
+%eng:	this tea is stewing
+*JEA:	mae (y)r te (y)ma (y)n stiwio Siân@s:cym&eng . %snd:"lloyd1"_479211_481545
+%gls:	be.3S.PRES DET tea here PRT stew.NONFIN Siân
+%eng:	this tea is stewing Siân
+*ART:	Siân@s:cym&eng ti isio paned ? %snd:"lloyd1"_481568_483182
+%gls:	Siân PRON.2S want cuppa
+%eng:	Siân do you want a cuppa ?
+*RES:	&=noise . %snd:"lloyd1"_483118_484441
+*JEA:	&=sigh neu dw i (we)di roid o mewn tebot a phopeth i ti &=laughs . %snd:"lloyd1"_484418_490452
+%gls:	or be.1S.PRES PRON.1S PRT.PAST put.NONFIN PRON.3SM in teapot and everything for PRON.2S
+%eng:	or I've put it in a teapot and everything for you
+*RES:	roid (di)pyn bach o dŵr poeth ar ben o de . %snd:"lloyd1"_490440_492263
+%gls:	put.NONFIN a_little small of water hot on top PRON.3SM TAG
+%eng:	put a little bit of hot water on top of it
+*ART:	xxx # ti isio siwgr ? %snd:"lloyd1"_492278_494287
+%gls:	xxx PRON.2S want sugar
+%eng:	[...] do you want sugar ?
+*JEA:	mae (y)na siwgr yno fo . %snd:"lloyd1"_494275_495552
+%gls:	be.3S.PRES there sugar in.3SM PRON.3SM
+%eng:	there's sugar in it
+*RES:	+< yeah@s:cym&eng . %snd:"lloyd1"_494914_495239
+%gls:	yeah
+%eng:	yeah
+*ART:	oh@s:cym&eng oes ? %snd:"lloyd1"_495518_496110
+%gls:	IM be.3S.PRES
+%eng:	oh is there ?
+*GRG:	hanner siwgr well@s:cym&eng na it's@s:eng not@s:eng hanner sugar@s:eng <it's@s:eng um@s:cym&eng one@s:eng> [///] &s it's@s:eng the@s:eng same@s:eng but@s:eng it's@s:eng half@s:eng # sweeteners@s:eng . %snd:"lloyd1"_496111_502520
+%gls:	half sugar well no it's not half sugar it's IM one it's the same but it's half sweetners
+%eng:	half sugar well no it's not half sugar, it's um one...it's the same but it's half sweetners
+*JEA:	+< do # hanner siwgr yeah@s:cym&eng . %snd:"lloyd1"_496638_498728
+%gls:	yes half sugar yeah
+%eng:	yes half sugar yeah
+*JEA:	oh@s:cym&eng duw . %snd:"lloyd1"_502503_504198
+%gls:	IM god
+%eng:	oh lord
+*GRG:	[- eng] it's a bullfinch I think you saw Arthur . %snd:"lloyd1"_504117_506137
+%gls:	it's a bullfinch I think you saw Arthur
+%eng:	it's a bullfinch I think you saw Arthur
+*GRG:	[- eng] I'll tell you now . %snd:"lloyd1"_506182_508922
+%gls:	I'll tell you now
+%eng:	I'll tell you now
+*JEA:	pam (y)dy hwnnw (y)n debyg i <robin@s:cym&eng goch> [=! laughs] ? %snd:"lloyd1"_508934_510780
+%gls:	why be.3S.PRES that PRT similar to robin red
+%eng:	why is that similar to a robin?
+*GRG:	he's@s:eng [?] got@s:eng a@s:eng red@s:eng breast@s:cym&eng . %snd:"lloyd1"_510705_511726
+%gls:	he's got a red breast
+%eng:	he's got a red breast
+*ART:	well@s:cym&eng gynno fo bach o goch ar ei freast@s:cym&eng . %snd:"lloyd1"_510925_512504
+%gls:	well with.3SM PRON.3SM small of red in POSS.3SM breast
+%eng:	well he's got a little bit of red on his breast
+*JEA:	oh@s:cym&eng . %snd:"lloyd1"_512469_512911
+%gls:	IM
+%eng:	oh
+*GRG:	a@s:eng really@s:eng um@s:cym&eng # nasty@s:eng looking@s:eng bird@s:eng . %snd:"lloyd1"_512945_518135
+%gls:	a really IM nasty looking bird
+%eng:	a really nasty looking bird
+*JEA:	yndyn ? %snd:"lloyd1"_518136_519529
+%gls:	be.3PL.PRES
+%eng:	are they ?
+*ART:	+< I@s:eng thought@s:eng it@s:eng looked@s:eng quite@s:cym&eng cute@s:cym&eng actually@s:eng . %snd:"lloyd1"_519053_520632
+%gls:	I thought it looked quite cute actually
+%eng:	I thought it looked quite cute actually
+*GRG:	[- eng] no he looked xxx . %snd:"lloyd1"_520724_522814
+%gls:	no he looked xxx
+%eng:	no he looked [...]
+*JEA:	+< &=laughs . %snd:"lloyd1"_521351_522918
+*GRG:	[- eng] that one . %snd:"lloyd1"_522930_525043
+%gls:	that one
+%eng:	that one
+*ART:	why@s:eng (doe)s@s:eng that@s:eng look@s:eng bloody@s:cym&eng nasty@s:eng ? %snd:"lloyd1"_525198_527137
+%gls:	why does that look bloody nasty
+%eng:	why does that look bloody nasty ?
+*GRG:	[- eng] you have a look at them when they're out there . %snd:"lloyd1"_527056_528554
+%gls:	you have a look at them when they're out there
+%eng:	you have a look at them when they're out there
+*JEA:	a mae (y)na ddwy wiwer yna # yn dwyn y bwyd . %snd:"lloyd1"_528576_533731
+%gls:	and be.3S.PRES there two squirrel there PRT steal.NONFIN DET food
+%eng:	and there are two squirrels there stealing the food
+*JEA:	mae (r)heiny (y)n nuisance@s:cym&eng de . %snd:"lloyd1"_533723_536219
+%gls:	be.3S.PRES those PRT nuisance TAG
+%eng:	those are a nuisance
+*GRG:	xxx (y)dy hwnna . %snd:"lloyd1"_536303_539391
+%gls:	xxx be.3S.PRES that
+%eng:	that's [...]
+*JEA:	be oedd o (y)n um@s:cym&eng fwyta diwrnod o blaen # y wiwer yna ? %snd:"lloyd1"_539407_542437
+%gls:	what be.3S.IMP PRON.3SM PRT IM eat.NONFIN day of before DET squirrel there
+%eng:	what was it um eating the other day, that squirrel ?
+*ART:	+< &=sings . %snd:"lloyd1"_540336_542344
+*ART:	pardon@s:cym&eng ? %snd:"lloyd1"_542426_543831
+%gls:	pardon
+%eng:	pardon?
+*JEA:	o't ti yma diwrnod o blaen [=! laughs] Arthur@s:cym&eng ? %snd:"lloyd1"_543810_545470
+%gls:	be.2S.IMP PRON.2S here day of before Arthur
+%eng:	were you here the other day, Arthur?
+*ART:	diwrnod o blaen ## nag o'n . %snd:"lloyd1"_545447_547230
+%gls:	day of before NEG be.1S.IMP
+%eng:	the other day, no I wasn't
+*JEA:	be oedd y wiwer (y)na fwyta ? %snd:"lloyd1"_547606_549092
+%gls:	what be.3S.IMP DET squirrel there eat.NONFIN
+%eng:	what was that squirrel eating ?
+*JEA:	o(edd) (h)i (y)n tyllu . %snd:"lloyd1"_549069_549963
+%gls:	be.3S.IMP PRON.3SF PRT burrow.NONFIN
+%eng:	it was burrowing
+*GRG:	um@s:cym&eng daffodil@s:cym&eng . %snd:"lloyd1"_549928_551194
+%gls:	IM daffodil
+%eng:	um daffodil
+*GRG:	head@s:eng of@s:eng a@s:eng daffodil@s:cym&eng . %snd:"lloyd1"_551211_552947
+%gls:	head of a daffodil
+%eng:	head of a daffodil
+*GRG:	oops@s:cym&eng # mae (we)di colli eto . %snd:"lloyd1"_553039_557370
+%gls:	IM be.3S.PRES PRT.PAST lose.NONFIN again
+%eng:	oops lost again
+*ART:	&=sings . %snd:"lloyd1"_557377_567086
+*JEA:	dw i (y)n meddwl a i i (y)r Ysgethin@s:cym&eng pnawn (y)ma . %snd:"lloyd1"_565031_566784
+%gls:	be.1S.PRES PRON.1S PRT think.NONFIN go.1S.NONPAST PRON.1S to DET Ysgethin afternoon here
+%eng:	I think I'll go to Ysgethin this afternoon
+*GRG:	ti ddim yn mynd . %snd:"lloyd1"_566742_568031
+%gls:	PRON.2S NEG PRT go.NONFIN
+%eng:	you're not going
+*ART:	xxx . %snd:"lloyd1"_567973_568913
+*JEA:	<(dd)aru fi joio (y)n hun pnawn ddoe> [=! laughs] . %snd:"lloyd1"_568887_571511
+%gls:	happen.PAST PRON.1S enjoy.NONFIN POSS.1S self afternoon yesterday
+%eng:	I enjoyed myself yesterday afternoon
+*ART:	be &a [//] <tu allan> [//] tu mewn tra bod dad@s:cym&eng tu allan yn yr oerfel . %snd:"lloyd1"_571491_574429
+%gls:	what side out side in while be.NONFIN dad side out in DET cold
+%eng:	what out outside...inside while dad was outside in the cold
+*GRG:	na bit@s:cym&eng of@s:eng um@s:cym&eng bloody@s:cym&eng &b Baileys@s:cym&eng de . %snd:"lloyd1"_574419_577949
+%gls:	no bit of IM bloody Baileys TAG
+%eng:	no a bit of bloody Baileys
+*RES:	handy@s:cym&eng . %snd:"lloyd1"_577962_578439
+%gls:	handy
+%eng:	handy
+*JEA:	well@s:cym&eng oedd (y)na (ddi)m_byd yn y brandy@s:cym&eng (y)na . %snd:"lloyd1"_578415_580052
+%gls:	well be.3S.IMP there nothing in DET Brandy there
+%eng:	well there was nothing in that Brandy
+*JEA:	ond oedd yr ail un yn_de # oedd hwnnw yn wahanol . %snd:"lloyd1"_580017_582734
+%gls:	but be.3S.IMP DET second one TAG be.3S.IMP that PRT different
+%eng:	but the second one you know, that was different
+*JEA:	ond oedd y cynta (fa)set ti taeru bod (y)na ddŵr yno fo (y)n_de . %snd:"lloyd1"_582697_585216
+%gls:	but be.3S.IMP DET first be.2S.CONDIT PRON.2S assert.NONFIN be.NONFIN there water in.3SM PRON.3SM TAG
+%eng:	but the first you would swear there was water in it
+*ART:	+< oedd (y)na gick@s:cym&eng xxx . %snd:"lloyd1"_582697_583939
+%gls:	be.3S.IMP there kick xxx
+%eng:	there was a kick [...]
+*GRG:	&=clears_throat . %snd:"lloyd1"_585236_586420
+*JEA:	sure@s:cym&eng bod neb (we)di iwsio fo ers_talwm . %snd:"lloyd1"_586443_588057
+%gls:	sure be.NONFIN nobody PRT.PAST use.NONFIN PRON.3SM for_a_while
+%eng:	I'm sure that nobody had used it for a long time
+*GRG:	[- eng] tell him . %snd:"lloyd1"_588016_589468
+%gls:	tell him
+%eng:	tell him
+*ART:	(fa)swn i yn synnu dim . %snd:"lloyd1"_589431_591474
+%gls:	be.1S.CONDIT PRON.1S PRT wonder.NONFIN NEG
+%eng:	It wouldn't surprise me
+*GRG:	so@s:cym&eng you@s:eng going@s:eng to@s:eng look@s:eng to@s:eng see@s:eng what@s:eng we@s:eng can@s:eng do@s:eng if@s:eng [//] when@s:eng we@s:eng come@s:eng . %snd:"lloyd1"_593228_598529
+%gls:	so you going to look to see what we can do if when we come
+%eng:	so you going to look to see what we can do if...when we come
+*GRG:	[- eng] what day we going ? %snd:"lloyd1"_598563_599372
+%gls:	what day we going
+%eng:	what day we going?
+*GRG:	[- eng] third of May I think . %snd:"lloyd1"_599372_600584
+%gls:	third of May I think
+%eng:	third of May I think
+*GRG:	[- eng] unless I go to Shrewsbury on the third . %snd:"lloyd1"_600641_602324
+%gls:	unless I go to Shrewsbury on the third
+%eng:	unless I go to Shrewsbury on the third
+*JEA:	o'n ni (y)n paso mynd i_fyny bank@s:cym&eng holiday@s:cym&eng # May@s:eng . %snd:"lloyd1"_602363_606275
+%gls:	be.1PL.IMP PRON.1PL PRT pass.NONFIN go.NONFIN up bank holiday May
+%eng:	We we're going to come up bank holiday, May
+*GRG:	can@s:eng we@s:eng walk@s:eng along@s:eng the@s:eng Pennine_Way@s:cym&eng for@s:eng a@s:eng bit@s:cym&eng ? %snd:"lloyd1"_606231_609517
+%gls:	can we walk along the Pennine_Way for a bit
+%eng:	can we walk along the Pennine Way for a bit ?
+*GRG:	only@s:eng a@s:eng bit@s:cym&eng # couple@s:cym&eng of@s:eng old@s:eng miles@s:eng . %snd:"lloyd1"_609482_613905
+%gls:	only a bit couple of old miles
+%eng:	only a bit couple of old miles
+*JEA:	mae (y)n bell i fynd i [/] i gyrraedd o . %snd:"lloyd1"_613812_615901
+%gls:	be.3S.PRES PRT far to go.NONFIN to to reach.NONFIN PRON.3SM
+%eng:	it's far to go to reach it
+*ART:	find@s:eng it@s:eng aye@s:cym&eng . %snd:"lloyd1"_615936_616819
+%gls:	find it aye
+%eng:	find it aye
+*ART:	and@s:eng then@s:eng you@s:eng gotta@s:eng bloody@s:cym&eng work@s:eng back@s:eng along@s:eng it@s:eng haven't@s:eng you@s:eng to@s:eng get@s:eng back@s:eng to@s:eng the@s:eng car@s:cym&eng . %snd:"lloyd1"_616726_620023
+%gls:	and then you gotta bloody work back along it haven't you to get back to the car
+%eng:	and then you gotta bloody work back along it haven't you to get back to the car
+*GRG:	[- eng] +< we've got two cars . %snd:"lloyd1"_619303_620383
+%gls:	we've got two cars
+%eng:	we've got two cars
+*JEA:	well@s:cym&eng aeth Arthur@s:cym&eng ar y trên yn_do . %snd:"lloyd1"_620314_621904
+%gls:	well go.3S.PAST Arthur on DET train yes
+%eng:	well Arthur went on the train didn't he
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_621893_622404
+%gls:	yeah
+%eng:	yeah
+*JEA:	+< oedd o (y)n bell . %snd:"lloyd1"_622079_623298
+%gls:	be.3S.IMP PRON.3SM PRT far
+%eng:	it was far
+*ART:	xxx . %snd:"lloyd1"_623147_624274
+*JEA:	yn_doedd . %snd:"lloyd1"_624262_625574
+%gls:	be.3S.IMP.NEG
+%eng:	wasn't it
+*ART:	we'll@s:eng go@s:eng and@s:eng walk@s:eng around@s:eng the@s:eng park@s:cym&eng . %snd:"lloyd1"_625551_627936
+%gls:	we'll go and walk around the park
+%eng:	we'll go and walk around the park
+*GRG:	what@s:eng park@s:cym&eng ? %snd:"lloyd1"_628180_629364
+%gls:	what park
+%eng:	what park?
+*JEA:	+< pwy bark@s:cym&eng # dros y ffor(dd) i (y)r tŷ ? %snd:"lloyd1"_628842_630734
+%gls:	which park over DET road to DET house
+%eng:	which park, over the road to the house ?
+*JEA:	dan ni (we)di wneud hwnnw . %snd:"lloyd1"_630781_631895
+%gls:	be.1PL.PRES PRON.1PL PRT.PAST do.NONFIN that
+%eng:	we've done that
+*ART:	do ? %snd:"lloyd1"_631911_632572
+%gls:	yes
+%eng:	yes ?
+*GRG:	<Duw do> [?] ? %snd:"lloyd1"_632538_633513
+%gls:	god yes
+%eng:	lord yes?
+*JEA:	+< do pan aethon ni i nôl papur ne(u) (ryw)beth do . %snd:"lloyd1"_632584_634337
+%gls:	yes when go.1PL.PAST PRON.1PL to fetch.NONFIN paper or something yes
+%eng:	yes when we went to fetch the paper or something didn't we
+*JEA:	o't ti yna adeg hynny Siân@s:cym&eng ? %snd:"lloyd1"_634345_636853
+%gls:	be.2S.IMP PRON.2S there time there Siân
+%eng:	were you there that time Siân ?
+*ART:	&=yawns <o't ti (ddi)m yna> [=! yawns] . %snd:"lloyd1"_636853_639303
+%gls:	be.2S.IMP PRON.2S NEG there
+%eng:	you weren't there
+*RES:	dw i (ddi)m yn cofio . %snd:"lloyd1"_639304_640232
+%gls:	be.1S.PRES PRON.1S NEG PRT remember.NONFIN
+%eng:	I don't remember
+*JEA:	Sandra@s:cym&eng oedd efo ni ia ? %snd:"lloyd1"_640244_642009
+%gls:	Sandra be.3S.IMP with PRON.1PL yes
+%eng:	it was Sandra that was with us, yes?
+*JEA:	wneith hi ddim na wneith . %snd:"lloyd1"_642013_643638
+%gls:	do.3S.NONPAST PRON.3SF NEG NEG do.3S.NONPAST
+%eng:	she won't will she
+*ART:	wnawn ni adael half@s:eng past@s:eng Siân@s:cym&eng ? %snd:"lloyd1"_642930_644474
+%gls:	do.1PL.NONPAST PRON.1PL leave.NONFIN half past Siân
+%eng:	we'll leave half past Siân?
+*RES:	[- eng] half past +.. . %snd:"lloyd1"_644352_645664
+%gls:	half past
+%eng:	half past ?
+*ART:	[- eng] ++ eleven . %snd:"lloyd1"_645653_646431
+%gls:	eleven
+%eng:	eleven
+*ART:	tŷ chdi erbyn half@s:eng twelve@s:eng bwyd am [?] # un . %snd:"lloyd1"_646431_649368
+%gls:	house PRON.2S by half twelve food at one
+%eng:	your house by half twelve, food at one
+*RES:	mmm@s:cym&eng wnawn ni adael hwyrach (r)hein on@s:eng am bach fwy . %snd:"lloyd1"_649309_653268
+%gls:	IM do.1PL.NONPAST PRON.1PL leave.NONFIN maybe these on for small more
+%eng:	mmm, we may leave these on for a little more
+*RES:	achos oedd o (y)n # distortion@s:eng ar y dechrau . %snd:"lloyd1"_653257_655486
+%gls:	because be.3S.IMP PRON.3SM PRT distortion on DET beginning
+%eng:	because there was distortion at the beginning
+*ART:	yeah@s:cym&eng . %snd:"lloyd1"_655448_656133
+%gls:	yeah
+%eng:	yeah
+*ART:	a doedden nhw (ddi)m yn deud dim_byd yn dechrau . %snd:"lloyd1"_656084_657744
+%gls:	and be.3PL.IMP.NEG PRON.3PL NEG PRT say.NONFIN nothing in beginning
+%eng:	and they weren't saying anything at the beginning
+*RES:	na . %snd:"lloyd1"_657709_658348
+%gls:	no
+%eng:	no
+*JEA:	well@s:cym&eng xxx efo dy dad allan yn bwydo (y)r # adar (y)ma . %snd:"lloyd1"_658345_662757
+%gls:	well xxx with POSS.2S father out PRT feed.NONFIN DET birds here
+%eng:	well [...] with your father out feeding these birds
+*ART:	xxx ni weld un xxx . %snd:"lloyd1"_662728_664516
+%gls:	xxx PRON.1PL see.NONFIN one xxx
+%eng:	[...] we saw one [...]
+*JEA:	+< mae (y)r adar (y)ma (y)n cael mwy o fuss@s:cym&eng na ni . %snd:"lloyd1"_663738_665839
+%gls:	be.3S.PRES DET birds here PRT get.NONFIN more of fuss than PRON.1PL
+%eng:	these birds get more fuss than we do
+*JEA:	ia heavy@s:eng breathing@s:eng . %snd:"lloyd1"_665777_667391
+%gls:	yes heavy breathing
+%eng:	yes heavy breathing
+*GRG:	be ? %snd:"lloyd1"_667298_667751
+%gls:	what
+%eng:	what?
+*JEA:	ia . %snd:"lloyd1"_667739_668285
+%gls:	yes
+%eng:	yes
+*JEA:	raid ti fynd i jecio dy freast@s:cym&eng George@s:cym&eng . %snd:"lloyd1"_668302_671088
+%gls:	necessity PRON.2S go.NONFIN to check.NONFIN POSS.2S breast George
+%eng:	you must go and check your chest George
+*GRG:	&=coughs hiya@s:cym&eng Wymff@s:cym&eng . %snd:"lloyd1"_671074_674186
+%gls:	hiya Wymff
+%eng:	hiya Wymff
+%com:	calls the dog Wymff.
+*RES:	xxx . %snd:"lloyd1"_674207_675948
+*JEA:	+< &=laughs . %snd:"lloyd1"_674288_680238
+*ART:	&=sings . %snd:"lloyd1"_680285_683938
+*JEA:	+< be ydy hwnna ? %snd:"lloyd1"_681806_682758
+%gls:	what be.3S.PRES that
+%eng:	what's that ?
+*JEA:	pa lyfr (y)dy hwnna ? %snd:"lloyd1"_683961_684902
+%gls:	which book be.3S.PRES that
+%eng:	which book is that ?
+*JEA:	oedd (y)na (ddi)m ## post@s:cym&eng arall felly ? %snd:"lloyd1"_684782_688425
+%gls:	be.3S.IMP there NEG post other thus
+%eng:	there wasn't more post then?
+*ART:	+< xxx . %snd:"lloyd1"_686291_687057
+*JEA:	be ti isio fi wneud efo (y)r hen beth Plaid_Cymru yma ? %snd:"lloyd1"_688436_690677
+%gls:	what PRON.2S want PRON.1S do.NONFIN with DET old thing Plaid_Cymru here
+%eng:	what do you want me to do with this old Plaid Cymru thing ?
+*ART:	yeah@s:cym&eng deuda nhw gyrru details@s:eng fyny i fi i Pontefract@s:cym&eng . %snd:"lloyd1"_690627_693890
+%gls:	yeah say.2S.IMPER PRON.3PL send.NONFIN details up to PRON.1S to Pontefract
+%eng:	yeah tell them to send the deatils up to me in Pontefract
+*ART:	xxx rho address@s:eng i fi . %snd:"lloyd1"_693867_695550
+%gls:	xxx give.2S.IMPER address to PRON.1S
+%eng:	[...] give me the address
+*ART:	rho address@s:eng fi iddyn nhw # xxx . %snd:"lloyd1"_695455_700798
+%gls:	give.NONFIN address POSS.1S to.3PL PRON.2PL xxx
+%eng:	give them my address [...]
+*JEA:	dw i (y)n sure@s:cym&eng bod (y)na (ryw)beth (we)di dod i fa(n) (y)ma sti ond (dd)aru fi shredio fo . %snd:"lloyd1"_700160_702830
+%gls:	be.1S.PRES PRON.1S PRT sure be.NONFIN there something PRT.PAST come.NONFIN to place here know.2S but happen.PAST PRON.1S shred.NONFIN PRON.3SM
+%eng:	I'm sure that something came here you know but I shredded it
+*JEA:	(y)dy o (y)n free@s:cym&eng phone@s:cym&eng number@s:cym&eng dywed ? %snd:"lloyd1"_702791_709713
+%gls:	be.3S.PRES PRON.3SM PRT free phone number say.2S.IMPER
+%eng:	is it a free phone number I wonder ?
+*GRG:	number@s:cym&eng be ? %snd:"lloyd1"_709625_712017
+%gls:	number what
+%eng:	number for what?
+*ART:	xxx . %snd:"lloyd1"_712017_715104
+*JEA:	mae hwn fel cael yr um@s:cym&eng # machine@s:cym&eng (y)na pan [?] +// . %snd:"lloyd1"_715023_719370
+%gls:	be.3S.PRES this like get.NONFIN DET IM machine there when
+%eng:	this is like having that um machine when...
+*JEA:	ti cofio (y)r machine@s:cym&eng (y)na o (y)r surgery@s:cym&eng ? %snd:"lloyd1"_719370_721232
+%gls:	PRON.2S remember.NONFIN DET machine there from DET surgery
+%eng:	you remember that machine from the surgery?
+*JEA:	[- eng] heartbeat . %snd:"lloyd1"_721115_722798
+%gls:	heartbeat
+%eng:	heartbeat
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_722798_723622
+%gls:	yeah
+%eng:	yeah
+*JEA:	mae o fath â hwnnw yndy &=laughs . %snd:"lloyd1"_723518_725886
+%gls:	be.3S.PRES PRON.3SM kind with that be.3S.PRES
+%eng:	it's like that isn't it
+*GRG:	oh@s:cym&eng blood@s:eng pressure@s:eng Jean@s:cym&eng . %snd:"lloyd1"_724191_726049
+%gls:	IM blood pressure Jean
+%eng:	oh blood pressure Jean
+*RES:	mae mam@s:cym&eng (we)di cael xxx . %snd:"lloyd1"_725944_726989
+%gls:	be.3S.PRES mum PRT.PAST get.NONFIN xxx
+%eng:	mum's had [...]
+*JEA:	+< na ti (y)n gorod cadw fo on@s:eng . %snd:"lloyd1"_726107_727779
+%gls:	no PRON.2S PRT must.NONFIN keep.NONFIN PRON.3SM on
+%eng:	no, you go you have to keep it on
+*GRG:	[- eng] blood pressure . %snd:"lloyd1"_727581_728592
+%gls:	blood pressure
+%eng:	blood pressure
+*JEA:	+< blood@s:eng pressure@s:eng oedd o . %snd:"lloyd1"_727965_729590
+%gls:	blood pressure be.3S.IMP PRON.3SM
+%eng:	it was blood pressure
+*JEA:	(y)dy dy fam@s:cym&eng (we)di gael o ? %snd:"lloyd1"_729600_731516
+%gls:	be.3S.PRES POSS.2S mum PRT.PAST get.NONFIN PRON.3SM
+%eng:	has your mother had it ?
+*JEA:	well@s:cym&eng # xxx . %snd:"lloyd1"_731461_739010
+%gls:	well xxx
+%eng:	well [...]
+*GRG:	Sandra@s:cym&eng wedi gorffen ? %snd:"lloyd1"_737965_739300
+%gls:	Sandra PRT.PAST finish.NONFIN
+%eng:	Sandra has finished?
+*JEA:	na . %snd:"lloyd1"_739289_739893
+%gls:	no
+%eng:	no
+*GRG:	yeah@s:cym&eng ? %snd:"lloyd1"_739788_740252
+%gls:	yeah
+%eng:	yeah?
+*RES:	na . %snd:"lloyd1"_740287_740670
+%gls:	no
+%eng:	no
+*JEA:	ti (y)n clywed y sŵn y # boiler@s:cym&eng yn dal i fynd . %snd:"lloyd1"_740690_743685
+%gls:	PRON.2S PRT hear.NONFIN DET sound DET boiler PRT continue.NONFIN to go.NONFIN
+%eng:	you can hear the sound of the bolier still going
+*GRG:	Duw big@s:eng fight@s:cym&eng in@s:eng Barmouth@s:eng . %snd:"lloyd1"_743834_746156
+%gls:	God big fight in Barmouth
+%eng:	lord big fight in Barmouth
+*GRG:	[- eng] I told you didn't I ? %snd:"lloyd1"_746086_746887
+%gls:	I told you didn't I
+%eng:	I told you didn't I?
+*GRG:	xxx . %snd:"lloyd1"_746910_748234
+*ART:	gossips@s:eng de diawl . %snd:"lloyd1"_748199_750680
+%gls:	gossips TAG devil
+%eng:	gossips isn't it the devil
+*GRG:	Eiriome@s:cym&eng who@s:eng told@s:eng her@s:eng . %snd:"lloyd1"_750703_753663
+%gls:	Eirimoe who told her
+%eng:	Eirimoe who told her
+*JEA:	&=laughs . %snd:"lloyd1"_753672_756528
+*ART:	pardon@s:cym&eng ? %snd:"lloyd1"_756560_757164
+%gls:	pardon
+%eng:	pardon?
+*GRG:	Eiriome@s:cym&eng who@s:eng told@s:eng her@s:eng so@s:cym&eng Eir(iome)@s:cym&eng &=laughs +.. . %snd:"lloyd1"_757245_759637
+%gls:	Eirimoe who told her so Eiriome
+%eng:	Eirimoe who told her so Eiriome...
+*GRG:	see@s:eng you're@s:eng not@s:eng natural@s:eng Jean@s:cym&eng . %snd:"lloyd1"_759681_760830
+%gls:	see your not natural Jean
+%eng:	see your not natural, Jean
+*JEA:	&=laughs oh@s:cym&eng sut alla i fod [=! laughs] ? %snd:"lloyd1"_760874_763765
+%gls:	IM how can.1S.NONPAST PRON.1S be.NONFIN
+%eng:	oh how can I be?
+*JEA:	&=laughs mae (y)n anodd dydy . %snd:"lloyd1"_763761_766292
+%gls:	be.3S.PRES PRT difficult be.3S.PRES.NEG
+%eng:	it's hard isn't it
+*GRG:	[- eng] xxx be natural . %snd:"lloyd1"_766280_767905
+%gls:	xxx be natural
+%eng:	[...] be natural
+*JEA:	Iesu dylai bod fi (y)n cael hwn pan fydda i <(y)n um@s:cym&eng> [/] # yn y garage@s:cym&eng bore fory Siân@s:cym&eng . %snd:"lloyd1"_767917_774179
+%gls:	Jesus should.3S.CONDIT be.NONFIN PRON.1S PRT get.NONFIN this when be.1S.FUT PRON.1S in IM in DET garage morning tomorrow Siân
+%eng:	Jesus I should have this when I'm at the garage tomorrow morning Siân
+*GRG:	[- eng] +< why ? %snd:"lloyd1"_772774_773424
+%gls:	why
+%eng:	why ?
+*JEA:	<(fa)set ti> [?] glywed fi (y)n ateb y phone@s:cym&eng &=laughs . %snd:"lloyd1"_774132_776593
+%gls:	be.2S.CONDIT PRON.2S hear.NONFIN PRON.1S PRT answer.NONFIN DET phone
+%eng:	you would hear me answering the phone
+*GRG:	+" bore da Smithy_Garage@s:cym&eng . %snd:"lloyd1"_776547_779805
+%gls:	morning good Smithy_Garage
+%eng:	"good morning Smithy Garage"
+*JEA:	oh@s:cym&eng [=! sighs] . %snd:"lloyd1"_779731_781380
+%gls:	IM
+%eng:	oh
+*GRG:	+" I'm@s:eng afraid@s:eng he's@s:eng not@s:eng here@s:eng at@s:eng the@s:eng moment@s:eng he's@s:eng in@s:eng America@s:cym&eng . %snd:"lloyd1"_781509_784178
+%gls:	I'm afraid he's not here at the moment he's in America
+%eng:	I'm afraid he's not here at the moment he's in America
+*JEA:	+< xxx . %snd:"lloyd1"_782425_785246
+*JEA:	o'n i meddwl wan &x . %snd:"lloyd1"_785270_787790
+%gls:	be.1S.IMP PRON.1S  think.NONFIN now
+%eng:	I was thinking now
+*JEA:	tua deuddeg (dd)aru nhw ffonio diwrnod o blaen ac oedd hi (y)n han(ner) (we)di naw yn America@s:cym&eng . %snd:"lloyd1"_787777_790900
+%gls:	about twelve happen.PAST PRON.3PL call.NONFIN day of before and be.3S.IMP PRON.3SF PRT half past nine in America
+%eng:	they called around twelve the other day and it was half past nine in America
+*JEA:	o'n i meddwl bod (y)na fwy o amser rhyngthon ni . %snd:"lloyd1"_790866_793153
+%gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN there more of time between.1PL PRON.1PL
+%eng:	I thought there was more time between us
+*GRG:	yeah@s:cym&eng it@s:eng could@s:eng be@s:eng the@s:eng day@s:eng before@s:eng though@s:eng couldn't@s:eng it@s:eng . %snd:"lloyd1"_793107_795824
+%gls:	yeah it could be the day before though couldn't it
+%eng:	yeah it could be the day before though couldn't it
+*JEA:	han(ner) (we)di naw yn bore oedd hi . %snd:"lloyd1"_795818_797489
+%gls:	half past nine in morning be.3S.IMP PRON.3SF
+%eng:	it was half past nine in the morning
+*GRG:	yeah@s:cym&eng but@s:eng it@s:eng could@s:eng be@s:eng the@s:eng day@s:eng before@s:eng hanner (we)di naw . %snd:"lloyd1"_797455_799939
+%gls:	yeah but it could be the day before half past nine
+%eng:	yeah but it could be the day before half past nine
+*JEA:	gobeithio bod neb arall (we)di cael bronchitis@s:cym&eng . %snd:"lloyd1"_799873_803565
+%gls:	hope.NONFIN be.NONFIN nobody else PRT.PAST get.NONFIN bronchitis
+%eng:	I hope nobody else has got bronchitis
+*JEA:	ond oedd hi (y)n +// . %snd:"lloyd1"_804803_805344
+%gls:	but be.3S.IMP PRON.3SF PRT
+%eng:	but she/it was...
+*GRG:	you@s:eng don't@s:eng catch@s:eng bronchitis@s:cym&eng from@s:eng people@s:eng you@s:eng catch@s:eng it@s:eng through@s:eng [?] +/ . %snd:"lloyd1"_804984_808042
+%gls:	you don't catch Bronchitis from people you catch it through
+%eng:	you don't catch Bronchitis from people you catch it through...
+*JEA:	I@s:eng know@s:eng but@s:eng gob(eithio) [?] neb arall (we)di bod yn sâl ta # cael ffliw . %snd:"lloyd1"_806867_811093
+%gls:	I know but hope.NONFIN nobody else PRT.PAST be.NONFIN PRT sick thus get.NONFIN flu
+%eng:	I know but hopefully nobody else has been ill then, had the flu
+*GRG:	&=yawns oh@s:cym&eng Specsavers@s:cym&eng tomorrow@s:eng . %snd:"lloyd1"_811081_823270
+%gls:	IM Specsavers tomorrow
+%eng:	oh Specsavers tomorrow
+*GRG:	xxx . %snd:"lloyd1"_823260_827869
+*JEA:	oh@s:cym&eng ia . %snd:"lloyd1"_827763_828576
+%gls:	IM yes
+%eng:	oh yes
+*GRG:	I@s:eng think@s:eng my@s:eng bloody@s:cym&eng Tilhill@s:cym&eng thing@s:eng +/ . %snd:"lloyd1"_828588_830770
+%gls:	I think my bloody Tilhill thing
+%eng:	I think my bloody Tilhill thing...
+*JEA:	coat@s:cym&eng felyn . %snd:"lloyd1"_830759_831839
+%gls:	coat yellow
+%eng:	yellow coat
+*GRG:	[- eng] xxx lent it and I haven't had it back . %snd:"lloyd1"_831861_834276
+%gls:	xxx lent it and I haven't had it back
+%eng:	[...] lent it and I haven't had it back
+*GRG:	monkey@s:cym&eng drwg wedi gorffen . %snd:"lloyd1"_834285_842130
+%gls:	monkey bad PRT.PAST finish.NONFIN
+%eng:	naughty monkey's finished
+*GRG:	another@s:eng one@s:eng of@s:eng them@s:eng um@s:cym&eng # sponge@s:cym&eng things@s:eng anywhere@s:eng # old@s:eng ones@s:eng ? %snd:"lloyd1"_842116_852284
+%gls:	another one of them IM sponge things anywhere old ones
+%eng:	another one of them um sponge things anywhere, old ones?
+*JEA:	um@s:cym&eng mae (y)na hen bethau mewn yn y plastic@s:cym&eng bag@s:cym&eng yn fan (yn)a # ar llawr . %snd:"lloyd1"_852256_857841
+%gls:	IM be.3S.PRES there old things in in DET plastic bag in place there on floor
+%eng:	um there are some old things in the plastic bag there on the floor
+*JEA:	be dach chi (y)n gael i ginio heddiw twrci ? %snd:"lloyd1"_857858_859797
+%gls:	what be.2PL.PRES PRON.2PL PRT get.NONFIN for lunch today turkey
+%eng:	what are you having for lunch today, turkey?
+*ART:	pardon@s:cym&eng pardon@s:cym&eng yeah@s:cym&eng twrci dan ni (y)n gael de Siân@s:cym&eng . %snd:"lloyd1"_859800_866128
+%gls:	pardon pardon yeah turkey be.1PL.PRES PRON.1PL PRT get.NONFIN TAG Siân
+%eng:	pardon pardon, yeah we're having Turkey aren't we Siân
+*JEA:	[- eng] Christmas dinner . %snd:"lloyd1"_866214_867329
+%gls:	Christmas dinner
+%eng:	Christmas dinner
+*RES:	mmhm@s:cym&eng . %snd:"lloyd1"_867317_868165
+%gls:	IM
+%eng:	mmhm
+*ART:	twrci yn_dyfe . %snd:"lloyd1"_868231_873003
+%gls:	turkey TAG
+%eng:	turkey, isn't it
+%com:	immitates southern Welsh speech
+*JEA:	oh@s:cym&eng iwsia hwn George@s:cym&eng . %snd:"lloyd1"_873062_874242
+%gls:	IM use.2S.IMPER this George
+%eng:	oh use this, George
+*JEA:	wna i gael un newydd # glân . %snd:"lloyd1"_874242_875837
+%gls:	do.1S.NONPAST PRON.1S get.NONFIN one new clean
+%eng:	I'll get a new clean one
+*GRG:	ia ? %snd:"lloyd1"_875837_876754
+%gls:	yes
+%eng:	yes?
+*JEA:	ia . %snd:"lloyd1"_876719_877207
+%gls:	yes
+%eng:	yes
+*GRG:	diolch . %snd:"lloyd1"_877118_879091
+%gls:	thank_you
+%eng:	thank_you
+*JEA:	mae genna i rei newydd yn fa(n) (y)ma . %snd:"lloyd1"_879080_881367
+%gls:	be.3S.PRES with.1S PRON.1S some new in place here
+%eng:	I've got some new ones here
+*GRG:	&=coughs . %snd:"lloyd1"_881329_885682
+*JEA:	un peth yn llai i glirio o (y)r drawer@s:cym&eng yma . %snd:"lloyd1"_885731_888042
+%gls:	one thing PRT less to clear.NONFIN from DET drawer here
+%eng:	one less thing to clear from this drawer
+*RES:	just@s:cym&eng yn mynd i tsiecio xxx . %snd:"lloyd1"_888063_890466
+%gls:	just PRT go.NONFIN to check.NONFIN xxx
+%eng:	just going to check [...]
+%com:	silence as Jean cleans
+*JEA:	waetsiad i (y)r dŵr (y)ma g(y)nhesu eto Arthur@s:cym&eng # a gei di gawod ia . %snd:"lloyd1"_899227_903997
+%gls:	wait.2S.IMPER for DET water here warm.NONFIN again Arthur and get.2S.NONPAST PRON.2S shower yes
+%eng:	wait for the water to heat up again Arrhur and you can have a shower yes
+*ART:	+< ia xxx . %snd:"lloyd1"_903764_905604
+%gls:	yes xxx
+%eng:	yes xxx
+*JEA:	(dy)dy o (ddi)m yn hir . %snd:"lloyd1"_905533_906322
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT long
+%eng:	it's not long
+*JEA:	mae right@s:cym&eng da chwarae teg . %snd:"lloyd1"_906311_908192
+%gls:	be.3S.PRES right good play fair
+%eng:	it's quite good fair play
+*JEA:	(peta)sai [=? (ba)sai] (y)r system@s:cym&eng i_gyd yn gweithio yn_de ond # dyna fo . %snd:"lloyd1"_908204_911536
+%gls:	if_be.3S.CONDIT DET system all PRT work.NONFIN TAG but there PRON.3SM
+%eng:	if the whole sysltem worked, you know, but there we go
+*ART:	xxx . %snd:"lloyd1"_911527_914859
+*JEA:	eh@s:cym&eng ? %snd:"lloyd1"_914824_915904
+%gls:	IM
+%eng:	eh?
+*ART:	xxx bloody@s:cym&eng # plumber@s:cym&eng iawn . %snd:"lloyd1"_915800_917959
+%gls:	xxx bloody plumber right
+%eng:	[...] bloody proper plumber
+*GRG:	don't@s:eng want@s:eng a@s:eng plumber@s:cym&eng now@s:eng . %snd:"lloyd1"_918006_919027
+%gls:	don't want a plumber now
+%eng:	don't want a plumber now
+*GRG:	the@s:eng longer@s:eng he@s:eng takes@s:eng <the@s:eng less@s:eng &m> [//] er@s:cym&eng <the@s:eng more@s:eng money@s:eng> [//] the@s:eng longer@s:eng he@s:eng has@s:eng to@s:eng wait@s:eng for@s:eng his@s:eng money@s:eng innit@s:eng . %snd:"lloyd1"_919102_925023
+%gls:	the longer he takes the less IM the more money the longer he has to wait for his money innit
+%eng:	the longer he takes the less...um the more money...the longer he has to wait for his money innit
+*JEA:	mae o (we)di wneud y gwaith caled really@s:eng yn_dydy . %snd:"lloyd1"_925006_928129
+%gls:	be.3S.PRES PRON.3SM PRT.PAST do.NONFIN DET work hard really be.3S.PRES.NEG
+%eng:	he's done the hard work really hasn't he
+*GRG:	as@s:eng long@s:eng as@s:eng the@s:eng money's@s:eng in@s:eng the@s:eng bank@s:cym&eng . %snd:"lloyd1"_927540_931795
+%gls:	as long as the money's in the bank
+%eng:	as long as the money's in the bank
+*JEA:	&=sighs . %snd:"lloyd1"_931830_945555
+%com:	George is cleaning
+*GRG:	oh@s:cym&eng by@s:eng the@s:eng way@s:eng mam@s:cym&eng . %snd:"lloyd1"_945450_947424
+%gls:	IM by the way mum
+%eng:	oh by the way mum
+*JEA:	ia . %snd:"lloyd1"_947412_948388
+%gls:	yes
+%eng:	yes
+*GRG:	we're@s:eng going@s:eng to@s:eng see@s:eng more@s:eng of@s:eng Arthur@s:cym&eng after@s:eng the@s:eng rugby@s:cym&eng season@s:eng . %snd:"lloyd1"_947900_950222
+%gls:	we're going to see more of Arthur after the rugby season
+%eng:	we're going to see more of Arthur after the rugby season
+*JEA:	rho hwnna lawr am funud . %snd:"lloyd1"_950101_951471
+%gls:	put.2S.IMPER that down for minute
+%eng:	put that down for a minute
+*JEA:	be ? %snd:"lloyd1"_951436_951994
+%gls:	what
+%eng:	what ?
+*GRG:	we're@s:eng gonna@s:eng see@s:eng more@s:eng of@s:eng Arthur@s:cym&eng after@s:eng the@s:eng rugby@s:cym&eng season's@s:eng finished@s:eng . %snd:"lloyd1"_951992_955034
+%gls:	we're gonna see more of Arthur after the rugby season's finished
+%eng:	we're gonna see more of Arthur after the rugby season's finished
+*JEA:	George@s:cym&eng ti isio rhoi [?] hwnna i_lawr ? %snd:"lloyd1"_954976_956868
+%gls:	George PRON.2S want put.NONFIN that down
+%eng:	George do you want to put that down?
+*JEA:	be (ddu)daist ti ? %snd:"lloyd1"_956903_957878
+%gls:	what say.2S.PAST PRON.2S
+%eng:	what did you say ?
+*GRG:	gonna@s:eng see@s:eng more@s:eng of@s:eng Arthur@s:cym&eng after@s:eng the@s:eng rugby@s:cym&eng season's@s:eng finished@s:eng . %snd:"lloyd1"_957921_960348
+%gls:	gonna see more of Arthur after the rugby season's finished
+%eng:	gonna see more of Arthur after the rugby season's finished
+*GRG:	so@s:cym&eng he@s:eng told@s:eng um@s:cym&eng Mrs@s:cym&eng Roberts@s:cym&eng . %snd:"lloyd1"_960336_962113
+%gls:	so he told IM Mrs Roberts
+%eng:	so he told Mrs Roberts
+*JEA:	be ? %snd:"lloyd1"_962109_964176
+%gls:	what
+%eng:	what ?
+*ART:	well@s:cym&eng wna i drio dod lawr yn # amlach . %snd:"lloyd1"_964037_967020
+%gls:	well do.1S.NONPAST PRON.1S try.NONFIN come down PRT more_often
+%eng:	well I'll try and come down more often
+*JEA:	rhaid ninnau drio dod i_fyny (he)fyd . %snd:"lloyd1"_967020_968878
+%gls:	necessity PRON.1PL try.NONFIN come up also
+%eng:	we'll have to try and come up as well
+*GRG:	+< <lawr yn fwy aml> ["] he@s:eng said@s:eng . %snd:"lloyd1"_967125_968971
+%gls:	down PRT more often he said
+%eng:	"down more often" he said
+*JEA:	mae newydd <ddeud hynna> [=! laughs] . %snd:"lloyd1"_968965_971357
+%gls:	be.3S.PRES new say.NONFIN that
+%eng:	he's just said that
+*JEA:	rhaid ninnau ddod i_fyny fwy aml yn_(r)haid Arthur@s:cym&eng . %snd:"lloyd1"_972465_974294
+%gls:	necessity PRON.1PL come up more often necessity.NEG Arthur
+%eng:	and e'll have to come up more often won't we Arthur
+*ART:	well@s:cym&eng chi xxx os dach chi isio . %snd:"lloyd1"_974270_979269
+%gls:	well PRON.2PL xxx if be.2PL.PRES PRON.2PL want
+%eng:	well you [...] if you want to
+*JEA:	ah@s:cym&eng ah@s:cym&eng . %snd:"lloyd1"_979335_982958
+%gls:	IM IM
+%eng:	ah ah
+%com:	presumably warns the dog, who's just barked
+*JEA:	paid ti â dare_io@s:eng+cym . %snd:"lloyd1"_982935_985164
+%gls:	desist.NONFIN PRON.2S PRT dare.NONFIN
+%eng:	don't you dare
+*JEA:	gei di iwsio clwt arall George@s:cym&eng ti (ddi)m (y)n +.. . %snd:"lloyd1"_985084_991165
+%gls:	get.2S.NONPAST PRON.2S use.NONFIN cloth other George PRON.2S NEG PRT
+%eng:	you can use another cloth George, you're not...
+*GRG:	[- eng] this one ? %snd:"lloyd1"_991130_992541
+%gls:	this one
+%eng:	this one ?
+*GRG:	oh@s:cym&eng . %snd:"lloyd1"_992515_995023
+%gls:	IM
+%eng:	oh
+*JEA:	+< na na na na ! %snd:"lloyd1"_994315_996184
+%gls:	no no no no
+%eng:	no no no no!
+*GRG:	oh@s:cym&eng I'll@s:eng just@s:cym&eng take@s:eng it@s:eng out@s:eng now@s:eng . %snd:"lloyd1"_995964_997567
+%gls:	IM I'll just take it out now
+%eng:	oh I'll just take it out now
+*GRG:	[- eng] put it back now . %snd:"lloyd1"_997555_998298
+%gls:	put it back now
+%eng:	put it back now
+*JEA:	paid â bod (y)n hir . %snd:"lloyd1"_998263_1001433
+%gls:	desist.NONFIN PRT be.NONFIN PRT long
+%eng:	don't be long
+*GRG:	so@s:cym&eng we@s:eng can@s:eng talk@s:eng . %snd:"lloyd1"_1001421_1003429
+%gls:	so we can talk
+%eng:	so we can talk
+*JEA:	well@s:cym&eng ia . %snd:"lloyd1"_1003406_1004567
+%gls:	well yes
+%eng:	well yes
+*JEA:	alla i (ddi)m siarad efo chdith(au) [//] ti &ɬ [//] allan fan (y)na na alla . %snd:"lloyd1"_1004535_1007089
+%gls:	can.1S.NONPAST PRON.1S NEG talk.NONFIN with PRON.2S PRON.2S out place there NEG can.1S.NONPAST
+%eng:	I can't talk with you and you out there can I
+*GRG:	+< you@s:eng can@s:eng &sh talk@s:eng with@s:eng Arthur@s:cym&eng . %snd:"lloyd1"_1006961_1008227
+%gls:	you can talk with Arthur
+%eng:	you can talk with Arthur
+%com:	George goes outside .
+*ART:	+< xxx sense@s:cym&eng allan o (y)r diawl . %snd:"lloyd1"_1007228_1008378
+%gls:	xxx sense out of DET devil
+%eng:	[...] sense out of the devil
+*JEA:	xxx be ? %snd:"lloyd1"_1008312_1010274
+%gls:	xxx what
+%eng:	[...] what ?
+*ART:	dim sense@s:cym&eng allan o (y)r diawl . %snd:"lloyd1"_1009964_1011071
+%gls:	NEG sense out of DET devil
+%eng:	no sense out of the devil
+*JEA:	&=chuckles . %snd:"lloyd1"_1011013_1024537
+%com:	Jean awaits George's return .
+*JEA:	xxx . %snd:"lloyd1"_1024506_1028733
+%com:	dog barks and door shuts .
+*JEA:	be ti (we)di weld wan ? %snd:"lloyd1"_1028777_1033003
+%gls:	what PRON.2S PRT.PAST see.NONFIN now
+%eng:	what have you seen now ?
+%com:	talks to dog .
+*JEA:	eh@s:cym&eng ? %snd:"lloyd1"_1033003_1034717
+%gls:	IM
+%eng:	eh ?
+%com:	dog continues to bark and growl .
+*JEA:	Duw rywun yn pasio (y)dy o . %snd:"lloyd1"_1052006_1053725
+%gls:	God someone PRT pass.NONFIN be.3S.PRES PRON.3SM
+%eng:	lord it's only someone passing
+*JEA:	dach chi isio mwy o (y)r te (y)ma ? %snd:"lloyd1"_1053666_1056546
+%gls:	be.2PL.PRES PRON.2PL want more of DET tea here
+%eng:	do you want any more of this tea ?
+%com:	dog continues to bark for a while .
+*ART:	na dw i (y)n iawn thank@s:eng you@s:eng . %snd:"lloyd1"_1056510_1059482
+%gls:	no be.1S.PRES PRON.1S PRT right thank you
+%eng:	no I'm fine thank you
+*JEA:	oh@s:cym&eng Gel@s:cym&eng bydd ddis(taw) +/ . %snd:"lloyd1"_1059491_1061837
+%gls:	IM Gel be.2S.IMPER quiet
+%eng:	oh Gel be quiet...
+*ART:	+< xxx . %snd:"lloyd1"_1060989_1061883
+*JEA:	be ? %snd:"lloyd1"_1061813_1062649
+%gls:	what
+%eng:	what ?
+*ART:	xxx . %snd:"lloyd1"_1062626_1071831
+%com:	Sound of washing up .
+*GRG:	&=coughs . %snd:"lloyd1"_1071765_1074331
+*JEA:	(y)dy o yn lân wan ? %snd:"lloyd1"_1074273_1075817
+%gls:	be.3S.PRES PRON.3SM PRT clean now
+%eng:	is it clean now ?
+*JEA:	dw i (we)di lluchio hwnna . %snd:"lloyd1"_1075689_1076804
+%gls:	be.1S.PRES PRON.1S PRT.PAST throw.NONFIN that
+%eng:	I've thrown that
+*GRG:	+< eh@s:cym&eng ? %snd:"lloyd1"_1076177_1077129
+%gls:	IM
+%eng:	eh?
+*JEA:	(y)dy o (y)n lan wan ? %snd:"lloyd1"_1077042_1078231
+%gls:	be.3S.PRES PRON.3SM PRT clean now
+%eng:	is that clean now ?
+*GRG:	yeah@s:cym&eng <gonna@s:eng put@s:eng some@s:eng water@s:eng in@s:eng> [?] . %snd:"lloyd1"_1078253_1079808
+%gls:	yeah gonna put some water in
+%eng:	yeah gonna put some water in
+*JEA:	&=sighs . %snd:"lloyd1"_1079704_1080586
+*GRG:	be ti wneud fool@s:cym&eng bach ? %snd:"lloyd1"_1080553_1081701
+%gls:	what PRON.2S PRT do.NONFIN fool little
+%eng:	what are you doing you little fool ?
+%com:	talking to the dog .
+*GRG:	make@s:eng sure@s:cym&eng the@s:eng bedroom@s:eng door@s:cym&eng shut@s:eng . %snd:"lloyd1"_1081620_1083141
+%gls:	make sure the bedroom door shut
+%eng:	make sure the bedroom door is shut
+%com:	sound of breathing and birds singing .
+*JEA:	dyna ni . %snd:"lloyd1"_1098692_1100573
+%gls:	there PRON.1PL
+%eng:	there we go
+*GRG:	tyrd mewn [=? (y)ma] . %snd:"lloyd1"_1100514_1103045
+%gls:	come.2S.IMPER in
+%eng:	come in
+%com:	talks to the dog .
+*GRG:	good@s:eng boy@s:cym&eng . %snd:"lloyd1"_1102972_1107175
+%gls:	good boy
+%eng:	good boy
+%com:	talks to dog with intereption from mobile phone signal .
+*JEA:	be ? %snd:"lloyd1"_1107140_1107976
+%gls:	what
+%eng:	what ?
+*GRG:	[- eng] &=coughs tell him to come in and he came in . %snd:"lloyd1"_1107953_1109940
+%gls:	tell him to come in and he came in
+%eng:	tell him to come in and he came in
+%com:	sound of breathing as they move around .
+*GRG:	Arthur@s:cym&eng mynd i shower@s:eng wan yeah@s:cym&eng ? %snd:"lloyd1"_1114948_1116283
+%gls:	Arthur go.NONFIN to shower now yeah
+%eng:	Arthur's going to shower now yeah ?
+*JEA:	+< you@s:eng going@s:eng to@s:eng the@s:eng um@s:cym&eng # school@s:eng this@s:eng afternoon@s:eng ? %snd:"lloyd1"_1115710_1118450
+%gls:	you going to the IM school this afternoon
+%eng:	you going to the um school this afternoon ?
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_1118474_1118950
+%gls:	yeah
+%eng:	yeah
+*GRG:	xxx . %snd:"lloyd1"_1119056_1123120
+%com:	interuption from mobile phone .
+*JEA:	+< be ? %snd:"lloyd1"_1121320_1121889
+%gls:	what
+%eng:	what?
+*JEA:	lle Nia@s:cym&eng ia ? %snd:"lloyd1"_1123085_1125314
+%gls:	place Nia yes
+%eng:	Nia's place yes?
+*GRG:	oh@s:cym&eng you're@s:eng going@s:eng before@s:eng dinner@s:eng for@s:eng that@s:eng aren't@s:eng you@s:eng ? %snd:"lloyd1"_1125233_1127265
+%gls:	IM you're going before dinner for that aren't you
+%eng:	oh you're going before dinner for that aren't you?
+*JEA:	gawn ni weld faint o gloch (y)dy . %snd:"lloyd1"_1127265_1129076
+%gls:	get.1PL.NONPAST PRON.1PL see.NONFIN how_much of time be.3S.PRES
+%eng:	we'll see what time it is
+*GRG:	eh@s:cym&eng ? %snd:"lloyd1"_1129076_1129889
+%gls:	IM
+%eng:	eh ?
+*JEA:	gawn ni weld . %snd:"lloyd1"_1129854_1130976
+%gls:	get.1PL.NONPAST PRON.1PL see.NONFIN
+%eng:	we'll see
+%com:	both Jean and George are moving about the kitchen .
+*JEA:	cadw hwnna i fi # please@s:cym&eng . %snd:"lloyd1"_1135711_1138137
+%gls:	keep.2S.IMPER that for PRON.1S please
+%eng:	keep that for me please
+*JEA:	[- eng] thank you . %snd:"lloyd1"_1137692_1138672
+%gls:	thank you
+%eng:	thank you
+*JEA:	(dy)na ni . %snd:"lloyd1"_1138657_1141385
+%gls:	there PRON.1PL
+%eng:	there we go
+*JEA:	[- eng] biscuits . %snd:"lloyd1"_1141358_1144528
+%gls:	biscuits
+%eng:	biscuits
+*GRG:	xxx . %snd:"lloyd1"_1144516_1146896
+*JEA:	eh@s:cym&eng ? %snd:"lloyd1"_1146875_1147932
+%gls:	IM
+%eng:	eh?
+*GRG:	diet@s:cym&eng fory &=laughs . %snd:"lloyd1"_1147932_1149891
+%gls:	diet tomorrow
+%eng:	diet tomorrow
+%com:	sound of movement around the kitchen .
+*GRG:	oh@s:cym&eng you@s:eng and@s:eng Sandra@s:cym&eng can@s:eng go@s:eng to@s:eng Ysgethin@s:cym&eng . %snd:"lloyd1"_1156138_1157995
+%gls:	IM you and Sandra can go to Ysgethin
+%eng:	oh you and Sandra can go to Ysgethin
+*JEA:	na tynnu coes o'n i sure@s:cym&eng . %snd:"lloyd1"_1157996_1161647
+%gls:	no pull.NONFIN leg be.1S.IMP PRON.1S sure
+%eng:	no I was only pulling your leg
+%com:	door closes .
+*GRG:	pam ddim ? %snd:"lloyd1"_1161600_1162100
+%gls:	why NEG
+%eng:	why not ?
+*GRG:	Sandra@s:cym&eng can@s:eng treat@s:eng you@s:eng . %snd:"lloyd1"_1162100_1162935
+%gls:	Sandra can treat you
+%eng:	Sandra can treat you
+*JEA:	+< be wyt ti (y)n wneud fel hoodie@s:eng wan ? %snd:"lloyd1"_1162668_1164317
+%gls:	what be.2S.PRES PRON.2S PRT do.NONFIN like hoodie now
+%eng:	what are you doing like a hoodie now ?
+*JEA:	o'n i meddwl bod ti mynd i shower@s:eng . %snd:"lloyd1"_1164352_1165838
+%gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.2S go.NONFIN to shower
+%eng:	I though you were going to the shower
+*ART:	mi a i dw i just@s:cym&eng yn mynd i &sə [/] sortio pick_up@s:eng allan . %snd:"lloyd1"_1165911_1168013
+%gls:	PRT go.1S.NONPAST PRON.1S be.1S.PRES PRON.1S just PRT go.NONFIN to sort.NONFIN pick_up out
+%eng:	I will go, I'm just going to sort out the pick-up
+*ART:	dŵr g(y)nhesu anyway@s:eng does . %snd:"lloyd1"_1168143_1169745
+%gls:	water heat.NONFIN anyway be.3S.PRES.NEG
+%eng:	water needs to heat anyway doesn't it
+*ART:	lle mae goriadau (y)ng nghar [?] xxx ? %snd:"lloyd1"_1169757_1172361
+%gls:	place be.3S.PRES keys POSS.1S car xxx
+%eng:	where are my car keys [...] ?
+*ART:	right@s:cym&eng then@s:eng # brush@s:cym&eng dw i isio brush@s:cym&eng . %snd:"lloyd1"_1172396_1175403
+%gls:	right then brush be.1S.PRES PRON.1S want brush
+%eng:	right then it's a brush I need, a brush
+*JEA:	brush@s:cym&eng llawr . %snd:"lloyd1"_1175420_1176708
+%gls:	brush floor
+%eng:	a floor brush
+*JEA:	mae o yn y toliet@s:cym&eng bach yn cefn . %snd:"lloyd1"_1176650_1180165
+%gls:	be.3S.PRES PRON.3SM in DET toilet small in back
+%eng:	it's in the small toilet in the back
+*ART:	<paid (ed)rych (ar)na i fel (y)na Gel@s:cym&eng> [?] . %snd:"lloyd1"_1180165_1182355
+%gls:	cease.NONFIN look.NONFIN on.1S PRON.1S like that Gel xxx
+%eng:	don't look at me like that Gel [...]
+%com:	Georgs and Jean are drinking tea and eating biscuits. Arthur sings.
+*JEA:	oh@s:cym&eng she@s:eng could@s:eng be@s:eng Dolgellau@s:cym&eng . %snd:"lloyd1"_1195772_1198268
+%gls:	IM she could be Dolgellau
+%eng:	oh she could be, Dolgellau
+*GRG:	mmhm@s:cym&eng . %snd:"lloyd1"_1198225_1199572
+%gls:	IM
+%eng:	mmhm
+*GRG:	sure@s:eng she@s:eng used@s:eng to@s:eng work@s:eng xxx um@s:cym&eng Susan_Jones@s:cym&eng in@s:eng that@s:eng little@s:eng shop@s:cym&eng on@s:eng the@s:eng corner@s:eng . %snd:"lloyd1"_1199595_1205393
+%gls:	sure she used to work xxx IM Susan_Jones in that little shop on the corner
+%eng:	sure she used to work [...] um Susan Jones in that little shop on the corner
+*JEA:	mmm@s:cym&eng Jones@s:cym&eng yr Hengoed@s:cym&eng Dolgellau@s:cym&eng . %snd:"lloyd1"_1205393_1209108
+%gls:	IM Jones DET Hengoed Dolgellau
+%eng:	mmm Jones the Hengoed Dolgellau
+*JEA:	canu cloch . %snd:"lloyd1"_1209068_1211042
+%gls:	ring.NONFIN bell
+%eng:	it rings a bell
+*GRG:	ding@s:cym&eng ding@s:cym&eng . %snd:"lloyd1"_1211111_1213619
+%gls:	ding ding
+%eng:	ding ding
+%com:	chair is moved and sound of breathing
+*JEA:	eh@s:cym&eng ? %snd:"lloyd1"_1213613_1214484
+%gls:	IM
+%eng:	eh?
+*GRG:	ding@s:cym&eng ding@s:cym&eng . %snd:"lloyd1"_1214454_1215290
+%gls:	ding ding
+%eng:	ding ding
+*JEA:	&=sighs . %snd:"lloyd1"_1215290_1219372
+%com:	breathing and newspaper rustling .
+*JEA:	Duw mae hwnna +.. . %snd:"lloyd1"_1230937_1233734
+%gls:	lord be.3S.PRES that
+%eng:	lord that's
+*GRG:	be ? %snd:"lloyd1"_1236630_1237733
+%gls:	what
+%eng:	what?
+*JEA:	+, plismon yna yn dod i (y)r garage@s:cym&eng yn aml . %snd:"lloyd1"_1237756_1240449
+%gls:	policeman there PRT come.NONFIN to DET garage PRT frequent
+%eng:	that policeman comes to the garage often
+*JEA:	xxx yn y rescue@s:eng team@s:cym&eng . %snd:"lloyd1"_1240413_1245603
+%gls:	xxx in DET rescue team
+%eng:	[...] in the rescue team
+*JEA:	&=sighs Duw . %snd:"lloyd1"_1245557_1252418
+%gls:	lord
+%eng:	lord
+*GRG:	there's@s:eng something@s:eng about@s:eng um@s:cym&eng cheap@s:eng dinner@s:eng in@s:eng Portmeirion@s:cym&eng or@s:eng something@s:eng xxx . %snd:"lloyd1"_1252383_1256876
+%gls:	there's something about IM cheap dinner in Portmeirion or something xxx
+%eng:	there's something about um cheap dinner in Portmeirion or something [...]
+*JEA:	[- eng] cheap dinner ? %snd:"lloyd1"_1256911_1257991
+%gls:	cheap dinner
+%eng:	cheap dinner ?
+*GRG:	[- eng] what's it say on the bottom ? %snd:"lloyd1"_1258026_1259616
+%gls:	what's it say on the bottom
+%eng:	what's it say on the bottom?
+*JEA:	+" Easter@s:eng special@s:cym&eng offer@s:eng . %snd:"lloyd1"_1259571_1261545
+%gls:	Easter special offer
+%eng:	"Easter special offer"
+%com:	Jean is reading from the paper .
+*JEA:	+" two@s:eng nights@s:eng break@s:cym&eng . %snd:"lloyd1"_1261533_1263391
+%gls:	two nights break
+%eng:	"two nights break"
+*GRG:	oh@s:cym&eng Arthur@s:cym&eng could@s:eng have@s:eng gone@s:eng . %snd:"lloyd1"_1263435_1264584
+%gls:	IM Arthur could have gone
+%eng:	oh Arthur could have gone
+*JEA:	+< +" hundred@s:eng pound@s:eng per@s:eng person@s:cym&eng per@s:eng night@s:eng . %snd:"lloyd1"_1263853_1266024
+%gls:	hundred pound per person per night
+%eng:	"hundred pound per person per night"
+*GRG:	xxx <cinio pasg> ["] it@s:eng says@s:eng on@s:eng the@s:eng left@s:eng . %snd:"lloyd1"_1265966_1267595
+%gls:	xxx lunch easter it says on the left
+%eng:	["] "easter lunch" it says on the left
+*JEA:	[- eng] +< for dinner bed and breakfast . %snd:"lloyd1"_1266906_1268629
+%gls:	for dinner bed and breakfast
+%eng:	for dinner bed and breakfast
+*JEA:	it's@s:eng cinio pasg it's@s:eng (y)r un fath . %snd:"lloyd1"_1268617_1272132
+%gls:	it's lunch easter it's DET one kind
+%eng:	it's easter lunch, it's the same thing
+*GRG:	pardon@s:cym&eng ? %snd:"lloyd1"_1272155_1273130
+%gls:	pardon
+%eng:	pardon?
+*JEA:	cinio . %snd:"lloyd1"_1273153_1273931
+%gls:	lunch
+%eng:	lunch
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_1273838_1274454
+%gls:	yeah
+%eng:	yeah
+*JEA:	+" cynigion [!!] pasg . %snd:"lloyd1"_1274471_1276003
+%gls:	offers easter
+%eng:	"easter offers"
+*GRG:	oh@s:cym&eng . %snd:"lloyd1"_1275968_1276525
+%gls:	IM
+%eng:	oh
+*JEA:	off(er)@s:cym&eng [?] [//] special@s:cym&eng offers@s:eng . %snd:"lloyd1"_1276479_1278174
+%gls:	offer special offers
+%eng:	offer...special offers
+*GRG:	Arthur@s:cym&eng could@s:eng have@s:eng gone@s:eng there@s:eng . %snd:"lloyd1"_1278139_1279265
+%gls:	Arthur could have gone there
+%eng:	Arthur could have gone there
+*JEA:	[- eng] hundred pound a night +! ? %snd:"lloyd1"_1279216_1281418
+%gls:	hundred pound a night
+%eng:	hundred pound a night!?
+*GRG:	[- eng] each ? %snd:"lloyd1"_1281418_1282590
+%gls:	each
+%eng:	each?
+*JEA:	arglwydd mawr . %snd:"lloyd1"_1282571_1284115
+%gls:	lord big
+%eng:	good lord
+*JEA:	for@s:eng dinner@s:eng bed@s:eng and@s:eng breakfast@s:eng oh@s:cym&eng . %snd:"lloyd1"_1284115_1287176
+%gls:	for dinner bed and breakfast IM
+%eng:	for dinner bed and breakfast oh
+%com:	Silence as both of them drink, leaf through paper etc.
+*JEA:	hanner awr mae (y)n gorod bod on@s:eng . %snd:"lloyd1"_1299270_1301743
+%gls:	half hour be.3S.PRES PRT must.NONFIN be.NONFIN on
+%eng:	half and hour it has to be on
+*JEA:	pum munud arall . %snd:"lloyd1"_1301743_1305757
+%gls:	five minute another
+%eng:	another five minutes
+*JEA:	ti (ddi)m yn cael mynd . %snd:"lloyd1"_1305734_1308277
+%gls:	PRON.2S NEG PRT get.NONFIN go.NONFIN
+%eng:	your not allowed to go
+*GRG:	na # that's@s:eng the@s:eng trouble@s:eng . %snd:"lloyd1"_1308277_1310076
+%gls:	no that's the trouble
+%eng:	no that's the trouble
+*JEA:	Dyw sgwn i os dw i (we)di enill yr um@s:cym&eng +/ . %snd:"lloyd1"_1310076_1313336
+%gls:	lord if_know.1S.NONPAST PRON.1S if be.1S.PRES PRON.1S PRT.PAST win DET IM
+%eng:	lord I wonder if I've won the um...
+*JEA:	easter@s:eng egg@s:eng mawr fel hyn yn London_House@s:cym&eng . %snd:"lloyd1"_1313290_1315832
+%gls:	easter egg large like this in London_House
+%eng:	there's a [?] large easter egg like this in London House
+%com:	This may well be a continuation of the previous utterance. However, the intonation suggests not
+*JEA:	dw i (we)di prynu raffle@s:cym&eng . %snd:"lloyd1"_1315798_1317191
+%gls:	be.1S.PRES PRON.1S PRT.PAST buy.NONFIN raffle
+%eng:	I've bought a raffle
+*GRG:	that@s:eng was@s:eng um@s:cym&eng rug(by)@s:cym&eng [?] [//] football@s:cym&eng club@s:cym&eng . %snd:"lloyd1"_1317209_1319165
+%gls:	that was IM rugby footall club
+%eng:	that was the football club
+*GRG:	and@s:eng the@s:eng # family@s:cym&eng who's@s:eng won@s:eng it@s:eng &w um@s:cym&eng the@s:eng boys@s:cym&eng have@s:eng been@s:eng in@s:eng um@s:cym&eng ## Ysbyty_Gwynedd@s:cym&eng . %snd:"lloyd1"_1319174_1326541
+%gls:	and the family who's won it IM the boys have been in IM Ysbyty_Gwynedd
+%eng:	and the family who's won it, um the boys have been in um Ysbyty Gwynedd
+*SAN:	+< xxx . %snd:"lloyd1"_1324544_1326482
+*GRG:	[- eng] in the premature # years ago . %snd:"lloyd1"_1326506_1329547
+%gls:	in the premature years ago
+%eng:	in the premature years ago
+*GRG:	[- eng] so they've given it to the # children's unit . %snd:"lloyd1"_1329547_1332671
+%gls:	so they've given it to the children's unit
+%eng:	so they've given it to the children's unit
+*JEA:	oh@s:cym&eng Duw . %snd:"lloyd1"_1332676_1335009
+%gls:	IM God
+%eng:	oh lord
+*GRG:	[- eng] or their mother would have ate it . %snd:"lloyd1"_1334951_1336403
+%gls:	or their mother would have ate it
+%eng:	or their mother would have ate it
+*JEA:	(fa)swn innau (he)fyd . %snd:"lloyd1"_1336420_1339625
+%gls:	be.1S.CONDIT PRON.1S also
+%eng:	so would I
+*GRG:	<I'll@s:eng do@s:eng> [?] that@s:eng letter@s:eng to@s:eng the@s:eng boss@s:cym&eng [?] tonight@s:eng . %snd:"lloyd1"_1339497_1347221
+%gls:	I'll do that letter to the boss tonight
+%eng:	I'll do that letter to the boss tonight
+*JEA:	mmm@s:cym&eng . %snd:"lloyd1"_1347341_1348444
+%gls:	IM
+%eng:	mmm
+*JEA:	Sandra@s:cym&eng . %snd:"lloyd1"_1350279_1351099
+%gls:	Sandra
+%eng:	Sandra
+*SAN:	yeah@s:cym&eng . %snd:"lloyd1"_1351099_1351656
+%gls:	yeah
+%eng:	yeah
+*JEA:	ti (y)n (ad)nabod hon ? %snd:"lloyd1"_1351635_1353017
+%gls:	PRON.2S PRT know.NONFIN PRON.3SF
+%eng:	do you know her?
+*JEA:	o Dolgellau@s:cym&eng . %snd:"lloyd1"_1353017_1358015
+%gls:	from Dolgellau
+%eng:	from Dolgellau
+*SAN:	na(g) (y)dw . %snd:"lloyd1"_1358015_1358746
+%gls:	NEG be.1S.PRES
+%eng:	no
+*GRG:	I'm@s:eng sure@s:cym&eng she@s:eng used@s:eng to@s:eng work@s:eng in@s:eng Barmouth@s:eng . %snd:"lloyd1"_1358762_1361583
+%gls:	I'm sure she used to work in Barmouth
+%eng:	I'm sure she used to work in Barmouth
+*SAN:	xxx . %snd:"lloyd1"_1361565_1365408
+*JEA:	shower@s:eng yn nice@s:cym&eng ? %snd:"lloyd1"_1365419_1369392
+%gls:	shower PRT nice
+%eng:	was the shower nice ?
+*SAN:	[- eng] lovely thank you . %snd:"lloyd1"_1369383_1371462
+%gls:	lovely thank you
+%eng:	lovely thank you
+*SAN:	pryd dan ni (y)n xxx ? %snd:"lloyd1"_1371427_1373459
+%gls:	when be.1PL.PRES PRON.1PL PRT xxx
+%eng:	when are we [...] ?
+*JEA:	<ti (y)n mynd> [/] # &=yawns xxx ti mynd cyn cinio neu ar_ôl cinio ? %snd:"lloyd1"_1373424_1377935
+%gls:	PRON.2S PRT go.NONFIN xxx PRON.2S PRT go.NONFIN before lunch or afer lunch
+%eng:	you going...are you going before or after lunch ?
+*SAN:	cyn cinio . %snd:"lloyd1"_1377935_1378887
+%gls:	before lunch
+%eng:	before lunch
+*JEA:	xxx pan fydd Siân@s:cym&eng ac Arthur@s:cym&eng (we)di mynd ia . %snd:"lloyd1"_1378945_1381306
+%gls:	xxx when be.3S.FUT Siân and Arthur PRT.PAST go.NONFIN yes
+%eng:	[...] when Siân and Arthur have left yes
+*GRG:	+< xxx . %snd:"lloyd1"_1379142_1379920
+*JEA:	ti (y)n dod efo ni ? %snd:"lloyd1"_1381306_1383233
+%gls:	PRON.2S PRT come.NONFIN with PRON.1PL
+%eng:	are you coming with us ?
+*JEA:	well i ni ffonio gynta (rha)g ofn bod nhw (ddi)m yn dda . %snd:"lloyd1"_1383233_1389236
+%gls:	better for PRON.1PL phone.NONFIN first lest fear be.NONFIN PRON.3PL NEG PRT well
+%eng:	we'd better call first in case they're not well
+*JEA:	doedd Eilir@s:cym&eng ddim yn dda ddoe . %snd:"lloyd1"_1389201_1390629
+%gls:	be.3S.IMP.NEG Eilir NEG PRT good yesterday
+%eng:	Eilir wasn't well yesterday
+*SAN:	ti isio fi ffonio (h)i ? %snd:"lloyd1"_1390612_1391749
+%gls:	PRON.2S want PRON.1S phone.NONFIN PRON.3SF
+%eng:	do you want me to call her ?
+*JEA:	dim wan na . %snd:"lloyd1"_1391749_1392992
+%gls:	NEG now no
+%eng:	not now no
+*JEA:	wnawn ni ffonio (h)i cyn mynd ia edrych os (y)dy adra . %snd:"lloyd1"_1392945_1395975
+%gls:	do.1PL.NONPAST PRON.1PL phone.NONFIN PRON.3SF before go.NONFIN yes see.NONFIN if be.3S.PRES home
+%eng:	we'll call her before we go, yes, to see if she's home
+*GRG:	[- eng] +< she might have the family there . %snd:"lloyd1"_1395286_1397044
+%gls:	she might have the family there
+%eng:	she might have the family there
+*SAN:	allan ni just@s:cym&eng dropio y pethau off@s:cym&eng wedyn xxx . %snd:"lloyd1"_1397043_1399365
+%gls:	can.1PL.NONPAST PRON.1PL just drop.NONFIN DET things off then xxx
+%eng:	we can just drop the things off then [...]
+*JEA:	gallan really@s:eng . %snd:"lloyd1"_1399365_1400526
+%gls:	can.1PL.NONPAST really
+%eng:	yes we can really
+*GRG:	<os wyt ti (y)n gallu> [?] . %snd:"lloyd1"_1400526_1402604
+%gls:	if be.2S.PRES PRON.2S PRT can.NONFIN
+%eng:	if you can
+*JEA:	lle gest ti (y)r top@s:cym&eng (y)na ? %snd:"lloyd1"_1402592_1405948
+%gls:	place get.2S.PAST PRON.2S DET top there
+%eng:	where did you get that top ?
+*SAN:	eh@s:cym&eng ? %snd:"lloyd1"_1405867_1406587
+%gls:	IM
+%eng:	eh?
+*JEA:	lle gest ti (y)r top@s:cym&eng (y)na ? %snd:"lloyd1"_1406598_1408038
+%gls:	place get.2S.PAST PRON.2S DET top there
+%eng:	where did you get that top ?
+*SAN:	oh@s:cym&eng um@s:cym&eng drawer@s:cym&eng . %snd:"lloyd1"_1408003_1409810
+%gls:	IM IM drawer
+%eng:	oh um drawer
+*JEA:	&=laughs oh@s:cym&eng ia . %snd:"lloyd1"_1409833_1412433
+%gls:	IM yes
+%eng:	oh yes
+*GRG:	xxx . %snd:"lloyd1"_1412433_1416278
+*SAN:	(y)dy Arthur@s:cym&eng isio shower@s:eng ? %snd:"lloyd1"_1416220_1418128
+%gls:	be.3S.PRES Arthur want shower
+%eng:	does Arthur want a shower?
+*JEA:	yndy . %snd:"lloyd1"_1418117_1419069
+%gls:	be.3S.PRES
+%eng:	yes he does
+*GRG:	[- eng] I'll nip to xxx . %snd:"lloyd1"_1418941_1420450
+%gls:	I'll nip to xxx
+%eng:	I'll nip to [...]
+*JEA:	mae o allan . %snd:"lloyd1"_1419603_1420416
+%gls:	be.3S.PRES PRON.3SM out
+%eng:	he's out
+*SAN:	xxx dillad yn y wash@s:eng dw i . %snd:"lloyd1"_1420009_1421193
+%gls:	xxx clothes in DET wash be.1S.PRES PRON.1S
+%eng:	I want to [...] clothes in the wash
+*SAN:	oh@s:cym&eng na wna i wneud ar_ôl . %snd:"lloyd1"_1421217_1422656
+%gls:	IM no do.1S.NONPAST PRON.1S do.NONFIN after
+%eng:	oh no I'll do it after
+*GRG:	I'll@s:eng nip@s:eng to@s:eng Twm's@s:cym&eng and@s:eng get@s:eng the@s:eng [?] checks@s:cym&eng signed@s:eng when@s:eng the@s:eng [//] # he@s:eng goes@s:eng in@s:eng <the@s:eng shower@s:eng> [?] . %snd:"lloyd1"_1422668_1426406
+%gls:	I'll nip to Twm's and get the checks signed when the he goes in the shower
+%eng:	I'll nip to Twm's and get the checks signed when the...he goes in the shower
+*SAN:	dw i isio roi (r)hein yn y wash@s:eng at dydd Gwener . %snd:"lloyd1"_1424172_1426337
+%gls:	be.1S.PRES PRON.1S want put.NONFIN these in DET wash for day Friday
+%eng:	I want to put these in the wash for Friday
+*SAN:	ddo i nôl nos fory . %snd:"lloyd1"_1426294_1428860
+%gls:	come.1S.NONPAST PRON.1S back night tomorrow
+%eng:	I'll come back tomorrow night
+*JEA:	&=sniffs . %snd:"lloyd1"_1428906_1429754
+*GRG:	be ? %snd:"lloyd1"_1428906_1429754
+%gls:	what
+%eng:	what ?
+*JEA:	ddei di adre nos Iau ? %snd:"lloyd1"_1429735_1431337
+%gls:	come.2S.NONPAST PRON.2S home night Thursday
+%eng:	will you come home on Thursday night ?
+*JEA:	be (ddu)daist di ? %snd:"lloyd1"_1431360_1432266
+%gls:	what say.2S.PAST PRON.2S
+%eng:	what did you say ?
+*GRG:	ti (y)n dod adre nos Iau ? %snd:"lloyd1"_1432266_1433752
+%gls:	PRON.2S PRT come.NONFIN home night Thursday
+%eng:	you're coming home on Thursday night ?
+*GRG:	Twm@s:cym&eng . %snd:"lloyd1"_1433717_1434518
+%gls:	Twm
+%eng:	Twm
+*GRG:	I'll@s:eng go@s:eng to@s:eng Twm's@s:cym&eng get@s:eng the@s:eng checks@s:cym&eng signed@s:eng . %snd:"lloyd1"_1434428_1436018
+%gls:	I'll go Twm's get the checks signed
+%eng:	I'll go Twm's to get the checks signed
+*GRG:	while@s:eng Arthur@s:cym&eng is@s:eng in@s:eng the@s:eng shower@s:eng . %snd:"lloyd1"_1436018_1437980
+%gls:	while Arthur is in the shower
+%eng:	while Arthur is in the shower
+*JEA:	oh@s:cym&eng no@s:eng you'll@s:eng be@s:eng late@s:eng . %snd:"lloyd1"_1437993_1440605
+%gls:	IM no you'll be late
+%eng:	oh no you'll be late
+*GRG:	[- eng] +< but [?] # I've got to come from there then haven't I . %snd:"lloyd1"_1440071_1442463
+%gls:	but I've got to come from there then haven't I
+%eng:	but I've got to come from there then haven't I
+*JEA:	hwyrach bod gennyn nhw deulu lawr . %snd:"lloyd1"_1442465_1445913
+%gls:	maybe be.NONFIN with.3PL PRON.3PL family down
+%eng:	maybe they've got family down
+*GRG:	[- eng] no they haven't they're going to Ireland I think # or London . %snd:"lloyd1"_1445901_1449825
+%gls:	no they haven't they're going to Ireland I think or London
+%eng:	no they haven't they're going to Ireland I think, or London
+*GRG:	oh@s:cym&eng just@s:cym&eng sponsered@s:eng his@s:eng daughter@s:eng as@s:eng well@s:eng . %snd:"lloyd1"_1449736_1453312
+%gls:	IM just sponsered his daughter as well
+%eng:	oh just sponsered his daughter as well
+*JEA:	[- eng] what for ? %snd:"lloyd1"_1453234_1454465
+%gls:	what for
+%eng:	what for ?
+*GRG:	[- eng] cycling from Holyhead to Cardiff I think # I think . %snd:"lloyd1"_1454418_1457890
+%gls:	cycling from Holyhead to Cardiff I think I think
+%eng:	cycling from Holyhead to Cardiff I think, I think
+*JEA:	Enlli@s:cym&eng ? %snd:"lloyd1"_1457913_1458702
+%gls:	Enlli
+%eng:	Enlli ?
+*GRG:	yeah@s:cym&eng for@s:eng # cerebral@s:eng palsy@s:eng or@s:eng something@s:eng . %snd:"lloyd1"_1458706_1461318
+%gls:	yeah for cerebral palsy or something
+%eng:	yeah for cerebral palsy or somethin
+*JEA:	oh@s:cym&eng o_k@s:cym&eng . %snd:"lloyd1"_1461284_1463594
+%gls:	IM o_k
+%eng:	oh ok
+*GRG:	[- eng] +< <I think it's> [//] I think she's doing it all the way . %snd:"lloyd1"_1462828_1465544
+%gls:	I think it's I think she's doing it all the way
+%eng:	I think it's, I think she's doing it all the way
+*GRG:	I'm@s:eng not@s:eng sure@s:cym&eng . %snd:"lloyd1"_1465544_1465951
+%gls:	I'm not sure
+%eng:	I'm not sure
+*GRG:	[- eng] have to find out I'll find out today [?] . %snd:"lloyd1"_1465928_1468199
+%gls:	have to find out I'll find out today
+%eng:	have to find out I'll find out today
+*JEA:	mae (y)na lot@s:cym&eng ohonyn nhw (y)n mynd . %snd:"lloyd1"_1468211_1469777
+%gls:	be.3S.PRES there lot of.3PL PRON.3PL PRT go.NONFIN
+%eng:	there's a lot of them going
+*GRG:	yeah@s:cym&eng # yeah@s:cym&eng . %snd:"lloyd1"_1469707_1471216
+%gls:	yeah yeah
+%eng:	yeah yeah
+*JEA:	+< dim just@s:cym&eng hi . %snd:"lloyd1"_1470276_1471239
+%gls:	NEG just PRON.3SF
+%eng:	not just her
+*GRG:	oh@s:cym&eng no@s:eng no@s:eng lot@s:cym&eng of@s:eng people@s:eng there@s:eng . %snd:"lloyd1"_1471216_1473051
+%gls:	IM no no lot of people there
+%eng:	oh no no, lot of people there
+*JEA:	[- eng] no way . %snd:"lloyd1"_1473047_1474266
+%gls:	no way
+%eng:	no way
+*GRG:	[- eng] I don't know I don't know she going all the way or what I don't know . %snd:"lloyd1"_1474266_1479154
+%gls:	I don't know I don't know she going all the way or what I don't know
+%eng:	I don't know, I don't know if she's going all the way or what I don't know
+*GRG:	[- eng] I'll find out . %snd:"lloyd1"_1479160_1481505
+%gls:	I'll find out
+%eng:	I'll find out
+*JEA:	oh@s:cym&eng put@s:eng ten@s:eng pound@s:eng down@s:eng from@s:eng all@s:eng of@s:eng us@s:eng # yeah@s:cym&eng ? %snd:"lloyd1"_1481505_1485232
+%gls:	IM put ten pound down from all of us yeah
+%eng:	oh put ten pound down from all of us, yeah?
+*GRG:	[- eng] I can do it online no I'll do it there . %snd:"lloyd1"_1485198_1487880
+%gls:	I can do it online no I'll do it there
+%eng:	I can do it online, no I'll do it there
+*SAN:	hiya@s:cym&eng xxx . %snd:"lloyd1"_1487961_1495381
+%gls:	hiya xxx
+%eng:	hiya [...]
+%com:	talks to the dog .
+*GRG:	just@s:cym&eng iawn â gorffen wan ? %snd:"lloyd1"_1495420_1498299
+%gls:	just about PRT finish.NONFIN now
+%eng:	just about finished now ?
+*JEA:	ti (y)n mynd i shower@s:eng wan ? %snd:"lloyd1"_1498270_1499605
+%gls:	PRON.2S PRT go.NONFIN to shower now
+%eng:	are you going to the shower now?
+*ART:	fedra i just@s:cym&eng # tacluso (y)r cefn . %snd:"lloyd1"_1499617_1501138
+%gls:	can.1S.NONPAST PRON.1S just tidy.NONFIN DET back
+%eng:	I can just tidy the back
+*ART:	dau funud fydda i wan . %snd:"lloyd1"_1501138_1503216
+%gls:	two.M minute be.1S.FUT PRON.1S now
+%eng:	I'll be two minutes now
+*GRG:	xxx . %snd:"lloyd1"_1503185_1505519
+*JEA:	(y)dy o (y)n edrych yn iawn bore (y)ma ? %snd:"lloyd1"_1505159_1506657
+%gls:	be.3S.PRES PRON.3SM PRT look.NONFIN PRT right morning here
+%eng:	does it look alright this morning ?
+*ART:	pardon@s:cym&eng ? %snd:"lloyd1"_1506657_1508149
+%gls:	pardon
+%eng:	pardon?
+*SAN:	hello@s:cym&eng . %snd:"lloyd1"_1508133_1508509
+%gls:	hello
+%eng:	hello
+%com:	talks to the dog .
+*JEA:	(y)dy (y)r bumper@s:eng (y)na (y)n edrych yn iawn bore (y)ma neu # xxx ? %snd:"lloyd1"_1508497_1511186
+%gls:	be.3S.PRES DET bumper there PRT look.NONFIN PRT right morning here or xxx
+%eng:	does the bumper look ok this morning or [...] ?
+*ART:	d(ydy) o (ddi)m yn bad@s:eng . %snd:"lloyd1"_1510575_1511458
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT bad
+%eng:	it's not bad
+*JEA:	yndy ? %snd:"lloyd1"_1511435_1512305
+%gls:	be.3S.PRES
+%eng:	is it ?
+*JEA:	digon saff yndy ? %snd:"lloyd1"_1512294_1514279
+%gls:	enough safe be.3S.PRES
+%eng:	good enough yes?
+*GRG:	xxx &=burps . %snd:"lloyd1"_1514168_1516107
+*ART:	xxx (y)n saff cynt just@s:cym&eng # oedd o (y)n flex_io@s:eng+cym . %snd:"lloyd1"_1514308_1516548
+%gls:	xxx PRT safe before just be.3S.IMP PRON.3SM PRT flex.NONFIN
+%eng:	[...] it was safe before just it was flexing
+*ART:	so@s:cym&eng just@s:cym&eng cadw o (y)n solid@s:eng . %snd:"lloyd1"_1516520_1517576
+%gls:	so just keep.NONFIN PRON.3SM PRT solid
+%eng:	so just keeping it solid
+*GRG:	what@s:eng about@s:eng um@s:cym&eng +/? %snd:"lloyd1"_1517519_1518657
+%gls:	what about IM
+%eng:	what about um..?
+*GRG:	oh@s:cym&eng go@s:eng outside@s:eng first@s:eng . %snd:"lloyd1"_1518645_1520189
+%gls:	IM go outside first
+%eng:	oh go outside first
+*JEA:	[- eng] <about what> [?] ? %snd:"lloyd1"_1520205_1521982
+%gls:	about what
+%eng:	about what?
+*GRG:	[- eng] the wood . %snd:"lloyd1"_1521970_1523154
+%gls:	the wood
+%eng:	the wood
+*GRG:	let@s:eng me@s:eng know@s:eng or@s:eng I@s:eng might@s:eng have@s:eng to@s:eng go@s:eng there@s:eng with@s:eng him@s:eng and@s:eng make@s:eng sure@s:cym&eng I@s:eng don't@s:eng [//] not@s:eng going@s:eng anywhere@s:eng . %snd:"lloyd1"_1523143_1527624
+%gls:	let me know or I might have to go there with him and make sure I don't not going anywhere
+%eng:	let me know or I might have to go there with him and make sure I don't...not going anywhere
+*JEA:	oh@s:cym&eng Duw &=yawns . %snd:"lloyd1"_1527576_1530235
+%gls:	IM God
+%eng:	oh lord
+*JEA:	<wneith Arthur@s:cym&eng ffonio gynta mae (y)n debyg> [=! yawns] . %snd:"lloyd1"_1530293_1533160
+%gls:	do.3S.NONPAST Arthur phone.NONFIN first be.3S.PRES PRT likely
+%eng:	Arthur will call first most likely
+*SAN:	ffonio de . %snd:"lloyd1"_1532579_1533589
+%gls:	phone.NONFIN TAG
+%eng:	call, you know
+*JEA:	pan fydd y coed ar y ffordd . %snd:"lloyd1"_1533577_1536108
+%gls:	when be.3S.FUT DET trees on DET way
+%eng:	when the trees are on their way
+*GRG:	+< oh@s:cym&eng you@s:eng got@s:eng a@s:eng purse@s:eng the@s:eng same@s:eng as@s:eng mam@s:cym&eng . %snd:"lloyd1"_1535087_1536910
+%gls:	IM you got a purse the same as mum
+%eng:	oh you got a purse the same as mum
+*SAN:	[- eng] no I haven't . %snd:"lloyd1"_1536899_1538141
+%gls:	no I haven't
+%eng:	no I haven't
+*GRG:	same@s:eng pattern@s:eng yeah@s:cym&eng . %snd:"lloyd1"_1538106_1539267
+%gls:	same pattern yeah
+%eng:	same pattern yeah
+*SAN:	[- eng] no it's not . %snd:"lloyd1"_1539221_1539639
+%gls:	no it's not
+%eng:	no it's not
+*JEA:	(ry)wbeth tebyg . %snd:"lloyd1"_1539580_1540521
+%gls:	something similar
+%eng:	something similar
+*SAN:	yeah@s:cym&eng xxx . %snd:"lloyd1"_1540544_1541543
+%gls:	yeah xxx
+%eng:	yeah [...]
+*JEA:	roes i (y)r um@s:cym&eng # Boots@s:cym&eng card@s:cym&eng (y)na nôl i ti ? %snd:"lloyd1"_1541546_1545063
+%gls:	give.1S.PAST PRON.1S DET IM Boots card there back to PRON.2S
+%eng:	did I give you back that Boots card ?
+*SAN:	do . %snd:"lloyd1"_1545121_1545655
+%gls:	yes
+%eng:	yes
+*JEA:	do . %snd:"lloyd1"_1545621_1546034
+%gls:	yes
+%eng:	yes
+*GRG:	[- eng] +< your mother actually found the three pound she thinks she lost . %snd:"lloyd1"_1545864_1548337
+%gls:	your mother actually found the three pound she thinks she lost
+%eng:	your mother actually found the three pound she thinks she lost
+*JEA:	do . %snd:"lloyd1"_1548303_1549115
+%gls:	yes
+%eng:	yes
+*SAN:	lle ? %snd:"lloyd1"_1549138_1549998
+%gls:	where
+%eng:	where ?
+*JEA:	<o'n i (y)n> [///] ## mae (y)na ddau compartment@s:eng yn y pwrs . %snd:"lloyd1"_1550021_1553859
+%gls:	be.1S.IMP PRON.1S PRT be.3S.PRES there two compartment in DET purse
+%eng:	I was...there are two compartments in the purse
+*SAN:	yeah@s:cym&eng . %snd:"lloyd1"_1553824_1554788
+%gls:	yeah
+%eng:	yeah
+*JEA:	<ac o'n i (we)di roi pres> [///] o'n i (y)n gwybod bod fi (we)di roi pres (y)na gallwn [?] i (ddi)m <ffindio fo> [=! laughs] . %snd:"lloyd1"_1554766_1558679
+%gls:	and be.1S.IMP PRON.1S PRT.PAST put.NONFIN money be.1S.IMP PRON.1S PRT know.NONFIN be.NONFIN PRON.1S PRT.PAST put.NONFIN money there can.1S.PAST PRON.1S NEG find.NONFIN PRON.3SM
+%eng:	and I'd put money...I knew that I had put money there, I couldn't find it
+*SAN:	ah@s:cym&eng . %snd:"lloyd1"_1558028_1558725
+%gls:	IM
+%eng:	ah
+*JEA:	o'n i +/ . %snd:"lloyd1"_1558690_1559189
+%gls:	be.1S.IMP PRON.1S
+%eng:	I had...
+*SAN:	wnest di ffindio fo ? %snd:"lloyd1"_1559027_1559549
+%gls:	do.2S.PAST PRON.2S find.NONFIN PRON.3SM
+%eng:	did you find it ?
+*JEA:	do . %snd:"lloyd1"_1559526_1562299
+%gls:	yes
+%eng:	yes
+*JEA:	wna i ddangos o i ti &=sighs . %snd:"lloyd1"_1562300_1565400
+%gls:	do.1S.NONPAST PRON.1S show.NONFIN PRON.3SM to PRON.2S
+%eng:	I'll show it to you
+*JEA:	wna i ddangos o i chdi . %snd:"lloyd1"_1565347_1568343
+%gls:	be.1S.NONPAST PRON.1S show.NONFIN PRON.3SM to PRON.2S
+%eng:	I'll show it to you
+%com:	Jean walks around .
+*JEA:	lle mae o Gel@s:cym&eng ? %snd:"lloyd1"_1568328_1569849
+%gls:	where be.3S.PRES PRON.3SM Gel
+%eng:	where is it Gel ?
+%com:	talks to dog
+*GRG:	&=sings . %snd:"lloyd1"_1569825_1572298
+*JEA:	+< mmm@s:cym&eng ? %snd:"lloyd1"_1572136_1573227
+%gls:	IM
+%eng:	mmm?
+*GRG:	&=coughs . %snd:"lloyd1"_1573274_1575909
+*JEA:	fa(n) (y)ma . %snd:"lloyd1"_1575874_1577012
+%gls:	place here
+%eng:	here
+*JEA:	rois i o (y)n fan (y)na . %snd:"lloyd1"_1576977_1579752
+%gls:	put.1S.PAST PRON.1S PRON.3SM in place there
+%eng:	I put it in there
+*SAN:	yeah@s:cym&eng . %snd:"lloyd1"_1579752_1580832
+%gls:	yeah
+%eng:	yeah
+*JEA:	fan (y)na . %snd:"lloyd1"_1580808_1581877
+%gls:	place there
+%eng:	there
+*SAN:	fan (y)na rois di o ? %snd:"lloyd1"_1581806_1582979
+%gls:	place there put.2S.PAST PRON.2S PRON.3SM
+%eng:	you put it there?
+*JEA:	na [//] # nac [///] # yeah@s:cym&eng hwyrach bod fi (we)di rhoid o (y)n fan (y)na yn y zip@s:cym&eng . %snd:"lloyd1"_1582944_1587030
+%gls:	no NEG yeah maybe be.NONFIN PRON.1S PRT.PAST put.NONFIN PRON.3SM in place there in DET zip
+%eng:	no, no, yeah maybe I put it in there, in the zip
+%com:	sound of zip closing .
+*GRG:	+< mam@s:cym&eng ## we@s:eng got@s:eng a@s:eng rat@s:eng in@s:eng the@s:eng house@s:eng . %snd:"lloyd1"_1585505_1588296
+%gls:	mum we got a rat in the house
+%eng:	mum, we got a rat in the house
+*JEA:	oh@s:cym&eng # be ti (we)di ffeind(io) ? %snd:"lloyd1"_1588252_1590121
+%gls:	IM what PRON.2S PRT.PAST find.NONFIN
+%eng:	oh what have you found ?
+%com:	talks to dog .
+*GRG:	tyrd yma # tyrd . %snd:"lloyd1"_1589320_1590678
+%gls:	come.2S.IMPEG here come.2S.IMPER
+%eng:	come here, come
+%com:	talks to dog .
+*JEA:	be ti (we)di ffi(ndio) +/? %snd:"lloyd1"_1590647_1591924
+%gls:	what PRON.2S PRT.PAST find.NONFIN
+%eng:	what have you found ?
+*JEA:	oh@s:cym&eng hosan Sandra@s:cym&eng # &=laughs . %snd:"lloyd1"_1591924_1596197
+%gls:	IM sock Sandra
+%eng:	oh Sandra's sock
+*JEA:	&=sighs be (y)dy o # hosan Sandra@s:cym&eng ? %snd:"lloyd1"_1596168_1598455
+%gls:	what be.3S.PRES PRON.3SM sock Sandra
+%eng:	what is it, Sandra's sock?
+*GRG:	oh@s:cym&eng dw i (ddi)m yn gwybod . %snd:"lloyd1"_1598455_1599256
+%gls:	IM be.1S.PRES PRON.2S NEG PRT know.NONFIN
+%eng:	oh I don't know
+*JEA:	&=sighs . %snd:"lloyd1"_1599210_1600789
+*GRG:	+< be (y)dy o San(dra)@s:cym&eng [//] Gel@s:cym&eng ? %snd:"lloyd1"_1600406_1601671
+%gls:	what be.3S.PRES PRON.3SM Sandra Gel
+%eng:	what is it Sandra...Gel ?
+*JEA:	&=coughs &=sniffs . %snd:"lloyd1"_1601594_1604183
+%com:	silence
+*JEA:	xxx gweld . %snd:"lloyd1"_1611817_1614573
+%gls:	xxx see.NONFIN
+%eng:	[...] see
+*JEA:	ia (he)fyd # oh@s:cym&eng dillad budr Sandra@s:cym&eng . %snd:"lloyd1"_1614584_1617286
+%gls:	yes also IM clothes dirty Sandra
+%eng:	yes it is, Sandra's dirty clothes
+*GRG:	we@s:eng going@s:eng to@s:eng gweld Twm@s:cym&eng in@s:eng a@s:eng minute@s:eng o_k@s:cym&eng . %snd:"lloyd1"_1617286_1619569
+%gls:	we going to see.NONFIN Twm in aminute o_k
+%eng:	we're going to see Twm in a minute ok
+%com:	breathing, sniffing and sound of water .
+*GRG:	&=sniffs be (y)dy hwnna ? %snd:"lloyd1"_1636261_1639176
+%gls:	what be.3S.PRES that
+%eng:	what is that ?
+*JEA:	xxx . %snd:"lloyd1"_1639210_1640592
+*SAN:	xxx . %snd:"lloyd1"_1639210_1640592
+*JEA:	&=sighs . %snd:"lloyd1"_1640612_1644385
+%com:	rubs hands together .
+*GRG:	+< oh@s:cym&eng we've@s:eng got@s:eng Heartbeat@s:cym&eng to@s:eng watch@s:eng tonight@s:eng haven't@s:eng we@s:eng . %snd:"lloyd1"_1643619_1645442
+%gls:	IM we've got Heartbeat to watch tonight haven't we
+%eng:	oh  we've got Heartbeat to watch tonight haven't we
+*JEA:	+< &=yawns . %snd:"lloyd1"_1644617_1645523
+*JEA:	oes a be oedd ar_ôl Heartbeat@s:cym&eng ? %snd:"lloyd1"_1645540_1648245
+%gls:	be.3S.PRES and what be.3S.IMP after Heartbeat
+%eng:	yes and what was after Hearbeat ?
+*GRG:	um@s:cym&eng that@s:eng Copkiller@s:cym&eng . %snd:"lloyd1"_1648187_1649499
+%gls:	IM that Copkiller
+%eng:	um that Copkiller
+*GRG:	[- eng] &ss &ss three series or something I don't know . %snd:"lloyd1"_1649493_1652674
+%gls:	three series or something I don't know
+%eng:	three series or something I don't know
+*JEA:	+< oh@s:cym&eng . %snd:"lloyd1"_1650143_1650944
+%gls:	IM
+%eng:	oh
+*JEA:	mae hwnna (y)n lun neis ohonot ti really@s:eng . %snd:"lloyd1"_1652674_1654322
+%gls:	be.3S.PRES that PRT picture nice of.2S PRON.2S really
+%eng:	that's a nice picture of you really
+*SAN:	oh@s:cym&eng mae o (y)n horrible@s:cym&eng . %snd:"lloyd1"_1654334_1655913
+%gls:	IM be.3S.PRES PRON.3SM PRT horrible
+%eng:	oh it's horrible
+*GRG:	be (y)dy hwnna ? %snd:"lloyd1"_1655939_1659364
+%gls:	what be.3S.PRES that
+%eng:	what is that ?
+*GRG:	Club_Sporty@s:cym&eng Aber@s:cym&eng . %snd:"lloyd1"_1659353_1661442
+%gls:	Club_Sporty Aber
+%eng:	Aber Club Sporty Aber
+%com:	Aber is an abbreviated form for the town of Aberystwyth in Mid Wales.
+*JEA:	Club_Sporty@s:cym&eng # ddylai hwnna (ddi)m bod yn <Sporty_Club@s:cym&eng> ["] ? %snd:"lloyd1"_1661402_1665860
+%gls:	Club_Sporty should.3S.CONDIT that NEG be.NONFIN PRT Sporty_Club
+%eng:	Club Sporty, shouldn't that be "Sporty Club" ?
+*GRG:	[- eng] it's expired . %snd:"lloyd1"_1665825_1669564
+%gls:	it's expired
+%eng:	it's expired
+*GRG:	[- eng] <no it hasn't> [?] . %snd:"lloyd1"_1669547_1670870
+%gls:	no it hasn't
+%eng:	no is hasn't
+*GRG:	[- eng] yes it has . %snd:"lloyd1"_1670893_1671346
+%gls:	yes it has
+%eng:	yes it has
+*JEA:	[- eng] yes it has . %snd:"lloyd1"_1671335_1672983
+%gls:	yes it has
+%eng:	yes it has
+*JEA:	&=yawns xxx [=! yawns] &=yawn . %snd:"lloyd1"_1672979_1678377
+*JEA:	rho hwnna yn y +/ . %snd:"lloyd1"_1678355_1681466
+%gls:	put.2S.IMPER that IN DET
+%eng:	put that in the...
+*GRG:	ah@s:cym&eng recycling@s:eng . %snd:"lloyd1"_1681455_1682848
+%gls:	IM recycling
+%eng:	ah recycling
+*JEA:	rho fo yn y bag@s:cym&eng yn fan (y)na . %snd:"lloyd1"_1682848_1684136
+%gls:	put.2S.IMPER PRON.3SM in DET bag in place there
+%eng:	put it in the bag there
+*GRG:	in@s:eng Cymru we@s:eng recycle@s:eng . %snd:"lloyd1"_1684080_1686483
+%gls:	in Wales we recycle
+%eng:	in Wales we recycle
+*JEA:	ti (y)n wneud lot@s:cym&eng Arthur@s:cym&eng ? %snd:"lloyd1"_1686485_1688982
+%gls:	PRON.2S PRT do.NONFIN lot Arthur
+%eng:	do you do a lot Arthur?
+%com:	interruption to recording by mobile phone .
+*ART:	gymaint â fedra i yndw . %snd:"lloyd1"_1689005_1691002
+%gls:	as_many PRT can.1S.NONPAST PRON.1S yes
+%eng:	as much as I can yes
+%com:	interruption to recording by mobile phone .
+*JEA:	xxx . %snd:"lloyd1"_1691060_1692070
+*JEA:	(y)dyn nhw (y)n hel nhw neu ti (y)n gorod mynd â nhw i ganolfan ? %snd:"lloyd1"_1692105_1694903
+%gls:	be.3PL.PRES PRON.3PL PRT gather.NONFIN PRON.3PL or PRON.2S PRT must.NONFIN go.NONFIN with PRON.3PL to centre
+%eng:	do they collect them or do you have to take them to a centre ?
+*ART:	gorod mynd â nhw . %snd:"lloyd1"_1694965_1695975
+%gls:	must.NONFIN go.NONFIN with PRON.3PL
+%eng:	have to take them
+*JEA:	dyn nhw (ddi)m yn hel ? %snd:"lloyd1"_1696022_1697543
+%gls:	be.3PL.PRES.NEG PRON.3PL NEG PRT gather.NONFIN
+%eng:	don't they collect?
+%com:	Arthur is stapling, and this can be heard occasionally
+*ART:	+< dyn nhw (ddi)m yn wneud plastics@s:cym&eng na(g) (y)dyn . %snd:"lloyd1"_1696022_1698135
+%gls:	be.3PL.PRES.NEG PRON.3PL NEG PRT do.NONFIN plastics NEG be.3PL.PRES
+%eng:	they don't do plastics, no
+*JEA:	oh@s:cym&eng dyn nhw (ddi)m yn wneud plastics@s:cym&eng yn fa(n) (y)ma chwaith . %snd:"lloyd1"_1698142_1700394
+%gls:	IM be.3PL.PRES.NEG PRON.3PL NEG PRT do.NONFIN plastics in place here either
+%eng:	oh they don't do plastics here either
+*GRG:	that's@s:eng plastic@s:cym&eng as@s:eng well@s:eng . %snd:"lloyd1"_1700394_1701509
+%gls:	that's plastic as well
+%eng:	that's plastic as well
+*ART:	don't@s:eng take@s:eng tops@s:cym&eng in@s:eng recycling@s:eng . %snd:"lloyd1"_1701555_1702995
+%gls:	don't take tops in recycling
+%eng:	don't take tops in recycling
+*GRG:	[- eng] yes they do . %snd:"lloyd1"_1703018_1703645
+%gls:	yes they do
+%eng:	yes they do
+*ART:	[- eng] they don't xxx . %snd:"lloyd1"_1703665_1704501
+%gls:	they don't xxx
+%eng:	they don't [...]
+*GRG:	+< any@s:eng plastic@s:cym&eng bottles@s:eng they@s:eng do@s:eng with@s:eng us@s:eng . %snd:"lloyd1"_1704036_1705580
+%gls:	any plastic bottles they do with us
+%eng:	any plastic bottles they do with us
+*JEA:	be mae nhw (y)n wneud ? %snd:"lloyd1"_1705546_1707055
+%gls:	what be.3PL.PRES PRON.3PL PRT do.NONFIN
+%eng:	what do they do ?
+*JEA:	be mae nhw (y)n hel &=yawns ? %snd:"lloyd1"_1707043_1708808
+%gls:	what be.3PL.PRES PRON.3PL PRT gather.NONFIN
+%eng:	what do they collect ?
+*ART:	just@s:cym&eng caniau . %snd:"lloyd1"_1708841_1709863
+%gls:	just cans
+%eng:	just cans
+*JEA:	papur ? %snd:"lloyd1"_1709886_1710803
+%gls:	paper
+%eng:	paper ?
+*ART:	<papur a> [//] ### caniau xxx papur a +// . %snd:"lloyd1"_1710676_1714370
+%gls:	paper and cans xxx paper and
+%eng:	paper and...cans [...] paper and
+*GRG:	+< are@s:eng you@s:eng taking@s:eng your@s:eng books@s:cym&eng with@s:eng you@s:eng ? %snd:"lloyd1"_1714056_1715717
+%gls:	are you taking your books with you
+%eng:	are you taking your books with you ?
+*ART:	what@s:eng books@s:cym&eng ? %snd:"lloyd1"_1715763_1717261
+%gls:	what books
+%eng:	what books?
+*GRG:	xxx . %snd:"lloyd1"_1717244_1718336
+*ART:	[- eng] +< no I'll have them . %snd:"lloyd1"_1717639_1718097
+%gls:	no I'll have them
+%eng:	no I'll have them
+*ART:	I@s:eng was@s:eng looking@s:eng for@s:eng the@s:eng bank@s:cym&eng ones@s:eng . %snd:"lloyd1"_1718074_1719270
+%gls:	I was looking for the bank ones
+%eng:	I was looking for the bank ones
+*JEA:	+< fourteen@s:eng pound@s:eng ten@s:eng pee@s:eng lle est ti am hynna ? %snd:"lloyd1"_1718963_1721250
+%gls:	fourteen pound ten pee where go.2S.PAST PRON.2S for that
+%eng:	fourteen pounds ten pence, where did you go for that ?
+*GRG:	+< xxx . %snd:"lloyd1"_1719799_1720623
+*SAN:	round@s:cym&eng Bangor@s:cym&eng yeah@s:cym&eng &j just@s:cym&eng yn y xxx . %snd:"lloyd1"_1721396_1726382
+%gls:	round Bangor yeah just in DET xxx
+%eng:	round Bangor yeah just in [...]
+*JEA:	pryd ? %snd:"lloyd1"_1726359_1727334
+%gls:	when
+%eng:	when ?
+*JEA:	oh@s:cym&eng pan ddois di . %snd:"lloyd1"_1727404_1729250
+%gls:	IM when come.2S.PAST PRON.2S
+%eng:	oh when you came
+*SAN:	+< pan ddos i i Chester@s:eng efo chdi Dolig . %snd:"lloyd1"_1727450_1729331
+%gls:	when come.1S.PAST PRON.1S to Chester with PRON.2S Christmas
+%eng:	when I came to chester with you at Christmas
+*JEA:	right@s:cym&eng o_k@s:cym&eng . %snd:"lloyd1"_1729340_1731198
+%gls:	right o_k
+%eng:	right ok
+*ART:	xxx . %snd:"lloyd1"_1731221_1731616
+*GRG:	right@s:cym&eng can@s:eng we@s:eng take@s:eng these@s:eng off@s:cym&eng now@s:eng ? %snd:"lloyd1"_1731604_1733195
+%gls:	right can we take these off now
+%eng:	right can we take these off now ?
+*ART:	na carry@s:eng on@s:eng . %snd:"lloyd1"_1733180_1734678
+%gls:	no carry on
+%eng:	no carry on
+*GRG:	I@s:eng want@s:eng to@s:eng go@s:eng to@s:eng Twm's@s:cym&eng . %snd:"lloyd1"_1734678_1736408
+%gls:	I want to go to Twm's
+%eng:	I want to go to Twm's
+*ART:	[- eng] you're not going til I've gone are you . %snd:"lloyd1"_1736455_1737778
+%gls:	you're not going til I've gone are you
+%eng:	you're not going till I've gone are you
+*ART:	[- eng] we're going in ten [//] quarter of an hour . %snd:"lloyd1"_1737766_1739125
+%gls:	we're going in ten quarter of an hour
+%eng:	we're going in ten...quarter of an hour
+*GRG:	[- eng] that's why I want to go now so I've got an excuse to come back . %snd:"lloyd1"_1739102_1741540
+%gls:	that's why I want to go now so I've got an excuse to come back
+%eng:	that's why I want to go now so I've got an excuse to come back
+*GRG:	mam@s:cym&eng said@s:eng half@s:eng an@s:eng hour@s:eng . %snd:"lloyd1"_1741598_1745023
+%gls:	mum said half an hour
+%eng:	mum said half an hour
+*GRG:	pum munud . %snd:"lloyd1"_1745092_1747403
+%gls:	five minutes
+%eng:	five minuters
+*GRG:	[- eng] don't go in the shower for a minute . %snd:"lloyd1"_1747410_1748977
+%gls:	don't go in the shower for a minute
+%eng:	don't go in the shower for a minute
+*GRG:	[- eng] what's happening with the wood now ? %snd:"lloyd1"_1748954_1755207
+%gls:	what's happening with the wood now
+%eng:	what's happening with the wood now ?
+%com:	silence with some background noise
+*ART:	[- eng] I'll tell you next week . %snd:"lloyd1"_1755212_1756327
+%gls:	I'll tell you next week
+%eng:	I'll tell you next week
+*GRG:	[- eng] <is it> [?] this week or next week is it coming ? %snd:"lloyd1"_1756292_1758358
+%gls:	is it this week or next week is it coming
+%eng:	is it this week or next week is it coming ?
+*ART:	well@s:cym&eng I'm@s:eng trying@s:eng this@s:eng week@s:eng . %snd:"lloyd1"_1758372_1760450
+%gls:	well I'm trying this week
+%eng:	well I'm trying this week
+*GRG:	[- eng] so will I have to meet it [//] the man there ? %snd:"lloyd1"_1760439_1762006
+%gls:	so will I have to meet it the man there
+%eng:	so will I have to meet it...the man there ?
+*ART:	[- eng] you would have to yes . %snd:"lloyd1"_1761983_1762981
+%gls:	you would have to yes
+%eng:	you would have to yes
+*ART:	[- eng] to show him where the # pile has to go . %snd:"lloyd1"_1762952_1764647
+%gls:	to show him where the pile has to go
+%eng:	to show him where the pile has to go
+*GRG:	[- eng] I won't have to pay him ? %snd:"lloyd1"_1764635_1765746
+%gls:	I won't have to pay him
+%eng:	I won't have to pay him ?
+*ART:	[- eng] no . %snd:"lloyd1"_1765746_1766837
+*GRG:	[- eng] give him a tip if he's got to +.. . %snd:"lloyd1"_1766681_1768713
+%gls:	give him a tip if he's got to
+%eng:	give him a tip if he's got to...
+*GRG:	[- eng] wh(ere) [/] where is the # wood going to ? %snd:"lloyd1"_1768736_1770628
+%gls:	where where is the wood going to
+%eng:	where is the wood going to?
+*ART:	[- eng] probably the same place as before . %snd:"lloyd1"_1770641_1772685
+%gls:	probably the same place as before
+%eng:	probably the same place as before
+*JEA:	o lle mae (y)n +//? %snd:"lloyd1"_1772529_1773249
+%gls:	from where be.3S.PRES PRT
+%eng:	from where is it...
+*GRG:	so@s:eng he@s:eng got@s:eng to@s:eng reverse@s:cym&eng a@s:eng long@s:eng way@s:eng up@s:eng . %snd:"lloyd1"_1772708_1773799
+%gls:	so he got to reversea long way up
+%eng:	so he got to reversea long way up
+*ART:	aye@s:cym&eng . %snd:"lloyd1"_1773776_1774542
+%gls:	aye
+%eng:	aye
+*GRG:	[- eng] and does he know that ? %snd:"lloyd1"_1774577_1775397
+%gls:	and does he know that
+%eng:	and does he know that ?
+*ART:	[- eng] no . %snd:"lloyd1"_1775374_1775780
+*JEA:	lle mae (y)n dod o ? %snd:"lloyd1"_1775831_1777073
+%gls:	where be.3S.PRES PRT come.NONFIN from
+%eng:	where is it/he coming from?
+*ART:	dw i (ddi)m (gwy)bod . %snd:"lloyd1"_1777106_1777686
+%gls:	be.1S.PRES PRON.1S NEG know.NONFIN
+%eng:	I don't know
+*ART:	Bontddu@s:cym&eng dw i meddwl mae (y)r coed yn dod o . %snd:"lloyd1"_1777744_1779149
+%gls:	Bontddu be.1S.PRES PRON.1S think.NONFIN be.3S.PRES DET trees PRT come.NONFIN from
+%eng:	I think the trees are coming from Bontddu
+*JEA:	oh@s:cym&eng . %snd:"lloyd1"_1779091_1779706
+%gls:	IM
+%eng:	oh
+*ART:	dw i meddwl . %snd:"lloyd1"_1779683_1780426
+%gls:	be.1S.PRES PRON.1S think.NONFIN
+%eng:	I think
+*GRG:	wha(t)@s:eng [/] what@s:eng about@s:eng the@s:eng other@s:eng one@s:eng in@s:eng um@s:cym&eng Maentwrog@s:cym&eng ? %snd:"lloyd1"_1780394_1783424
+%gls:	what what about the other one in IM Maentwrog
+%eng:	what about the other one in um Maentwrog ?
+*ART:	[- eng] there's nothing on there apparently . %snd:"lloyd1"_1783378_1786048
+%gls:	there's nothing on there apparently
+%eng:	there's nothing on there apparently
+*GRG:	xxx +/ . %snd:"lloyd1"_1785987_1787357
+*JEA:	+< lle (dd)aru ni basio llwyth o goed ? %snd:"lloyd1"_1786811_1788495
+%gls:	where happen.PAST PRON.1PL pass.NONFIN load of trees
+%eng:	where did we pass a load of trees ?
+*GRG:	yeah@s:cym&eng Maentwrog@s:cym&eng # by@s:eng the@s:eng side@s:eng of@s:eng Maentwrog@s:cym&eng U_P_M_Tilhill@s:cym&eng . %snd:"lloyd1"_1788495_1792059
+%gls:	yeah Maentwrog by the side of Maentwrog U_P_M_Tilhill
+%eng:	yaeh Maentwrog, by the side of Maentwrog, UPM Tilhill
+*JEA:	oh@s:cym&eng duw . %snd:"lloyd1"_1792212_1794607
+%gls:	IM lord
+%eng:	oh lord
+%com:	sound of breathing and stapling .
+*JEA:	&=yawns . %snd:"lloyd1"_1802425_1805363
+*GRG:	+< ti (we)di blino ? %snd:"lloyd1"_1804829_1806024
+%gls:	PRON.2S PRT.PAST tire.NONFIN
+%eng:	are you tired ?
+*JEA:	do braidd . %snd:"lloyd1"_1806024_1807671
+%gls:	yes rather
+%eng:	yes rather
+*GRG:	&=yawns gormod o cwrw neithiwr de . %snd:"lloyd1"_1807644_1810035
+%gls:	too_much of beer last_night TAG
+%eng:	to much beer last night
+*JEA:	dan ni (ddi)m (we)di arfer (we)di yfed yn pnawn &=laughs . %snd:"lloyd1"_1809993_1813228
+%gls:	be.1PL.PRES.NEG PRON.1PL NEG PRT.PAST use.NONFIN PRT.PAST drink.NONFIN in afternnon
+%eng:	we don't usually drink in the afternoon
+*GRG:	+< mam@s:cym&eng isio mynd pnawn (y)ma felly [//] eto . %snd:"lloyd1"_1812245_1813952
+%gls:	mum want go.NONFIN afternoon here thus again
+%eng:	mum wants to go this afternoon again
+*JEA:	&=sniffs awn ni pnawn (y)ma ? %snd:"lloyd1"_1813864_1815060
+%gls:	go.1PL.NONPAST PRON.1PL afternoon here
+%eng:	we'll go this afternoon ?
+*SAN:	yeah@s:cym&eng Duw . %snd:"lloyd1"_1815013_1815907
+%gls:	yeah lord
+%eng:	yeah lord
+*JEA:	&=sniffs . %snd:"lloyd1"_1815907_1817556
+*GRG:	what@s:eng will@s:eng you@s:eng have@s:eng # Baileys@s:cym&eng coffee@s:cym&eng ? %snd:"lloyd1"_1817510_1819425
+%gls:	what will you have Baileys coffee
+%eng:	what will you have, Baileys coffee ?
+*JEA:	na . %snd:"lloyd1"_1819421_1821023
+%gls:	no
+%eng:	no
+*JEA:	[- eng] no . %snd:"lloyd1"_1821000_1822846
+%gls:	no
+%eng:	no
+*GRG:	go@s:eng down@s:eng to@s:eng Sands@s:eng [//] um@s:cym&eng Henry's@s:eng . %snd:"lloyd1"_1822835_1824913
+%gls:	go down to Sands IM Henry's
+%eng:	go down to Sands um Henry's
+*JEA:	na ddim diolch . %snd:"lloyd1"_1824913_1826376
+%gls:	no NEG thanks
+%eng:	no thanks
+*ART:	dach chi mynd i Ysgethin@s:cym&eng pnawn (y)ma (y)r diawliaid ? %snd:"lloyd1"_1826392_1828261
+%gls:	be.2PL.PRES PRON.2PL go.NONFIN to Ysgethin afternoon here DET devils
+%eng:	are you going to Ysgethin this afternoon you devils ?
+%com:	Ysgethin is a pub.
+*GRG:	pam ddim ? %snd:"lloyd1"_1828238_1828760
+%gls:	why NEG
+%eng:	why not ?
+*JEA:	&=laughs na(g) (y)dan Arthur@s:cym&eng . %snd:"lloyd1"_1828365_1829805
+%gls:	NEG be.1PL.PRES Arthur
+%eng:	no we're not Arthur
+*JEA:	ti (y)n mynd i (y)r shower@s:eng (y)na ? %snd:"lloyd1"_1829794_1831140
+%gls:	PRON.2S PRT go.NONFIN to DET shower there
+%eng:	are you going to that shower ?
+*ART:	xxx . %snd:"lloyd1"_1831129_1832104
+*GRG:	oh@s:cym&eng wait@s:eng till@s:eng we@s:eng finish@s:eng this@s:eng # and@s:eng then@s:eng you@s:eng can@s:eng go@s:eng in@s:eng the@s:eng shower@s:eng . %snd:"lloyd1"_1832110_1834327
+%gls:	IM wait till we finish this and then you can go in the shower
+%eng:	oh wait till we finish this and then you can go in the shower
+*JEA:	&=sniffs ah@s:cym&eng . %snd:"lloyd1"_1834327_1836042
+%gls:	IM
+%eng:	ah
+*SAN:	+< oh@s:cym&eng [?] he@s:eng may@s:eng as@s:eng well@s:eng go@s:eng now@s:eng . %snd:"lloyd1"_1835391_1836835
+%gls:	he may as well go now
+%eng:	he may as well go now
+*GRG:	so@s:eng I@s:eng can@s:eng go@s:eng to@s:eng Twms@s:cym&eng and@s:eng come@s:eng back@s:eng or@s:eng he'll@s:eng keep@s:eng me@s:eng bloody@s:cym&eng talking@s:eng . %snd:"lloyd1"_1836812_1839865
+%gls:	so I can go to Twm's and come back or he'll keep me bloody talking
+%eng:	so I can go to Twm's and come back or he'll keep me bloody talking
+*JEA:	&=sniffs . %snd:"lloyd1"_1839870_1840915
+*GRG:	[- eng] if I've got to come back I've got to come back . %snd:"lloyd1"_1840880_1842489
+%gls:	if I've got to come back I've got to come back
+%eng:	if I've got to come back I've got to come back
+%com:	sound of breathing, yawning and paper rustling .
+*JEA:	ti isio sychu dy wallt hefyd . %snd:"lloyd1"_1851422_1852957
+%gls:	PRON.2S want dry.NONFIN POSS.2S hair also
+%eng:	you need to dry your hair as well
+%com:	more stapling noise .
+*JEA:	xxx gweld y glust (y)na heddiw . %snd:"lloyd1"_1857338_1859962
+%gls:	xxx see.NONFIN DET ear there today
+%eng:	[..] see that year today
+*JEA:	hwyrach bod yr earrings@s:eng yna (we)di irritate_io@s:eng+cym fo sti . %snd:"lloyd1"_1859928_1863724
+%gls:	maybe be.NONFIN DET earings there PRT.PAST irritate.NONFIN PRON.3SM know.2S
+%eng:	maybe those earrings had irritated it you know
+*SAN:	ooh@s:cym&eng (dy)dy o (ddi)m yn cosi wan . %snd:"lloyd1"_1863713_1865257
+%gls:	IM be.3S.PRES.NEG PRON.3SM NEG PRT itch.NONFIN now
+%eng:	ooh it doesn't itch now
+*JEA:	na ? %snd:"lloyd1"_1865222_1865848
+%gls:	no
+%eng:	no?
+%com:	breathing and background noise .
+*GRG:	Cellan@s:cym&eng been@s:eng busy@s:cym&eng ? %snd:"lloyd1"_1874142_1875477
+%gls:	Cellan been busy
+%eng:	Cellan been busy ?
+*SAN:	[- eng] yes . %snd:"lloyd1"_1875475_1878051
+%gls:	yes
+%eng:	yes
+%com:	breathing and yawning .
+*JEA:	&=yawns oh@s:cym&eng dear@s:cym&eng . %snd:"lloyd1"_1888447_1896004
+%gls:	IM dear
+%eng:	oh dear
+*JEA:	[- eng] what you doing in school then this afternoon ? %snd:"lloyd1"_1896027_1898152
+%gls:	what you doing in school then this afternoon
+%eng:	what you doing in school then this afternoon ?
+*GRG:	[- eng] cutting ## hedge tomorrow . %snd:"lloyd1"_1898187_1902664
+%gls:	cutting hedge tomorrow
+%eng:	cutting hedge tomorrow
+*JEA:	[- eng] +< hedge ? %snd:"lloyd1"_1901496_1902633
+%gls:	hedge
+%eng:	hedge ?
+*JEA:	mmm@s:cym&eng ? %snd:"lloyd1"_1902610_1903226
+%gls:	IM
+%eng:	mmm?
+*GRG:	[- eng] hedge tomorrow . %snd:"lloyd1"_1903144_1903864
+%gls:	hedge tomorrow
+%eng:	hedge tomorrow
+*GRG:	finish@s:eng that@s:eng off@s:cym&eng . %snd:"lloyd1"_1903851_1905337
+%gls:	finish that off
+%eng:	finish that off
+*JEA:	pryd mae (y)r ysgol yn dechrau # dydd Llun ? %snd:"lloyd1"_1905325_1907067
+%gls:	when be.3S.PRES DET school PRT start.NONFIN day Monday
+%eng:	when does school start, on Monday ?
+*JEA:	oh@s:cym&eng na wneith . %snd:"lloyd1"_1907044_1907903
+%gls:	IM NEG do.3S.NONPAST
+%eng:	oh no it doesn't
+*GRG:	[- eng] fortnight . %snd:"lloyd1"_1907241_1907868
+%gls:	fortnight
+%eng:	fortnight
+*GRG:	[- eng] another fortnight yet . %snd:"lloyd1"_1907856_1909988
+%gls:	another fortnight yet
+%eng:	another fortnight yet
+*JEA:	nag oes ! %snd:"lloyd1"_1909999_1910812
+%gls:	NEG be.3S.PRES
+%eng:	no!
+*GRG:	[- eng] yes # they only finished Thursday . %snd:"lloyd1"_1910812_1912879
+%gls:	yes they only finished Thursday
+%eng:	yes they only finished Thursday
+*JEA:	oh@s:cym&eng . %snd:"lloyd1"_1912786_1913831
+%gls:	IM
+%eng:	oh
+*SAN:	braf de . %snd:"lloyd1"_1913851_1914733
+%gls:	fine TAG
+%eng:	fine isn't it
+*SAN:	o'n i mond yn cael um@s:cym&eng dydd Llun . %snd:"lloyd1"_1914733_1916057
+%gls:	be.1S.IMP PRON.1S only PRT get.NONFIN IM day Monday
+%eng:	I only got Monday
+%com:	sound of stapling .
+*GRG:	no@s:eng that's@s:eng what@s:eng [/] what@s:eng I@s:eng can't@s:eng understand@s:eng with@s:eng Jane@s:cym&eng um@s:cym&eng they@s:eng got@s:eng a@s:eng fortnight@s:eng off@s:cym&eng . %snd:"lloyd1"_1916033_1919110
+%gls:	no that's what what I can't understand with Jane IM they got a fortnight off
+%eng:	no that's what what I can't understand with Jane um they got a fortnight off
+*GRG:	she@s:eng could@s:eng have@s:eng um@s:cym&eng you@s:eng know@s:eng +// . %snd:"lloyd1"_1919122_1920515
+%gls:	she could have IM you know
+%eng:	she could have um you know...
+*JEA:	[- eng] no I don't think . %snd:"lloyd1"_1920512_1923740
+%gls:	no I don't think
+%eng:	no I don't think
+*GRG:	um@s:cym&eng have@s:eng you@s:eng ever@s:eng known@s:eng your@s:eng sister@s:eng being@s:eng refused@s:eng anything@s:eng she@s:eng xxx says@s:eng she@s:eng wants@s:eng ? %snd:"lloyd1"_1923725_1931527
+%gls:	IM have you ever known your sister being refused anything she xxx says she wants
+%eng:	um have you ever known your sister being refused anything she xxx says she wants?
+*ART:	[- eng] perhaps it's only that day they could # have gone or something . %snd:"lloyd1"_1931513_1936262
+%gls:	perhaps it's only that day they could have gone or something
+%eng:	perhaps it's only that day they could have gone or something
+*JEA:	efo gwaith # um@s:cym&eng mae Rhys@s:cym&eng a Trystan@s:cym&eng # wan dydyn yn gweithio . %snd:"lloyd1"_1936273_1940395
+%gls:	with work IM be.3S.PRES Rhys and Trystan now be.3PL.PRES.NEG PRT work.NONFIN
+%eng:	with work IM Rhys and Trystan now they work don't they
+*JEA:	mae nhw isio gweithio round@s:cym&eng nhw . %snd:"lloyd1"_1940380_1942458
+%gls:	be.3PL.PRES PRON.3PL want work round PRON.3PL
+%eng:	they need to work around them
+*JEA:	mae nhw isio gweithio round@s:cym&eng yr ysgol # &=sniffs . %snd:"lloyd1"_1942470_1946299
+%gls:	be.3PL.PRES PRON.3PL want work.NONFIN round DET school
+%eng:	they need to work around the school
+*GRG:	and@s:eng then@s:eng mam@s:cym&eng telling@s:eng fibs@s:eng for@s:eng them@s:eng . %snd:"lloyd1"_1946380_1947552
+%gls:	and then mum telling fibs for them
+%eng:	and then mum telling fibs for them
+*JEA:	a gwaith . %snd:"lloyd1"_1947552_1948400
+%gls:	and work
+%eng:	and work
+*JEA:	yeah@s:cym&eng # &=laughs . %snd:"lloyd1"_1948342_1952800
+%gls:	yeah
+%eng:	yeah
+%com:	paper rustles .
+*JEA:	pwy sy (y)n gweithio yna anyway@s:eng ? %snd:"lloyd1"_1952827_1954801
+%gls:	who be.PRES.REL PRT work.NONFIN there anyway
+%eng:	who works there anyway ?
+*GRG:	Florence@s:cym&eng . %snd:"lloyd1"_1954836_1956507
+%gls:	Florence
+%eng:	Florence
+*JEA:	hi sy (y)n ateb phone@s:cym&eng yn bore ? %snd:"lloyd1"_1956507_1958203
+%gls:	PRON.3SF be.PRES.REL PRT answer.NONFIN in morning
+%eng:	she answers the phone in the morning?
+*GRG:	na that's@s:eng Margaret@s:cym&eng . %snd:"lloyd1"_1958226_1960258
+%gls:	no that's Margaret
+%eng:	no that's Margaret
+*JEA:	pwy (y)dy honno ? %snd:"lloyd1"_1960292_1961674
+%gls:	who be.3S.PRES that
+%eng:	who is she ?
+*GRG:	<she's@s:eng from@s:eng> [///] # I@s:eng think@s:eng she@s:eng used@s:eng to@s:eng live@s:eng in@s:eng Tal(ysarn)@s:cym&eng [?] [//] Ynys@s:cym&eng but@s:eng now@s:eng I@s:eng think@s:eng she@s:eng moved@s:eng to@s:eng # Morfa_Bychan@s:cym&eng or@s:eng something@s:eng . %snd:"lloyd1"_1961714_1967656
+%gls:	she's from I think she used to live in Talysarn Ynys but now I think she moved to Morfa Bychan or something
+%eng:	she's from...I think she used to live in Talysarn...Ynys but now I think she moved to Morfa Bychan or something
+*JEA:	&=sniffs . %snd:"lloyd1"_1967690_1969408
+*GRG:	&a er@s:cym&eng she@s:eng doesn't@s:eng get@s:eng paid@s:eng during@s:eng the@s:eng holidays@s:cym&eng . %snd:"lloyd1"_1969420_1972729
+%gls:	IM she doesn't get pais during the holidays
+%eng:	er, she doesn't get pais during the holidays
+%com:	reading newspaper - turns a page .
+*GRG:	[- eng] the other one does . %snd:"lloyd1"_1972729_1973518
+%gls:	the other one does
+%eng:	the other one does
+*GRG:	the@s:eng other@s:eng one@s:eng is@s:eng um@s:cym&eng +/ . %snd:"lloyd1"_1973437_1974760
+%gls:	the other one is IM
+%eng:	the other one is um
+*JEA:	+, o Blaenau@s:cym&eng . %snd:"lloyd1"_1974702_1976107
+%gls:	from Blaenau
+%eng:	from Blaenau
+%com:	Blaenau is a common term for the village of Blaenau Ffestiniog in North Wales .
+*GRG:	+, <related@s:eng to@s:eng> [//] was@s:eng related@s:eng to@s:eng Llwyngwffri@s:cym&eng . %snd:"lloyd1"_1976053_1979281
+%gls:	related to was related to Llwyngwffri
+%eng:	related to, was related to Llwyngwffri
+%com:	Llwyngwffri is the name of a farm .
+*JEA:	oh@s:cym&eng . %snd:"lloyd1"_1979257_1980058
+%gls:	IM
+%eng:	oh
+*GRG:	husband@s:eng is@s:eng um@s:cym&eng # the@s:eng policeman@s:eng . %snd:"lloyd1"_1980047_1983112
+%gls:	husband is IM the policeman
+%eng:	husband is um the policeman
+*JEA:	+< Ceiriog_Hughes@s:cym&eng . %snd:"lloyd1"_1982009_1983100
+%gls:	Ceiriog_Hughes
+%eng:	Ceiriog Hughes
+*GRG:	yeah@s:cym&eng cyngor . %snd:"lloyd1"_1983065_1984621
+%gls:	yeah council
+%eng:	yeah council
+*GRG:	cyngor . %snd:"lloyd1"_1984663_1986880
+%gls:	council
+%eng:	council
+*GRG:	[- eng] I voted for him . %snd:"lloyd1"_1986880_1988790
+%gls:	I voted for him
+%eng:	I voted for him
+%com:	paper rustles .
+*GRG:	[- eng] Sunday nothing to watch Sunday (be)cause he's not here . %snd:"lloyd1"_1988836_1991518
+%gls:	Sunday nothing to watch sunday because he's not here
+%eng:	Sunday nothing to watch sunday because he's not here
+*JEA:	dw i (y)n colli arni pa ddiwrnod (y)dy wan &=yawns . %snd:"lloyd1"_1991518_1999240
+%gls:	be.1S.PRES PRON.1S PRT lose.NONFIN on.3SF what day be.3S.PRES now
+%eng:	I'm losing it, what day is it now
+%com:	backround clicking noise .
+*JEA:	argoel mae yna bythefnos i fynd (e)to . %snd:"lloyd1"_1999185_2000845
+%gls:	lord be.3S.PRES there fortnight to go.NONFIN again
+%eng:	lord there's a fortnight to go yet
+*JEA:	oeddech [?] chi (y)n cael <pan roedd (y)r ysgol> [?] Pasg ? %snd:"lloyd1"_2000799_2002970
+%gls:	be.2PL.IMP PRON.2PL PRT get.NONFIN when be.3S.IMP DET school Easter
+%eng:	did you get, in the schol at Easter ?
+*GRG:	yeah@s:cym&eng . %snd:"lloyd1"_2003005_2003620
+%gls:	yeah
+%eng:	yeah
+*JEA:	oeddech chi (y)n cael pythefnos ? %snd:"lloyd1"_2003599_2004725
+%gls:	be.2PL.IMP PRON.2PL PRT get.NONFIN fortnight
+%eng:	did you get a fortnight?
+*GRG:	yeah@s:cym&eng but@s:eng um@s:cym&eng xxx [//] I@s:eng don't@s:eng think@s:eng they@s:eng ever@s:eng finished@s:eng <sort@s:cym&eng of@s:eng this@s:eng> [?] +/ . %snd:"lloyd1"_2004725_2007848
+%gls:	yeah but IM xxx I don't think they ever finished sort of this
+%eng:	yeah but um [...] ...I don't think they ever finished sort of this...
+*GRG:	[- eng] &=breathes_in it's because Easter's early . %snd:"lloyd1"_2007825_2009857
+%gls:	it's because Easter's early
+%eng:	it's because Easter's early
+*GRG:	[- eng] they've got to have so much in the term haven't they . %snd:"lloyd1"_2009840_2014296
+%gls:	they've got to have so much in the term haven't they
+%eng:	they've got to have so much in the term haven't they
+*JEA:	&=sniffs . %snd:"lloyd1"_2014319_2015380
+%com:	heavy breathing and clicking sound .
+*JEA:	ti isio siswrn # dorri hwnna ? %snd:"lloyd1"_2023466_2027715
+%gls:	PRON.2S want scissors cut.NONFIN that
+%eng:	do you want scissors to cut that ?
+*ART:	xxx . %snd:"lloyd1"_2027697_2030217
+*JEA:	+< ti isio paned Sandra@s:cym&eng ? %snd:"lloyd1"_2029520_2031064
+%gls:	PRON.2S want cuppa Sandra
+%eng:	do you want a cuppa Sandra ?
+*SAN:	na . %snd:"lloyd1"_2031006_2031668
+%gls:	no
+%eng:	no
+*JEA:	[- eng] okey_dokey &=sighs . %snd:"lloyd1"_2031656_2034569
+%gls:	okey_dokey
+%eng:	okey dokey
+*ART:	xxx . %snd:"lloyd1"_2033629_2038596
+*JEA:	+< well@s:cym&eng mae (y)n codi (y)n braf boys@s:cym&eng bach . %snd:"lloyd1"_2036425_2038549
+%gls:	well be.3S.PRES PRT lift.NONFIN PRT fine boys small
+%eng:	well it's lokking fine boys
+*GRG:	mmhm@s:cym&eng . %snd:"lloyd1"_2038584_2039687
+%gls:	IM
+%eng:	mmhm
+*GRG:	[- eng] xxx do some chopping in the garden can't you ? %snd:"lloyd1"_2039667_2042070
+%gls:	xxx do some chopping in the garden can't you
+%eng:	[...] do some chopping in the garden can't you ?
+*JEA:	[- eng] maybe . %snd:"lloyd1"_2042035_2043417
+%gls:	maybe
+%eng:	maybe
+*GRG:	[- eng] I'll have to leave you a pair of shear(s) [?] [//] things xxx . %snd:"lloyd1"_2043424_2045955
+%gls:	I'll have to leave you a pair of shear things xxx
+%eng:	I'll have to leave you a pair of shear...things [...]
+*JEA:	xxx . %snd:"lloyd1"_2045734_2046477
+*GRG:	cut@s:eng the@s:eng tops@s:eng off@s:cym&eng the@s:eng daffodils@s:cym&eng and@s:eng things@s:eng # tulips@s:cym&eng they're@s:eng knackered@s:eng . %snd:"lloyd1"_2046431_2049531
+%gls:	cut the tops off the daffodils and things tulips they're knackered
+%eng:	cut the tops off the daffodils and things, tulips, they're knackered
+*JEA:	neu siswrn . %snd:"lloyd1"_2049507_2050819
+%gls:	or scissors
+%eng:	or some scissors
+*GRG:	eh@s:cym&eng ? %snd:"lloyd1"_2050736_2051757
+%gls:	IM
+%eng:	eh?
+*JEA:	mae genna i siswrn . %snd:"lloyd1"_2051618_2053011
+%gls:	be.3S.PRES with.1S PRON.1S scissors
+%eng:	I've got some scissors
+*JEA:	wneith siswrn y tro wneith . %snd:"lloyd1"_2052941_2056715
+%gls:	do.3S.NONPAST scissors DET turn do.3S.NONPAST
+%eng:	scissors will do the trick won't they
+*GRG:	Rownd_a_Rownd@s:cym&eng [=! sings] . %snd:"lloyd1"_2056692_2059246
+%gls:	Rownd_a_Rownd
+%eng:	Rownd a Rownd
+%com:	Rownd a Rownd is a youth orientated Welsh language soap opera which translates as simply Round and Round .
+*GRG:	Pobol_y_Cwm@s:cym&eng eight@s:eng o'clock@s:eng . %snd:"lloyd1"_2059255_2061774
+%gls:	Pobol_y_Cwm eight o'clock
+%eng:	Pobol y Cwm eight o'clock
+%com:	Pobol y Cwm is a Welsh language soap opera meaning People of the Valley .
+*JEA:	faint o gloch mae Rownd_a_Rownd@s:cym&eng han(ner) (we)di chwech ? %snd:"lloyd1"_2061751_2064119
+%gls:	how_much of clock be.3S.PRES Rownd_a_Rownd half past six
+%eng:	what time is Rowns a Rownd, half past six ?
+*SAN:	hanner (we)di saith . %snd:"lloyd1"_2064119_2064839
+%gls:	half past seven
+%eng:	half past seven
+*GRG:	+< han(ner) (we)di saith . %snd:"lloyd1"_2064154_2065304
+%gls:	half past seven
+%eng:	half past seven
+*JEA:	oh@s:cym&eng # pam ? %snd:"lloyd1"_2065304_2067169
+%gls:	IM why
+%eng:	oh, why ?
+*GRG:	dw i (ddi)m yn gwybod . %snd:"lloyd1"_2067169_2068144
+%gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN
+%eng:	I don't know
+*SAN:	+< Sul [?] y Pasg . %snd:"lloyd1"_2067355_2068237
+%gls:	Sunday DET Easter
+%eng:	Easter Sunday
+*JEA:	football@s:cym&eng neu (ryw)beth decin i . %snd:"lloyd1"_2068237_2069642
+%gls:	football or something I_suppose PRON.1S
+%eng:	footbal, or something I suppose
+*GRG:	na # nothing@s:eng . %snd:"lloyd1"_2069108_2070559
+%gls:	no nothing
+%eng:	no nothing
+*GRG:	Saith_Gair_Olaf_Crist@s:cym&eng . %snd:"lloyd1"_2070547_2072858
+%gls:	Saith_Gair_Olaf_Crist
+%eng:	Saith Gair Olaf Crist
+%com:	name of a programme in Welsh that translates as Christ's Last Seven Words
+*SAN:	xxx . %snd:"lloyd1"_2072773_2073399
+*GRG:	Dechrau_Canu_Dechrau_Canmol@s:cym&eng repeat@s:eng . %snd:"lloyd1"_2073399_2075485
+%gls:	Dechrau_Canu_Dechrau_Canmol repeat
+%eng:	Dechrau Canu Dechrau Canmol repeat
+%com:	drinks tea
+*JEA:	Midsomer_Murders@s:cym&eng four@s:eng o'clock@s:eng . %snd:"lloyd1"_2080855_2083246
+%gls:	Midsomer_Murders four o'clock
+%eng:	Midsomer Murders four o'clock
+*JEA:	ia ? %snd:"lloyd1"_2083281_2084546
+%gls:	yes
+%eng:	yes?
+*GRG:	yeah@s:cym&eng repeat@s:eng . %snd:"lloyd1"_2084500_2086033
+%gls:	yeah repeat
+%eng:	yeah repeat
+*JEA:	+< &=yawns . %snd:"lloyd1"_2084848_2086543
+*JEA:	wna i watsio hwnna . %snd:"lloyd1"_2086545_2088542
+%gls:	do.1S.NONPAST PRON.1S watch.NONFIN that
+%eng:	I'll watch that
+*GRG:	The_Princess_Diaries@s:cym&eng . %snd:"lloyd1"_2087346_2088925
+%gls:	The_Princess_Diaries
+%eng:	The Princess Diaries
+%com:	name of a film
+*JEA:	&=sniffs . %snd:"lloyd1"_2088948_2091224
+*GRG:	Chicken_Run@s:cym&eng . %snd:"lloyd1"_2091152_2093730
+%gls:	Chicken_Run
+%eng:	Chicken Run
+*JEA:	(y)dy hwnnw gen ti ? %snd:"lloyd1"_2093753_2096168
+%gls:	be.3S.PRES that with PRON.2S
+%eng:	have you got that ?
+@End

@@ -1,0 +1,3123 @@
+@Font:	Win95:Arial Unicode MS:-13:0
+@UTF8
+@Begin
+@Languages:	cy, en
+@Participants:	BEU Beuno Adult, ARD Arddun Adult, HAF Haf Child, CAI Cai Child
+@ID:	cy|siarad|BEU|41;|male|||Adult||
+@ID:	cy|siarad|ARD|41;|female|||Adult||
+@ID:	cy|siarad|HAF||female|||Child||
+@ID:	cy|siarad|CAI||male|||Child||
+@Situation:	informal conversation in a family in the speakers' home
+@Comment:	BEU was brought up in north-west Wales, where he is now living, after spending a significant period in south-east Wales
+@Comment:	ARD was born in north-west Wales, where she is now living, after spending a significant period abroad
+@Date:	12-FEB-2006
+@Comment:	Researcher:	Marika Fusser, Bangor University
+@Coder:	Elen Robert, Bangor University
+@Time Duration:	00:34:48
+@Comment:	Filename: Fusser18.CHA; Soundfile: Fusser18.wav
+@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Comment:	Background clicking or tapping noise from some kitchen appliance
+@Comment:	Haf and Cai only make occasional and brief appearances
+*ARD:	a dydd Mawrth . %snd:"fusser18"_0_1974
+%gls:	and day Tuesday
+%eng:	and Tuesday
+*BEU:	+< xxx hanner tymor xxx +// . %snd:"fusser18"_1161_2961
+%gls:	xxx half term xxx
+%eng:	[...] half term [...] ...
+*ARD:	+< ia . %snd:"fusser18"_2159_2554
+%gls:	yes
+%eng:	yes
+*ARD:	well@s:cym&eng na ddim yn ystod yr wsnos just@s:cym&eng dydd Llun a dydd Mawrth . %snd:"fusser18"_2961_5433
+%gls:	well no NEG in range DET week just day Monday and day Tuesday
+%eng:	well no not during the week, just Monday and Tuesday
+*BEU:	right@s:cym&eng . %snd:"fusser18"_5433_5909
+%gls:	right
+%eng:	right
+*ARD:	ond dw i meddwl # oedd (y)na gyfarfod dydd Mercher . %snd:"fusser18"_5909_9334
+%gls:	but be.1S.PRES PRON.1S think.NONFIN be.3S.IMP there meeting day Wednesday
+%eng:	but I think there was a meeting on Wednesday
+*ARD:	so@s:cym&eng mae hynna (y)n amhosibl <i mynd> [?] â Cai@s:cym&eng a Haf@s:cym&eng (e)fo fi . %snd:"fusser18"_9334_11854
+%gls:	so be.3S.PRES that PRT impossible to go.NONFIN with Cai and Haf with PRON.1S
+%eng:	so that's impossible to take Cai and Haf with me
+*BEU:	right@s:cym&eng so@s:cym&eng raid ni &hɔ [/] # holi mam@s:cym&eng a dad@s:cym&eng neu &rə &n [//] rywun felly ## i weld os xxx cymryd xxx . %snd:"fusser18"_11854_19238
+%gls:	right so necessity PRON.1PL inquire.NONFIN mum and dad or somebody thus to see.NONFIN if xxx take.NONFIN xxx
+%eng:	right, so we'll have to ask mum and dad or someone like that to see if [...] take [...]
+*ARD:	+< so@s:cym&eng xxx drio +// . %snd:"fusser18"_13050_14044
+%gls:	so xxx try.NONFIN
+%eng:	so [...] try...
+*ARD:	+< a holi nain a taids ia . %snd:"fusser18"_14323_16858
+%gls:	and inquire.NONFIN grandmother and grandfathers yes
+%eng:	and ask gran and grandads yes
+*ARD:	+< xxx cael trefnu +// . %snd:"fusser18"_17775_18831
+%gls:	xxx get.NONFIN organise
+%eng:	[...] organise...
+*ARD:	neu fedran nhw fynd i (y)r club@s:cym&eng # Clwb_Garnedd@s:cym&eng . %snd:"fusser18"_19238_22628
+%gls:	or can.3PL.NONPAST PRON.3PL go.NONFIN to DET club Clwb_Garnedd
+%eng:	or they can go to the club, Clwb Garnedd
+*ARD:	um@s:cym&eng mae (y)na le # yn fan (y)no . %snd:"fusser18"_22628_25519
+%gls:	IM be.3S.PRES there room in place there
+%eng:	um, there is room there
+*ARD:	ond um@s:cym&eng # am bod nhw mynd i (y)r club@s:cym&eng ar_ôl yr ysgol dyn nhw (ddi)m yn hapus iawn # mynd ar gwyliau . %snd:"fusser18"_25519_32496
+%gls:	but IM for be.NONFIN PRON.3PL go.NONFIN to DET club after DET school be.3PL.PRES.NEG PRON.3PL NEG PRT happy very go.NONFIN on holidays
+%eng:	but um, because they go to the club after school, they're not very happy to go during holidays
+*BEU:	+< na xxx [//] # dw meddwl dyn nhw (ddi)m isio mynd ar [//] ystod gwyliau nag oes . %snd:"fusser18"_30616_33286
+%gls:	no xxx be.1S.PRES think.NONFIN be.3PL.PRES.NEG PRON.3PL NEG want go.NONFIN on range holidays NEG be.3S.PRES
+%eng:	no [...] ...I think they don't want to go during holidays, do they
+*ARD:	+< na(g) (y)dy . %snd:"fusser18"_32879_33588
+%gls:	NEG be.3S.PRES
+%eng:	no
+*BEU:	+< mae fath â +/ . %snd:"fusser18"_33286_33890
+%gls:	be.3S.PRES kind with
+%eng:	it's like...
+*ARD:	dw i meddwl (ba)sen nhw mwynhau mynd efo nain a taid . %snd:"fusser18"_33890_36095
+%gls:	be.1S.PRES PRON.1S think.NONFIN be.3PL.CONDIT PRON.3PL enjoy.NONFIN go.NONFIN with grandmother and grandfather
+%eng:	I think they'd enjoy going with gran and grandad
+*ARD:	um@s:cym&eng &=clears_throat oh@s:cym&eng ga i weld . %snd:"fusser18"_36095_38545
+%gls:	IM IM get.1S.NONPAST PRON.1S see.NONFIN
+%eng:	um, oh I'll see
+*ARD:	os na fedra i # weithio o adre # um@s:cym&eng dydd Llun . %snd:"fusser18"_38545_42632
+%gls:	if NEG can.1S.NONPAST PRON.1S work.NONFIN from home IM day Monday
+%eng:	unless I can work from home on Monday
+*ARD:	um@s:cym&eng # ond yn sicr fydd raid ni wneud rywbeth ar_gyfer dydd Mawrth . %snd:"fusser18"_42632_46254
+%gls:	IM but PRT certain be.3S.FUT necessity PRON.1PL do.NONFIN something for day Tuesday
+%eng:	um, but certainly we'll have to do something for Tuesday
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_46133_46656
+%gls:	yeah
+%eng:	yeah
+*ARD:	a (y)r dydd Mercher . %snd:"fusser18"_46656_48897
+%gls:	and DET day Wednesday
+%eng:	and the Wednesday
+*ARD:	a dydd Mercher dw i meddwl . %snd:"fusser18"_48897_50301
+%gls:	and day Wednesday be.1S.PRES PRON.1S think.NONFIN
+%eng:	and Wednesday, I think
+*ARD:	ond does (yn)a (ddi)m_byd (we)di cael ei gadarnhau +/ . %snd:"fusser18"_50301_52078
+%gls:	but be.3S.PRES.NEG there nothing PRT.PAST get.NONFIN POSS.3SM confirm.NONFIN
+%eng:	but nothing's been confirmed...
+*BEU:	right@s:cym&eng . %snd:"fusser18"_52078_52693
+%gls:	right
+%eng:	right
+*ARD:	+, yn iawn . %snd:"fusser18"_52693_53297
+%gls:	PRT right
+%eng:	properly
+*BEU:	+< so@s:cym&eng <pryd wnei> [//] pryd gei di ffeindio allan # am hynna ? %snd:"fusser18"_52728_54702
+%gls:	so when do.2S.NONPAST when get.2S.NONPAST PRON.2S find.NONFIN out about that
+%eng:	so when will you...when will you get to find out about that?
+*ARD:	oh@s:cym&eng ddylswn i wybod &ʊs [//] wythnos yma os oes (y)na . %snd:"fusser18"_54644_57372
+%gls:	IM should.1S.CONDIT PRON.1S know.NONFIN week here if be.3S.PRES there
+%eng:	oh, I should know this week if there is
+*BEU:	+< wythnos yma . %snd:"fusser18"_56745_57244
+%gls:	week here
+%eng:	this week
+*ARD:	ia # ia . %snd:"fusser18"_57372_58626
+%gls:	yes yes
+%eng:	yes, yes
+%com:	Beuno slurps his drinks then puts down the cup
+*ARD:	right@s:cym&eng wedyn um@s:cym&eng # (dy)na ni felly am [?] +// . %snd:"fusser18"_62836_66122
+%gls:	right then IM there PRON.1PL thus for
+%eng:	right, so um, that's it then, for...
+*ARD:	oh@s:cym&eng fydd hi nice@s:cym&eng gweld y gwanwyn yn dod . %snd:"fusser18"_66122_68734
+%gls:	IM be.3S.FUT PRON.3SF nice see.NONFIN DET spring PRT come.NONFIN
+%eng:	oh, it'll be nice to see the spring coming
+*BEU:	oh@s:cym&eng dw i gwybod &=laugh . %snd:"fusser18"_68734_70510
+%gls:	IM be.1S.PRES PRON.1S know.NONFIN
+%eng:	oh, I know
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_70510_71230
+%gls:	IM
+%eng:	oh
+*BEU:	mae wastad yn gaea hir yndy . %snd:"fusser18"_71230_72658
+%gls:	be.3S.PRES always PRT winter long be.3S.PRES
+%eng:	it's always a long winter, isn't it
+*ARD:	gaea hir yndy . %snd:"fusser18"_72588_73691
+%gls:	winter long be.3S.PRES
+%eng:	long winter, yes
+*BEU:	yndy . %snd:"fusser18"_73691_74237
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	o'n i meddwl wneud (di)pyn bach o arddio . %snd:"fusser18"_74237_78208
+%gls:	be.1S.IMP PRON.1S think.NONFIN do.NONFIN a_little small of garden.NONFIN
+%eng:	I was thinking of doing some gardening
+*BEU:	oh@s:cym&eng <fydd hi> [/] # fydd hi (y)n cynhesu (y)n o fuan xxx . %snd:"fusser18"_78208_80967
+%gls:	IM be.3S.FUT PRON.3SF be.3S.FUT PRON.3SF PRT warm.NONFIN PRT rather soon xxx
+%eng:	oh it'll...it'll warm up soon [...]
+*BEU:	xxx mynd allan i (y)r ardd a [/] # a wneud pethau a dechrau plannu pethau a +/ . %snd:"fusser18"_80955_84612
+%gls:	xxx go.NONFIN out to DET garden and do.NONFIN things and start.NONFIN plant.NONFIN things and
+%eng:	xxx go out to the garden and...and do things and start to plant things and...
+*ARD:	+< bydd a +.. . %snd:"fusser18"_82399_82933
+%gls:	be.3S.FUT and
+%eng:	yes and...
+*ARD:	++ a llnau (y)r slabs@s:cym&eng ac yn y blaen . %snd:"fusser18"_84605_86520
+%gls:	and clean.NONFIN DET slabs and in DET front
+%eng:	and clean the slabs and so on
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_86520_87054
+%gls:	yeah
+%eng:	yeah
+*BEU:	a hel y dail (y)ma . %snd:"fusser18"_87054_88308
+%gls:	and gather.NONFIN DET leaves here
+%eng:	and gather up these leaves
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_88308_88970
+%gls:	IM
+%eng:	oh
+*BEU:	<ti gweld> [?] y dail sy (we)di hel # ar_hyd yr ochr (y)ma ? %snd:"fusser18"_88599_90828
+%gls:	PRON.2S see.NONFIN DET leaves be.PRES.REL PRT.PAST gather.NONFIN along DET side here
+%eng:	have you seen the leaves that have gathered along the side here
+*ARD:	+< oh@s:cym&eng <mae (y)n> [?] anhygoel # yndy . %snd:"fusser18"_90015_91582
+%gls:	IM be.3S.PRES PRT incredible be.3S.PRES
+%eng:	oh, it's incredible, yes
+*BEU:	mae just@s:cym&eng (we)di # chwyrlïo (y)na dw meddwl a (we)di hel . %snd:"fusser18"_91582_94369
+%gls:	be.3S.PRES just PRT.PAST whirl.NONFIN there be.1S.PRES think.NONFIN and PRT.PAST gather.NONFIN
+%eng:	they've just whirled there, I think, and gathered
+*ARD:	<a wnes i> [/] oh@s:cym&eng wnes i holi ynglŷn â um@s:cym&eng # swings@s:eng hefyd . %snd:"fusser18"_94369_99965
+%gls:	and do.1S.PAST PRON.1S IM do.1S.PAST PRON.1S inquire.NONFIN regarding PRT IM swings also
+%eng:	and I...oh, I asked about swings too
+*BEU:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_99965_100917
+%gls:	IM right
+%eng:	oh right
+*ARD:	um@s:cym&eng # ond # ches i ddim # prisiau ac yn y blaen (fe)lly . %snd:"fusser18"_100835_104423
+%gls:	IM but get.1S.PAST PRON.1S NEG prices and in DET front thus
+%eng:	um, but I didn't get any prices and so on, you know
+*BEU:	be er@s:cym&eng [=? y] y rei pren (y)ma # ti feddwl yeah@s:cym&eng ? %snd:"fusser18"_104168_106164
+%gls:	what IM DET ones wood here PRON.2S think.NONFIN yeah
+%eng:	what, er, these wooden ones you mean, yeah?
+*ARD:	+< y rei pren ia . %snd:"fusser18"_105096_106652
+%gls:	DET ones wood yes
+%eng:	the wooden ones, yes
+*BEU:	dim y rei # metel # ie . %snd:"fusser18"_106652_108034
+%gls:	NEG DET some metal yes
+%eng:	not the metal ones, yes
+*ARD:	+< ia . %snd:"fusser18"_107140_107685
+%gls:	yes
+%eng:	yes
+*ARD:	dw i teimlo bod nice@s:cym&eng iddyn nhw # gael swing@s:cym&eng yn yr ardd felly # um@s:cym&eng er bod nhw (we)di # hen dyfu allan o rei Argos@s:cym&eng nhw . %snd:"fusser18"_108034_117159
+%gls:	be.1S.PRES PRON.1S feel.NONFIN be.NONFIN nice for.3PL PRON.3PL get.NONFIN swing in DET garden thus IM although be.NONFIN PRON.3PL PRT.PAST old grow.NONFIN out of ones Argos PRON.3PL
+%eng:	I think it's nice for them to have a swing in the garden, like, um, although they've long grown out of their Argos ones
+*BEU:	sut rei oedd (r)heina ? %snd:"fusser18"_117159_118134
+%gls:	how ones be.3S.IMP those
+%eng:	what were those ones like?
+*ARD:	xxx +/ . %snd:"fusser18"_118134_118831
+*BEU:	oedden [/] oedden nhw werth [/] # werth cael o_gwbl ta &d +/? %snd:"fusser18"_118332_120642
+%gls:	be.3PL.IMP be.3PL.IMP PRON.3PL worth worth get.NONFIN at_all or
+%eng:	were they worth having at all or..?
+*ARD:	na dyn nhw (ddi)m yn rei cry iawn . %snd:"fusser18"_120085_122349
+%gls:	no be.3PL.PRES.NEG PRON.3PL NEG PRT some strong very
+%eng:	no, they're not very strong ones
+*BEU:	+< na ? %snd:"fusser18"_121780_122163
+%gls:	no
+%eng:	no?
+*ARD:	um@s:cym&eng ac wrth_gwrs oedden nhw (ddi)m yn edrych yn dda . %snd:"fusser18"_122349_125007
+%gls:	IM and of_course be.3PL.IMP PRON.3PL NEG PRT look.NONFIN PRT good
+%eng:	um, and of course, they didn't look good
+*ARD:	(y)r ha dwytha wnes i weld nhw . %snd:"fusser18"_125007_126470
+%gls:	DET summer previous do.1S.PAST PRON.1S ee.NONFIN PRON.3PL
+%eng:	last summer I saw them
+*ARD:	ond wrth_gwrs mae nhw (we)di bod drost y gaea . %snd:"fusser18"_126470_128258
+%gls:	but of_course be.3PL.PRES PRON.3PL PRT.PAST be.NONFIN over DET winter
+%eng:	but of course, they've been over the winter
+*ARD:	a mae nhw (y)n edrych (d)igon shabby@s:cym&eng +/ . %snd:"fusser18"_128258_129884
+%gls:	and be.3PL.PRES PRON.3PL PRT look.NONFIN enough shabby
+%eng:	and they look quite shabby...
+*BEU:	right@s:cym&eng . %snd:"fusser18"_129884_130441
+%gls:	right
+%eng:	right
+*ARD:	+, xxx [//] edrych (d)igon diddim . %snd:"fusser18"_130441_132194
+%gls:	xxx look.NONFIN enough of_poor_quality
+%eng:	[...] look pretty rubbish
+*ARD:	um@s:cym&eng # dw meddwl hwyrach (ba)sai (y)n well prynu (y)r coed # wedi w treat_io@s:eng+cym +/ . %snd:"fusser18"_132194_138765
+%gls:	IM be.1S.PRES think.NONFIN perhaps be.3S.CONDIT PRT better buy.NONFIN DET wood PRT.PAST POSS.3PL treat.NONFIN
+%eng:	um, I think perhaps it'd be better to buy the wood treated...
+*BEU:	oh@s:cym&eng &s &d dw [/] dw i sure@s:cym&eng <(ba)sen ni> [=? (ba)swn i] medru wneud rhei gystal xxx . %snd:"fusser18"_138359_141157
+%gls:	IM be.1S.PRES be.1S.PRES PRON.1S sure be.1PL.CONDIT PRON.1PL can.NONFIN do.NONFIN some as_good xxx
+%eng:	oh I'm sure we could make equally good ones
+*ARD:	+< a gwneud +// . %snd:"fusser18"_140158_140971
+%gls:	and do.NONFIN
+%eng:	and do...
+*ARD:	ia . %snd:"fusser18"_140971_141842
+%gls:	yes
+%eng:	yes
+*ARD:	dw i teimlo # mae (y)r ardd nhw (y)n lle bach pwysig iddyn nhw chwarae a bod bechod i ni +/ . %snd:"fusser18"_141842_146045
+%gls:	be.1S.PRES PRON.1S feel.NONFIN be.3S.PRES DET garden PRON.3PL PRT place small important for.3PL PRON.3PL play.NONFIN and be.NONFIN sin for PRON.1PL
+%eng:	I feel their garden is an important place for them to play, and it's a shame for us to...
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_146045_146370
+%gls:	yeah
+%eng:	yeah
+*BEU:	ti gwybod dw i mwynhau wneud pethau coed anyway@s:eng . %snd:"fusser18"_146370_148158
+%gls:	PRON.2S know.NONFIN be.1S.PRES PRON.1S enjoy.NONFIN do.NONFIN things wood anyway
+%eng:	you know, I enjoy making things with wood, anyway
+*BEU:	so@s:cym&eng # fedrwn [?] ni wneud rywbeth . %snd:"fusser18"_148158_150166
+%gls:	so can.1PL.NONPAST PRON.1PL do.NONFIN something
+%eng:	so we can make something
+*ARD:	iawn . %snd:"fusser18"_150166_151072
+%gls:	right
+%eng:	alright
+*ARD:	wedyn (ba)sai hynna gallu bod yn +/ . %snd:"fusser18"_151072_154299
+%gls:	then be.3S.CONDIT that can.NONFIN be.NONFIN PRT
+%eng:	so that could be...
+*BEU:	+< xxx hynna (y)n y gwanwyn . %snd:"fusser18"_153255_154892
+%gls:	xxx that in DET spring
+%eng:	[...] that in spring
+*ARD:	hwyrach (ba)sai hynna (y)n gallu bod yn rhan o bresent@s:cym&eng pen_blwydd Haf@s:cym&eng . %snd:"fusser18"_154892_158038
+%gls:	perhaps be.3S.CONDIT that PRT can.NONFIN be.NONFIN PRT part of present birthday Haf
+%eng:	perhaps that could be part of Haf's birthday present
+*ARD:	(a)chos dyna un +/ . %snd:"fusser18"_158038_159779
+%gls:	because there one
+%eng:	because that's one...
+*BEU:	+< ia &bə mae [?] braidd yn gynnar <hefyd (y)ndy> [?] # i hynna . %snd:"fusser18"_158943_161231
+%gls:	yes be.3S.PRES rather PRT early also be.3S.PRES for that
+%eng:	yes, it's a bit early too, isn't it, for that
+*ARD:	oh@s:cym&eng yndy i wneud o yndy . %snd:"fusser18"_160778_162101
+%gls:	IM be.3S.PRES to do.NONFIN PRON.3SM be.3S.PRES
+%eng:	oh yes, to do it, yes
+*BEU:	+< yndy . %snd:"fusser18"_161335_161637
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	ond un peth dw isio wneud ydy <cael xxx> [//] cael presant pen_blwydd . %snd:"fusser18"_162101_164853
+%gls:	but one thing be.1S.PRES want do.NONFIN be.3S.PRES get.NONFIN xxx get.NONFIN present birthday
+%eng:	but one thing I want to do is to get a birthday present
+*ARD:	mae <gynni isio> [?] My_Little_Pony@s:cym&eng . %snd:"fusser18"_164853_167326
+%gls:	be.3S.PRES with.3SF want My_Little_Pony
+%eng:	she wants a My Little Pony
+*BEU:	dyna mae isio ? %snd:"fusser18"_167326_168707
+%gls:	there be.3S.PRES want
+%eng:	that's what she wants?
+*ARD:	ia . %snd:"fusser18"_168707_169091
+%gls:	yes
+%eng:	yes
+*ARD:	a wedyn a i Argos@s:cym&eng # i brynu # My_Little_Pony@s:cym&eng . %snd:"fusser18"_169091_172771
+%gls:	and then go.1S.NONPAST to Argos to buy.NONFIN My_Little_Pony
+%eng:	so I'll go to Argos to buy a My Little Pony
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_172771_173793
+%gls:	IM
+%eng:	mmm
+*ARD:	o'n i meddwl bod hi (we)di tyfu allan o My_Little_Pony@s:cym&eng ond +/ . %snd:"fusser18"_173793_177125
+%gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.3SF PRT.PAST grow.NONFIN out of My_Little_Pony but
+%eng:	I thought she'd grown out of My Little Pony but...
+*BEU:	o'n innau (he)fyd xxx mae (we)di tyfu allan o stage@s:cym&eng yma . %snd:"fusser18"_177125_179238
+%gls:	be.1S.IMP PRON.1S also xxx be.3S.PRES PRT.PAST grow.NONFIN out of stage here
+%eng:	I did too [...] she's grown out of this stage
+*BEU:	ond mae (y)n &d xxx bod hi mynd yn_ôl +/ . %snd:"fusser18"_179238_180991
+%gls:	but be.3S.PRES PRT xxx be.NONFIN PRON.3SF go.NONFIN back
+%eng:	but it's [...] she's going back...
+*ARD:	+< ia . %snd:"fusser18"_179551_179981
+%gls:	yes
+%eng:	yes
+*ARD:	er@s:cym&eng yndy . %snd:"fusser18"_180991_181711
+%gls:	IM be.3S.PRES
+%eng:	er, yes
+*BEU:	+, (y)chydig bach yn y pethau (y)ma yndy ? %snd:"fusser18"_181536_182639
+%gls:	a_little small in DET things here be.3S.PRES
+%eng:	a little bit in these things, is she?
+*ARD:	yeah@s:cym&eng [?] dw i meddwl mae o (y)n # y rhan ola <o (y)r> [/] # <o (y)r stage@s:cym&eng yna o brynu> [=! laughs] &=laugh My_Little_Pony@s:cym&eng [=! laughs]. %snd:"fusser18"_182163_189594
+%gls:	yeah be.1S.PRES PRON.1S think.NONFIN be.3S.PRES PRON.3SM PRT DET part last of DET of DET stage there of buy.NONFIN My_Little_Pony
+%eng:	yeah, I think it's the last part of that stage of buying My Little Pony
+*BEU:	+< &=laugh right@s:cym&eng . %snd:"fusser18"_186645_188015
+%gls:	right
+%eng:	right
+*BEU:	xxx annwy(d) [/] annwyd nhw well@s:cym&eng anyway@s:eng yndy . %snd:"fusser18"_189594_195445
+%gls:	xxx cold cold PRON.3PL better anyway be.3S.PRES
+%eng:	[...] their cold's better anyway, isn't it
+*ARD:	oh@s:cym&eng yndy . %snd:"fusser18"_195445_196815
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*ARD:	<flu@s:cym&eng and@s:eng annwyds> [?] . %snd:"fusser18"_196815_198429
+%gls:	flu and colds
+%eng:	flu and colds
+*ARD:	yndy mae nhw (y)n dod &b bob math o bethau o (y)r ysgol . %snd:"fusser18"_198429_201726
+%gls:	be.3S.PRES be.3PL.PRES PRON.3PL PRT come.NONFIN every kind of things from DET school
+%eng:	yes, they bring all kinds of things from school
+*BEU:	xxx . %snd:"fusser18"_201726_202783
+*BEU:	xxx pasio fo (y)mlaen . %snd:"fusser18"_202783_204013
+%gls:	xxx pass.NONFIN PRON.3SM forward
+%eng:	[...] pass it on
+*ARD:	yndy . %snd:"fusser18"_204013_204455
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	+, i fi &=laugh . %snd:"fusser18"_204455_206126
+%gls:	to PRON.1S
+%eng:	to me
+*ARD:	+< i dad@s:cym&eng &=laugh . %snd:"fusser18"_204768_209691
+%gls:	to dad
+%eng:	to dad
+*BEU:	+< &=sniff . %snd:"fusser18"_206707_207148
+*ARD:	ie so@s:cym&eng <be (y)dy> [///] # be arall dan ni am wneud yn yr [//] # gwedd(ill) [//] yr ha (y)ma ? %snd:"fusser18"_209691_217272
+%gls:	yes so what be.3S.PRES what other be.1PL.PRES PRON.1PL for do.NONFIN in DET remainder DET summer here
+%eng:	yes, so what's...what else are we going to do in the...the rest...this summer
+*BEU:	<raid ni trio> [?] # trefnu gwyliau (y)n rywle fydd [?] . %snd:"fusser18"_217272_220825
+%gls:	necessity PRON.1PL try.NONFIN arrange.NONFIN holiday in somewhere be.3S.FUT
+%eng:	we'll have to try to arrange a holiday somewhere, won't we
+*ARD:	+< xxx +.. . %snd:"fusser18"_219339_220093
+*ARD:	ia . %snd:"fusser18"_220825_221660
+%gls:	yes
+%eng:	yes
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_221660_222334
+%gls:	IM
+%eng:	mmm
+*ARD:	be (fa)sai nice@s:cym&eng # weld wneud ? %snd:"fusser18"_222334_225759
+%gls:	what be.3S.CONDIT nice see.NONFIN do.NONFIN
+%eng:	what would be nice to see, to do?
+*ARD:	(ba)swn i licio mynd i Rhydychen . %snd:"fusser18"_225759_228801
+%gls:	be.1S.CONDIT PRON.1S like.NONFIN go.NONFIN to Oxford
+%eng:	I'd like to go to Oxford
+*BEU:	xxx dan ni (we)di sôn xxx # mynd i Rhydychen eto do . %snd:"fusser18"_228801_232609
+%gls:	xxx be.1PL.PRES PRON.1PL PRT.PAST mention.NONFIN xxx go.NONFIN to Oxford again yes
+%eng:	[...] we've talked about [...] going to Oxford again, haven't we
+*ARD:	+< do . %snd:"fusser18"_231227_231761
+%gls:	yes
+%eng:	yes
+*ARD:	do . %snd:"fusser18"_232609_232911
+%gls:	yes
+%eng:	yes
+*BEU:	xxx +/ . %snd:"fusser18"_232829_233526
+*ARD:	oh@s:cym&eng dw (ddi)m yn gwybod um@s:cym&eng # (ba)sen ni mynd # i weld ## dinasoedd o_fewn # Lloegr neu dan ni mynd i drafaelio . %snd:"fusser18"_232980_240747
+%gls:	IM be.1S.PRES NEG PRT know.NONFIN IM be.1PL.CONDIT PRON.1PL go.NONFIN to see.NONFIN cities within England or be.1PL.PRES PRON.1PL go.NONFIN to travel.NONFIN
+%eng:	oh I don't know, um, if we'd go to see cities in England, or are we going to travel
+*ARD:	xxx bod ni mynd drosodd i Paris@s:cym&eng neu +.. . %snd:"fusser18"_240747_244579
+%gls:	xxx be.NONFIN PRON.1PL go.NONFIN over to Paris or
+%eng:	[...] we go over to Paris or...
+*BEU:	+< <mi fysai nice@s:cym&eng wneud> [?] ella dipyn o ddau . %snd:"fusser18"_243522_245415
+%gls:	PRT be.3S.CONDIT nice do.NONFIN perhaps a_little of two.M
+%eng:	it'd be nice perhaps to do a bit of both
+*BEU:	xxx bosib mynd ar y # Eurotunnel@s:cym&eng yndy . %snd:"fusser18"_245415_248096
+%gls:	xxx possible go.NONFIN on DET Eurotunnel be.3S.PRES
+%eng:	[...] possible to go on the Eurotunnel, isn't it
+*BEU:	ond +/ . %snd:"fusser18"_248096_249083
+%gls:	but
+%eng:	but...
+*ARD:	yndy . %snd:"fusser18"_249083_250267
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	ond eto &b pan <o'n i> [?] sbïo <ar yr um@s:cym&eng> [/] # ar y we # mae # flights@s:eng (y)ma drosodd i lle [?] mor rhad wan i gymharu . %snd:"fusser18"_250267_260159
+%gls:	but again when be.1S.IMP PRON.1S look.NONFIN on DET IM on DET web be.3S.PRES flights here over to place so cheap now to compare.NONFIN
+%eng:	but when I was looking on the, um...on the internet, these flights over to places [?] are so cheap now in comparison
+*BEU:	mae rhatach na mynd drosodd ar ferry@s:cym&eng xxx de . %snd:"fusser18"_260159_262504
+%gls:	be.3S.PRES cheaper PRT go.NONFIN over on ferry xxx TAG
+%eng:	it's cheaper than going over on the ferry [...] you know
+*ARD:	ia . %snd:"fusser18"_262504_263480
+%gls:	yes
+%eng:	yes
+*BEU:	pan ti sôn am # couple@s:cym&eng o bunnoedd am # flight@s:eng i Europe@s:cym&eng +.. . %snd:"fusser18"_263480_267450
+%gls:	when PRON.2S mention.NONFIN about couple of pounds for flight to Europe
+%eng:	when you're talking about a couple of pounds for a flight to Europe...
+*BEU:	o_k@s:cym&eng dw gwybod mae rywun gorod talu # trethi maes awyr ac ati . %snd:"fusser18"_267450_271467
+%gls:	o_k be.1S.PRES know.NONFIN be.3S.PRES somebody must.NONFIN pay.NONFIN taxes ground air and so_on
+%eng:	ok, I know one has to pay airport taxes and so on
+*BEU:	ond um@s:cym&eng # mae dal yn rhatach na [/] na dreifio lawr +/ . %snd:"fusser18"_271467_275682
+%gls:	but IM be.3S.PRES still PRT cheaper PRT PRT drive.NONFIN down
+%eng:	but um, it's still cheaper than driving down
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_273220_273743
+%gls:	IM
+%eng:	mmm
+*ARD:	ia . %snd:"fusser18"_275707_277319
+%gls:	yes
+%eng:	yes
+*BEU:	+, i (y)r south@s:eng coast@s:eng (y)na a wedyn +/ . %snd:"fusser18"_277273_280767
+%gls:	to DET south coast there and then
+%eng:	to that south coast and then...
+*ARD:	++ a siwrnai flinedig o deithio . %snd:"fusser18"_278398_280256
+%gls:	and journey tiring of travel.NONFIN
+%eng:	and a tiring journey of travelling
+*BEU:	+, ymlaen wedyn . %snd:"fusser18"_279861_280848
+%gls:	forward then
+%eng:	then on
+*ARD:	+< ia . %snd:"fusser18"_280256_280686
+%gls:	yes
+%eng:	yes
+*ARD:	a (ba)sai # Cai@s:cym&eng wrth ei fodd yn mynd ar awyren bysai . %snd:"fusser18"_280848_285550
+%gls:	and be.3S.CONDIT Cai by POSS.3SM liking PRT go.NONFIN on aeroplane be.3S.CONDIT
+%eng:	and Cai would love going on a plane, wouldn't he
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_285422_286061
+%gls:	IM
+%eng:	mmm
+*BEU:	(be)cause@s:eng o'n i gweld xxx diwrnod blaen mae [/] mae (y)na ryw # um@s:cym&eng # cwmni awyrenau newydd # rhad o Manceinion eto . %snd:"fusser18"_286061_294629
+%gls:	because be.1S.IMP PRON.1S see.NONFIN xxx day before be.3S.PRES be.3S.PRES there some IM company aeroplanes new cheap from Manchester again
+%eng:	because I saw [...] the other day there's another [?] new cheap airline from Manchester
+*BEU:	Jet_to_Go@s:cym&eng neu (ryw)beth (y)dy enw fo . %snd:"fusser18"_294629_296057
+%gls:	Jet_to_Go or something be.3S.PRES name PRON.3SM
+%eng:	it's called Jet to Go or something
+*ARD:	oh@s:cym&eng yeah@s:cym&eng ? %snd:"fusser18"_296057_297311
+%gls:	IM yeah
+%eng:	oh yeah?
+*BEU:	fath â Easyjet@s:cym&eng type@s:cym&eng o beth . %snd:"fusser18"_297311_298983
+%gls:	kind with Easyjet type of thing
+%eng:	like Easyjet type of thing
+*ARD:	ia . %snd:"fusser18"_298983_299459
+%gls:	yes
+%eng:	yes
+*BEU:	um@s:cym&eng # hedfan i Europe@s:cym&eng <ac &a> [/] # ac ati . %snd:"fusser18"_299215_301711
+%gls:	IM fly.NONFIN to Europe and and so_on
+%eng:	um, flies to Europe and so on
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_301711_303372
+%gls:	IM right
+%eng:	oh right
+*BEU:	so@s:cym&eng yr un <type@s:cym&eng o beth> [?] fath â Ryanair@s:cym&eng Easyjet@s:cym&eng +.. . %snd:"fusser18"_302884_305728
+%gls:	so DET one type of thing kind with Ryanair Easyjet
+%eng:	so the same kind of thing, like Ryanair, Easyjet...
+*ARD:	ia . %snd:"fusser18"_305728_306262
+%gls:	yes
+%eng:	yes
+*BEU:	xxx . %snd:"fusser18"_306262_307029
+*ARD:	ia . %snd:"fusser18"_307029_307656
+%gls:	yes
+%eng:	yes
+*BEU:	wneud [?] flights@s:eng rhad (y)na . %snd:"fusser18"_307656_308747
+%gls:	do.NONFIN flights cheap there
+%eng:	do cheap flights there
+*ARD:	oh@s:cym&eng mae hynna (y)n option@s:cym&eng felly . %snd:"fusser18"_308747_310512
+%gls:	IM be.3S.PRES that PRT option thus
+%eng:	oh, that's an option then
+*BEU:	+< (ba)sai werth cadw llygad allan am (r)heina . %snd:"fusser18"_309606_311197
+%gls:	be.3S.CONDIT worth keep.NONFIN eye out for those
+%eng:	it'd be worth keeping an eye out for those
+*ARD:	ia . %snd:"fusser18"_311197_311800
+%gls:	yes
+%eng:	yes
+*BEU:	ond &də [/] dw i (ddi)m yn gwybod [?] +// . %snd:"fusser18"_311800_313519
+%gls:	but be.1S.PRES PRON.1S NEG PRT know.NONFIN
+%eng:	but I don't know...
+*BEU:	<(doe)s (yn)a (ddi)m> [?] point@s:cym&eng bwcio llawer [//] # pethau rhy gynnar . %snd:"fusser18"_313519_317257
+%gls:	be.3S.PRES.NEG there NEG point book.NONFIN much things too early
+%eng:	there's no point booking much...things too early
+*BEU:	xxx just@s:cym&eng sbïo # agosach at # yr amser be sy ar_gael +/ . %snd:"fusser18"_317257_321181
+%gls:	xxx just look.NONFIN closer to DET time what be.PRES.REL available
+%eng:	[...] just look closer to the time what's available...
+*ARD:	ia &=clears_throat . %snd:"fusser18"_321181_322841
+%gls:	yes
+%eng:	yes
+*BEU:	+< +, a <pa &gwɛrs> [//] er@s:cym&eng # fath â pa gwestai sy ar_gael . %snd:"fusser18"_321634_324153
+%gls:	and which IM kind with which hotels be.PRES.REL available
+%eng:	and what...er, what hotels are available
+*BEU:	ac um@s:cym&eng +/ . %snd:"fusser18"_324153_325790
+%gls:	and IM
+%eng:	and um...
+*ARD:	(be)cause@s:eng dan ni right@s:cym&eng hyblyg . %snd:"fusser18"_325790_327834
+%gls:	because be.1PL.PRES PRON.1PL right flexible
+%eng:	because we're quite flexible
+*BEU:	+< +, <&ə &d> [/] a trio matsio flights@s:eng i_fyny de . %snd:"fusser18"_326731_328426
+%gls:	and try.NONFIN match.NONFIN flights up TAG
+%eng:	and try to match up flights, you know
+*ARD:	ia . %snd:"fusser18"_328426_328937
+%gls:	yes
+%eng:	yes
+*ARD:	(be)cause@s:eng wnaethon ni &ro [//] sôn am Rufain yn_do +/ . %snd:"fusser18"_328937_331665
+%gls:	because do.1PL.PAST PRON.1PL mention.NONFIN about Rome yes
+%eng:	because we did mention Rome, didn't we
+*BEU:	do . %snd:"fusser18"_331665_332129
+%gls:	yes
+%eng:	yes
+*ARD:	+, a (y)r Vatican@s:cym&eng . %snd:"fusser18"_332129_334382
+%gls:	and DET Vatican
+%eng:	and the Vatican
+*ARD:	so@s:cym&eng &m mewn ffordd <dydyn &rei> [//] xxx right@s:cym&eng hyblyg mewn ffordd . %snd:"fusser18"_334382_337772
+%gls:	so in way be.1PL.PRES.NEG xxx right flexible in way
+%eng:	so in a way we're not.. . [...] quite flexible in a way
+*BEU:	well@s:cym&eng xxx [//] xxx fedran ni wneud hynna eto . %snd:"fusser18"_337180_339188
+%gls:	well xxx xxx can.1PL.NONPAST PRON.1PL do.NONFIN that again
+%eng:	well [...] .. . [...] we can do that another time
+*ARD:	ia . %snd:"fusser18"_339188_339618
+%gls:	yes
+%eng:	yes
+*BEU:	xxx (dy)dy hynna ddim problem@s:cym&eng . %snd:"fusser18"_339304_340419
+%gls:	xxx be.3S.PRES.NEG that NEG problem
+%eng:	[...] that's no problem
+*BEU:	um@s:cym&eng # xxx o'n i sbïo diwrnod blaen . %snd:"fusser18"_340419_344297
+%gls:	IM xxx be.1S.IMP PRON.1S look.NONFIN day before
+%eng:	um, [...] I was looking the other day
+*BEU:	(ba)sai posib ei wneud o xxx am [/] am couple@s:cym&eng o gannoedd anyway@s:eng . %snd:"fusser18"_344297_347211
+%gls:	be.3S.CONDIT possible POSS.3SM do.NONFIN PRON.3SM xxx for for couple of hundreds anywya
+%eng:	it'd be possible to do it for a couple of hundred anyway
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_347211_348383
+%gls:	IM right
+%eng:	oh right
+*ARD:	so@s:cym&eng [?] wneith o (ddi)m costio # gormod felly ? %snd:"fusser18"_348383_350264
+%gls:	so do.3S.NONPAST PRON.3SM NEG cost.NONFIN too_much thus
+%eng:	so it won't cost too much, then?
+*BEU:	dim gormod # &=clears_throat . %snd:"fusser18"_350264_352517
+%gls:	NEG too_much
+%eng:	not too much
+*BEU:	ia . %snd:"fusser18"_352517_354130
+%gls:	yes
+%eng:	yes
+*ARD:	(be)cause@s:eng un peth ddylsen ni wneud hefyd # ha (y)ma (y)dy peintio (y)n_de . %snd:"fusser18"_354130_357404
+%gls:	because one thing should.1PL.CONDIT PRON.1PL do.NONFIN also summer here be.3S.PRES paint.NONFIN TAG
+%eng:	because one thing we should do this summer too is paint, isn't it
+*ARD:	mae (y)r lle yn oel bysedd i_gyd . %snd:"fusser18"_357404_359796
+%gls:	be.3S.PRES DET place PRT trace fingers all
+%eng:	the place has fingerprints all over it
+*BEU:	xxx . %snd:"fusser18"_359645_360121
+*BEU:	a [/] a # am tŷ newydd +/ . %snd:"fusser18"_360121_362350
+%gls:	and and for house new
+%eng:	and...and for a new house...
+*ARD:	mae o (y)n +/ . %snd:"fusser18"_362350_363383
+%gls:	be.3S.PRES PRON.3SM PRT
+%eng:	he's...
+*BEU:	mae [/] mae isio coat@s:cym&eng o baent hefyd wan [?] xx ar lot@s:cym&eng o (y)r waliau (y)ma . %snd:"fusser18"_363105_365671
+%gls:	be.3S.PRES be.3S.PRES want coat of paint also now xx on lot of DET walls here
+%eng:	a lot of these walls need a coat of paint too now
+*ARD:	+< oes . %snd:"fusser18"_364533_365171
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	so@s:cym&eng +.. . %snd:"fusser18"_365671_368434
+%gls:	so
+%eng:	so...
+*BEU:	fydd un coat@s:cym&eng tenau +/ . %snd:"fusser18"_368074_369270
+%gls:	be.3S.FUT one coat thin
+%eng:	one thin coat will...
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_369270_370547
+%gls:	IM
+%eng:	mmm
+*BEU:	+, emulsion@s:cym&eng magnolia@s:cym&eng <mae (y)r> [/] # mae (y)r waliau (y)ma (we)di gael dw i meddwl . %snd:"fusser18"_370547_373608
+%gls:	emulsion magnolia be.3S.PRES DET be.3S.PRES DET walls here PRT.PAST get.NONFIN be.1S.PRES PRON.1S think.NONFIN
+%eng:	of magnolia emulsion this place has had, I think
+*ARD:	ia . %snd:"fusser18"_373608_374293
+%gls:	yes
+%eng:	yes
+*BEU:	ac wrth_gwrs mae nhw (we)di tyfu fyny # yma . %snd:"fusser18"_374293_378391
+%gls:	and of_course be.3PL.PRES PRON.3PL PRT.PAST grow.NONFIN up here
+%eng:	and of course, they've grown up here
+*BEU:	so@s:cym&eng mae (y)r hoel bysedd ers # plant bach (y)ma (y)ndy . %snd:"fusser18"_378391_380156
+%gls:	so be.3S.PRES DET trace fingers since children small here be.3S.PRES
+%eng:	so the finger marks of little children [?] are here, aren't they
+*ARD:	plant bach pum mlynedd yndy . %snd:"fusser18"_380074_381502
+%gls:	children small five year be.3S.PRES
+%eng:	little children, five years, yes
+*BEU:	yndy . %snd:"fusser18"_381502_381967
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	um@s:cym&eng # so@s:cym&eng mae hynna (y)n # &=clears_throat rywbeth hwyrach # (ba)sai nice@s:cym&eng . %snd:"fusser18"_381967_386355
+%gls:	IM so be.3S.PRES that PRT something perhaps be.3S.CONDIT nice
+%eng:	um, so that's something that would be nice, perhaps
+*ARD:	a bysai [?] Haf@s:cym&eng licio cael gwneud ei llofft . %snd:"fusser18"_386355_388329
+%gls:	and be.3S.CONDIT Haf like.NONFIN get.NONFIN do.NONFIN POSS.3S loft
+%eng:	and Haf would like to have her bedroom done
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_388329_389026
+%gls:	IM
+%eng:	mmm
+*ARD:	a dw meddwl (ba)sai Cai@s:cym&eng yn hefyd . %snd:"fusser18"_389026_390825
+%gls:	and be.1S.PRES think.NONFIN be.3S.CONDIT Cai PRT also
+%eng:	and I think Cai would, too
+*ARD:	so@s:cym&eng mewn ffordd fysen ni yn gallu rhoi (di)pyn bach o # amser +/ . %snd:"fusser18"_390825_394030
+%gls:	so in way be.1PL.CONDIT PRON.1PL PRT can.NONFIN give.NONFIN a_little small of time
+%eng:	so in a way we could give a little time...
+*BEU:	+< yeah@s:cym&eng xxx bach o liw # <yn y lle (y)ma wedyn de> [?] . %snd:"fusser18"_392845_395458
+%gls:	yeah xxx small of coulour in DET place here then TAG
+%eng:	yeah [...] a little colour in this place then, you know
+*ARD:	+< ia i gynhesu ia . %snd:"fusser18"_394900_396851
+%gls:	yes to warm.NONFIN yes
+%eng:	yes, to warm, yes
+*ARD:	a roi cymeriad i [/] # i w stafelloedd nhw (fe)lly . %snd:"fusser18"_396851_400194
+%gls:	and give.NONFIN character to to POSS.3PL rooms PRON.3PL thus
+%eng:	and give their rooms character, like
+*BEU:	+< xxx stafelloedd yeah@s:cym&eng . %snd:"fusser18"_399498_400612
+%gls:	xxx rooms yeah
+%eng:	[...] rooms, yeah
+*ARD:	ond er@s:cym&eng mae (y)r magnolia@s:cym&eng (y)ma mae o (y)n # lân . %snd:"fusser18"_400612_405489
+%gls:	but IM be.3S.PRES DET magnolia here be.3S.PRES PRON.3SM PRT clean
+%eng:	but er, this magnolia, it's clean
+*ARD:	mae o (y)n +.. . %snd:"fusser18"_405489_406592
+%gls:	be.3S.PRES PRON.3SM PRT
+%eng:	it's...
+*BEU:	mae fresh@s:cym&eng pan mae newydd yndy &=laugh . %snd:"fusser18"_406592_410783
+%gls:	be.3S.PRES fresh when be.3S.PRES new be.3S.PRES
+%eng:	it's fresh when it's new, isn't it
+*ARD:	+< yndy &=laugh . %snd:"fusser18"_409657_412524
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	xxx Haf@s:cym&eng xxx pan oedd hi fychan mae (we)di bod yn sgwennu ar y waliau (y)n_do . %snd:"fusser18"_412524_415520
+%gls:	xxx Haf xxx when be.3S.IMP PRON.3SF small be.3S.PRES PRT.PAST be.NONFIN PRT write.NONFIN on DET walls yes
+%eng:	[...] Haf [...] when she was little she's been writing on the walls, hasn't she
+*ARD:	&t mae (y)na felt_tips@s:eng . %snd:"fusser18"_415520_417331
+%gls:	be.3S.PRES there felt_tips
+%eng:	there are felt-tips
+*BEU:	+< xxx +// . %snd:"fusser18"_416390_416797
+*BEU:	oh@s:cym&eng [?] mae [/] mae dal hoel yn llefydd wan sti o_gwmpas [?] . %snd:"fusser18"_417261_419676
+%gls:	IM be.3S.PRES be.3S.PRES still trace in places now know.2S around
+%eng:	there are still marks places now, you know, around
+*ARD:	+< oh@s:cym&eng yndy . %snd:"fusser18"_418654_419676
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*ARD:	mae (y)na sgwennu . %snd:"fusser18"_419676_420558
+%gls:	be.3S.PRES there write.NONFIN
+%eng:	there's writing
+*BEU:	oedd [?] . %snd:"fusser18"_420558_421301
+%gls:	be.3S.IMP
+%eng:	yes
+*ARD:	xxx dal (ddi)m (we)di dod allan o hynna eto na(g) (y)dy . %snd:"fusser18"_421301_423322
+%gls:	xxx still NEG PRT.PAST come.NONFIN out of that again NEG be.3S.PRES
+%eng:	[...] still hasn't grown out of that yet, has she
+*BEU:	na . %snd:"fusser18"_423089_423763
+%gls:	no
+%eng:	no
+*BEU:	xxx . %snd:"fusser18"_423763_425017
+*BEU:	a Sellotape@s:cym&eng # yn stuck@s:cym&eng i (y)r wal &=sniff . %snd:"fusser18"_425017_428581
+%gls:	and Sellotape PRT stuck to DET wall
+%eng:	and Sellotape, stuck to the wall
+*ARD:	+< &=gasp Sellotape@s:cym&eng ! %snd:"fusser18"_427002_428720
+%gls:	Sellotape
+%eng:	Sellotape!
+*ARD:	a Blu_Tack@s:cym&eng # yn gadael yr olew ar_ôl . %snd:"fusser18"_428720_432261
+%gls:	and Blu_Tack PRT leave.NONFIN DET oil after
+%eng:	and Blu-Tack, leaving the oil behind
+*BEU:	+< neu [?] +.. . %snd:"fusser18"_430705_431170
+%gls:	or
+%eng:	or...
+*ARD:	so@s:cym&eng ti (we)di talu dy drwydded um@s:cym&eng # eto ? %snd:"fusser18"_432261_439784
+%gls:	so PRON.2S PRT.PAST pay.NONFIN POSS.2S licence IM yet
+%eng:	so have you paid your licence yet?
+*ARD:	&=laugh . %snd:"fusser18"_439784_445311
+*BEU:	+< &=laugh . %snd:"fusser18"_441967_443720
+*BEU:	+< be [/] be y [/] y nirwy i ? %snd:"fusser18"_443860_445775
+%gls:	what what POSS.1S POSS.1S fine PRON.1S
+%eng:	what, my fine?
+*ARD:	ia . %snd:"fusser18"_445775_446750
+%gls:	yes
+%eng:	yes
+*BEU:	xxx gynta . %snd:"fusser18"_446321_447772
+%gls:	xxx first
+%eng:	[...] first
+*ARD:	&=laugh . %snd:"fusser18"_447772_449502
+*BEU:	+< xxx +// . %snd:"fusser18"_448655_449096
+*ARD:	oh@s:cym&eng dear@s:cym&eng . %snd:"fusser18"_449502_450988
+%gls:	IM dear
+%eng:	oh dear
+*BEU:	yeah@s:cym&eng xxx faint o flynyddoedd dw er@s:cym&eng [?] i ar y ffordd wan de a dim (we)di cael dim # dirwy o_gwbl . %snd:"fusser18"_450988_455748
+%gls:	yeah xxx how_much of years be.1S.PRES IM on DET road now TAG and NEG PRT.PAST get.NONFIN NEG fine at_all
+%eng:	yeah [...] how many years I've been on the road now, you know, and haven't had any fines at all
+*BEU:	a (we)dyn # wsnos i ddydd Sul +/ . %snd:"fusser18"_455748_458674
+%gls:	and then week to day Sunday
+%eng:	and then a week Sunday...
+*ARD:	ia . %snd:"fusser18"_458674_459301
+%gls:	yes
+%eng:	yes
+*BEU:	+, oedd hi de . %snd:"fusser18"_459301_460764
+%gls:	be.3S.IMP PRON.3SF TAG
+%eng:	it was, wasn't it
+*ARD:	mynd lawr +/ . %snd:"fusser18"_460764_461495
+%gls:	go.NONFIN down
+%eng:	going down...
+*BEU:	wneud tri_deg_pump mewn # tri_deg . %snd:"fusser18"_461054_463515
+%gls:	do.NONFIN thirty_five in thirty
+%eng:	doing thirty-five in forty
+*ARD:	ia . %snd:"fusser18"_463515_464258
+%gls:	yes
+%eng:	yes
+*BEU:	so@s:cym&eng dw i gorod # talu chwe_deg punt # a gael tri # pwynt ar y nhrwydded . %snd:"fusser18"_464258_469977
+%gls:	so be.1S.PRES PRON.1S must.NONFIN pay.NONFIN sixty pound and get.NONFIN three.M point on POSS.1S licence
+%eng:	so I have to pay sixty pounds and have three points on my licence
+*ARD:	a (we)dyn fydd y tri pwynt yna # ymlaen am dair # blynedd ? %snd:"fusser18"_469977_474958
+%gls:	and then be.3S.FUT DET three.M point there on for three.F year
+%eng:	and then those three points will be on it for three years?
+*BEU:	&nd well@s:cym&eng # yndy mae [/] <mae o> [///] # mae nhw cyfri o am tair . %snd:"fusser18"_474633_478836
+%gls:	well be.3S.PRES be.3S.PRES be.3S.PRES PRON.3SM be.3PL.PRES PRON.3PL count.NONFIN PRON.3SM for three.F
+%eng:	well yes, it's...they count it for three
+*BEU:	ond mae o ar dy &d drwydded di am bedair +/ . %snd:"fusser18"_478836_480972
+%gls:	but be.3S.PRES PRON.3SM on POSS.2S licence PRON.2S for four.F
+%eng:	but it's on your licence for four...
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_480972_482307
+%gls:	IM
+%eng:	oh
+*BEU:	+, er@s:cym&eng [?] yn_ôl bob sôn . %snd:"fusser18"_482139_483427
+%gls:	IM after every mention
+%eng:	er, so I've heard
+*ARD:	a faint o (y)r pwyntiau (y)na sydd ar drwydded i_gyd ? %snd:"fusser18"_483427_485999
+%gls:	and how_many of DET points there be.PRES.REL on licence all
+%eng:	and how many of those points are there on a licence in all?
+%com:	note that Arddun always pronounces "faint" with an initial [b] rather than [v]
+*ARD:	deuddeg ? %snd:"fusser18"_485999_486643
+%gls:	twelve
+%eng:	twelve?
+*ARD:	na ia ? %snd:"fusser18"_486643_487270
+%gls:	no yes
+%eng:	no, yes?
+*BEU:	yeah@s:cym&eng dw meddwl deuddeg gei di yeah@s:cym&eng . %snd:"fusser18"_487276_488368
+%gls:	yeah be.1S.PRES think.NONFIN twelve get.2S.NONPAST pron .2S yeah
+%eng:	yeah, I think you get twelve, yeah
+*ARD:	deuddeg ydy o yeah@s:cym&eng ? %snd:"fusser18"_488042_488919
+%gls:	twelve be.3S.PRES PRON.3SM yeah
+%eng:	it is twelve, yeah?
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_488861_489256
+%gls:	yeah
+%eng:	yeah
+*BEU:	ond um@s:cym&eng # dw i (ddi)m isio dim mwy o (r)heina . %snd:"fusser18"_489256_492205
+%gls:	but IM be.1S.PRES PRON.1S NEG want NEG more of those
+%eng:	but um, I don't want any more of those
+*ARD:	+< oh@s:cym&eng . %snd:"fusser18"_491291_491622
+%gls:	IM
+%eng:	oh
+*ARD:	oh@s:cym&eng na ! %snd:"fusser18"_492205_493224
+%gls:	IM no
+%eng:	oh no!
+*BEU:	+< na . %snd:"fusser18"_492725_493149
+%gls:	no
+%eng:	no
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_493224_495326
+%gls:	IM
+%eng:	oh
+*BEU:	ond chwarae teg dw i right@s:cym&eng ofalus hefyd yndw # xxx pan dw i mynd i llefydd (y)ma . %snd:"fusser18"_495326_499000
+%gls:	but play fair be.1S.PRES PRON.1S right careful also be.1S.PRES xxx when be.1S.PRES PRON.1S go.NONFIN to places here
+%eng:	but fair play, I'm quite careful too, aren't I, [...] when I go to these places
+*ARD:	wyt . %snd:"fusser18"_499000_500904
+%gls:	be.2S.PRES
+%eng:	yes
+*ARD:	welais i ddim # camera@s:cym&eng na +/ . %snd:"fusser18"_500904_502826
+%gls:	see.1S.PAST PRON.1S NEG camera NEG
+%eng:	I didn't see a camera or...
+*BEU:	na . %snd:"fusser18"_502826_503337
+%gls:	no
+%eng:	no
+*ARD:	+, heddlu na (di)m_byd pan o'n i mynd ar_hyd Beach_Road@s:eng . %snd:"fusser18"_503337_506065
+%gls:	police NEG nothing when be.1S.IMP PRON.1S go.NONFIN along Beach_Road
+%eng:	police or anything when I was going along Beach Road
+*BEU:	na . %snd:"fusser18"_506065_506756
+%gls:	no
+%eng:	no
+*ARD:	oh@s:cym&eng dear@s:cym&eng [?] . %snd:"fusser18"_506756_509914
+%gls:	IM dear
+%eng:	oh dear
+*BEU:	+< wnes i (ddi)m gweld dim_byd chwaith . %snd:"fusser18"_508846_509798
+%gls:	do.1S.PAST PRON.1S NEG see.NONFIN nothing either
+%eng:	I didn't see anything either
+*ARD:	well@s:cym&eng dw i rŵan yn defnyddio (y)r limiter@s:eng ar y nghar@s:cym&eng i i wneud yn sure@s:cym&eng xxx cyrraedd rhan [?] tri_deg wan # bod fi +/ . %snd:"fusser18"_509914_515959
+%gls:	well be.1S.PRES PRON.1S now PRT use.NONFIN DET limiter on POSS.1S car PRON.1S to do.NONFIN PRT sure xxx reach.NONFIN part thirty now be.NONFIN PRON.1S
+%eng:	well I now use the limiter on my car, to make sure [...] reach a thirty zone [?] now, that I...
+*BEU:	+< yeah@s:cym&eng mae gyn ti limiter@s:eng <ar un chdi> [?] does yeah@s:cym&eng . %snd:"fusser18"_514999_516984
+%gls:	yeah be.3S.PRES with PRON.2S limiter on one PRON.2S be.3S.PRES.NEG yeah
+%eng:	yeah, you've got a limiter on yours haven't you, yeah
+*ARD:	+< oes limiter@s:eng . %snd:"fusser18"_516125_516926
+%gls:	be.3S.PRES limiter
+%eng:	yes, a limiter
+*ARD:	a dw i roid o ar dri_deg . %snd:"fusser18"_516926_518145
+%gls:	and be.1S.PRES PRON.1S put.NONFIN PRON.3SM on thirty
+%eng:	and I set it to thirty
+*BEU:	+< &=sniff . %snd:"fusser18"_517578_518145
+*ARD:	ond um@s:cym&eng mae o (y)n annifyr weithiau . %snd:"fusser18"_518145_520246
+%gls:	but IM be.3S.PRES PRON.3SM PRT unpleasat sometimes
+%eng:	but um, it's bad sometimes
+*ARD:	(a)chos mae (y)na geir tu ôl # yn ysu xxx heibio . %snd:"fusser18"_520246_523383
+%gls:	because be.3S.PRES ther ecars side back PRT yearn.NONFIN xxx past
+%eng:	because there are cars behind me that really want to [...] past
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_523383_523737
+%gls:	yeah
+%eng:	yeah
+*BEU:	<oedd (y)na> [/] oedd (y)na rywun gwaith yn deud oedd ei um@s:cym&eng # phartner@s:cym&eng hi # gaeth o # ei wneud # wneud chwe_deg mewn # zone@s:cym&eng tri_deg # um@s:cym&eng lawr yn de Cymru # lle oedd um@s:cym&eng # ar y briffordd yn mynd lawr # o fath â saith_deg lawr i tri_deg yn sydyn . %snd:"fusser18"_523737_541902
+%gls:	be.3S.IMP there be.3S.IMP there somebody work PRT say.NONFIN be.3S.IMP POSS.3SF IM partner PRON.3SF get.3S.PAST PRON.3SM POSS.3SM do.NONFIN do.NONFIN sixty in zone thirty IM down in south Wales where be.3S.IMP IM on DET motorway PRT go.NONFIN down from kind with seventy down to thirty PRT sudden
+%eng:	there was...there was somebody at work saying her partner, he got done doing sixty in a thirty zone, um, down in south Wales, where, um, on the motorway, going down from, like, seventy down to thirty suddenly
+*BEU:	ac xxx ac oedd o meddwl bod (y)na lorry@s:cym&eng o (e)i flaen o . %snd:"fusser18"_541891_544886
+%gls:	and xxx and be.3S.IMP PRON.3SM think.NONFIN be.NONFIN there lorry of POSS.3SM front PRON.3SM
+%eng:	and [...] and he thought there was a lorry in front of him
+*BEU:	wnaeth o (ddi)m gweld y sign@s:cym&eng tri_deg . %snd:"fusser18"_544886_546744
+%gls:	do.3S.PAST PRON.3SM NEG see.NONFIN DET sign thirty
+%eng:	he didn't see the thirty sign
+*BEU:	so@s:cym&eng pan wnaeth o # dod i_fewn iddo fo # oedd o gorod brecio # yn sydyn i_lawr . %snd:"fusser18"_546744_552444
+%gls:	so when do.3S.PAST PRON.3SM come.NONFIN in to.3SM PRON.3SM be.3S.IMP PRON.3SM must.NONFIN brake.NONFIN PRT sudden down
+%eng:	so when he came into it, he had to brake suddenly
+*BEU:	ond erbyn adeg yna oedd o (we)di <cael ei> [/] # cael ei ddal . %snd:"fusser18"_552444_554859
+%gls:	but by time there be.3S.IMP PRON.3SM PRT.PAST get.NONFIN POSS.3S get.NONFIN POSS.3SM catch.NONFIN
+%eng:	but by that time he'd been caught
+*ARD:	++ +, cael ei ddal . %snd:"fusser18"_554174_555080
+%gls:	get.NONFIN POSS.3SM catch.NONFIN
+%eng:	been caught
+*BEU:	(be)cause@s:eng oedd [/] oedd [/] # oedd y camera@s:cym&eng rywbeth fath â hanner can llath i_fewn # i (y)r thing@s:eng tri_deg [/] # er@s:cym&eng # tri_deg (y)na timod . %snd:"fusser18"_555080_563056
+%gls:	because be.3S.IMP be.3S.IMP be.3S.IMP DET camera something kind with half hundred yard in to DET thing thirty IM thirty there know.2S
+%eng:	because the camera was about fifty yards into that thirty thing, you know
+*ARD:	+< ia . %snd:"fusser18"_562045_562661
+%gls:	yes
+%eng:	yes
+*BEU:	erbyn oedd o (we)di slofi lawr oedd o dal # drosodd . %snd:"fusser18"_563056_565737
+%gls:	by be.3S.IMP PRON.3SM PRT.PAST slow.NONFIN down be.3S.IMP PRON.3SM still over
+%eng:	by the time he'd slowed down he was still over
+*BEU:	gollodd <ei licence@s:cym&eng> [=? hi (y)r licence@s:cym&eng] am bythefnos . %snd:"fusser18"_565737_567641
+%gls:	lose.3S.PAST POSS.3S licence for two_weeks
+%eng:	he lost his licence for two weeks
+*ARD:	colli licence@s:cym&eng am bythefnos +! ? %snd:"fusser18"_567641_570010
+%gls:	lose.NONFIN licence for two_week
+%eng:	lost his licence for two weeks?
+*BEU:	mmm@s:cym&eng dyna [/] # dyna ddeudodd hi yeah@s:cym&eng . %snd:"fusser18"_570010_572007
+%gls:	IM there there say.3S.PAST PRON.3SF yeah
+%eng:	mmm, that's...that's what she said, yeah
+*ARD:	+< oh@s:cym&eng na &=gasp ! %snd:"fusser18"_570799_572553
+%gls:	IM no
+%eng:	oh no!
+*ARD:	o'n i (ddi)m yn dallt bod hynna (y)n digwydd . %snd:"fusser18"_572553_573795
+%gls:	be.1S.IMP PRON.1S NEG PRT understand.NONFIN be.NONFIN that PRT happen.NONFIN
+%eng:	I didn't realise that happened
+*BEU:	na . %snd:"fusser18"_573795_574352
+%gls:	no
+%eng:	no
+*ARD:	oh@s:cym&eng mae isio bod yn ofalus felly (y)n_does # efo er@s:cym&eng # gyrru . %snd:"fusser18"_574352_579669
+%gls:	IM be.3S.PRES want be.NONFIN PRT careful thus be.3S.PRES.NEG with IM drive.NONFIN
+%eng:	oh, one needs to be careful then, doesn't one, with er, driving/speeding
+%com:	"gyrru" in north Wales can mean "to speed" or "to drive fast" but it's unclear whether this is what she means here, or the more general "drive"
+*BEU:	na [?] (be)cause@s:eng [/] (be)cause@s:eng dw i meddwl os +// . %snd:"fusser18"_579669_581156
+%gls:	no because because be.1S.PRES PRON.1S think.NONFIN if
+%eng:	no, because I think if...
+*BEU:	be [//] ella xxx anghywir . %snd:"fusser18"_581156_583327
+%gls:	what perhaps xxx incorrect
+%eng:	what.. . perhaps [...] wrong
+*BEU:	ond # dw i meddwl os ti mwy na deg milltir dros [/] # dros y limit@s:cym&eng de +/ . %snd:"fusser18"_583327_587889
+%gls:	but be.1S.PRES PRON.1S think.NONFIN if PRON.2S more PRT ten mile over over DET limit TAG
+%eng:	but I think if you're more than ten miles over the limit, right...
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_587889_588551
+%gls:	IM
+%eng:	mmm
+*BEU:	+, ti [/] ti (we)di colli licence@s:cym&eng am gyfnod . %snd:"fusser18"_588551_590676
+%gls:	PRON.2S PRON.2S PRT.PAST lose.NONFIN licence for period
+%eng:	you...you've lost your licence for a period
+*ARD:	am gyfnod ? %snd:"fusser18"_590676_591674
+%gls:	for period
+%eng:	for a period?
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_591674_592197
+%gls:	IM
+%eng:	mmm
+*ARD:	&=gasp so@s:cym&eng be ti mynd i wneud wedyn ? %snd:"fusser18"_592197_594774
+%gls:	so what PRON.2S go.NONFIN to do.NONFIN then
+%eng:	so what are you going to do then?
+*BEU:	mmm@s:cym&eng ? %snd:"fusser18"_594774_595215
+%gls:	IM
+%eng:	mmm?
+*ARD:	trio cael # lift@s:cym&eng gyn bobl . %snd:"fusser18"_595215_597015
+%gls:	try.NONFIN get.NONFIN lift by people
+%eng:	try to get lifts from people
+*BEU:	well@s:cym&eng &d &də [//] # oedd o isio my(nd) [?] +// . %snd:"fusser18"_597015_599546
+%gls:	well be.3S.IMP PRON.3SM want go.NONFIN
+%eng:	well he wanted to go...
+*BEU:	yn_ôl bob sôn oedd o (y)n gweithio (y)n Aberystwyth@s:cym&eng ar y pryd . %snd:"fusser18"_599546_602413
+%gls:	after every mention be.3S.IMP PRON.3SM PRT work.NONFIN in Aberystwyth on DET time
+%eng:	apparently he was working in Aberystwyth at the time
+*ARD:	oh@s:cym&eng ! %snd:"fusser18"_602413_603412
+%gls:	IM
+%eng:	oh!
+*BEU:	ac oedd o <gorod dal> [/] gorod dal@s:cym&eng bus@s:cym&eng am ryw bythefnos # nôl ac ymlaen a [//] ac [//] a [/] # a <ella dal bus@s:cym&eng yna> [?] . %snd:"fusser18"_602797_609519
+%gls:	and be.3S.IMP PRON.3SM must.NONFIN catch.NONFIN must.NONFIN catch bus for some two_weeks back and forward and and and and perhaps catch.NONFIN bus there
+%eng:	and he had to catch a bus for about two weeks back and forth, and...and...and...and perhaps catch a bus there
+*ARD:	+< oh@s:cym&eng [=! laughs] . %snd:"fusser18"_607824_609275
+%gls:	IM
+%eng:	oh
+*BEU:	so@s:cym&eng oedd o [//] hynna (y)n # dipyn o nuisance@s:cym&eng iddo fo de . %snd:"fusser18"_609519_611400
+%gls:	so be.3S.IMP PRON.3SM that PRT a_little of nuisance to.3SM PRON.3SM TAG
+%eng:	so that was a bit of a nuisance for him, you know
+*ARD:	+< &=gasp . %snd:"fusser18"_610540_611516
+*ARD:	oh@s:cym&eng dw i sure@s:cym&eng . %snd:"fusser18"_611516_612711
+%gls:	IM be.1S.PRES PRON.1S sure
+%eng:	oh I'm sure
+*ARD:	o:h@s:cym&eng diflas . %snd:"fusser18"_612711_615138
+%gls:	IM tiresome
+%eng:	oh, annoying
+*BEU:	ia . %snd:"fusser18"_615138_616148
+%gls:	yes
+%eng:	yes
+*ARD:	&=gasp . %snd:"fusser18"_615718_616589
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_616589_618191
+%gls:	IM
+%eng:	mmm
+*BEU:	ond yeah@s:cym&eng &s <so@s:cym&eng &d> [/] so@s:cym&eng dw isio talu (y)r # dirwy (y)na . %snd:"fusser18"_618191_624379
+%gls:	but yeah so so be.1S.PRES want pay.NONFIN DET fine there
+%eng:	but yeah, so I want to pay that fine
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_623787_625239
+%gls:	IM
+%eng:	mmm
+*ARD:	oh@s:cym&eng chwe_deg punt oh@s:cym&eng dear@s:cym&eng &=laugh . %snd:"fusser18"_625239_629012
+%gls:	IM sixty pound IM dear
+%eng:	oh, sixty pounds, oh dear
+*BEU:	+< mmm@s:cym&eng xxx . %snd:"fusser18"_627201_629012
+%gls:	IM xxx
+%eng:	mmm [...]
+*ARD:	(ba)sai (we)di gwneud i brynu present@s:cym&eng i Haf@s:cym&eng &=laugh . %snd:"fusser18"_629012_633168
+%gls:	be.3S.CONDIT PRT.PAST do.NONFIN to buy.NONFIN present for Haf
+%eng:	it would have done to buy Haf a present
+*BEU:	+< mmm@s:cym&eng ? %snd:"fusser18"_631845_632228
+%gls:	IM
+%eng:	mmm?
+*BEU:	basai (we)di wneud rywbeth fwy positive@s:cym&eng na [/] # na talu dirwy basai . %snd:"fusser18"_632623_636245
+%gls:	be.3S.CONDIT PRT.PAST do.NONFIN something more positive PRT PRT pay.NONFIN fine be.3S.CONDIT
+%eng:	it would have done something more positive than paying a fine, wouldn't it
+*ARD:	+< oh@s:cym&eng yeah@s:cym&eng &i [//] fwy positive@s:cym&eng ia . %snd:"fusser18"_633145_635513
+%gls:	IM yeah more positive yes
+%eng:	oh yeah, more positive, yes
+*ARD:	oh@s:cym&eng well@s:cym&eng mae (y)n [?] gofyn dysgu o hynna (fe)lly yn_dydy . %snd:"fusser18"_636245_638277
+%gls:	IM well be.3S.PRES PRT ask.NONFIN learn.NONFIN from that thus be.3S.PRES.NEG
+%eng:	oh well, it needs learning from that then, doesn't it
+*BEU:	<oedd um@s:cym&eng> [/] # oedd o wir er@s:cym&eng +// . %snd:"fusser18"_638277_640564
+%gls:	be.3S.IMP IM be.3S.IMP PRON.3SM true IM
+%eng:	it was really, er...
+*BEU:	ar y peth (y)na oedd e um@s:cym&eng Top_Gear@s:cym&eng # ar teledu . %snd:"fusser18"_640564_647425
+%gls:	on DET thing there be.3S.IMP PRON.3SM IM Top_Gear on television
+%eng:	it was on that thing, um, Top Gear, on television
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_647425_648041
+%gls:	IM
+%eng:	mmm
+*BEU:	um@s:cym&eng # oedd Richard_Brunstrom@s:cym&eng # xx # prif gwnstabl gogledd Cymru (y)ma +/ . %snd:"fusser18"_648041_653219
+%gls:	IM be.3S.IMP Richard_Brunstrom xx main constable north Wales here
+%eng:	um, Richard Brunstrom, [...] the chief constable of north Wales...
+*ARD:	oh@s:cym&eng ia . %snd:"fusser18"_652719_653718
+%gls:	IM yes
+%eng:	oh yes
+*BEU:	+, oedd o (we)di cael ei fotio (y)n &b # &bɛ [//] number@s:cym&eng one@s:eng enemy@s:eng (y)n_doedd # er@s:cym&eng xxx Top_Gear@s:cym&eng xxx . %snd:"fusser18"_653718_659291
+%gls:	be.3S.IMP PRON.3SM PRT.PAST get.NONFIN POSS.3S vote.NONFIN PRT number one enemy be.3S.IMP.NEG IM xxx Top_Gear xxx
+%eng:	he'd been voted number one enemy, hadn't he, er, [...] Top Gear [...]
+*ARD:	+< &=gasp mi oedd yn_doedd . %snd:"fusser18"_657677_659349
+%gls:	PRT be.3S.IMP be.3S.IMP.NEG
+%eng:	he was, wasn't he
+*ARD:	oh@s:cym&eng oedd . %snd:"fusser18"_659291_660823
+%gls:	IM be.3S.IMP
+%eng:	oh yes
+*BEU:	+< xxx +.. . %snd:"fusser18"_660034_660579
+*ARD:	ond mae nhw meddwl edrych ar um@s:cym&eng # gyrru yn rywbeth fel um@s:cym&eng &=clears_throat # drwg ofnadwy yn_dydy . %snd:"fusser18"_660823_666640
+%gls:	but be.3PL.PRES PRON.3PL think.NONFIN look.NONFIN on IM drive.NONFIN PRT something like IM bad terrible be.3S.PRES.NEG
+%eng:	but they're thinking of considering speeding to be, um, something incredibly bad, aren't they
+*ARD:	mae nhw (y)n trio gael stigma@s:cym&eng i (y)r peth yn_dydy . %snd:"fusser18"_666640_668532
+%gls:	be.3PL.PRES PRON.3PL PRT try.NONFIN get.NONFIN stigma to DET thing be.3S.PRES.NEG
+%eng:	they're trying to get some stigma for it, aren't they
+*BEU:	yndy . %snd:"fusser18"_668532_668962
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	ond # mae Brunstrom@s:cym&eng (we)di bod rhan hynna do . %snd:"fusser18"_668962_671539
+%gls:	but be.3S.PRES Brunstrom PRT.PAST be.NONFIN part that yes
+%eng:	but Brunstrom's been part of that, hasn't he
+*ARD:	xxx rhan do do . %snd:"fusser18"_671342_673014
+%gls:	xxx part yes yes
+%eng:	[...] part, yes, yes
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_673014_675045
+%gls:	IM
+%eng:	oh
+*BEU:	+< xxx . %snd:"fusser18"_674372_675045
+*ARD:	so@s:cym&eng sut ti (y)n mwynhau dy waith newydd ? %snd:"fusser18"_675045_680165
+%gls:	so how PRON.2S PRT enjoy.NONFIN POSS.2S work new
+%eng:	so how are you enjoying your new job?
+*BEU:	iawn . %snd:"fusser18"_680165_681775
+%gls:	right
+%eng:	fine
+*BEU:	<mae (y)na> [///] er@s:cym&eng mae (we)di bod yn um@s:cym&eng +/ . %snd:"fusser18"_681775_683219
+%gls:	be.3S.PRES there IM be.3S.PRES PRT.PAST be.NONFIN PRT IM
+%eng:	there's...er, it's been, um...
+*ARD:	sut mae mynd ar_hyd yr A_pum_deg_pump yn bore ? %snd:"fusser18"_683219_686632
+%gls:	how be.3S.PRES go.NONFIN along DET A_fifty_five in morning
+%eng:	what's it like going along the A55 in the morning?
+*BEU:	+< xxx +.. . %snd:"fusser18"_684821_685111
+*BEU:	oh@s:cym&eng dim problem@s:cym&eng . %snd:"fusser18"_686632_688350
+%gls:	IM NEG problem
+%eng:	oh, no problem
+*ARD:	na . %snd:"fusser18"_688350_688908
+%gls:	no
+%eng:	no
+*BEU:	mae [?] just@s:cym&eng mynd un ffordd yn lle mynd &a [/] &a &ar &a hyd y ffordd arall . %snd:"fusser18"_688908_691787
+%gls:	be.3S.PRES just go.NONFIN one way in place go.NONFIN along DET way other
+%eng:	it's just going one way instead of going the other
+*ARD:	+< xxx ie . %snd:"fusser18"_691056_692124
+%gls:	xxx yes
+%eng:	[...] yes
+*BEU:	xxx +/ . %snd:"fusser18"_692124_693610
+*ARD:	+< oes (yn)a weithfeydd ac yn y blaen ? %snd:"fusser18"_692693_694016
+%gls:	be.3S.PRES there works and in DET front
+%eng:	are there works and so on?
+*ARD:	ta (y)dy (y)n # right@s:cym&eng rwydd # syth drwadd . %snd:"fusser18"_694016_696675
+%gls:	or be.3S.PRES PRT right easy straight through
+%eng:	or is it quite easy, straight through
+*BEU:	um@s:cym&eng ## pryd oedd hi ? %snd:"fusser18"_696675_699995
+%gls:	IM when be.3S.IMP PRON.3SF
+%eng:	um, when was it?
+*BEU:	dydd Iau yeah@s:cym&eng ? %snd:"fusser18"_699995_700680
+%gls:	day Thursday yeah
+%eng:	Thursday, yeah?
+*BEU:	<oedd (y)na> [//] # um@s:cym&eng ## oedd un lane@s:eng (we)di cau +/ . %snd:"fusser18"_700680_705336
+%gls:	be.3S.IMP there IM be.3S.IMP one lane PRT.PAST close.NONFIN
+%eng:	there was...um, one lane was closed...
+*ARD:	oh@s:cym&eng yeah@s:cym&eng . %snd:"fusser18"_705336_706799
+%gls:	IM yeah
+%eng:	oh yeah
+*BEU:	+, just@s:cym&eng wrth ymyl &pɛ [/] Penmaenmawr@s:cym&eng . %snd:"fusser18"_706474_707983
+%gls:	just by side Penmaenmawr
+%eng:	just by Penmaenmawr
+*ARD:	oh@s:cym&eng yeah@s:cym&eng [?] . %snd:"fusser18"_707983_708935
+%gls:	IM yeah
+%eng:	oh yeah
+*BEU:	ond er@s:cym&eng <(dy)dy o (ddi)m> [/] (dy)dy o (ddi)m problem@s:cym&eng mawr [?] . %snd:"fusser18"_708343_710026
+%gls:	but IM be.3S.PRES.NEG PRON.3SM NEG be.3S.PRES.NEG PRON.3SM NEG problem big
+%eng:	but er, it's not...it's not a big problem
+*BEU:	mae just@s:cym&eng slofi traffic@s:cym&eng lawr am ryw bum munud . %snd:"fusser18"_710026_711733
+%gls:	be.3S.PRES just slow.NONFIN traffic down for some five minute
+%eng:	it just slows down traffic for about five minutes
+*ARD:	+< ia . %snd:"fusser18"_711408_711756
+%gls:	yes
+%eng:	yes
+*BEU:	xxx . %snd:"fusser18"_711733_712313
+*ARD:	oh@s:cym&eng right@s:cym&eng [?] . %snd:"fusser18"_712313_713254
+%gls:	IM right
+%eng:	oh right
+*BEU:	um@s:cym&eng (y)mlaen wedyn . %snd:"fusser18"_713254_714426
+%gls:	IM forward then
+%eng:	um, then on
+*ARD:	so@s:cym&eng faint mae (y)n gymryd ti fynd i [//] o fan hyn i Bodelwyddan@s:cym&eng ? %snd:"fusser18"_714426_717050
+%gls:	so how_much be.3S.PRES PRT take.NONFIN PRON.2S go.NONFIN to from place this to Bodelwyddan
+%eng:	so how much does it take you to go from here to Bodelwyddan?
+*BEU:	well@s:cym&eng dw i cadw at y speed@s:cym&eng limit@s:cym&eng xxx . %snd:"fusser18"_717050_721009
+%gls:	well be.1S.PRES PRON.1S keep.NONFIN to DET speed limit xxx
+%eng:	well, I keep to the speed limit [...]
+*ARD:	well@s:cym&eng gobeithio wir &=laugh . %snd:"fusser18"_721009_724121
+%gls:	well hope.NONFIN true
+%eng:	well I hope so
+*BEU:	xxx . %snd:"fusser18"_723923_724225
+*ARD:	xxx train@s:cym&eng yna &=laugh . %snd:"fusser18"_724121_726466
+%gls:	xxx train there
+%eng:	[...] a train there
+*BEU:	xxx mae (y)n cymryd xxx fath â # deugain munud <rywbeth fel (yn)a> [?] . %snd:"fusser18"_725932_728091
+%gls:	xxx be.3S.PRES PRT take.NONFIN xxx kind with forty minute something like there
+%eng:	[...] it takes [...] like, forty minutes, something like that
+*ARD:	oh@s:cym&eng ia . %snd:"fusser18"_728091_728707
+%gls:	IM yes
+%eng:	oh yes
+*ARD:	oh@s:cym&eng <so@s:cym&eng ti (ddi)m yn> [?] [///] # dim (r)hy ddrwg . %snd:"fusser18"_728707_731005
+%gls:	IM so PRON.2S NEG PRT NEG too bad
+%eng:	oh so you're not...not too bad
+*BEU:	na . %snd:"fusser18"_731005_731690
+%gls:	no
+%eng:	no
+*ARD:	<oh@s:cym&eng right@s:cym&eng dda> [?] . %snd:"fusser18"_731690_733664
+%gls:	IM right good
+%eng:	oh, very good
+*BEU:	ond [?] xxx ar hyn o bryd er@s:cym&eng dw i just@s:cym&eng yn # setlo fewn a just@s:cym&eng dysgu # a darllen i_fyny be sy mynd ymlaen ac ati a +/ . %snd:"fusser18"_733664_743010
+%gls:	but xxx on this of time IM be.1S.PRES PRON.1S just PRT settle.NONFIN in and just learn.NONFIN and read.NONFIN up what be.PRES.REL go.NONFIN ahead and so_on and
+%eng:	but [...] at the moment, er, I'm just settling in and just learning and reading up what's going on and so on and...
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_743010_743544
+%gls:	IM
+%eng:	mmm
+*BEU:	+, ac ati . %snd:"fusser18"_743544_745158
+%gls:	and so_on
+%eng:	and so on
+*ARD:	ia oh@s:cym&eng . %snd:"fusser18"_745158_746505
+%gls:	yes IM
+%eng:	yes, oh
+*BEU:	+< xxx . %snd:"fusser18"_745750_746331
+*BEU:	o'n i fod i fynd lawr i # Bronllys@s:cym&eng fory xxx # i [/] <i &s> [/] i (y)sbyty Bronllys@s:cym&eng . %snd:"fusser18"_746505_750766
+%gls:	be.1S.IMP PRON.1S be.NONFIN to go.NONFIN down to Bronllys tomorrow xxx to to to hospital Bronllys
+%eng:	I was supposed to go down to Bronllys tomorrow [...] to...to...to Bronllys hospital
+*ARD:	oh@s:cym&eng lle mae fan (y)no ? %snd:"fusser18"_750766_751497
+%gls:	IM where be.3S.PRES place there
+%eng:	oh, where's that?
+*BEU:	+< um@s:cym&eng +.. . %snd:"fusser18"_751102_751648
+%gls:	IM
+%eng:	um...
+*BEU:	lawn yn Powys@s:cym&eng . %snd:"fusser18"_751648_753192
+%gls:	down in Powys
+%eng:	down in Powys
+*ARD:	yn Powys@s:cym&eng oh@s:cym&eng . %snd:"fusser18"_753192_754516
+%gls:	in Powys IM
+%eng:	in Powys, oh...
+*BEU:	+< ond um@s:cym&eng # <o'n i> [?] mynd lawr hefo # Eileen@s:cym&eng # un [/] un o (y)r um@s:cym&eng # pobl eraill (y)na . %snd:"fusser18"_753610_759403
+%gls:	but IM be.1S.IMP PRON.1S go.NONFIN down with Eileen one one of DET IM people other there
+%eng:	but um, I was going down with Eileen, one of the other people there
+*ARD:	+< ia . %snd:"fusser18"_757081_757627
+%gls:	yes
+%eng:	yes
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_759160_759601
+%gls:	IM
+%eng:	mmm
+*BEU:	ond [?] mae hi (we)di brifo (e)i chefn . %snd:"fusser18"_759601_761400
+%gls:	but be.3S.PRES PRON.3SF PRT.PAST hurt.NONFIN POSS.3SF back
+%eng:	but she's hurt her back
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_761400_762828
+%gls:	IM right
+%eng:	oh right
+*BEU:	<so@s:cym&eng mae hi> [///] # so@s:cym&eng wnaeth hi ffonio a deud na (dy)dy [/] # (dy)dy (ddi)m yn medru mynd . %snd:"fusser18"_762306_766091
+%gls:	so be.3S.PRES PRON.3SF so do.3S.PAST PRON.3SF phone.NONFIN and say.NONFIN PRT be.3S.PRES.NEG be.3S.PRES.NEG NEG PRT can.NONFIN go.NONFIN
+%eng:	so she's...so she phoned and said that she can't go
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_766091_766683
+%gls:	IM
+%eng:	mmm
+*BEU:	ac oedd hi (y)n deud # y peth gorau fi wneud <mynd i> [?] [//] # mynd i [//] nôl i_fewn i swyddfa bore fory yn lle mynd i Bronllys@s:cym&eng . %snd:"fusser18"_766532_771965
+%gls:	and be.3S.IMP PRON.3SF PRT say.NONFIN DET thing best PRON.1S do.NONFIN go.NONFIN to go.NONFIN to back in to office morning tomorrow in place go.NONFIN to Bronllys
+%eng:	and she said the best thing for me to do was to go back into the office tomorrow morning instead of going to Bronllys
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_771965_772476
+%gls:	IM
+%eng:	mmm
+*BEU:	um@s:cym&eng # <(be)cause@s:eng oedd dim> [?] gweld hi (y)n deg bod [/] bod fi mynd i fan (y)na # xx yn hun y tro cynta +/ . %snd:"fusser18"_772476_777794
+%gls:	IM because be.3S.IMP NEG see PRON.3SF PRT fair be.NONFIN be.NONFIN PRON.1S go.NONFIN to place there xx POSS.1S self DET turn first
+%eng:	um, because she didn't think it was fair for me to go there by myself the first time
+*ARD:	+< ia . %snd:"fusser18"_776493_776969
+%gls:	yes
+%eng:	yes
+*ARD:	am y tro cynta ia (dy)na ti . %snd:"fusser18"_777794_779291
+%gls:	for DET turn first yes there PRON.2S
+%eng:	for the first time, yes, that's it
+*BEU:	+, um@s:cym&eng fel [/] # fel rywun newydd . %snd:"fusser18"_778873_780743
+%gls:	IM like like somebody new
+%eng:	um, as a new person
+*ARD:	ia . %snd:"fusser18"_780743_781474
+%gls:	yes
+%eng:	yes
+*ARD:	oh@s:cym&eng da iawn . %snd:"fusser18"_781474_782798
+%gls:	IM good very
+%eng:	oh very good
+*ARD:	oh@s:cym&eng llond lle o ddarlithoedd s(y) gynna i . %snd:"fusser18"_782798_785909
+%gls:	IM full place of lectures be.PRES.REL with.1S PRON.1S
+%eng:	oh, I've just got loads of lectures
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_785909_786664
+%gls:	yeah
+%eng:	yeah
+*ARD:	criwiau dydd Llun o_lew xx +/ . %snd:"fusser18"_786664_788719
+%gls:	crews day Monday alright xx
+%eng:	Monday groups alright [...] ...
+*BEU:	oh@s:cym&eng mae dydd [/] er@s:cym&eng [=? y] dydd Llun a dydd Mawrth yn right@s:cym&eng galed i chdi yndy . %snd:"fusser18"_788405_790959
+%gls:	IM be.3S.PRES day IM day Monday and day Tuesday PRT right hard for PRON.2S be.3S.PRES
+%eng:	oh, Mondays and Tuesdays are quite hard for you, aren't they
+*ARD:	+< oh@s:cym&eng # yndy . %snd:"fusser18"_789856_790959
+%gls:	IM be.3S.PRES
+%eng:	oh, yes
+*ARD:	mae criwiau dydd Mawrth yn ddychrynllyd o griwiau . %snd:"fusser18"_790959_792991
+%gls:	be.3S.PRES crews day Tuesdays PRT frightful of crews
+%eng:	Tuesday groups are horrendous groups
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_792991_793792
+%gls:	yeah
+%eng:	yeah
+*ARD:	&=clears_throat . %snd:"fusser18"_793792_794605
+*ARD:	(doe)s gyn nhw ddim # isio dysgu o_gwbl . %snd:"fusser18"_794605_796277
+%gls:	be.3S.PRES.NEG with PRON.3PL NEG want learn.NONFIN at_all
+%eng:	they don't want to learn at all
+*ARD:	mae nhw just@s:cym&eng yn anghwrtais ac yn # dim diddordeb a +.. . %snd:"fusser18"_796277_799620
+%gls:	be.3PL.PRES PRON.3PL just PRT impolite and PRT NEG interest and
+%eng:	they're just impolite and no interest and...
+*BEU:	oh@s:cym&eng mae hynna (y)n gyffredinol yn bob man dyddiau (y)ma (y)ndy . %snd:"fusser18"_799620_802511
+%gls:	IM be.3S.PRES that PRT general in every place days here be.3S.PRES
+%eng:	oh that's common everywhere these days, isn't it
+*ARD:	dw (ddi)m yn gwybod &=sigh . %snd:"fusser18"_802511_803765
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*BEU:	+< xxx +// . %snd:"fusser18"_802651_803893
+*BEU:	yndy o be dw i (y)n dallt . %snd:"fusser18"_803893_805460
+%gls:	be.3S.PRES from what be.1S.PRES PRON.1S PRT understand.NONFIN
+%eng:	yes, according to what I've heard
+*BEU:	a &d (doe)s neb +/ . %snd:"fusser18"_805460_806412
+%gls:	and be.3S.PRES.NEG nobody
+%eng:	and nobody's...
+*ARD:	oh@s:cym&eng dw [?] trio cael nhw i +/ . %snd:"fusser18"_806412_808723
+%gls:	IM be.1S.PRES try.NONFIN get.NONFIN PRON.3PL to
+%eng:	oh, I try to get them to...
+*BEU:	+< (doe)s neb isio dysgu just@s:cym&eng . %snd:"fusser18"_807829_809025
+%gls:	be.3S.PRES.NEG nobody want learn.NONFIN just
+%eng:	nobody wants to learn almost
+*ARD:	ie . %snd:"fusser18"_809025_809431
+%gls:	yes
+%eng:	yes
+*ARD:	trio cael nhw i wneud yr aseiniadau (y)ma . %snd:"fusser18"_809431_811172
+%gls:	try.NONFIN get.NONFIN PRON.3PL to do.NONFIN DET assignments here
+%eng:	try to get them to do these assignments
+*ARD:	mae nhw just@s:cym&eng yn disgwyl mi # sefyll uwch eu pennau nhw a nhw sgwennu [//] ateb # y question@s:cym&eng fel dw i (y)n ddeud o a nhw [?] sgwennu fo lawr . %snd:"fusser18"_811172_818510
+%gls:	be.3PL.PRES PRON.3PL just PRT expect.NONFIN PRON.1S stand.NONFIN above POSS.3PL heads PRON.3PL and PRON.3PL write.NONFIN answer.NONFIN DET question like be.1S.PRES PRON.1S PRT say.NONFIN PRON.3SM and PRON.3PL write.NONFIN PRON.3SM down
+%eng:	they just expect me to stand above them and they write...answer the question as I say it and they write it down
+*BEU:	<ond wrth_gwrs> [?] fedri (ddi)m wneud hynna fedri . %snd:"fusser18"_818510_819938
+%gls:	but of_course can.2S.NONPAST NEG do.NONFIN that can.2S.NONPAST
+%eng:	but of course, you can't do that, can you
+*ARD:	na &=sigh . %snd:"fusser18"_819938_822063
+%gls:	no
+%eng:	no
+*ARD:	a mae safon gwaith nhw a mae # presentation@s:eng y gwaith oh@s:cym&eng # <yn ddifri> [?] de . %snd:"fusser18"_822063_828216
+%gls:	and be.3S.PRES standard work PRON.3PL and be.3S.PRES presentation DET work IM PRT serious TAG
+%eng:	and the standard of their work and the presentation of the work, oh, is serious [?] you know
+*ARD:	(doe)s gynnoch chi ddim # parch a pride@s:cym&eng &=clears_throat . %snd:"fusser18"_828216_831857
+%gls:	be.3S.PRES.NEG with.2PL PRON.2PL NEG respect and pride
+%eng:	you haven't got any respect or pride
+*ARD:	<a mae> [?] <crew@s:cym&eng leni> [//] # grwpiau leni (y)n waeth . %snd:"fusser18"_831834_834694
+%gls:	and be.3S.PRES crew this_year groups this_year PRT worse
+%eng:	and this year's lot...this year's groups are worse
+*BEU:	(y)dy waeth [/] er@s:cym&eng # waeth leni na +/? %snd:"fusser18"_834694_836273
+%gls:	be.3S.PRES worse IM worse this_year PRT
+%eng:	is it worse...worse this year than..?
+*ARD:	(e)nwedig y grwpiau # level@s:cym&eng dau . %snd:"fusser18"_837933_841858
+%gls:	particular DET groups level two.M
+%eng:	particularly the level two groups
+*ARD:	oh@s:cym&eng mae nhw (y)n +// . %snd:"fusser18"_841858_843402
+%gls:	IM be.3PL.PRES PRON.3PL PRT
+%eng:	oh they're...
+*ARD:	<ond mae> [///] ond yn rhyfedd iawn o_fewn # y coleg # mae [/] # <mae &g> [//] <mae &n> [/] <mae (y)na> [/] mae (y)na broblemau &n ddim just@s:cym&eng yn # rei adrannau . %snd:"fusser18"_843402_852313
+%gls:	but be.3S.PRES but PRT strange very within DET college be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES there be.3S.PRES there problems NEG just in some departments
+%eng:	but strangely enough, within the college there are problems, not just in some departments
+*ARD:	mae adrannau eraill yn cael (y)n union (y)r un un problem@s:cym&eng ac yn +.. . %snd:"fusser18"_852313_854756
+%gls:	be.3S.PRES departments other PRT get.NONFIN PRT exact DET one one problem and PRT
+%eng:	other departments get exactly the same problem and...
+*ARD:	sy (y)n braf i ddeud gwir deimlo bod # pobl eraill yn teimlo (y)r un fath felly yn_hytrach na bod rywun yn # teimlo # mai just@s:cym&eng um@s:cym&eng # fi sy gwneud (ryw)beth yn wrong@s:cym&eng (fe)lly . %snd:"fusser18"_854756_866703
+%gls:	be.PRES.REL fine to say.NONFIN truth feel.NONFIN be.NONFIN people other PRT feel.NONFIN DET one kind thus rather PRT be.NONFIN somebody PRT feel.NONFIN PRT just IM PRON.1S be.PRES.REL do.NONFIN something PRT wrong thus
+%eng:	which is nice, to tell the truth, to feel that other people feel the same, like, rather than somebody feeling that it's just me that's doing something wrong, like
+*BEU:	+< yeah@s:cym&eng . %snd:"fusser18"_859505_859899
+%gls:	yeah
+%eng:	yeah
+*ARD:	ond yn gyffredinol mae nhw (y)n +// . %snd:"fusser18"_866691_869118
+%gls:	but PRT general be.3PL.PRES PRON.3PL PRT
+%eng:	but in general, they're...
+*ARD:	wrth_gwrs mae (y)na grant@s:cym&eng rŵan does # yr um@s:cym&eng # E_M_A@s:eng grants@s:cym&eng . %snd:"fusser18"_869118_874261
+%gls:	of_course be.3S.PRES there grant now be.3S.PRES.NEG DET IM E_M_A grants
+%eng:	of course, there's a grant now, isn't there, the um EMA grants
+*BEU:	+< oh@s:cym&eng yeah@s:cym&eng mae nhw gael pres &a am troi fyny coleg yndy . %snd:"fusser18"_873994_876304
+%gls:	IM yeah be.3PL.PRES PRON.3PL get.NONFIN money for turn.NONFIN up college be.3S.PRES
+%eng:	oh yeah, they get money for turning up to college, don't they
+*ARD:	+< yndyn . %snd:"fusser18"_874841_875979
+%gls:	be.3PL.PRES
+%eng:	yes
+*ARD:	[- eng] Educational_Maintenance_Grants . %snd:"fusser18"_876304_878034
+%gls:	Educational_Maintenance_Grants
+%eng:	Educational Maintenance Grants
+*ARD:	ac wrth_gwrs mae nhw just@s:cym&eng yn deud +"/ . %snd:"fusser18"_878034_879009
+%gls:	and of_course be.3PL.PRES PRON.3PL just PRT say.NONFIN
+%eng:	and of course, they just say:
+*ARD:	+" well@s:cym&eng # o_k@s:cym&eng I'm@s:eng getting@s:eng thirty@s:eng pound@s:eng a@s:eng week@s:eng for@s:eng this@s:eng . %snd:"fusser18"_879009_881030
+%gls:	well o_k I'm getting thirty pound a week for this
+%eng:	"well, ok, I'm getting thirty pound a week for this"
+*ARD:	+" so@s:cym&eng # I'm@s:eng just@s:cym&eng gonna@s:eng sit@s:eng here@s:eng . %snd:"fusser18"_881030_882876
+%gls:	so I'm just gonna sit here
+%eng:	"so, I'm just gonna sit here"
+*ARD:	[- eng] +" but I'm xxx any work . %snd:"fusser18"_882876_884176
+%gls:	but I'm xxx any work
+%eng:	"but I'm [...] any work"
+*ARD:	a wedyn # &=sigh be mae rywun yn wneud yn_de ? %snd:"fusser18"_884176_889679
+%gls:	and then what be.3S.PRES somebody PRT do.NONFIN TAG
+%eng:	and then, what does one do, you know?
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_889679_890318
+%gls:	yeah
+%eng:	yeah
+*ARD:	sy (y)n bechod wedyn . %snd:"fusser18"_890318_891490
+%gls:	be.PRES.REL PRT sin then
+%eng:	which is a sin, then
+*ARD:	mae [/] mae rywun +// . %snd:"fusser18"_891490_892500
+%gls:	be.3S.PRES be.3S.PRES somebody
+%eng:	one...
+*ARD:	(ba)sai well # bod ni (y)n helpu rei sy (y)n wirioneddol isio dysgu (y)n_hytrach na # gwarchod rei # i gael eu # tri_deg punt mwy neu lai . %snd:"fusser18"_892500_900709
+%gls:	be.3S.CONDIT better  be.NONFIN PRON.1PL PRT help.NONFIN some be.PRES.REL PRT truly want learn.NONFIN rather PRT protect.NONFIN some to get.NONFIN POSS.3PL thirty pound more or less
+%eng:	it'd be better if we helped the ones who really want to learn rather than protect the ones to get their thirty pounds more or less
+*BEU:	+< ond be fedr rywun wneud ? %snd:"fusser18"_900302_901324
+%gls:	but what can.3S.NONPAST somebody do.NONFIN
+%eng:	but what can one do?
+*ARD:	oh@s:cym&eng dw (ddi)m yn gwybod . %snd:"fusser18"_901324_903344
+%gls:	IM be.1S.PRES NEG PRT know.NONFIN
+%eng:	oh, I don't know
+*ARD:	mae system@s:cym&eng +// . %snd:"fusser18"_903344_905109
+%gls:	be.3S.PRES system
+%eng:	it's a system...
+*ARD:	symud swydd &=laugh . %snd:"fusser18"_905109_907675
+%gls:	move.NONFIN job
+%eng:	change jobs
+*BEU:	+< mae (y)r system@s:cym&eng yn annheg xxx . %snd:"fusser18"_906049_907558
+%gls:	be.3S.PRES DET system PRT unfair xxx
+%eng:	the system's unfair [...]
+*BEU:	&=laugh newid swydd . %snd:"fusser18"_907558_909033
+%gls:	change.NONFIN job
+%eng:	change jobs
+*ARD:	+< symud swydd . %snd:"fusser18"_907675_908568
+%gls:	move.NONFIN job
+%eng:	change jobs
+*ARD:	&=laugh oh@s:cym&eng ia . %snd:"fusser18"_908568_909846
+%gls:	IM yes
+%eng:	oh yes
+*BEU:	+< yeah@s:cym&eng (dy)dy hynna (ddi)m help@s:cym&eng i nhw chwaith na(g) (y)dy . %snd:"fusser18"_909346_910821
+%gls:	yeah be.3S.PRES.NEG that NEG help for PRON.3PL either NEG be.3S.PRES
+%eng:	yeah, that doesn't help them either, does it
+*ARD:	(dy)dy o (ddi)m yn help@s:cym&eng i nhw o_gwbl . %snd:"fusser18"_910716_912098
+%gls:	be.3S.PRES.NEG PRON.3SM NEG PRT help to PRON.3PL at_all
+%eng:	it doesn't help them at all
+*ARD:	ond oh@s:cym&eng dw i meddwl mai gwaith a rhan yn y gymdeithas mae nhw isio # ar ddiwedd y dydd +/ . %snd:"fusser18"_912098_917369
+%gls:	but IM be.1S.PRES PRON.1S think.NONFIN PRT work and part in DET society be.3PL.PRES PRON.3PL want on end DET day
+%eng:	but oh, I think they just want work and a place in society at the end of the day...
+*BEU:	ie . %snd:"fusser18"_917369_918321
+%gls:	yes
+%eng:	yes
+*ARD:	+, um@s:cym&eng a cael [?] # gweld eu gwerth gwneud rywbeth o_fewn # cymdeithas felly . %snd:"fusser18"_918321_925287
+%gls:	IM and get.NONFIN see.NONFIN POSS.3PL worth do.NONFIN something within society thus
+%eng:	um, and to have their worth recognised, do something within society, like
+*BEU:	xxx ar diwedd diwrnod pawb isio gael [/] gael # gweld eu gwerth yn_does . %snd:"fusser18"_924695_927783
+%gls:	xxx on end day everybody want get.NONFIN get.NONFIN see.NONFIN POSS.3PL worth be.3S.PRES.NEG
+%eng:	[...] at the end of the day, everybody wants to have their worth recognised, don't they
+*ARD:	oh@s:cym&eng oes oes . %snd:"fusser18"_927783_929350
+%gls:	IM be.3S.PRES be.3S.PRES
+%eng:	oh yes, yes
+*ARD:	a dw meddwl mae (y)na lot@s:cym&eng &r (y)n dod o (y)r cartrefi # anodd # ofnadwy . %snd:"fusser18"_929350_933542
+%gls:	and be.1S.PRES think.NONFIN be.3S.PRES there lot PRT come.NONFIN from DET homes difficult terrible
+%eng:	and I think a lot come from the incredibly difficult homes
+*ARD:	ac wrth_gwrs mae gynnyn [//] rei [//] ambell un broblem@s:cym&eng dysgu dyslexia@s:cym&eng ac yn y blaen beth bynnag felly . %snd:"fusser18"_933542_938731
+%gls:	and of_course be.3S.PRES with.3PL some some one problem learn.NONFIN dyslexia and in DET front what ever thus
+%eng:	and of course, they've got...some of them have learning problems, dyslexia and so on, like
+*ARD:	wedyn &=clears_throat +.. . %snd:"fusser18"_938731_940914
+%gls:	then
+%eng:	so...
+*BEU:	oes (yn)a fwy o broblem@s:cym&eng hynna &d <blynyddoedd yma> [?] neu cymharu fath â ryw deg mlynedd nôl ? %snd:"fusser18"_940357_944107
+%gls:	be.3S.PRES there more of problem that years here or compare.NONFIN kind with some ten year back
+%eng:	is there more of a problem with that these years or compared with, like, ten years ago?
+*ARD:	oh@s:cym&eng oes . %snd:"fusser18"_944107_945477
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*ARD:	dw i meddwl hwyrach bod y chweched dosbarth bod nhw (y)n cadw # yr goreuon i_gyd ac yn +// . %snd:"fusser18"_945477_950086
+%gls:	be.1S.PRES PRON.1S think.NONFIN perhaps be.NONFIN DET sixth class be.NONFIN PRON.3PL PRT keep.NONFIN DET best_ones all and PRT
+%eng:	I think perhaps the sixth form, they keep all the best ones and...
+*ARD:	wedyn mae (y)r # gweddill i_gyd yn dod i # addysg bellach yn_de . %snd:"fusser18"_950086_955032
+%gls:	then be.3S.PRES DET rest all PRT come.NONFIN to education further TAG
+%eng:	then all the rest come to further education, you know
+*ARD:	wedyn mae (r)haid nhw fynd i rywle (y)n_bydd . %snd:"fusser18"_955032_957864
+%gls:	then be.3S.PRES necessity PRON.3PL go.NONFIN to somewhere be.3S.FUT
+%eng:	so they have to go somewhere, don't they
+*ARD:	wedyn wrth_gwrs mae sure@s:cym&eng bod ni (y)n cael nhw . %snd:"fusser18"_957864_959548
+%gls:	then of_course be.3S.PRES sure be.NONFIN PRON.3PL PRT get.NONFIN PRON.3PL
+%eng:	so of course, we probably get them
+*ARD:	ond y &brɔbm +// . %snd:"fusser18"_959548_960732
+%gls:	but DET
+%eng:	but the...
+*ARD:	dan ni &mb cael problem@s:cym&eng (he)fyd [?] o gael rei sydd yn [=? er@s:cym&eng] [//] # wedi bod (y)n ddrwg yn yr ysgolion ac yn # gorod cymryd nhw sydd yn un_deg_pedwar # un_deg_pump oed hefyd . %snd:"fusser18"_960732_969614
+%gls:	be.1PL.PRES PRON.1PL get.NONFIN problem also of get.NONFIN some be.PRES.REL PRT PRT.PAST be.NONFIN PRT bad in DET schools and PRT must.NONFIN take.NONFIN PRON.3PL be.PRES.REL PRT fourteen fifteen age also
+%eng:	we have the problem also of getting some who've been naughty at school and have to take them, who are fourteen, fifteen years old too
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_969602_970322
+%gls:	yeah
+%eng:	yeah
+*ARD:	a mae (r)heiny (y)n # um@s:cym&eng +/ . %snd:"fusser18"_970322_972412
+%gls:	and be.3S.PRES thos PRT IM
+%eng:	and those are, um...
+*BEU:	+< rai [?] (dy)dy (y)r ysgolion ddim isio . %snd:"fusser18"_971460_972667
+%gls:	some be.3S.PRES.NEG DET schools NEG want
+%eng:	ones the schools don't want
+*ARD:	ia . %snd:"fusser18"_972667_973178
+%gls:	yes
+%eng:	yes
+*ARD:	mae (r)heiny yn [!] anodd . %snd:"fusser18"_973178_974560
+%gls:	be.3S.PRES those PRT difficult
+%eng:	those are difficult
+*ARD:	ac wrth_gwrs mae (y)na grwpiau o (r)heiny gynna i # ar ddydd [?] Mawrth . %snd:"fusser18"_974560_978786
+%gls:	and of_course be.3S.PRES there groups of those with.1S PRON.1S on day Tuesday
+%eng:	and of course, I've got groups of those, on Tuesdays
+*BEU:	&=clears_throat yd(y) [/] ydy (r)heina medru dylanwad(u) [/] dylanwadu ar y lleill ? %snd:"fusser18"_978786_981491
+%gls:	be.3S.PRES be.3S.PRES those can.NONFIN influence.NONFIN influence.NONFIN on DET others
+%eng:	can those influence the others?
+*ARD:	oh@s:cym&eng yndyn yndyn . %snd:"fusser18"_981491_983012
+%gls:	IM be.3PL.PRES be.3PL.PRES
+%eng:	oh yes, yes
+*ARD:	mae nhw (y)n eitha &eið [//] aeddfed # um@s:cym&eng neu street_wise@s:eng . %snd:"fusser18"_983012_988387
+%gls:	be.3PL.PRES PRON.3PL PRT quite mature IM or street_wise
+%eng:	they're quite mature, um, or street-wise
+*BEU:	ia . %snd:"fusser18"_988387_988770
+%gls:	yes
+%eng:	yes
+*ARD:	immature@s:eng a street_wise@s:eng <dw meddwl> [?] . %snd:"fusser18"_988770_990628
+%gls:	immature and street_wise be.1S.PRES think.NONFIN
+%eng:	immature and street-wise, I think
+*BEU:	+< aeddfed mewn un ffordd ond dim mewn ffordd arall . %snd:"fusser18"_989850_991754
+%gls:	mature in one way but NEG in way other
+%eng:	mature in one way but not in another
+*ARD:	+< ia # ia # ia . %snd:"fusser18"_991146_993182
+%gls:	yes yes yes
+%eng:	yes, yes, yes
+*ARD:	er@s:cym&eng mae gwerthoedd nhw (y)n hollol wahanol i # er enghraifft y grwpiau level@s:cym&eng tri dan ni (y)n gael &=clears_throat . %snd:"fusser18"_993182_998743
+%gls:	IM be.3S.PRES values PRON.3PL PRT complete different to for example DET groups level three.M be.1PL.PRES PRON.1PL PRT get.NONFIN
+%eng:	er, their values are completely different to, for example, the level three groups we get
+*ARD:	ond um@s:cym&eng # &m dyna ni . %snd:"fusser18"_998743_1001750
+%gls:	but IM there PRON.1PL
+%eng:	but um, there we go
+*ARD:	mae sure@s:cym&eng bod o ran <o (y)r> [/] # o (y)r swydd . %snd:"fusser18"_1001750_1005431
+%gls:	be.3S.PRES sure be.NONFIN PRON.3SM part of DET of DET job
+%eng:	I guess it's part of the job
+*BEU:	right@s:cym&eng [?] . %snd:"fusser18"_1005431_1007091
+%gls:	right
+%eng:	right
+*ARD:	ond er@s:cym&eng dw i gobeithio fydd Cai@s:cym&eng a Haf@s:cym&eng <ddim yn timod> [?] [//] # ddim yn # troi allan fel (yn)a . %snd:"fusser18"_1007091_1011549
+%gls:	but IM be.1S.PRES PRON.1S hope.NONFIN be.3S.FUT Cai and Haf NEG PRT know.2S NEG PRT turn.NONFIN out like there
+%eng:	but er, I hope Cai and Haf won't turn out like that
+*BEU:	oh@s:cym&eng dw i meddwl bod gynnyn nhw +/ . %snd:"fusser18"_1011549_1013720
+%gls:	IM be.1S.PRES PRON.1S think.NONFIN be.NONFIN with.3PL PRON.3PL
+%eng:	oh, I think they've got...
+*ARD:	ia . %snd:"fusser18"_1013720_1015032
+%gls:	yes
+%eng:	yes
+*ARD:	++ barch o leia . %snd:"fusser18"_1015032_1016472
+%gls:	respect of least
+%eng:	respect, at least
+*BEU:	+, parch tuag at pobl dw i meddwl xxx . %snd:"fusser18"_1016472_1018201
+%gls:	respect towards to people be.1S.PRES PRON.1S think.NONFIN xxx
+%eng:	respect towards people, I think [...]
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1017900_1018561
+%gls:	IM
+%eng:	mmm
+*ARD:	ia wedyn # (oe)s (yn)a &w # wersi judo@s:cym&eng # gyn # Cai@s:cym&eng a Haf@s:cym&eng # nos Fawrth oes ? %snd:"fusser18"_1018561_1030914
+%gls:	yes then be.3S.PRES there lessons judo with Cai and Haf night Tuesday be.3S.PRES
+%eng:	yes, so, Cai and Haf have judo lessons on Tuesday night, do they?
+*BEU:	oes . %snd:"fusser18"_1030914_1031170
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	isio mynd i judo@s:cym&eng nos Fawrth oes . %snd:"fusser18"_1031170_1032447
+%gls:	want go.NONFIN to judo night Tuesday be.3S.PRES
+%eng:	need to go to judo on Tuesday night, yes
+*ARD:	+< oh@s:cym&eng (dy)na ni ia . %snd:"fusser18"_1031379_1032447
+%gls:	IM there PRON.1PL yes
+%eng:	oh, there we go, yes
+*ARD:	(wrth)_gwrs dan ni (ddi)m (we)di bod xxx +/ . %snd:"fusser18"_1032447_1034316
+%gls:	of_course be.1PL.PRES PRON.1PL NEG PRT.PAST be.NONFIN xxx
+%eng:	of course, we haven't been [...] ...
+*BEU:	+< (be)cause@s:eng wnaethon ni fethu (wsno)s [?] dwytha do . %snd:"fusser18"_1033678_1034908
+%gls:	because do.1PL.PAST PRON.1PL fail.NONFIN week previous yes
+%eng:	because we missed last week's, didn't we
+*ARD:	do # efo (y)r annwyd . %snd:"fusser18"_1034908_1036522
+%gls:	yes with DET cold
+%eng:	yes, with the cold
+*BEU:	xxx wedyn mae Cai@s:cym&eng isio wneud y grading@s:eng (y)ma mis Mawrth oes . %snd:"fusser18"_1035791_1038322
+%gls:	xxx then be.3S.PRES Cai want do.NONFIN DET grading here month March be.3S.PRES
+%eng:	[...] then Cai wants to do this grading in March, doesn't he
+*ARD:	oh@s:cym&eng ia . %snd:"fusser18"_1038322_1039738
+%gls:	IM yes
+%eng:	oh yes
+*BEU:	xxx Mawrth un_deg_dau ? %snd:"fusser18"_1039738_1042722
+%gls:	xxx March twelve
+%eng:	[...] March the twelfth?
+*ARD:	oh@s:cym&eng right@s:cym&eng # oh@s:cym&eng . %snd:"fusser18"_1042722_1044556
+%gls:	IM right IM
+%eng:	oh right, oh
+*BEU:	so@s:cym&eng [/] <so@s:cym&eng mae> [/] # so@s:cym&eng <mae nhw> [/] mae nhw isio mynd ar y bus@s:cym&eng . %snd:"fusser18"_1044185_1047401
+%gls:	so so be.3PL.PRES so be.3PL.PRES PRON.3PL be.3PL.PRES PRON.3PL want go.NONFIN on DET bus
+%eng:	so...so they...so they want to go on the bus
+*ARD:	+< fydd angen mynd i ymarfer . %snd:"fusser18"_1045090_1046530
+%gls:	be.3S.FUT need go.NONFIN to practise.NONFIN
+%eng:	they'll need to go practise
+*BEU:	xxx +/ . %snd:"fusser18"_1047401_1048411
+*ARD:	+< oh@s:cym&eng &=laugh . %snd:"fusser18"_1047911_1048991
+%gls:	IM
+%eng:	oh
+*ARD:	a lle mae (y)r grading@s:eng ? %snd:"fusser18"_1048991_1050303
+%gls:	and where be.3S.PRES DET grading
+%eng:	and where is the grading?
+*BEU:	<oh@s:cym&eng (y)n> [?] Deeside@s:eng . %snd:"fusser18"_1050303_1051534
+%gls:	IM in Deeside
+%eng:	oh, in Deeside
+*BEU:	xxx . %snd:"fusser18"_1051534_1052207
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_1051870_1053008
+%gls:	IM right
+%eng:	oh right
+*BEU:	xxx . %snd:"fusser18"_1053008_1053322
+*ARD:	so@s:cym&eng [?] mynd ar y bus@s:cym&eng . %snd:"fusser18"_1053322_1054506
+%gls:	so go.NONFIN on DET bus
+%eng:	so going on the bus
+*BEU:	Coleg_Glannau_Dyfrdwy # xxx # mae hynna [?] . %snd:"fusser18"_1053798_1055899
+%gls:	Deeside_College xxx be.3S.PRES that
+%eng:	that's Deeside College [...]
+*ARD:	oh@s:cym&eng (y)r neuadd yn fan (y)no ? %snd:"fusser18"_1055899_1057281
+%gls:	IM DET hall in place there
+%eng:	oh, the hall there?
+*BEU:	yeah@s:cym&eng <so@s:cym&eng er@s:cym&eng> [?] [/] so@s:cym&eng [?] be <mae nhw> [?] wneud <mae nhw mynd â bus@s:cym&eng> [///] # <mae nhw (y)n> [?] trefnu bus@s:cym&eng am ddim +/ . %snd:"fusser18"_1057025_1060183
+%gls:	yeah so IM so what be.3PL.PRES PRON.3PL do.NONFIN be.3PL.PRES PRON.3PL go.NONFIN with bus be.3PL.PRES PRON.3PL PRT organise.NONFIN bus for NEG
+%eng:	yeah so, er...so what they do, they take a bus...they organise a bus for free...
+*ARD:	ia . %snd:"fusser18"_1060183_1060706
+%gls:	yes
+%eng:	yes
+*BEU:	+, i pawb sy mynd yna # a pigo nhw fyny pwll nofio . %snd:"fusser18"_1060706_1063248
+%gls:	for everybody be.PRES.REL go.NONFIN there and pick.NONFIN PRON.3PL up pool swim.NONFIN
+%eng:	for everybody who's going, and pick them up at the swimming pool
+*ARD:	+< right@s:cym&eng . %snd:"fusser18"_1061971_1062436
+%gls:	right
+%eng:	right
+*BEU:	a +/ . %snd:"fusser18"_1063248_1064932
+%gls:	and
+%eng:	and...
+*ARD:	+< Bangor@s:cym&eng ? %snd:"fusser18"_1064328_1064932
+%gls:	Bangor
+%eng:	Bangor?
+*BEU:	Bangor@s:cym&eng . %snd:"fusser18"_1064932_1065582
+%gls:	Bangor
+%eng:	Bangor
+*BEU:	ac um@s:cym&eng ## xxx <gân nhw dod â> [?] teuluoedd nhw hefo nhw ac ati . %snd:"fusser18"_1065582_1071456
+%gls:	and IM xxx get.3PL.NONPAST PRON.3PL come.NONFIN with families PRON.3PL with PRON.3PL and so_on
+%eng:	and um [...] they can take their families with them and so on
+*BEU:	<a mae> [/] a mae Haf@s:cym&eng (we)di penderfynu pwy mae isio eistedd wrth ymyl yn barod . %snd:"fusser18"_1071456_1074951
+%gls:	and be.3S.PRES and be.3S.PRES Haf PRT.PAST decide.NONFIN who be.3S.PRES want sit.NONFIN by side PRT ready
+%eng:	and Haf's decided who she wants to sit by already
+*ARD:	oh@s:cym&eng mae gyn Haf@s:cym&eng ffrind # yna beth bynnag yn_does . %snd:"fusser18"_1074951_1077842
+%gls:	IM be.3S.PRES with Haf friend there what ever be.3S.PRES.NEG
+%eng:	oh, Haf's got a friends there anyway, hasn't she
+*BEU:	+< oes . %snd:"fusser18"_1077366_1077842
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	so@s:cym&eng [?] mae (y)n eistedd +/ . %snd:"fusser18"_1077842_1078399
+%gls:	so be.3S.PRES PRT sit.NONFIN
+%eng:	so she's sitting...
+*BEU:	+< so@s:cym&eng mae hi (we)di penderfynu pwy mae isio eistedd xxx . %snd:"fusser18"_1078109_1079758
+%gls:	so be.3S.PRES PRON.3SF PRT.PAST decide.NONFIN who be.3S.PRES want sit.NONFIN xxx
+%eng:	so she's decided who she wants to sit [...]
+*ARD:	oh@s:cym&eng right@s:cym&eng [?] . %snd:"fusser18"_1079758_1080733
+%gls:	IM right
+%eng:	oh right
+*BEU:	mae [?] Cai@s:cym&eng ddim isio eistedd wrth ymyl y ffenestr # hefyd . %snd:"fusser18"_1080733_1083717
+%gls:	be.3S.PRES Cai NEG want sit.NONFIN by side DET window also
+%eng:	Cai doesn't want to sit by the window, too
+*ARD:	+< oh@s:cym&eng right@s:cym&eng &=laugh . %snd:"fusser18"_1082823_1084785
+%gls:	IM right
+%eng:	oh right
+*BEU:	so@s:cym&eng +/ . %snd:"fusser18"_1084785_1085470
+%gls:	so
+%eng:	so...
+*ARD:	a wedyn # dan ni mynd i fynd hefo nhw (fe)lly ? %snd:"fusser18"_1085307_1087188
+%gls:	and then be.1PL.PRES PRON.1PL go.NONFIN to go.NONFIN with PRON.3PL thus
+%eng:	so are we going to go with them, like?
+*BEU:	oh@s:cym&eng fydd raid ni fynd efo nhw xxx . %snd:"fusser18"_1087188_1088303
+%gls:	IM be.3S.FUT necessity PRON.1PL go.NONFIN with PRON.3PL xxx
+%eng:	oh, we'll have to go with them [...]
+*ARD:	ar y bus@s:cym&eng . %snd:"fusser18"_1088105_1088848
+%gls:	on DET bus
+%eng:	on the bus
+*BEU:	yndyn . %snd:"fusser18"_1088848_1089208
+%gls:	be.1PL.PRES
+%eng:	yes
+*ARD:	&=laugh oh@s:cym&eng nice@s:cym&eng &=laugh . %snd:"fusser18"_1089208_1091333
+%gls:	IM nice
+%eng:	oh nice
+*BEU:	+< &=laugh . %snd:"fusser18"_1089533_1089963
+*BEU:	oh@s:cym&eng wneith change@s:cym&eng cael mynd lle dreifio ar_hyd yr A_pum_deg_pump xxx . %snd:"fusser18"_1091089_1093620
+%gls:	IM do.3S.NONPAST change get.NONFIN go.NONFIN place drive.NONFIN along DET A_fifty_five xxx
+%eng:	oh, it'll make a change rather than driving along the A55 [...]
+*ARD:	&=gasp ges i fynd ar bus@s:cym&eng wsnos dwytha . %snd:"fusser18"_1093283_1095652
+%gls:	get.1S.PAST PRON.1S go.NONFIN on bus week previous
+%eng:	I got to go on a bus last week
+*ARD:	oedd (y)na um@s:cym&eng &=gulp # er@s:cym&eng gwmni yn um@s:cym&eng rhoi +// . %snd:"fusser18"_1095652_1099738
+%gls:	be.3S.IMP there IM IM company PRT IM give.NONFIN
+%eng:	there was a company giving...
+*ARD:	well@s:cym&eng be oedd <y &kɛd> [//] y title@s:cym&eng oedd um@s:cym&eng # Pills_Thrills_and_Automobiles@s:eng . %snd:"fusser18"_1099738_1104998
+%gls:	well what be.3S.IMP DET DET title be.3S.IMP IM Pills_Thrills_and_Automobiles
+%eng:	well, what the title was was, um, Pills, Thrills and Automobiles
+*ARD:	um@s:cym&eng yn Plas_Silyn@s:cym&eng . %snd:"fusser18"_1104998_1106461
+%gls:	IM in Plas_Silyn
+%eng:	um, at Plas Silyn
+*BEU:	fel cwmni drama@s:cym&eng ? %snd:"fusser18"_1106461_1107401
+%gls:	like company drama
+%eng:	like a drama company?
+*ARD:	fel cwmni drama@s:cym&eng . %snd:"fusser18"_1107122_1108283
+%gls:	like company drama
+%eng:	like a drama company
+*ARD:	ac oedden nhw er@s:cym&eng (we)di cael eu comisiynu gyn y [=? er@s:cym&eng] cyngor sir # i fynd round@s:cym&eng ysgolion er@s:cym&eng [=? y] chweched dosbarth . %snd:"fusser18"_1108283_1114622
+%gls:	and be.3PL.IMP PRON.3PL IM PRT.PAST get.NONFIN POSS.3PL commission.NONFIN by DET council county to go.NONFIN round schools IM sixth class
+%eng:	and they'd been commissioned by the county council to go round, er, sixth form schools
+*ARD:	a [/] # a Coleg_Meirion_Dwyfor oedd un . %snd:"fusser18"_1114611_1116828
+%gls:	and and Coleg_Meirion_Dwyfor be.3S.IMP one
+%eng:	and Coleg Meirion-Dwyfor was one
+*ARD:	so@s:cym&eng aethon ni â tair bus@s:cym&eng mynd â # er@s:cym&eng myfyrwyr i_fyny (y)na . %snd:"fusser18"_1116828_1120915
+%gls:	so go.1PL.PAST PRON.1PL with three.F bus go.NONFIN with IM students up there
+%eng:	so we took three buses, took, er, students up there
+*ARD:	oedd o (y)n dda . %snd:"fusser18"_1120915_1121681
+%gls:	be.3S.IMP PRON.3SM PRT good
+%eng:	it was good
+*ARD:	oedd y safon yn dda . %snd:"fusser18"_1121681_1122691
+%gls:	be.3S.IMP DET standard PRT good.NONFIN
+%eng:	the standard was good
+*BEU:	be [/] be oedd yn &d <trio wneud> [?] ? %snd:"fusser18"_1122482_1123643
+%gls:	what what be.3S.IMP PRT try.NONFIN do.NONFIN
+%eng:	what...what was it trying to do?
+*BEU:	trio &d deud (wr)tho nhw peidio cymryd cyffuriau a # alcohol@s:cym&eng ac ati a gyrru ? %snd:"fusser18"_1123643_1127776
+%gls:	try.NONFIN say.NONFIN to.3PL PRON.3PL desist.NONFIN take.NONFIN drugs and alcohol and so_on and drive.NONFIN
+%eng:	trying to tell them not to take drugs and alcohol and so on and speed
+%com:	as previously, "gyrru" in north-west can mean "to speed" or "to drive fast", as well as the more general "to drive" . It's probable that the latter is meant here
+*ARD:	+< well@s:cym&eng be oedden nhw wneud oedd +.. . %snd:"fusser18"_1123817_1125025
+%gls:	well what be.3PL.IMP PRON.3PL do.NONFIN be.3S.IMP
+%eng:	well what they were doing was...
+*ARD:	+< ++ alcohol@s:cym&eng a gyrru ia . %snd:"fusser18"_1126163_1128090
+%gls:	alcohol and drive.NONFIN yes
+%eng:	alcohol and speed, yes
+*ARD:	ac oedd <yr um@s:cym&eng> [/] # y story@s:cym&eng wedi sylfaenu ar um@s:cym&eng # pedwar # um@s:cym&eng # ffrind . %snd:"fusser18"_1128090_1134998
+%gls:	and be.3S.IMP DET IM DET story PRT.PAST found.NONFIN on IM four.M IM friend
+%eng:	and the, um, the story was based on, um, four, um, friends
+*ARD:	lle [?] gaeth er@s:cym&eng um@s:cym&eng # <un ei lladd> [//] # er@s:cym&eng sorry@s:cym&eng dau [//] ia dau ei ladd um@s:cym&eng # na na un ei ladd un # um@s:cym&eng wedi cael ei barlysu # um@s:cym&eng # ac # un yn iawn . %snd:"fusser18"_1134998_1148756
+%gls:	where get.3S.PAST IM IN one POSS.3S kill.NONFIN IM sorry two.M yes two.M POSS.3SM kill.NONFIN IM no no one POSS.3SM kill.NONFIN one IM PRT.PAST get.NONFIN POSS.3SM paralyse.NONFIN IM and one PRT right
+%eng:	where, er, um, one was killed...er, sorry, two...yes two were killed, um, no no, one was killed, one, um, was paralyse, um and one alright
+*ARD:	ond <oedd o (y)n> [/] oedd [/] oedd o (y)n # eitha # effeithiol o ran # dod â (y)r neges drosodd . %snd:"fusser18"_1148756_1155710
+%gls:	but be.3S.IMP PRON.3SM PRT be.3S.IMP be.3S.IMP PRON.3SM PRT quite effective of part come.NONFIN with DET message over
+%eng:	but it was...it was quite effective in putting the message accross
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1155710_1156070
+%gls:	yeah
+%eng:	yeah
+*ARD:	i ddechrau oedd (y)na ryw ddawnsio ac yn y blaen . %snd:"fusser18"_1156070_1158183
+%gls:	to start.NONFIN be.3S.IMP there some dance.NONFIN and in DET front
+%eng:	at the start there was some dancing and so on
+*ARD:	ac er@s:cym&eng # enwedig yr hogiau meddwl +"/ . %snd:"fusser18"_1158208_1160017
+%gls:	and IM particular DET boys think.NONFIN
+%eng:	and er, the boys in particular thought:
+*ARD:	+" oh@s:cym&eng be (y)dy hyn ? %snd:"fusser18"_1160017_1160877
+%gls:	IM what be.3S.PRES this
+%eng:	"oh, what's this?"
+*ARD:	+" dan ni (ddi)m yn licio hyn felly [?] yeah@s:cym&eng . %snd:"fusser18"_1160902_1161945
+%gls:	be.1PL.PRES PRON.1PL NEG PRT like.NONFIN this thus yeah
+%eng:	"we don't like this, like, yeah"
+*ARD:	ond wedyn mi # droeodd y storoy@s:cym&eng [*] [//] story@s:cym&eng . %snd:"fusser18"_1161818_1164499
+%gls:	but then PRT turn.3S.PAST DET story story
+%eng:	but then the story changed
+*ARD:	ac um@s:cym&eng oedd pawb (we)di cael ei [/] # ei sobri (y)nglŷn â effaith alcohol@s:cym&eng a # cyffuriau (fe)lly # a dreifio . %snd:"fusser18"_1164464_1172765
+%gls:	and IM be.3S.IMP everybody PRT.PAST get.NONFIN POSS.3S POSS.3S sober.NONFIN regarding PRT effect.NONFIN alcohol and drugs thus and drive.NONFIN
+%eng:	and, um, everybody was sobered about the effects of alcohol and drugs, like, and speeding
+*BEU:	+< &m &ət &ə ti meddwl [?] xxx effeithiol i +/? %snd:"fusser18"_1171825_1174019
+%gls:	PRON.2S think.NONFIN xxx effective for
+%eng:	you think [...] effective for..?
+*ARD:	oh@s:cym&eng yndy oedd (y)na neges (we)di cael ei roid . %snd:"fusser18"_1174019_1175946
+%gls:	IM be.3S.PRES be.3S.IMP there message PRT.PAST get.NONFIN POSS.3S give.NONFIN
+%eng:	oh yes, a message was conveyed
+*BEU:	+< +, i dy students@s:cym&eng di ? %snd:"fusser18"_1175226_1176074
+%gls:	for POSS.2S students PRON.2S
+%eng:	for your students?
+*ARD:	fain mae mynd i bara wrth_gwrs (y)dy beth arall . %snd:"fusser18"_1176074_1177862
+%gls:	how_much be.3S.PRES go.NONFIN to last.NONFIN of_course be.3S.PRES thing other
+%eng:	how much it's going to last, of course, is another thing
+*ARD:	ond # oedd o (y)n hynod o effeithiol . %snd:"fusser18"_1177862_1179580
+%gls:	but be.3S.IMP PRON.3SM PRT extraordinary of effective
+%eng:	but it was incredibly effective
+*ARD:	ac oedd o (we)di cael ei dargedu (y)n dda [/] dda # at <yr oedran> [/] # yr oedran yna (fe)lly . %snd:"fusser18"_1179580_1184816
+%gls:	and be.3S.IMP PRON.3SM PRT.PAST get.NONFIN POSS.3SM target.NONFIN PRT good towards DET age DET age there thus
+%eng:	and it had been targeted well towards that age, like
+*ARD:	ond um@s:cym&eng # mi oedd (y)na &n nifer o # fyfyrwyr gynnon ni wedi colli # aelodau teuluoedd ac yn y blaen mewn math yna o beth . %snd:"fusser18"_1184816_1192776
+%gls:	but IM PRT be.3S.IMP there number of students with.1PL PRON.1PL PRT.PAST lose.NONFIN members families and in DET front in kind there of thing
+%eng:	but um, we had a number of students who had lost family members and so on in that kind of thing
+*ARD:	wedyn oedden nhw weld o (y)n eitha anodd . %snd:"fusser18"_1192776_1195086
+%gls:	then be.3PL.IMP PRON.3PL see.NONFIN PRON.3SM PRT quite difficult
+%eng:	so they found it quite difficult
+*BEU:	ie . %snd:"fusser18"_1195086_1195655
+%gls:	yes
+%eng:	yes
+*ARD:	um@s:cym&eng &=clears_throat ond er@s:cym&eng oedd o (y)n dda iawn . %snd:"fusser18"_1195655_1198430
+%gls:	IM but IM be.3S.IMP PRON.3SM PRT good very
+%eng:	um, but er, it was very good
+*ARD:	wedyn do xxx +/ . %snd:"fusser18"_1198430_1199905
+%gls:	then yes xxx
+%eng:	so yes [...] ...
+*BEU:	xxx mae rei o nhw (y)r oedran (y)na [?] medru bod yn wyllt &k # i chi (y)n_does . %snd:"fusser18"_1199115_1202610
+%gls:	xxx be.3S.PRES some of PRON.3PL DET age there can.NONFIN be.NONFIN PRT wild for PRON.2PL be.3S.PRES.NEG
+%eng:	[...] some of them at that age can be wild for you, can't they
+*ARD:	oes sure@s:cym&eng oes . %snd:"fusser18"_1202505_1204061
+%gls:	be.3S.PRES sure be.3S.PRES
+%eng:	yes, of course, yes
+%com:	telephone starts ringing
+*ARD:	phone@s:cym&eng . %snd:"fusser18"_1204061_1205222
+%gls:	phone
+%eng:	phone
+*BEU:	+< xxx phone@s:cym&eng yn mynd . %snd:"fusser18"_1204758_1205744
+%gls:	xxx phone PRT go.NONFIN
+%eng:	[...] phone's going
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_1205744_1206894
+%gls:	IM
+%eng:	oh
+*ARD:	<be wnawn ni (e)fo (y)r phone@s:cym&eng> [=! laughs] &=laugh . %snd:"fusser18"_1206894_1209622
+%gls:	what be.1PL.NONPAST PRON.1PL with DET phone
+%eng:	what will we do with the phone
+*BEU:	+< &=laugh . %snd:"fusser18"_1208252_1208682
+*ARD:	pwy sy (y)na ti meddwl ? %snd:"fusser18"_1209622_1210864
+%gls:	who be.PRES.REL there PRON.2S think.NONFIN
+%eng:	who's there, do you think?
+*BEU:	dw i ddim yn gwybod . %snd:"fusser18"_1210864_1212432
+%gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN
+%eng:	I don't know
+*ARD:	be (y)dy gloch ? %snd:"fusser18"_1212432_1213256
+%gls:	what be.3S.PRES clock
+%eng:	what time is it?
+*BEU:	xxx +// . %snd:"fusser18"_1213093_1213674
+*ARD:	chwarter i chwech . %snd:"fusser18"_1213674_1214672
+%gls:	quarter to six
+%eng:	a quarter to six
+*ARD:	oh@s:cym&eng wna i wneud one@s:eng [/] one@s:eng four@s:eng seven@s:eng one@s:eng . %snd:"fusser18"_1214672_1216832
+%gls:	IM do.1S.NONPAST PRON.1S do.NONFIN one one four seven one
+%eng:	oh, I'll do one...one four seven one
+*BEU:	+< xxx one@s:eng four@s:eng seven@s:eng one@s:eng wedyn . %snd:"fusser18"_1215218_1216832
+%gls:	xxx one four seven one after
+%eng:	[...] one four seven one afterwards
+*BEU:	xxx dyna (y)dy peth gorau . %snd:"fusser18"_1216832_1217761
+%gls:	xxx there be.3S.PRES thing best
+%eng:	[...] that's the best thing
+*ARD:	+< ia wnawn ni wneud one@s:eng four@s:eng seven@s:eng one@s:eng . %snd:"fusser18"_1217354_1219003
+%gls:	yes do.1PL.NONPAST PRON.1PL do.NONFIN one four seven one
+%eng:	yes, we'll do one four seven one
+*ARD:	so@s:cym&eng mae genna i awydd cael mobile@s:eng phone@s:cym&eng newydd . %snd:"fusser18"_1219003_1222660
+%gls:	so be.3S.PRES with.1S PRON.1S desire get.NONFIN mobile phone new
+%eng:	so I fancy getting a new mobile phone
+*BEU:	oes o'ch chdi (y)n deud . %snd:"fusser18"_1222660_1223995
+%gls:	be.3S.PRES be.2S.IMP PRON.2S PRT say.NONFIN
+%eng:	yes, you were saying
+*ARD:	+< &ɔ # ti cofio xxx +//? %snd:"fusser18"_1223368_1224448
+%gls:	PRON.2S remember.NONFIN xxx
+%eng:	you remember [...] ..?
+*BEU:	well@s:cym&eng mae dy ben_blwydd xxx . %snd:"fusser18"_1223995_1225261
+%gls:	well be.3S.PRES POSS.2S birthday xxx
+%eng:	well your birthday's [...]
+*ARD:	a:h@s:cym&eng ! %snd:"fusser18"_1225133_1227176
+%gls:	IM
+%eng:	ah!
+*BEU:	+< xxx (ba)sai syniad i chdi cael um@s:cym&eng +/ . %snd:"fusser18"_1225261_1227200
+%gls:	xxx be.3S.CONDIT idea for PRON.2S get.NONFIN IM
+%eng:	[...] it'd be an idea for you to get, um...
+*ARD:	ti cofio xxx pen_blwydd fi hefyd (fe)lly wyt ? %snd:"fusser18"_1227200_1229243
+%gls:	PRON.2S remember xxx birthday PRON.1S also thus be.2S.PRES
+%eng:	you remember [...] my birthday too, then, do you?
+*BEU:	&ə dw i yn cofio bod [?] dy ben_blwydd di yndw . %snd:"fusser18"_1229022_1230752
+%gls:	be.1S.PRES PRON.1S PRT remember.NONFIN be.NONFIN POSS.2S birthday PRON.2S be.1S.PRES
+%eng:	I do remember it's your birthday, yes
+*ARD:	oh@s:cym&eng . %snd:"fusser18"_1229881_1230752
+%gls:	IM
+%eng:	oh
+*BEU:	paid â poeni . %snd:"fusser18"_1230752_1231379
+%gls:	desist.2S.IMPER with worry.NONFIN
+%eng:	don't worry
+*ARD:	iawn . %snd:"fusser18"_1231310_1231936
+%gls:	right
+%eng:	alright
+*ARD:	<so@s:cym&eng o'n i meddwl hwyrach (ba)sai cael um@s:cym&eng> [?] [///] (ba)swn i (ddi)m meindio cael mobile@s:eng phone@s:cym&eng xxx efo # cameras@s:cym&eng ac yn y blaen # gadw fyny (e)fo technel [*] [//] xxx [//] technoleg i ddeud y gwir . %snd:"fusser18"_1231936_1240934
+%gls:	so be.1S.IMP PRON.1S think.NONFIN perhaps be.3S.CONDIT get.NONFIN IM be.1S.CONDIT PRON.1S NEG mind.NONFIN get.NONFIN mobile phone xxx with cameras and in DET front keep.NONFIN up with technology xxx technology to say.NONFIN DET truth
+%eng:	so I thought perhaps getting, um...I wouldn't mind getting a mobile phone [...] with cameras and so on, to keep up with technology to tell the truth
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1240911_1241503
+%gls:	yeah
+%eng:	yeah
+*ARD:	neu dw i (y)n teimlo bod yr myfyrwyr yn fwy # um@s:cym&eng # in@s:eng touch@s:cym&eng efo +/ . %snd:"fusser18"_1241503_1246008
+%gls:	or be.1S.PRES PRON.1S PRT feel.NONFIN be.NONFIN DET students PRT more IM in touch with
+%eng:	or I feel the students are more, um, in touch with...
+*BEU:	+< &k (be)cause@s:eng mae (y)r un &bɛ [//] # s(y) gyn ti ar y funud mae (y)n un bach del . %snd:"fusser18"_1245125_1247540
+%gls:	because be.3S.PRES DET one be.PRES.REL with PRON.2S on DET minute be.3S.PRES PRT one small pretty
+%eng:	because the one you've got at the moment, it's a pretty little one
+*BEU:	ond (doe)s gen ti (ddi)m camera@s:cym&eng xxx nag oes . %snd:"fusser18"_1247540_1248852
+%gls:	but be.3S.PRES.NEG with PRON.2S NEG camera xxx NEG be.3S.PRES
+%eng:	but you haven't got a camera, have you
+*ARD:	na &w dydy o (ddi)m_byd na(g) (y)dy &z um@s:cym&eng # dim ond text@s:eng a phone@s:cym&eng xxx felly . %snd:"fusser18"_1248794_1253136
+%gls:	no be.3S.PRES.NEG PRON.3SM nothing NEG be.3S.PRES IM NEG but text and phone xxx thus
+%eng:	no, it's nothing, is it, um only text and phone [...] like
+*ARD:	wedyn hwyrach +.. . %snd:"fusser18"_1253136_1254251
+%gls:	then perhaps
+%eng:	so perhaps...
+*ARD:	dw (ddi)m yn gwybod . %snd:"fusser18"_1254251_1255296
+%gls:	be.1S.PRES NEG PRT know.NONFIN
+%eng:	I don't know
+*ARD:	edrych i_mewn i (y)r peth # yn sicr . %snd:"fusser18"_1255296_1257502
+%gls:	look.2S.IMPER in to DET thing PRT certain
+%eng:	look into it, certainly
+*BEU:	alright@s:cym&eng . %snd:"fusser18"_1257502_1257966
+%gls:	alright
+%eng:	alright
+*ARD:	ia . %snd:"fusser18"_1257966_1258500
+%gls:	yes
+%eng:	yes
+*ARD:	ia . %snd:"fusser18"_1258500_1259429
+%gls:	yes
+%eng:	yes
+*BEU:	wnawn [?] ni tsiecio (y)r phone@s:cym&eng (y)na wedyn i weld pwy oedd (y)na . %snd:"fusser18"_1259429_1261054
+%gls:	do.1PL.NONPAST PRON.1PL check.NONFIN DET phone there after to see.NONFIN who be.3S.IMP there
+%eng:	we'll check that phone afterwards to see who was there
+*ARD:	ie <&n i> [?] weld pwy sy (y)na ia . %snd:"fusser18"_1260601_1262134
+%gls:	yes to see.NONFIN who be.PRES.REL there yes
+%eng:	yes, to see who's there, yes
+*ARD:	dy fam@s:cym&eng ? %snd:"fusser18"_1262134_1263098
+%gls:	POSS.2S mum
+%eng:	your mother?
+*BEU:	digon posib . %snd:"fusser18"_1263098_1263864
+%gls:	enough possible
+%eng:	possibly
+*BEU:	mae tua adeg yna . %snd:"fusser18"_1263864_1264735
+%gls:	be.3S.PRES approximately time there
+%eng:	it's about that time
+*ARD:	adeg yma mae [?] dy fam@s:cym&eng . %snd:"fusser18"_1264433_1265443
+%gls:	time here be.3S.PRES POSS.2S mum
+%eng:	your mother's around this time
+*BEU:	er@s:cym&eng xxx dad@s:cym&eng (we)di mynd i capel mae sure@s:cym&eng . %snd:"fusser18"_1264932_1267045
+%gls:	IM xxx dad PRT.PAST go.NONFIN to chapel be.3S.PRES sure
+%eng:	er [...] dad's probably gone to chapel
+*BEU:	xxx . %snd:"fusser18"_1267045_1267776
+*ARD:	ia wedyn um@s:cym&eng +.. . %snd:"fusser18"_1267312_1268531
+%gls:	yes then IM
+%eng:	yes, so um...
+*ARD:	&=laugh . %snd:"fusser18"_1268531_1271085
+*BEU:	so <mae (y)n &f> [/] mae (y)n ffonio yndy # hefo dad@s:cym&eng yn capel . %snd:"fusser18"_1270307_1272757
+%gls:	so be.3S.PRES PRT be.3S.PRES PRT phone.NONFIN be.3S.PRES with dad in chapel
+%eng:	so she phones, doesn't she, with dad in chapel
+*ARD:	+< yndy . %snd:"fusser18"_1271561_1271933
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	&=gasp yndy . %snd:"fusser18"_1272757_1274928
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	pwy sy (we)di marw neu # &ps babi rywun [?] . %snd:"fusser18"_1274928_1278295
+%gls:	who be.PRES.REL PRT.PAST die.NONFIN or baby somebody
+%eng:	who's died or somebody's baby
+*BEU:	+< &=clears_throat neu babi rywun arall ia . %snd:"fusser18"_1277703_1279177
+%gls:	or baby somebody other yes
+%eng:	or somebody else's baby, ies
+*ARD:	ia [=! laughs] &=laugh . %snd:"fusser18"_1278771_1282335
+%gls:	yes
+%eng:	yes
+*ARD:	ia . %snd:"fusser18"_1282335_1283369
+%gls:	yes
+%eng:	yes
+*ARD:	xxx +/ . %snd:"fusser18"_1283369_1286294
+*BEU:	yeah@s:cym&eng so@s:cym&eng chdi (y)n sôn am [/] # am phone@s:cym&eng newydd . %snd:"fusser18"_1285737_1287885
+%gls:	yeah so PRON.2S PRT mention.NONFIN about about phone new
+%eng:	yeah, so you were talking about a new phone
+*ARD:	ia . %snd:"fusser18"_1287885_1288326
+%gls:	yes
+%eng:	yes
+*BEU:	&t ti (we)di gweld un ti [/] # ti (y)n ffansïo ? %snd:"fusser18"_1288187_1290242
+%gls:	PRON.2S PRT.PAST see.NONFIN one PRON.2S PRON.2S PRT fancy.NONFIN
+%eng:	have you seen one you fancy
+*ARD:	+< oh@s:cym&eng dw i methu dewis . %snd:"fusser18"_1289708_1290927
+%gls:	IM be.1S.PRES PRON.1S fail.NONFIN choose.NONFIN
+%eng:	oh, I can't choose
+*ARD:	wnes i sbïad yn Tesco@s:cym&eng neithiwr . %snd:"fusser18"_1290927_1292459
+%gls:	do.1S.PAST PRON.1S look.NONFIN in Tesco last_night
+%eng:	I looked in Tesco last night
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1292459_1292854
+%gls:	yeah
+%eng:	yeah
+*ARD:	+< ac oh@s:cym&eng . %snd:"fusser18"_1292506_1293504
+%gls:	and IM
+%eng:	and, oh
+*ARD:	mae bach llai o ddewis yn fan (y)na . %snd:"fusser18"_1293504_1294677
+%gls:	be.3S.PRES small less of choice in place there
+%eng:	there's a little less choice there
+*ARD:	fuais i i # Carphone_Warehouse@s:cym&eng # y Deiniol_Center@s:eng dydd Sadwrn . %snd:"fusser18"_1294677_1299251
+%gls:	be.1S.PAST PRON.1S to Carphone_Warehouse DET Deiniol_Center day Saturday
+%eng:	I went to the Deiniol Center Carphone Warehouse on Saturday
+*ARD:	xxx +/ . %snd:"fusser18"_1299251_1299913
+*BEU:	xxx . %snd:"fusser18"_1299634_1300366
+*ARD:	do . %snd:"fusser18"_1300331_1300830
+%gls:	yes
+%eng:	yes
+*BEU:	(be)cause@s:eng wnaethon ni sbïo diwrnod blaen xxx . %snd:"fusser18"_1300377_1301910
+%gls:	because do.1PL.PAST PRON.1PL look.NONFIN day before xxx
+%eng:	because we looked the other day [...]
+*ARD:	+< do . %snd:"fusser18"_1301457_1302003
+%gls:	yes
+%eng:	yes
+*ARD:	oh@s:cym&eng <mae (y)na> [/] # mae (y)na lot@s:cym&eng (y)na xxx . %snd:"fusser18"_1302003_1304545
+%gls:	IM be.3S.PRES there be.3S.PRES there lot there xxx
+%eng:	oh, there are a lot there [...]
+*ARD:	mae (y)na # job@s:cym&eng dewis a deud y gwir . %snd:"fusser18"_1304545_1306589
+%gls:	be.3S.PRES there job choose.NONFIN PRT say.NONFIN DET truth
+%eng:	it's difficult to choose to tell the truth
+*ARD:	a mae (y)na (y)r um@s:cym&eng # <be (y)dy o> [?] G_Three@s:cym&eng neu Three_G@s:cym&eng # un o (r)heiny # <a (y)r> [=? ar] +.. . %snd:"fusser18"_1306589_1312893
+%gls:	and be.3S.PRES there DET IM what be.3S.PRES PRON.3SM G_Three or Three_G one of those and DET
+%eng:	and there's the, um, what is it, G3 or 3G, one of those, and the...
+*ARD:	oh@s:cym&eng # mewn ffordd mae [/] mae isio edrych i_fyny (y)n [//] # fel bod ni (y)n +.. . %snd:"fusser18"_1312893_1317548
+%gls:	IM in way be.3S.PRES be.3S.PRES want look.NONFIN up PRT like be.NONFIN PRON.1PL PRT
+%eng:	oh, in a way, we need to look up, so that we...
+*ARD:	ond os ti (y)n cael phone@s:cym&eng efo gwaith: +.. . %snd:"fusser18"_1317548_1320265
+%gls:	but if PRON.2S PRT get.NONFIN phone with work
+%eng:	but if you're getting a phone with work...
+*BEU:	oh@s:cym&eng [?] dw i disgwyl cael phone@s:cym&eng newydd . %snd:"fusser18"_1319627_1321113
+%gls:	IM be.1S.PRES PRON.1S expect.NONFIN get.NONFIN phone new
+%eng:	oh, I'm expecting to get a new phone
+*ARD:	xxx [//] # (ba)sai (y)n help@s:cym&eng gwybod be # dype@s:cym&eng o phone@s:cym&eng ti (y)n gael mewn ffordd bysai . %snd:"fusser18"_1321113_1324514
+%gls:	xxx be.3S.CONDIT PRT help know.NONFIN what type of phone PRON.2S PRT get.NONFIN in way be.3S.CONDIT
+%eng:	[...] ...it'd be a help to know what type of phone you're getting in a way, wouldn't it
+*BEU:	<fath â> [?] i cadw <(y)r un> [/] # er@s:cym&eng <yr un> [/] yr un cwmni de . %snd:"fusser18"_1324514_1328659
+%gls:	kind with to keep.NONFIN DET one IM DET one DET one company TAG
+%eng:	like, to keep the same...er, the same...the same company, you know
+*ARD:	ia . %snd:"fusser18"_1328659_1328973
+%gls:	yes
+%eng:	yes
+*BEU:	so@s:cym&eng [?] os dw i (y)n cael Orange@s:cym&eng # bod [/] bod chdi gael Orange@s:cym&eng neu Vodafone@s:cym&eng Vodafone@s:cym&eng . %snd:"fusser18"_1328764_1332607
+%gls:	so if be.1S.PRES PRON.1S PRT get.NONFIN Orange be.NONFIN be.NONFIN PRON.2S get.NONFIN Orange or Vodafone Vodafone
+%eng:	so if I get Orange, that...that you get Orange, or Vodafone, Vodafone
+*ARD:	+< ia xxx Orange@s:cym&eng . %snd:"fusser18"_1329994_1331341
+%gls:	yes xxx Orange
+%eng:	yes [...] Orange
+*ARD:	(dy)na ni ia . %snd:"fusser18"_1332607_1333605
+%gls:	there PRON.1PL yes
+%eng:	that's it, yes
+*BEU:	+< xxx cysylltu fydd o (y)n rhatach . %snd:"fusser18"_1333129_1334662
+%gls:	xxx contact.NONFIN be.3S.FUT PRON.3SM PRT cheapter
+%eng:	[...] contact, it'll be cheaper
+*ARD:	bydd . %snd:"fusser18"_1334662_1335323
+%gls:	be.3S.FUT
+%eng:	yes
+*ARD:	be oedd dy phone@s:cym&eng gynt di ? %snd:"fusser18"_1335323_1337309
+%gls:	what be.3S.IMP POSS.2S phone earlier PRON.2S
+%eng:	what was your previous phone?
+*BEU:	Vodafone@s:cym&eng . %snd:"fusser18"_1337309_1338934
+%gls:	Vodafone
+%eng:	Vodafone
+*ARD:	Vodafone@s:cym&eng ? %snd:"fusser18"_1338934_1339631
+%gls:	Vodafone
+%eng:	Vodafone?
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1339584_1339932
+%gls:	yeah
+%eng:	yeah
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_1339665_1340594
+%gls:	IM right
+%eng:	oh right
+*ARD:	Vodafone@s:cym&eng s(y) gynna i ar hyn o bryd hefyd ia . %snd:"fusser18"_1340594_1343241
+%gls:	Vodafone be.PRES.REL with.1S PRON.1S on this of time also yes
+%eng:	I've got a Vodafone at the moment too, yes
+*ARD:	xxx +/ . %snd:"fusser18"_1343241_1344785
+*BEU:	ond um@s:cym&eng # &t o'n i darllen # policy@s:cym&eng &f er@s:cym&eng ## phone@s:cym&eng # xxx gwaith . %snd:"fusser18"_1344251_1351426
+%gls:	but IM be.1S.IMP PRON.1S read.NONFIN policy IM phone xxx work
+%eng:	but um, I was reading the phone policy [...] work
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_1350741_1351159
+%gls:	IM
+%eng:	mmm
+*BEU:	os xxx wneud &g er@s:cym&eng galwadau private@s:cym&eng <ti roid> [?] um@s:cym&eng seren ar ei ôl o . %snd:"fusser18"_1351426_1354433
+%gls:	if xxx do.NONFIN IM calls private PRON.2S put.NONFIN IM star on POSS.3S trace PRON.3SM
+%eng:	if [...] make@1 private calls, you put a star after it
+*ARD:	oh@s:cym&eng ia ? %snd:"fusser18"_1354433_1355327
+%gls:	IM yes
+%eng:	oh yes?
+*BEU:	so@s:cym&eng # dyna xxx os ti ffonio xxx +/ . %snd:"fusser18"_1355327_1358044
+%gls:	so there xxx if PRON.2S phone.NONFIN xxx
+%eng:	so that's [...] if you phone [...] ...
+*ARD:	ia . %snd:"fusser18"_1358044_1358741
+%gls:	yes
+%eng:	yes
+*BEU:	+, roid seren so@s:cym&eng mae nhw gwybod # pwy . %snd:"fusser18"_1358532_1360819
+%gls:	put.NONFIN star so be.3PL.PRES PRON.3PL know.NONFIN who
+%eng:	put a star so that they know who
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1360517_1361063
+%gls:	IM
+%eng:	mmm
+*BEU:	er@s:cym&eng um@s:cym&eng # a [?] pan mae rywun ffwrdd o adre # bod nhw cael hyn a hyn +/ . %snd:"fusser18"_1361063_1366624
+%gls:	IM IM and when be.3S.PRES somebody away from home be.NONFIN PRON.3PL get.NONFIN this and this
+%eng:	and when one's away from home, that they get so much...
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_1365242_1365730
+%gls:	IM
+%eng:	mmm
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1366624_1367669
+%gls:	IM
+%eng:	mmm
+*BEU:	+, <o (a)llowance@s:eng> [=? allowance@s:eng] ohono fo de . %snd:"fusser18"_1367669_1369991
+%gls:	of allowance from.3SM PRON.3SM TAG
+%eng:	of allowance from it, you know
+*ARD:	oh@s:cym&eng ia . %snd:"fusser18"_1369991_1370943
+%gls:	IM yes
+%eng:	oh yes
+*BEU:	so@s:cym&eng +.. . %snd:"fusser18"_1370943_1371697
+%gls:	so
+%eng:	so...
+*ARD:	a (we)dyn gei di gyfrifiadur hefyd . %snd:"fusser18"_1371697_1373485
+%gls:	and then get.2S.NONPAST PRON.2S computer also
+%eng:	and then you'll get a computer too
+*BEU:	xxx cyfrifiadur . %snd:"fusser18"_1373485_1375018
+%gls:	xxx computer
+%eng:	[...] a computer
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_1375018_1375842
+%gls:	IM right
+%eng:	oh right
+*ARD:	oh@s:cym&eng hello@s:cym&eng Cai@s:cym&eng . %snd:"fusser18"_1375842_1377468
+%gls:	IM hello Cai
+%eng:	oh hello Cai
+*ARD:	ti (y)n iawn ? %snd:"fusser18"_1377468_1378652
+%gls:	PRON.2S PRT right
+%eng:	you alright?
+*ARD:	be ti (we)di bod yn watsiad ? %snd:"fusser18"_1378652_1380649
+%gls:	what PRON.2S PRT.PAST be.NONFIN PRT watch.NONFIN
+%eng:	what have you been watching?
+*CAI:	Elf@s:cym&eng . %snd:"fusser18"_1380649_1381287
+%gls:	Elf
+%eng:	Elf
+*ARD:	Elf@s:cym&eng . %snd:"fusser18"_1381287_1381961
+%gls:	Elf
+%eng:	Elf
+*ARD:	oedd o dda ? %snd:"fusser18"_1381961_1382901
+%gls:	be.3S.IMP PRON.3SM good
+%eng:	was it good?
+*ARD:	oedd ? %snd:"fusser18"_1382901_1384016
+%gls:	be.3S.IMP
+%eng:	was it?
+*BEU:	wnaethoch chi +/? %snd:"fusser18"_1384016_1384503
+%gls:	do.2PL.PAST PRON.2PL
+%eng:	did you..?
+*ARD:	+< iawn Haf@s:cym&eng ? %snd:"fusser18"_1384120_1384759
+%gls:	right Haf
+%eng:	alright Haf?
+*HAF:	yndw . %snd:"fusser18"_1384759_1385502
+%gls:	be.1S.PRES
+%eng:	yes
+*ARD:	chi fwynhau o ? %snd:"fusser18"_1385374_1386314
+%gls:	PRON.2PL enjoy.NONFIN PRON.3SM
+%eng:	did [?] you enjoy it?
+*ARD:	dach chi isio diod ? %snd:"fusser18"_1386314_1388276
+%gls:	be.2PL.PRES PRON.2PL want drink
+%eng:	do you want a drink?
+*ARD:	ia ? %snd:"fusser18"_1388276_1389159
+%gls:	yes
+%eng:	yes?
+*ARD:	dach chi isio diod oren yn fan (y)na ? %snd:"fusser18"_1389159_1390610
+%gls:	be.2PL.PRES PRON.2PL want drink orange in place there
+%eng:	do you want an orange drink there?
+*BEU:	ia ? %snd:"fusser18"_1390610_1391852
+%gls:	yes
+%eng:	yes
+*BEU:	xxx . %snd:"fusser18"_1391852_1392537
+*HAF:	be (y)dy (r)heina ? %snd:"fusser18"_1392537_1393443
+%gls:	what be.3S.PRES those
+%eng:	what are those?
+*ARD:	oh@s:cym&eng microphone@s:cym&eng bach (y)dy hwnna . %snd:"fusser18"_1393443_1395893
+%gls:	IM microphone small be.3S.PRES that
+%eng:	oh that's a little microphone
+*ARD:	ia . %snd:"fusser18"_1395893_1398377
+%gls:	yes
+%eng:	yes
+*ARD:	right@s:cym&eng (y)dy pawb (we)di gwneud ei waith cartre ? %snd:"fusser18"_1398377_1401303
+%gls:	right be.3S.PRES everybody PRT.PAST do.NONFIN POSS.3SM work home
+%eng:	right, has everybody done their homework?
+*BEU:	yeah@s:cym&eng ? %snd:"fusser18"_1401303_1402406
+%gls:	yeah
+%eng:	yeah?
+*ARD:	do ? %snd:"fusser18"_1402046_1402510
+%gls:	yes
+%eng:	yes?
+*CAI:	xxx . %snd:"fusser18"_1402139_1402742
+*ARD:	dach chi (we)di wneud xxx +/? %snd:"fusser18"_1402742_1403532
+%gls:	be.2PL.PRES PRON.2PL PRT.PAST do.NONFIN xxx
+%eng:	have you done [...] ..?
+*BEU:	+< dach chi isio mynd i wneud hwnna gynta ? %snd:"fusser18"_1402975_1404089
+%gls:	be.2PL.PRES PRON.2PL want go.NONFIN to do.NONFIN that first
+%eng:	do you want to go do that first?
+*ARD:	ia ? %snd:"fusser18"_1404089_1405657
+%gls:	yes
+%eng:	yes?
+%com:	various noises, such as footsteps, velcro opening etc.
+*ARD:	lle dach chi am wneud o ? %snd:"fusser18"_1410196_1411322
+%gls:	where be.2PL.PRES PRON.2PL for do.NONFIN PRON.3SM
+%eng:	where are you going to do it?
+*HAF:	um@s:cym&eng +.. . %snd:"fusser18"_1411322_1414364
+%gls:	IM
+%eng:	um...
+%com:	sound of velcro opening again
+*ARD:	yn llofft ? %snd:"fusser18"_1414364_1415212
+%gls:	in loft
+%eng:	in the bedroom?
+*ARD:	iawn . %snd:"fusser18"_1415212_1416036
+%gls:	right
+%eng:	alright
+*ARD:	a (we)dyn dowch â fo lawr wedyn . %snd:"fusser18"_1416036_1417684
+%gls:	and then come.2PL.IMPER with PRON.3SM down after
+%eng:	and then bring it down afterwards
+*BEU:	yeah@s:cym&eng gawn ni sbïo (ar)no [?] wedyn <efo chi> [?] . %snd:"fusser18"_1417684_1419507
+%gls:	yeah get.1PL.NONPAST PRON.1PL look.NONFIN on.3SM after with PRON.2PL
+%eng:	yeah, we can look at it with you afterwards
+*BEU:	(oe)s gynnoch chi llyfr darllen (y)na ? %snd:"fusser18"_1419507_1422247
+%gls:	be.3S.PRES with.2PL PRON.2PL book read.NONFIN there
+%eng:	have you got a reading book there?
+*HAF:	na . %snd:"fusser18"_1422247_1423408
+%gls:	no
+%eng:	no
+%com:	sound of footsteps going up the stairs [?]
+*ARD:	a wneud o (y)n daclus yeah@s:cym&eng Cai@s:cym&eng . %snd:"fusser18"_1426496_1428226
+%gls:	and do.NONFIN PRON.3SM PRT tidy yeah Cai
+%eng:	and do it tidily yeah, Cai
+*CAI:	ia . %snd:"fusser18"_1428226_1429271
+%gls:	yes
+%eng:	yes
+*ARD:	ti (we)di cael un chdi Haf@s:cym&eng ? %snd:"fusser18"_1429271_1431524
+%gls:	PRON.2S PRT.PAST get.NONFIN one PRON.2S Haf
+%eng:	have you had yours, Haf?
+*BEU:	do . %snd:"fusser18"_1431524_1434008
+%gls:	yes
+%eng:	yes
+*ARD:	(dy)na ni . %snd:"fusser18"_1434008_1434763
+%gls:	there PRON.1PL
+%eng:	there we go
+*ARD:	pawb i +.. . %snd:"fusser18"_1434763_1435425
+%gls:	everybody to
+%eng:	everybody to...
+%com:	sound of footsteps going up stairs
+*ARD:	xxx dw [/] # dw i (we)di sortio dillad ysgol <nhw at> [?] bore fory . %snd:"fusser18"_1436980_1439662
+%gls:	xxx be.1S.PRES be.1S.PRES PRON.1S PRT.PAST sort.NONFIN clothes school PRON.3PL for morning tomorrow
+%eng:	[...] I've sorted their school clothes for tomorrow
+*ARD:	dw i (we)di # polisio (e)sgidiau nhw . %snd:"fusser18"_1439662_1441996
+%gls:	be.1S.PRES PRON.1S PRT.PAST polish.NONFIN shoes PRON.3PL
+%eng:	I've polished their shoes
+*ARD:	oedd (e)sgidiau Cai@s:cym&eng yn # warthus # fel bod o (we)di bod yn cae tatws . %snd:"fusser18"_1441996_1447185
+%gls:	be.3S.IMP shoes Cai PRT disgraceful like be.NONFIN PRON.3SM PRT.PAST be.NONFIN in field potatoes
+%eng:	Cai's shoes were disgraceful, as if he'd been in a potato field
+*BEU:	+< &=laugh . %snd:"fusser18"_1444945_1445490
+*BEU:	+< &=cough . %snd:"fusser18"_1446559_1447290
+*ARD:	so@s:cym&eng fuais i allan yn +/ . %snd:"fusser18"_1447290_1448880
+%gls:	so be.1S.PAST PRON.1S out PRT
+%eng:	so I was out...
+*BEU:	ond wrth_gwrs &k &k # cae s(y) gynnon nhw (y)r ysgol . %snd:"fusser18"_1448660_1451052
+%gls:	but of_course field be.PRES.REL with.3PL PRON.3PL DET school
+%eng:	but of course, it's a field they've got at school
+*BEU:	<mae nhw> [/] # mae nhw # yn ei chanol hi . %snd:"fusser18"_1451052_1452584
+%gls:	be.3PL.PRES PRON.3PL be.3PL.PRES PRON.3PL in POSS.3SF middle PRON.3SF
+%eng:	they're...they're right in the thick of it
+*ARD:	+< cae ia . %snd:"fusser18"_1451156_1452062
+%gls:	field yes
+%eng:	a field, yes
+*ARD:	yndy . %snd:"fusser18"_1452584_1453095
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	ac um@s:cym&eng +/ . %snd:"fusser18"_1453095_1454674
+%gls:	and IM
+%eng:	and um...
+*ARD:	wedyn mae [/] mae (e)sgidiau nhw (y)n barod # cotiau nhw (y)n barod . %snd:"fusser18"_1454674_1457483
+%gls:	then be.3S.PRES be.3S.PRES shoes PRON.3PL PRT ready coats PRON.3PL PRT ready
+%eng:	so their shoes are ready, their coats are ready
+*ARD:	er@s:cym&eng gwneud brechdanau . %snd:"fusser18"_1457483_1459353
+%gls:	IM make.NONFIN sandwiches
+%eng:	er, make sandwiches
+*ARD:	ti isio brechdanau fory ? %snd:"fusser18"_1459353_1460699
+%gls:	PRON.2S want sandwiches tomorrow
+%eng:	do you want sandwiches tomorrow?
+*BEU:	er@s:cym&eng # yeah@s:cym&eng dw i (ddi)m yn mynd lawr i Bronllys@s:cym&eng wan . %snd:"fusser18"_1460699_1464345
+%gls:	IM yeah be.1S.PRES PRON.1S NEG PRT go.NONFIN down to Bronllys now
+%eng:	er, yeah, I'm not going down to Bronllys now
+*BEU:	so@s:cym&eng well fi cael # brechdanau fory . %snd:"fusser18"_1464345_1465959
+%gls:	so better PRON.1S get.NONFIN sandwiches fory
+%eng:	so I'd better have some sandwiches tomorrow
+*ARD:	+< ia so@s:cym&eng # box@s:cym&eng bwyd i bawb [/] # bawb bore fory . %snd:"fusser18"_1465018_1468234
+%gls:	yes so box food for everybody everybody morning tomorrow
+%eng:	yes, so a lunchbox for everybody tomorrow morning
+*BEU:	+< so@s:cym&eng <wnawn ni> [?] box@s:cym&eng bwyd i [/] # i bawb felly . %snd:"fusser18"_1466272_1468571
+%gls:	so do.1PL.NONPAST PRON.1PL box food for for everybody thus
+%eng:	so we'll make a sandwich box for everybody, then
+*ARD:	iawn . %snd:"fusser18"_1468571_1469500
+%gls:	right
+%eng:	alright
+*BEU:	diolch yn fawr . %snd:"fusser18"_1469500_1470754
+%gls:	thanks PRT big
+%eng:	thank you very much
+*ARD:	(dy)na ni . %snd:"fusser18"_1470754_1471334
+%gls:	there PRON.1PL
+%eng:	there we are
+*ARD:	faint o gloch ti isio cychwyn ? %snd:"fusser18"_1471334_1472704
+%gls:	how_much of clock PRON.2S want start.NONFIN
+%eng:	what time do you want to leave?
+*BEU:	oh@s:cym&eng (y)r fath ag arfer . %snd:"fusser18"_1472704_1474504
+%gls:	IM DET kind PRT habit
+%eng:	oh, the same as usual
+*ARD:	(fa)th ag arfer . %snd:"fusser18"_1474504_1475200
+%gls:	kind PRT habit
+%eng:	the same as usual
+*BEU:	ie . %snd:"fusser18"_1475200_1475502
+%gls:	yes
+%eng:	yes
+*ARD:	right@s:cym&eng . %snd:"fusser18"_1475502_1476176
+%gls:	right
+%eng:	right
+*BEU:	xxx cychwyn chwarter i # wyth wan . %snd:"fusser18"_1476176_1478184
+%gls:	xxx start.NONFIN quarter to eight now
+%eng:	[...] leave at a quarter to eight now
+*ARD:	oh@s:cym&eng dyna chdi . %snd:"fusser18"_1478184_1479008
+%gls:	IM there PRON.2S
+%eng:	oh, there you are
+*ARD:	oeddet [?] . %snd:"fusser18"_1479008_1479879
+%gls:	be.2S.IMP
+%eng:	you were
+*ARD:	so@s:cym&eng geith pawb fath:@s:cym&eng heno (y)ma # ia . %snd:"fusser18"_1479879_1482433
+%gls:	so get.3S.NONPAST everybody bath tonight here yes
+%eng:	so everybody can have a bath tonight, yes
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1482433_1484570
+%gls:	yeah
+%eng:	yeah
+*ARD:	wedyn um@s:cym&eng +.. . %snd:"fusser18"_1484570_1486218
+%gls:	then IM
+%eng:	so um...
+*BEU:	yeah@s:cym&eng <(be)cause@s:eng dw (ddi)m yn> [?] xxx +// . %snd:"fusser18"_1486218_1487739
+%gls:	yeah because be.1S.PRES NEG PRT xxx
+%eng:	yeah, because I'm not [...] ...
+*BEU:	dw meddwl [?] mae Cai@s:cym&eng (we)di cael # bath@s:cym&eng bore (y)ma . %snd:"fusser18"_1487739_1491478
+%gls:	be.1S.PRES think.NONFIN be.3S.PRES Cai PRT.PAST get.NONFIN bath morning here
+%eng:	I think Cai had a bath this morning
+*BEU:	ond <(dy)dy o (ddi)m (we)di> [/] (dy)dy o (ddi)m (we)di golchi wallt just@s:cym&eng chwa(rae) [/] chwarae (e)fo +/ . %snd:"fusser18"_1491478_1493927
+%gls:	but be.3S.PRES.NEG PRON.3SM NEG PRT.PAST be.3S.PRES.NEG PRON.3SM NEG PRT.PAST wash.NONFIN hair.POSSD.3SM just play.NONFIN play.NONFIN with
+%eng:	but he didn't...he didn't wash his hair, just played with...
+*ARD:	+< oh@s:cym&eng xxx chwarae . %snd:"fusser18"_1491547_1492360
+%gls:	IM xxx play.NONFIN
+%eng:	oh [...] played
+*ARD:	+< na &m na . %snd:"fusser18"_1493207_1494426
+%gls:	no no
+%eng:	no, no
+*ARD:	++ deifwyr # yn y bath@s:cym&eng oedd o . %snd:"fusser18"_1494426_1495831
+%gls:	divers in DET bath be.3S.IMP PRON.3SM
+%eng:	divers in the bath
+*BEU:	+< +, y [?] deifwyr xxx . %snd:"fusser18"_1495077_1495901
+%gls:	DET divers xxx
+%eng:	the divers [...]
+*ARD:	yndy na . %snd:"fusser18"_1495831_1496621
+%gls:	be.3S.PRES no
+%eng:	yes, no
+*ARD:	chwarae (y)n dŵr oedd o (y)n_hytrach na # ymolchi . %snd:"fusser18"_1496621_1500011
+%gls:	play.NONFIN in water be.3S.IMP PRON.3SM rather PRT wash_oneself.NONFIN
+%eng:	he was playing in the water rather than washing
+*ARD:	wedyn mae Haf@s:cym&eng (we)di clirio (e)i llofft . %snd:"fusser18"_1500011_1502449
+%gls:	then be.3S.PRES Haf PRT.PAST clear.NONFIN POSS.3S loft
+%eng:	then Haf's tidied up her bedroom
+*ARD:	so@s:cym&eng mae [/] mae [/] mae llofft Haf@s:cym&eng yn eitha taclus ar hyn o bryd . %snd:"fusser18"_1502449_1505421
+%gls:	so be.3S.PRES be.3S.PRES be.3S.PRES loft Haf PRT quite tidy on this of time
+%eng:	so Haf's bedroom is quite tidy at the moment
+*ARD:	<wedyn fydd hi (y)n> [?] +/ . %snd:"fusser18"_1505421_1507232
+%gls:	then be.3S.FUT PRON.3SF PRT
+%eng:	so she'll be...
+*BEU:	ar hyn o bryd . %snd:"fusser18"_1506814_1507464
+%gls:	on this of time
+%eng:	at the moment
+*ARD:	ia . %snd:"fusser18"_1507464_1507790
+%gls:	yes
+%eng:	yes
+*ARD:	a &d xxx cael llnau (y)r tŷ . %snd:"fusser18"_1507790_1508985
+%gls:	and xxx get.NONFIN clean.NONFIN DET house
+%eng:	and [...] had the house cleaned
+*ARD:	so@s:cym&eng xxx llnau tŷ bore ddoe . %snd:"fusser18"_1508985_1510506
+%gls:	so xxx clean.NONFIN house morning yesterday
+%eng:	so [...] cleaned the house yesterday morning
+*ARD:	so@s:cym&eng <mae (y)r> [?] # lle (y)n edrych yn eitha # glân # rhesymol [?] # am wythnos arall . %snd:"fusser18"_1510506_1517078
+%gls:	so be.3S.PRES DET place PRT look.NONFIN PRT quite clean reasonable for week other
+%eng:	so the place looks quite clean, reasonably [?] for another week
+*BEU:	+< diolch yn fawr . %snd:"fusser18"_1516331_1517066
+%gls:	thanks PRT big
+%eng:	thank you very much
+*ARD:	&=laugh am [?] wsnos arall . %snd:"fusser18"_1517066_1519202
+%gls:	for week other
+%eng:	for another week
+*BEU:	+< &=laugh . %snd:"fusser18"_1517600_1518355
+*ARD:	y nghar@s:cym&eng i sy (y)n warthus . %snd:"fusser18"_1519202_1521199
+%gls:	POSS.1S car PRON.1S be.PRES.REL PRT disgraceful
+%eng:	it's my car that's disgraceful
+*BEU:	+< yeah@s:cym&eng . %snd:"fusser18"_1520677_1521199
+%gls:	yeah
+%eng:	yeah
+*BEU:	xx dw isio golchi dy gar@s:cym&eng di xxx . %snd:"fusser18"_1521199_1522569
+%gls:	xx be.1S.PRES want wash.NONFIN POSS.2S car PRON.2S xxx
+%eng:	[...] I want to wash your car [...]
+*ARD:	&=gasp oh@s:cym&eng (y)n e(n)wedig efo (y)r halen # ar y ffordd . %snd:"fusser18"_1522569_1526122
+%gls:	IM PRT particular with DET salt on DET road
+%eng:	oh, especially with the salt on the road
+*BEU:	<dw i gwybod> [?] . %snd:"fusser18"_1526122_1526779
+%gls:	be.1S.PRES PRON.1S know.NONFIN
+%eng:	I know
+*BEU:	mae nuisance@s:cym&eng (dy)dy [?] . %snd:"fusser18"_1526779_1527457
+%gls:	be.3S.PRES nuisance be.3S.PRES.NEG
+%eng:	it's a nuisance, isn't it
+*BEU:	fath â +// . %snd:"fusser18"_1527457_1528061
+%gls:	kind with
+%eng:	like...
+*ARD:	er@s:cym&eng mae o (y)n ofnadwy . %snd:"fusser18"_1528061_1529222
+%gls:	IM be.3S.PRES PRON.3SM PRT terrible
+%eng:	er, it's terrible
+*BEU:	xxx wnes i olchi un fi # ddydd Mercher # fath â # dydd Mawrth . %snd:"fusser18"_1528618_1532356
+%gls:	xxx do.1S.PAST PRON.1S wash.NONFIN one PRON.1S day Wednesday kind with day Tuesday
+%eng:	[...] I washed mine on Wednesday, like, on Tuesday [?]
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1532356_1533041
+%gls:	IM
+%eng:	mmm
+*BEU:	mae (y)r halen i_gyd xxx de &vɛ trafaelio fyny ac i_lawr . %snd:"fusser18"_1533041_1535932
+%gls:	be.3S.PRES DET salt all [...] TAG travel.NONFIN up and down
+%eng:	all the salt is [...] you know, travelling up and down
+*ARD:	ia dw i sure@s:cym&eng yndy . %snd:"fusser18"_1535932_1538370
+%gls:	yes be.1S.PRES PRON.1S sure be.3S.PRES
+%eng:	yes I'm sure, it is
+*BEU:	cyn_gynted <mae (y)r um@s:cym&eng> [///] # mae stopio rhewi xxx +/ . %snd:"fusser18"_1538370_1540866
+%gls:	as_soon be.3S.PRES DET IM be.3S.PRES stop.NONFIN freeze.NONFIN xxx
+%eng:	as soon as it stops freezing [...] ...
+*ARD:	yndy . %snd:"fusser18"_1540866_1541981
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	<mae (y)n syniad da i peidio> [//] ## well@s:cym&eng mae (y)n syniad da i [/] i [/] i olchi nhw (y)ndy gael gwared o (y)r halen (y)na . %snd:"fusser18"_1541981_1550433
+%gls:	be.3S.PRES PRT idea good to desist.NONFIN well be.3S.PRES PRT idea good to to to wash.NONFIN PRON.3PL be.3S.PRES get.NONFIN riddance of DET salt there
+%eng:	it's a good idea not to...well, it's a good idea to wash them, isn't it, to get rid of that salt
+*ARD:	+< oh@s:cym&eng halen yndy . %snd:"fusser18"_1549841_1550967
+%gls:	IM salt be.3S.PRES
+%eng:	oh salt, yes
+*BEU:	yndy . %snd:"fusser18"_1550816_1551234
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	yndy . %snd:"fusser18"_1551234_1552302
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	(be)cause@s:eng mae o (y)n +.. . %snd:"fusser18"_1552302_1553811
+%gls:	because be.3S.PRES PRON.3SM PRT
+%eng:	because it's...
+*ARD:	<dw (ddi)m gwybod> [?] <lle xxx> [//] <lle xxx> [//] lle awn ni . %snd:"fusser18"_1553796_1555646
+%gls:	be.1S.PRES NEG know.NONFIN where xxx where xxx where go.1PL.NONPAST PRON.1PL
+%eng:	I don't know where we'll go
+*BEU:	+< xxx +// . %snd:"fusser18"_1554508_1555193
+*ARD:	<mynd i> [?] car@s:cym&eng wash@s:eng ? %snd:"fusser18"_1555646_1556377
+%gls:	go.NONFIN to car wash
+%eng:	go to the car wash?
+*BEU:	ia mae haws wneud hynny [?] &g [//] yn car@s:cym&eng wash@s:eng . %snd:"fusser18"_1556377_1557910
+%gls:	yes be.3S.PRES easier do.NONFIN that in car wash
+%eng:	yes, it's easier to do that at the car wash
+*BEU:	ond <wna i> [/] # wna i roid y stuff@s:cym&eng <ar dy> [//] <ar &t> [//] &a [/] ar &ai [//] alloy@s:cym&eng wheels@s:eng . %snd:"fusser18"_1557910_1561915
+%gls:	but do.1S.NONPAST PRON.1S do.1S.NONPAST PRON.1S put.NONFIN DET stuff on POSS.2S on on alloy wheels
+%eng:	but I'll...I'll put the stuff on your...on...on the alloy wheels
+*ARD:	oh@s:cym&eng ia # (be)cause@s:eng mae nhw ddu . %snd:"fusser18"_1561915_1563471
+%gls:	IM yes because be.3PL.PRES PRON.3PL black
+%eng:	oh yes, because they're black
+*BEU:	+< y stuff@s:cym&eng yna gynta . %snd:"fusser18"_1563018_1563924
+%gls:	DET stuff there first
+%eng:	that stuff first
+*BEU:	er@s:cym&eng [?] mae hynna mynd i gael y stuff@s:cym&eng er@s:cym&eng [?] +// . %snd:"fusser18"_1563924_1565491
+%gls:	IM be.3S.PRES that go.NONFIN to get.NONFIN DET stuff IM
+%eng:	er, that's going to get the stuff, er...
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1565491_1566699
+%gls:	IM
+%eng:	mmm
+*BEU:	mae gael y break@s:cym&eng fluid@s:eng off@s:cym&eng yndy . %snd:"fusser18"_1566699_1568428
+%gls:	be.3S.PRES get.NONFIN DET break fluid off be.3S.PRES
+%eng:	it gets the break fluid off, doesn't it
+*ARD:	y break@s:cym&eng fluid@s:eng off@s:cym&eng # yndy # (y)dy . %snd:"fusser18"_1567999_1570158
+%gls:	DET break fluid off be.3S.PRES be.3S.PRES
+%eng:	the break fluid off, yes, yes
+*ARD:	a dan ni isio service@s:eng i ceir hefyd yn_does . %snd:"fusser18"_1570158_1572364
+%gls:	and be.1PL.PRES PRON.1PL want service for cars also be.3S.PRES.NEG
+%eng:	and we want a service for the cars too, don't we
+*BEU:	mae (y)r ddau car@s:cym&eng isio service@s:eng xxx . %snd:"fusser18"_1572364_1573839
+%gls:	be.3S.PRES DET two.M car want service xxx
+%eng:	both cars need a service [...]
+*ARD:	+< ++ service@s:eng oes . %snd:"fusser18"_1573351_1574709
+%gls:	service be.3S.PRES
+%eng:	service, yes
+*ARD:	xxx hanner tymor neu wedyn (fe)lly . %snd:"fusser18"_1574709_1578599
+%gls:	xxx half term or after thus
+%eng:	[...] half term or after that, like
+*BEU:	yeah@s:cym&eng xxx # wneud rywbeth wsnos yma <i mi> [?] . %snd:"fusser18"_1578599_1580828
+%gls:	yeah xxx do.NONFIN something week here for PRON.1S
+%eng:	yeah [...] do something this week for me
+*ARD:	ia ? %snd:"fusser18"_1580828_1581339
+%gls:	yes
+%eng:	yes?
+*ARD:	oh@s:cym&eng <dyna &s> [//] hwyrach (ba)sai hynna syniad . %snd:"fusser18"_1581339_1582918
+%gls:	IM there perhaps be.3S.CONDIT that idea
+%eng:	oh that's...that might be an idea
+*ARD:	iawn . %snd:"fusser18"_1582918_1585681
+%gls:	right
+%eng:	alright
+*ARD:	xxx . %snd:"fusser18"_1585681_1587980
+*BEU:	alla i fynd â nhw ar y ffordd # i gwaith . %snd:"fusser18"_1587980_1590766
+%gls:	can.1S.NONPAST PRON.1S go.NONFIN with PRON.3PL on DET way to work
+%eng:	I can take them on the way to work
+*ARD:	+< oh@s:cym&eng (dy)na chdi . %snd:"fusser18"_1589926_1590720
+%gls:	IM there PRON.2S
+%eng:	oh, there you go
+*ARD:	ia . %snd:"fusser18"_1590766_1591497
+%gls:	yes
+%eng:	yes
+*ARD:	ia . %snd:"fusser18"_1591497_1593227
+%gls:	yes
+%eng:	yes
+*ARD:	a wedyn gei di courtesy@s:eng car@s:cym&eng wedyn i +.. . %snd:"fusser18"_1593227_1595282
+%gls:	and then get.2S.NONPAST PRON.2S courtesy car then to
+%eng:	and then you can get a courtesy car then to...
+*BEU:	xxx dyna <(ba)swn i &s> [/] (ba)swn i (y)n gobeithio . %snd:"fusser18"_1595282_1598208
+%gls:	xxx there be.1S.CONDIT PRON.1S be.1S.CONDIT PRON.1S PRT hope.NONFIN
+%eng:	[...] that's what I'd hope
+*ARD:	+< ia . %snd:"fusser18"_1597465_1597883
+%gls:	yes
+%eng:	yes
+*BEU:	ond <wna i> [/] wna i siarad efo nhw . %snd:"fusser18"_1598208_1599474
+%gls:	but do.1S.NONPAST PRON.1S do.1S.nonpat PRON.1S speak.NONFIN with PRON.3PL
+%eng:	but I'll...I'll talk to them
+*ARD:	+< mynd ymlaen ie . %snd:"fusser18"_1598254_1599067
+%gls:	go.NONFIN forward yes
+%eng:	go on, yes
+*BEU:	wna i wneud [//] trio bwcio rywbeth fory . %snd:"fusser18"_1599474_1600809
+%gls:	do.1S.NONPAST PRON.1S do.NONFIN try.NONFIN book.NONFIN something tomorrow
+%eng:	I'll do...try to book something tomorrow
+*ARD:	right@s:cym&eng . %snd:"fusser18"_1600809_1601749
+%gls:	right
+%eng:	right
+*ARD:	iawn . %snd:"fusser18"_1601749_1603920
+%gls:	right
+%eng:	alright
+%com:	long pause
+*ARD:	um@s:cym&eng +.. . %snd:"fusser18"_1609737_1611374
+%gls:	IM
+%eng:	um...
+*BEU:	sut dan ni o ran ## bwyd # (wythn)os yma ? %snd:"fusser18"_1611374_1616145
+%gls:	how be.1PL.PRES PRON.1PL of part food week here
+%eng:	how are we in terms of food this week?
+*ARD:	oh@s:cym&eng dan ni (y)n iawn xxx . %snd:"fusser18"_1616145_1617411
+%gls:	IM be.1PL.PRES PRON.1PL PRT right xxx
+%eng:	oh, we're alright [...]
+*BEU:	+< dan ni (y)n iawn am ffrwythau yndyn . %snd:"fusser18"_1616819_1618084
+%gls:	be.1PL.PRES PRON.1PL PRT right for fruits be.1PL.PRES
+%eng:	we're alright for fruit, aren't we
+*ARD:	a i siopa nos Fawrth . %snd:"fusser18"_1617655_1618827
+%gls:	go.1S.NONPAST PRON.1S shop.NONFIN night Tuesday
+%eng:	I'll go shopping on Tuesday
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1618827_1619303
+%gls:	yeah
+%eng:	yeah
+*ARD:	tra fyddwch [?] chi (y)n judo@s:cym&eng # a i wneud [?] siopa # gael <yr um@s:cym&eng> [/] y basics@s:eng . %snd:"fusser18"_1619303_1625108
+%gls:	while be.2PL.FUT PRON.2PL PRT judo go.1S.NONPAST PRON.1S do.NONFIN shop.NONFIN get.NONFIN DET IM DET basics
+%eng:	while you're at judo, I'll go do the shopping, to get the basics
+*ARD:	um@s:cym&eng +.. . %snd:"fusser18"_1625108_1627105
+%gls:	IM
+%eng:	um...
+*ARD:	xxx wnaeth Haf@s:cym&eng a fi fwyn(hau) [/] fwynhau mynd neithiwr i siopa ar nos Sadwrn Tesco@s:cym&eng . %snd:"fusser18"_1627105_1631134
+%gls:	xxx do.3S.PAST Haf and PRON.1S enjoy.NONFIN enjoy.NONFIN go.NONFIN last_night to shop.NONFIN on night Saturday Tesco
+%eng:	[...] Haf and I enjoyed going last night to shop on Saturday night at Tesco
+*BEU:	do dw i gwybod . %snd:"fusser18"_1631134_1631680
+%gls:	yes be.1S.PRES PRON.1S know.NONFIN
+%eng:	yes I know
+*ARD:	oedd hi (y)n dawel braf (y)na . %snd:"fusser18"_1631680_1632875
+%gls:	be.3S.IMP PRON.3SF PRT quiet fine there
+%eng:	it was nice and quiet there
+*BEU:	+< xxx . %snd:"fusser18"_1631947_1633003
+*ARD:	ac oedd [?] just@s:cym&eng cael ryw luxuries@s:eng bach felly ar_gyfer # nos Sadwrn a penwythnos # a wedyn gwneud y basics@s:eng dw meddwl ar nos Fawrth . %snd:"fusser18"_1633003_1640050
+%gls:	and be.3S.IMP just get.NONFIN some luxuries small thus for night Saturday and weekend and then do.NONFIN DET basics be.1S.PRES think.NONFIN on night Tuesday
+%eng:	and it was just nice to get some little luxuries, like, for Saturday night and the weekend, and then do the basics then on Tuesday night
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1640050_1640689
+%gls:	yeah
+%eng:	yeah
+*ARD:	wneith o xxx # right@s:cym&eng daclus . %snd:"fusser18"_1640689_1643429
+%gls:	do.3S.NONPAST PRON.3SM xxx right tidy
+%eng:	it'll [...] quite tidy
+*ARD:	dim ond ar_ôl gwaith # mae cychwyn i siopa # tua saith o gloch # yn +/ . %snd:"fusser18"_1643429_1648746
+%gls:	NEG but after work be.3S.PRES start.NONFIN to shop.NONFIN approximately seven of clock PRT
+%eng:	only, after work, heading out shopping at about seven o'clock is...
+*BEU:	+< xxx weithiau peth ddwytha mae rywun isio wneud yndy . %snd:"fusser18"_1647376_1649002
+%gls:	xxx sometimes thing final be.3S.PRES somebody want do.NONFIN be.3S.PRES
+%eng:	[...] sometimges it's the last thing one wants to do, isn't it
+*ARD:	oh@s:cym&eng yndy (y)n e(n)wedig pan mae (y)n dywyll . %snd:"fusser18"_1648746_1650720
+%gls:	IM be.3S.PRES PRT particular when be.3S.PRES PRT dark
+%eng:	oh yes, especially when it's dark
+*ARD:	a wedyn er@s:cym&eng # mi ddaw yn hawdd(ach) [/] hawddach fel mae (y)r # dydd yn (y)mestyn xxx . %snd:"fusser18"_1650720_1656119
+%gls:	and then IM PRT come.3S.NONPAST PRT easier easier like be.3S.PRES DET day PRT lengthen.NONFIN xxx
+%eng:	so it'll get easier as the day gets longer [...]
+*BEU:	<well@s:cym&eng o'n i (y)n sôn> [?] mae (y)r dyddiau (y)mestyn wan de . %snd:"fusser18"_1656119_1658429
+%gls:	well be.1S.IMP PRON.1S PRT mention.NONFIN be.3S.PRES DET days lengthen.NONFIN now TAG
+%eng:	well, I was saying, the days are getting longer now, you know
+*ARD:	oh@s:cym&eng yndy . %snd:"fusser18"_1658429_1659149
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*BEU:	fath â heno (y)ma . %snd:"fusser18"_1659149_1660008
+%gls:	kind with tonight here
+%eng:	like tonight
+*BEU:	newydd ddechrau tywyllu mae just@s:cym&eng de . %snd:"fusser18"_1660008_1663491
+%gls:	new start.NONFIN darken.NONFIN be.3S.PRES just TAG
+%eng:	it's only just started to get dark, isn't it
+*ARD:	ia . %snd:"fusser18"_1663491_1663862
+%gls:	yes
+%eng:	yes
+*ARD:	a be o'n i sylwi oedd um@s:cym&eng mae lampau bach ni # <y rei um@s:cym&eng> [//] &=clears_throat # yr solar@s:cym&eng +/ . %snd:"fusser18"_1663862_1671246
+%gls:	and what be.1S.IMP PRON.1S notice.NONFIN be.3S.IMP IM be.3S.PRES lamps small PRON.1PL DET some IM DET solar
+%eng:	and what I noticed was, um, our little lamps, the ones, um...the solar...
+*BEU:	ie . %snd:"fusser18"_1671246_1671676
+%gls:	yes
+%eng:	yes
+*ARD:	+, um@s:cym&eng mae nhw (y)n goleuo rŵan # dipyn o oriau (y)n y nos . %snd:"fusser18"_1671676_1674834
+%gls:	IM be.3PL.PRES PRON.3PL PRT light.NONFIN now a_little of hours in DET night
+%eng:	um, they light up now, a few hours in the night
+*BEU:	yndy . %snd:"fusser18"_1674729_1675136
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	well@s:cym&eng mae nhw gael fwy o olau (y)n ystod y dydd yndy . %snd:"fusser18"_1675136_1676831
+%gls:	well be.3PL.PRES PRON.3PL get.NONFIN more of light in range DET day be.3S.PRES
+%eng:	well they get more light during the day, don't they
+*ARD:	+< yndy xxx yndy . %snd:"fusser18"_1676146_1677585
+%gls:	be.3S.PRES xxx be.3S.PRES
+%eng:	yes [...] yes
+*ARD:	mae rhyfedd . %snd:"fusser18"_1677585_1678212
+%gls:	be.3S.PRES strange
+%eng:	it's strange
+*ARD:	mae (y)na wahaniaeth i be oedd (y)na # gwmpas Dolig . %snd:"fusser18"_1678212_1680070
+%gls:	be.3S.PRES there difference to what be.3S.IMP there around Christmas
+%eng:	there's a difference to what there was around Christmas time
+*ARD:	oedden nhw (ddi)m (y)n dod on@s:eng o_gwbl nag oedden . %snd:"fusser18"_1680070_1681394
+%gls:	be.3PL.IMP PRON.3PL NEG PRT come.NONFIN on at_all NEG be.3PL.IMP
+%eng:	they wouldn't come on at all, would they
+*BEU:	+< na . %snd:"fusser18"_1681022_1681394
+%gls:	no
+%eng:	no
+*ARD:	oedden nhw (y)n hollol +// . %snd:"fusser18"_1681394_1683228
+%gls:	be.3PL.IMP PRON.3PL PRT complete
+%eng:	they were completely...
+*ARD:	(ba)set ti (y)n taeru bod nhw (ddi)m yn gweithio (fe)lly . %snd:"fusser18"_1683228_1684969
+%gls:	be.2S.CONDIT PRON.2S PRT assert.NONFIN be.NONFIN PRON.3PL NEG PRT work.NONFIN thus
+%eng:	you'd swear they didn't work, like
+*ARD:	ond mae (y)na ryw (y)chydig o oriau # o olau (y)nyn nhw rŵan . %snd:"fusser18"_1684969_1689010
+%gls:	but be.3S.PRES there some a_little of hours of light in.3PL PRON.3PL now
+%eng:	but there are a few hours of light in them now
+*ARD:	mae [?] Cai@s:cym&eng yn # fan (y)na # yn gwrando . %snd:"fusser18"_1689010_1692307
+%gls:	be.3S.PRES Cai in place there PRT listen.NONFIN
+%eng:	Cai is over there listening
+*ARD:	ti gwneud dy waith cartre Cai@s:cym&eng ? %snd:"fusser18"_1692307_1694443
+%gls:	PRON.2S do.NONFIN POSS.2S work home Cai
+%eng:	have you done [or are you doing?] your homework, Cai
+*CAI:	mmm@s:cym&eng . %snd:"fusser18"_1694443_1696812
+%gls:	IM
+%eng:	mmm
+*ARD:	mmm@s:cym&eng . %snd:"fusser18"_1696812_1698228
+%gls:	IM
+%eng:	mmm
+*CAI:	+< yndw . %snd:"fusser18"_1697369_1698228
+%gls:	be.1S.PRES
+%eng:	yes
+*ARD:	&=laugh . %snd:"fusser18"_1698228_1699099
+*BEU:	+< na <(dy)dy o (ddi)m> [/] (dy)dy o (ddi)m yn sure@s:cym&eng . %snd:"fusser18"_1698437_1699401
+%gls:	no be.3S.PRES.NEG PRON.3SM NEG be.3S.PRES.NEG PRON.3SM NEG PRT sure
+%eng:	no he's not...he's not sure
+*ARD:	tyrd â fo lawr os ti isio . %snd:"fusser18"_1699273_1700782
+%gls:	come.2S.IMPER with PRON.3SM down if PRON.2S want
+%eng:	bring it down if you like
+*ARD:	be [/] be (y)dy o ? %snd:"fusser18"_1700782_1704265
+%gls:	what what be.3S.PRES PRON.3SM
+%eng:	what is it?
+*ARD:	ia ddaw â fo lawr . %snd:"fusser18"_1704265_1708503
+%gls:	yes come.3S.NONPAST with PRON.3SM donw
+%eng:	yes, he'll bring it down
+%com:	sound of pages turning
+*CAI:	xxx . %snd:"fusser18"_1708503_1712520
+*BEU:	+< &=cough . %snd:"fusser18"_1710256_1711812
+*ARD:	be [/] be (y)dy o ? %snd:"fusser18"_1712520_1713936
+%gls:	what what be.3S.PRES PRON.3SM
+%eng:	what is it?
+*BEU:	&=cough . %snd:"fusser18"_1713936_1715504
+*CAI:	xxx . %snd:"fusser18"_1715504_1717466
+*ARD:	taflen waith . %snd:"fusser18"_1717350_1718464
+%gls:	sheet work
+%eng:	a worksheet
+*CAI:	ie [?] . %snd:"fusser18"_1718464_1719254
+%gls:	yes
+%eng:	yes
+*ARD:	oh@s:cym&eng mathemateg ydy hwn . %snd:"fusser18"_1719254_1720891
+%gls:	IM mathematics be.3S.PRES this
+%eng:	oh, this is maths
+*ARD:	oh@s:cym&eng ti (we)di gwneud hyn [=? (r)hein] . %snd:"fusser18"_1720891_1722771
+%gls:	IM PRON.2S PRT.PAST do.NONFIN this
+%eng:	oh, you've done this
+*CAI:	dw i (we)di wneud (r)heina . %snd:"fusser18"_1722771_1724327
+%gls:	be.1S.PRES PRON.1S PRT.PAST do.NONFIN those
+%eng:	I've done those
+*ARD:	oh@s:cym&eng da iawn . %snd:"fusser18"_1724246_1725302
+%gls:	IM good very
+%eng:	oh very good
+*CAI:	a dw (ddi)m yn dallt xxx . %snd:"fusser18"_1725302_1726679
+%gls:	and be.1S.PRES NEG PRT understand.NONFIN xxx
+%eng:	and I don't understand [...]
+*CAI:	+" xxx cysylltwch <y rhifau> [?] # ar y chwith gyda # sum@s:cym&eng sy (y)n cyfateb ar y dde xxx . %snd:"fusser18"_1726668_1733646
+%gls:	xxx connect.2PL.IMPER DET numbers on DET left with sum be.PRES.REL PRT correspond.NONFIN on DET right xxx
+%eng:	"[...] connect the numbers on the left with the corresponding sum on the right [...] "
+%com:	reads out the instructions from his homework
+*HAF:	+< xxx . %snd:"fusser18"_1727961_1729552
+%com:	Haf seems to be talking to her father while Arddun is focusing on Cai
+*HAF:	+< xxx . %snd:"fusser18"_1730597_1733924
+*ARD:	oh@s:cym&eng right@s:cym&eng . %snd:"fusser18"_1733638_1734602
+%gls:	IM right
+%eng:	oh right
+*HAF:	xxx dw i (we)di darllen hwnna gyd xxx . %snd:"fusser18"_1734180_1736332
+%gls:	xxx be.1S.PRES PRON.1S PRT.PAST read.NONFIN that all xxx
+%eng:	[...] I've read all that [...]
+*ARD:	+" cysylltwch y rhifau # ar y chwith gyda (y)r # sum@s:cym&eng sy (y)n # gyfartal ar y dde . %snd:"fusser18"_1735914_1741731
+%gls:	connect.2PL.IMPER DET numbers on DET left with DET sum be.PRES.REL PRT equal on DET right
+%eng:	"connect the numbers on the left with the equivalent sum on the right"
+%com:	reads the instructions from Cai's homework
+*HAF:	+< xxx dw i (ddi)m yn gwybod xxx stafell . %snd:"fusser18"_1736750_1739118
+%gls:	xxx be.1S.PRES PRON.1S NEG PRT know.NONFIN xxx room
+%eng:	[...] I don't know [...] room
+*HAF:	+< xxx . %snd:"fusser18"_1739618_1740268
+*ARD:	so@s:cym&eng ti isio cysylltu wan # um@s:cym&eng # y geiriau # efo (y)r rhifau . %snd:"fusser18"_1741731_1747187
+%gls:	so PRON.2S want connect.NONFIN now IM DET words with DET numbers
+%eng:	so you want to connect now, the words with the numbers
+*HAF:	oh@s:cym&eng . %snd:"fusser18"_1747187_1748406
+%gls:	IM
+%eng:	oh
+*ARD:	ia ? %snd:"fusser18"_1748406_1748766
+%gls:	yes
+%eng:	yes?
+*CAI:	&m dw (ddi)m yn dallt . %snd:"fusser18"_1748546_1749505
+%gls:	be.1S.PRES NEG PRT understand.NONFIN
+%eng:	I don't understand
+*CAI:	ie dw gwybod hynna . %snd:"fusser18"_1749451_1750519
+%gls:	yes be.1S.PRES know.NONFIN that
+%eng:	yes, I know that
+*ARD:	+< right@s:cym&eng # tri chant a saith_deg . %snd:"fusser18"_1749950_1753631
+%gls:	right three.M hundred and seventy
+%eng:	right, three hundred and seventy
+*ARD:	so@s:cym&eng tri chant a saith_deg . %snd:"fusser18"_1753631_1755535
+%gls:	so three.M hundred and seventy
+%eng:	so three hundred and seventy
+*ARD:	so@s:cym&eng be ti isio wneud ydy rhoid # arrow@s:eng saeth # i fan (y)na . %snd:"fusser18"_1755535_1760272
+%gls:	so what PRON.2S want do.NONFIN be.3S.PRES put.NONFIN arrow arrow to place there
+%eng:	so what you want to do is to put an arrow there
+*CAI:	+< o:h@s:cym&eng . %snd:"fusser18"_1759505_1760783
+%gls:	IM
+%eng:	oh
+*ARD:	ia ? %snd:"fusser18"_1760388_1760783
+%gls:	yes
+%eng:	yes?
+*ARD:	+" cysylltwch rhifau ar # y chwith gyda (y)r sum@s:cym&eng sy (y)n cyfateb ar y dde . %snd:"fusser18"_1760783_1767760
+%gls:	connect.2PL.IMPER numbers on DET left with DET sum be.PRES.REL correspond.NONFIN on DET right
+%eng:	"connect the numbers on the left with the corresponding sum on the right"
+%com:	reads again the instructions from Cai's homework
+*ARD:	ia ? %snd:"fusser18"_1767760_1768283
+%gls:	yes
+%eng:	yes?
+*ARD:	ti am wneud hynny ? %snd:"fusser18"_1768283_1768840
+%gls:	PRON.2S for do.NONFIN that
+%eng:	you going to do that?
+*CAI:	xxx . %snd:"fusser18"_1768608_1769351
+*ARD:	+< lle mae dy bensal di ? %snd:"fusser18"_1768840_1770001
+%gls:	where be.3S.PRES POSS.2S pencil PRON.2S
+%eng:	where's your pencil?
+*CAI:	yn llofft . %snd:"fusser18"_1770001_1771359
+%gls:	in loft
+%eng:	in the bedroom
+*ARD:	yn llofft ? %snd:"fusser18"_1771359_1772369
+%gls:	in loft
+%eng:	in the bedroom?
+*CAI:	xxx . %snd:"fusser18"_1772369_1773554
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1773554_1773937
+%gls:	yeah
+%eng:	yeah
+*BEU:	ti isio mynd â fo i llofft i wneud . %snd:"fusser18"_1773937_1775005
+%gls:	PRON.2S want go.NONFIN with PRON.3SM to loft to do.NONFIN
+%eng:	do you want to take it to the bedroom to do?
+*CAI:	xxx . %snd:"fusser18"_1775005_1776793
+*ARD:	+< ia . %snd:"fusser18"_1776235_1776886
+%gls:	yes
+%eng:	yes
+*BEU:	xxx . %snd:"fusser18"_1776886_1777768
+*ARD:	+< a # wyt ti (y)n gwneud un chdi Haf@s:cym&eng ? %snd:"fusser18"_1776944_1779150
+%gls:	and be.2S.PRES PRON.2S PRT do.NONFIN one PRON.2S Haf
+%eng:	and are you doing yours, Haf?
+*BEU:	yndy mae Haf@s:cym&eng right@s:cym&eng dda am wneud rei hi . %snd:"fusser18"_1779150_1781274
+%gls:	be.3S.PRES be.3S.PRES Haf right good for do.NONFIN some PRON.3SF
+%eng:	yes, Haf's quite good at doing hers
+*ARD:	oh@s:cym&eng da iawn Haf@s:cym&eng . %snd:"fusser18"_1781274_1782795
+%gls:	IM good very Haf
+%eng:	oh very good, Haf
+*ARD:	ti isio rywbeth i sgwennu dano fo ? %snd:"fusser18"_1782795_1787091
+%gls:	PRON.2S want something to write.NONFIN under.3SM PRON.3SM
+%eng:	do you want something to write under?
+*HAF:	na mae (y)n iawn . %snd:"fusser18"_1787091_1789657
+%gls:	no be.3S.PRES PRT right
+%eng:	no, that's alright
+*HAF:	xxx . %snd:"fusser18"_1789657_1792582
+*ARD:	mae (y)n iawn ? %snd:"fusser18"_1792582_1793708
+%gls:	be.3S.PRES PRT right
+%eng:	it's alright?
+*HAF:	xxx . %snd:"fusser18"_1793708_1794893
+*BEU:	dw i (ddi)m xxx llawer o &s [/] er@s:cym&eng safon y gwaith cartre weithiau de . %snd:"fusser18"_1794881_1799746
+%gls:	be.1S.PRES PRON.1S NEG xxx much of IM standard DET work home sometimes TAG
+%eng:	I don't [...] much of the standard of the homework sometimes, you know
+*ARD:	oh@s:cym&eng mae o just@s:cym&eng wedi cael ei +/ . %snd:"fusser18"_1799746_1801452
+%gls:	IM be.3S.PRES PRON.3SM just PRT.PAST get.NONFIN POSS.3S
+%eng:	oh, it's just been...
+*BEU:	rei o (y)r taflenni . %snd:"fusser18"_1801452_1802462
+%gls:	some of DET sheets
+%eng:	some of the sheets
+*BEU:	&də &mam &ʊ er@s:cym&eng dw i meddwl wsnos yma mae well . %snd:"fusser18"_1802462_1804738
+%gls:	IM be.1S.PRES PRON.1S think.NONFIN week here be.3S.PRES better
+%eng:	I think it's better this week
+*ARD:	yndy . %snd:"fusser18"_1804738_1805771
+%gls:	be.3S.PRES
+%eng:	yes
+*BEU:	a mae o (y)n +/ . %snd:"fusser18"_1805771_1806445
+%gls:	and be.3S.PRES PRON.3SM PRT
+%eng:	and it's...
+*ARD:	+< a mae o (y)n s:obr@s:cym&eng ar adegau # just@s:cym&eng rywbeth (we)di cael ei daro (y)n sydyn a ## (we)di cael ei ffotocopïo ganwaith . %snd:"fusser18"_1805911_1813666
+%gls:	and be.3S.PRES PRON.3SM PRT sober on times just something PRT.PAST get.NONFIN POSS.3SM knock.NONFIN PRT sudden and PRT.PAST get.NONFIN POSS.3S photocopy.NONFIN hundred_times
+%eng:	and it's terrible sometimes, just something that's been knocked up quickly and that's been photocopied a hundred times
+*BEU:	+< mmm@s:cym&eng . %snd:"fusser18"_1810392_1811286
+%gls:	IM
+%eng:	mmm
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1813666_1814177
+%gls:	yeah
+%eng:	yeah
+*ARD:	ond wedyn # mae nhw (y)n brysur hefyd yn_dydyn . %snd:"fusser18"_1814177_1817335
+%gls:	but then be.3PL.PRES PRON.3PL PRT busy also be.3PL.PRES.NEG
+%eng:	but they're busy too, aren't they
+*ARD:	mae rywun yn dallt rywsut . %snd:"fusser18"_1817335_1820911
+%gls:	be.3S.PRES somebody PRT understand.NONFIN somehow
+%eng:	one understands somehow
+*ARD:	mae nhw (e)fo pwysau gwaith hefyd mae sure@s:cym&eng yn_dydy . %snd:"fusser18"_1820911_1825171
+%gls:	be.3PL.PRES porn.3PL with pressure work also be.3S.PRES sure be.3S.PRES.NEG
+%eng:	they've got work pressure too probably, haven't they
+*BEU:	oh@s:cym&eng (y)dy . %snd:"fusser18"_1825171_1825938
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*BEU:	mae pawb dan pwysau gwaith yndy . %snd:"fusser18"_1825938_1827435
+%gls:	be.3S.PRES everybody under pressure work be.3S.PRES
+%eng:	everybody's got work pressure, aren't they
+*ARD:	ia yndy . %snd:"fusser18"_1826983_1828237
+%gls:	yes be.3S.PRES
+%eng:	yes, they are
+*ARD:	wedyn mae (y)n hawdd bod yn [/] # yn farnllyd a deud y gwir yn_dydy . %snd:"fusser18"_1828237_1832555
+%gls:	then be.3S.PRES PRT easy.NONFIN be.NONFIN PRT PRT critical PRT say.NONFIN DET truth be.3S.PRES.NEG
+%eng:	so it's easy to be critical, to tell the truth, isn't it
+*ARD:	ond ti mwynhau yn ysgol Garnedd@s:cym&eng dwyt Haf@s:cym&eng . %snd:"fusser18"_1832555_1835005
+%gls:	but PRON.2S enjoy in school Garnedd be.3S.PRES.NEG Haf
+%eng:	but you like it at the Garnedd school, don't you, Haf
+*HAF:	yndw . %snd:"fusser18"_1835005_1835795
+%gls:	be.1S.PRES
+%eng:	yes
+*ARD:	ti mwynhau (y)r ysgol ? %snd:"fusser18"_1835795_1836665
+%gls:	PRON.2S enjoy.NONFIN DET school
+%eng:	you like it at school?
+*HAF:	<be (y)dy (r)hein> [?] ? %snd:"fusser18"_1836092_1837350
+%gls:	what be.3S.PRES these
+%eng:	what are these?
+*ARD:	oh@s:cym&eng dan ni siarad ydyn ni . %snd:"fusser18"_1837350_1838418
+%gls:	IM be.1PL.PRES PRON.1PL speak.NONFIN be.1PL.PRES PRON.1PL
+%eng:	oh we're speaking we are
+*ARD:	xxx microphone@s:cym&eng . %snd:"fusser18"_1838418_1839579
+%gls:	xxx microphone
+%eng:	[...] microphone
+*ARD:	ia . %snd:"fusser18"_1839579_1840508
+%gls:	yes
+%eng:	yes
+*ARD:	ti mwynhau (y)r ysgol ? %snd:"fusser18"_1840508_1841658
+%gls:	PRON.2S enjoy.NONFIN DET school
+%eng:	do you like it at school?
+*ARD:	be (y)dy dy # prif # be ti licio ? %snd:"fusser18"_1841658_1844409
+%gls:	what be.3S.PRES POSS.2S main what PRON.2S like.NONFIN
+%eng:	what's the main thing you like?
+*HAF:	+< xxx . %snd:"fusser18"_1843550_1844363
+*ARD:	be ti licio orau (y)na ? %snd:"fusser18"_1844363_1845524
+%gls:	what PRON.2S like.NONFIN best there
+%eng:	what do you like best there?
+*HAF:	um@s:cym&eng # pob_dim . %snd:"fusser18"_1845524_1849796
+%gls:	IM everything
+%eng:	um, everything
+*ARD:	bob_dim ? %snd:"fusser18"_1849796_1850493
+%gls:	everything
+%eng:	everything?
+*BEU:	bob_dim . %snd:"fusser18"_1850191_1850946
+%gls:	everything
+%eng:	everything
+*ARD:	&=laugh . %snd:"fusser18"_1850946_1851491
+*BEU:	+< mae nice@s:cym&eng clywed hynna <(he)fyd (dy)dy> [?] . %snd:"fusser18"_1851085_1852246
+%gls:	be.3S.PRES nice hear.NONFIN that also be.3S.PRES.NEG
+%eng:	it's nice to hear that too, isn't it
+*ARD:	yeah@s:cym&eng ydy . %snd:"fusser18"_1851816_1852803
+%gls:	yeah be.3S.PRES
+%eng:	yes, it is
+*BEU:	dyna un peth # mae nhw mynd &i &ha [//] yn hapus i (y)r ysgol hefyd yndy . %snd:"fusser18"_1852757_1855427
+%gls:	there one thing be.3PL.PRES pronl.3PL go.NONFIN PRT happy to DET school also be.3S.PRES
+%eng:	that's one thing, they go happily to school too, don't they
+*ARD:	+< yn hapus . %snd:"fusser18"_1853082_1853860
+%gls:	PRT happy
+%eng:	happily
+*ARD:	oh@s:cym&eng yndy . %snd:"fusser18"_1855427_1856356
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*BEU:	ac um@s:cym&eng +.. . %snd:"fusser18"_1856356_1857424
+%gls:	and IM
+%eng:	and um...
+*ARD:	&m i gymharu pan mae [?] rywun yn gwarchrod [* gwarchod] nhw fabis bach . %snd:"fusser18"_1857424_1859943
+%gls:	to compare.NONFIN when be.3S.PRES somebody PRT protect.NONFIN PRON.3PL babies small
+%eng:	compared with when people babysit them as young babies
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1859816_1860292
+%gls:	yeah
+%eng:	yeah
+*ARD:	oedd o mor torcalonnus # gorod # mynd â nhw yn y bore efo (e)u # bag@s:cym&eng bach # a mynd i gwaith a (e)u gadael nhw a nhwythau hen bethau bach . %snd:"fusser18"_1860094_1868384
+%gls:	be.3S.IMP PRON.3SM so heartbreaking must.NONFIN go.NONFIN with PRON.3PL in DET morning with POSS.3PL bag small and go.NONFIN to work.NONFIN and POSS.3PL leave.NONFIN PRON.3PL and PRON.3PL old things small
+%eng:	it was so heartbreaking to have to take them in the morning with their little bag and go to work and leave them and them such little things
+*BEU:	mmm@s:cym&eng oh@s:cym&eng ydy [?] mae lot@s:cym&eng o mamau (y)n teimlo (y)r un fath xxx . %snd:"fusser18"_1868279_1870926
+%gls:	IM IM be.3S.PRES be.3S.PRES lot of mothers PRT feel.NONFIN DET one kind xxx
+%eng:	mmm, oh yes, a lot of mums feel the same [...]
+*ARD:	+< a mae (y)n hawddach +.. . %snd:"fusser18"_1869173_1870044
+%gls:	and be.3S.PRES PRT easier
+%eng:	and it's easier...
+*ARD:	+< oh@s:cym&eng yndy . %snd:"fusser18"_1870358_1871368
+%gls:	IM be.3S.PRES
+%eng:	oh yes
+*ARD:	xxx mae (y)n hawddach o lawer wan # yn_dydy . %snd:"fusser18"_1871368_1873782
+%gls:	xxx be.3S.PRES PRT easier of much now be.3S.PRES.NEG
+%eng:	[...] it's much easier now, isn't it
+*ARD:	dach chi mynd allan o car@s:cym&eng just@s:cym&eng rhedeg +.. . %snd:"fusser18"_1873782_1876174
+%gls:	be.2PL.PRES PRON.2PL go.NONFIN out of car just run.NONFIN
+%eng:	you get out of the car, just run...
+*BEU:	+< yndyn . %snd:"fusser18"_1875210_1875698
+%gls:	be.3PL.PRES
+%eng:	they do
+*BEU:	dach chi rhedeg i ysgol +/ . %snd:"fusser18"_1875872_1877184
+%gls:	be.2PL.PRES PRON.2PL run.NONFIN to school
+%eng:	you run to school...
+*ARD:	yn_de . %snd:"fusser18"_1877184_1878148
+%gls:	TAG
+%eng:	isn't it
+*BEU:	+, yn syth o (y)r car@s:cym&eng . %snd:"fusser18"_1877962_1879088
+%gls:	PRT straight from DET car
+%eng:	straight from the car
+*ARD:	ia . %snd:"fusser18"_1879088_1880063
+%gls:	yes
+%eng:	yes
+*ARD:	ysgol bach hapus . %snd:"fusser18"_1880063_1882583
+%gls:	school small happy
+%eng:	a happy little school
+*HAF:	xxx . %snd:"fusser18"_1882571_1884858
+*ARD:	+< yn_de . %snd:"fusser18"_1883872_1884498
+%gls:	TAG
+%eng:	isn't it
+*ARD:	+" beth ddaeth allan o fonnet@s:cym&eng y car@s:cym&eng ? %snd:"fusser18"_1884858_1887981
+%gls:	what come.3S.PAST out of bonnet DET car
+%eng:	"what came out of the car bonnet?"
+%com:	reads from Haf's homework
+*ARD:	wedyn ti (we)di darllen hwnna ? %snd:"fusser18"_1887981_1889839
+%gls:	then PRON.2S PRT.PAST read.NONFIN that
+%eng:	then have you read that?
+*HAF:	do . %snd:"fusser18"_1889839_1890396
+%gls:	yes
+%eng:	yes
+*ARD:	ia ? %snd:"fusser18"_1890396_1890930
+%gls:	yes
+%eng:	yes?
+*ARD:	+" Alun_a'r_Car@s:cym&eng . %snd:"fusser18"_1890930_1892138
+%gls:	Alun_a'r_Car
+%eng:	"Alun a'r Car"
+*ARD:	xxx ti baragraph@s:cym&eng bach yn fan hyn wan does # o hanes Alun@s:cym&eng a (y)r car@s:cym&eng . %snd:"fusser18"_1892138_1896515
+%gls:	xxx PRON.2S paragraph small in place this now be.3S.PRES.NEG of history Alun and DET car
+%eng:	[...] a paragraph here now, haven't you, of the story of Alun and the car
+*ARD:	a wedyn mae (y)na gwestiynau # ia # am y paragraph@s:cym&eng # bach yna . %snd:"fusser18"_1896515_1902204
+%gls:	and then be.3S.PRES there questions yes about DET paragraph small there
+%eng:	and then there are questions, yes, about that little paragraph
+*ARD:	ia ? %snd:"fusser18"_1902204_1904189
+%gls:	yes
+%eng:	yes?
+*ARD:	ti am ddarllen o ? %snd:"fusser18"_1904189_1905315
+%gls:	PRON.2S for read.NONFIN PRON.3SM
+%eng:	you going to read it?
+*HAF:	yeah@s:cym&eng dw i wedi . %snd:"fusser18"_1905315_1906592
+%gls:	yeah be.1S.PRES PRON.1S PRT.PAST
+%eng:	yeah, I have
+*ARD:	ti wedi ddarllen o ? %snd:"fusser18"_1906592_1907730
+%gls:	PRON.2S PRT.PAST read.NONFIN PRON.3SM
+%eng:	you have read it?
+*ARD:	right@s:cym&eng . %snd:"fusser18"_1907730_1909251
+%gls:	right
+%eng:	right
+*BEU:	+< xxx . %snd:"fusser18"_1908612_1909019
+*ARD:	(dy)na fo . %snd:"fusser18"_1909251_1911805
+%gls:	there PRON.3SM
+%eng:	that's it
+*ARD:	da iawn Haf@s:cym&eng . %snd:"fusser18"_1911805_1912653
+%gls:	good very Haf
+%eng:	very good, Haf
+*BEU:	great@s:cym&eng Haf@s:cym&eng . %snd:"fusser18"_1912653_1913999
+%gls:	great Haf
+%eng:	great, Haf
+*ARD:	da iawn Haf@s:cym&eng . %snd:"fusser18"_1913999_1915485
+%gls:	good very Haf
+%eng:	very good, Haf
+*ARD:	wyt [?] ti (we)di gorffen dy baned ? %snd:"fusser18"_1915485_1918237
+%gls:	be.2S.PRES PRON.2S PRT.PAST finish.NONFIN POSS.2S cuppa
+%eng:	have you finished your cuppa?
+*BEU:	na dw i (ddi)m (y)n mwynhau paned # heddiw (y)ma am ryw reswm . %snd:"fusser18"_1918237_1921732
+%gls:	no be.1S.PRES PRON.1S NEG PRT enjoy.NONFIN cuppa today here for some reason
+%eng:	no, I'm not getting a taste for a cuppa today for some reason
+*ARD:	+< mmm@s:cym&eng . %snd:"fusser18"_1921279_1921732
+%gls:	IM
+%eng:	mmm
+*ARD:	oh@s:cym&eng <dw i (y)n &gɔ> [//] dw i (y)n yfed gormod o de . %snd:"fusser18"_1921732_1924448
+%gls:	IM be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT drink.NONFIN too_much of tea
+%eng:	oh I drink too much tea
+*ARD:	paned o de . %snd:"fusser18"_1924448_1926201
+%gls:	cuppa of tea
+%eng:	a cup of tea
+*ARD:	dw i (y)n cofio oedd nain # oedd hi wrth ei bodd (e)fo [?] paned o de . %snd:"fusser18"_1926201_1929081
+%gls:	be.1S.PRES PRON.1S PRT remember.NONFIN be.3S.IMP grandmother be.3S.IMP PRON.3SF by POSS.3S liking with cuppa of tea
+%eng:	I remember, my grandmother, she loved a cup of tea
+*ARD:	os oedd (y)na rywbeth yn bod (y)na # oh@s:cym&eng # <paned i olchi (y)r galon> ["] . %snd:"fusser18"_1929081_1932227
+%gls:	if be.3S.IMP there something PRT be.NONFIN there IM cuppa to wash.NONFIN DET heart
+%eng:	if there was anything the matter, then, oh "a cup of tea to clean out the heart"
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1932227_1932877
+%gls:	yeah
+%eng:	yeah
+*ARD:	ia &=laugh . %snd:"fusser18"_1932877_1934967
+%gls:	yes
+%eng:	yes
+*BEU:	+< &=laugh . %snd:"fusser18"_1933167_1933852
+*ARD:	dw meddwl bod hynna (we)di # pasio lawr . %snd:"fusser18"_1934967_1937301
+%gls:	be.1S.PRES think.NONFIN be.NONFIN that PRT.PAST pass.NONFIN down
+%eng:	I think that's passed down
+*ARD:	&=laugh . %snd:"fusser18"_1937301_1938845
+*BEU:	+< <oedd o (y)n te> [?] [//] oedd o (y)n de cry ? %snd:"fusser18"_1938287_1939774
+%gls:	be.3S.IMP PRON.3SM PRT tea be.3S.IMP PRON.3SM PRT tea strong
+%eng:	was it strong tea?
+*ARD:	na ddim yn de cry na . %snd:"fusser18"_1939774_1942154
+%gls:	no NEG PRT tea strong no
+%eng:	no, not strong tea, no
+*BEU:	+< yeah@s:cym&eng [?] just@s:cym&eng +.. . %snd:"fusser18"_1940911_1941840
+%gls:	yeah just
+%eng:	yeah, just...
+*ARD:	na . %snd:"fusser18"_1942154_1943349
+%gls:	no
+%eng:	no
+*ARD:	a dw i cofio pan oedd ei ffrindiau hi (y)n dod round@s:cym&eng a te +// . %snd:"fusser18"_1943349_1945753
+%gls:	and be.3S.PRES PRON.1S remember.NONFIN when be.3S.IMP POSS.3S friends PRON.3SF PRT come.NONFIN round and tea
+%eng:	and I remember when her friends used to come round, and tea...
+*ARD:	ac oedd pawb yn canmol te . %snd:"fusser18"_1945753_1946960
+%gls:	and be.3S.IMP everybod PRT praise.NONFIN tea
+%eng:	and everybody would praise tea
+*ARD:	+" oh@s:cym&eng be de (y)dy hwn ? %snd:"fusser18"_1946960_1948725
+%gls:	IM what tea be.3S.PRES this
+%eng:	"oh, what kind of tea is this?"
+*ARD:	<oedd o> [?] fath â bod nhw (y)n um@s:cym&eng # Ceylon@s:cym&eng tea@s:eng neu (y)r gwahanol # de . %snd:"fusser18"_1948725_1954216
+%gls:	be.3S.IMP PRON.3SM kind with be.NONFIN PRON.3PL PRT IM Ceylon tea or DET different tea
+%eng:	it was like they were, um, Ceylon tea or the various teas
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_1954216_1954820
+%gls:	yeah
+%eng:	yeah
+*ARD:	ond [?] dail te yn_de . %snd:"fusser18"_1954507_1955911
+%gls:	but leaves tea TAG
+%eng:	but tea leaves, isn't it
+*BEU:	gwahanol fathau . %snd:"fusser18"_1955679_1956318
+%gls:	different kinds
+%eng:	different kinds
+*BEU:	ia te dail de . %snd:"fusser18"_1956318_1957316
+%gls:	yes tea leaves TAG
+%eng:	yes, leaf te, wasn't it
+*ARD:	+< ia . %snd:"fusser18"_1956515_1956910
+%gls:	yes
+%eng:	yes
+*ARD:	te dail ia # ia . %snd:"fusser18"_1957130_1958814
+%gls:	tea leaf yes yes
+%eng:	leaf tea, yes, yes
+*ARD:	yn_hytrach na tea_bags@s:eng . %snd:"fusser18"_1958814_1961972
+%gls:	rather PRT tea_bags
+%eng:	rather than tea-bags
+*BEU:	+< a dyn nhw (ddi)m yn xxx <(y)r un fath> [?] xxx <fath â> [?] # xxx te <trwy &s> [/] # trwy strainer@s:cym&eng xxx . %snd:"fusser18"_1961240_1966813
+%gls:	and be.3PL.PRES.NEG PRON.3PL NEG PRT DET one kind xxx kind with xxx tea through through strainer xxx
+%eng:	and they're not [...] the same [...] like [...] tea through a strainer [...]
+*ARD:	+< oedd y [?] mam@s:cym&eng xxx +.. . %snd:"fusser18"_1963295_1964213
+%gls:	be.3S.IMP POSS.1S mum xxx
+%eng:	my mother was [...] ...
+*ARD:	ia . %snd:"fusser18"_1966198_1966813
+%gls:	yes
+%eng:	yes
+*ARD:	mae mam@s:cym&eng yn dal i wneud hynna (y)n_dydy . %snd:"fusser18"_1966813_1968497
+%gls:	be.3S.PRES mum PRT still to do.NONFIN that be.3S.PRES.NEG
+%eng:	mum still does that, doesn't she
+*BEU:	+< xxx . %snd:"fusser18"_1967289_1968067
+*ARD:	mae isio gwatsiad gwaelod +/ . %snd:"fusser18"_1968497_1970575
+%gls:	be.3S.PRES want watch.NONFIN bottom
+%eng:	you need to watch the bottom...
+*BEU:	+< yndy mae dy fam@s:cym&eng yn wneud o yeah@s:cym&eng . %snd:"fusser18"_1969890_1971120
+%gls:	be.3S.PRES be.3S.PRES POSS.2S mum PRT do.NONFIN PRON.3SM yeah
+%eng:	yes, your mother does it, yeah
+*ARD:	+< yndy . %snd:"fusser18"_1970761_1971120
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	isio gwatsiad gwaelod y gwpan . %snd:"fusser18"_1971120_1972258
+%gls:	want watch.NONFIN bottom DET cup
+%eng:	need to watch the bottom of the cup
+*ARD:	neu gei di llond ceg o ddail # te &=laugh . %snd:"fusser18"_1972258_1977483
+%gls:	or get.2S.NONPAST PRON.2S full mouth of leaves tea
+%eng:	or you'll get a mouthful of tea leaves
+*BEU:	+< xxx . %snd:"fusser18"_1973570_1974418
+*ARD:	be gawn ni swper wsnos nesa dŵad ? %snd:"fusser18"_1977483_1982150
+%gls:	what get.1PL.NONPAST PRON.1PL supper week next say.2S.IMPER
+%eng:	what shall we have for supper next week?
+*ARD:	neu be gawn ni swper heno (y)ma (y)n un question@s:cym&eng dydy . %snd:"fusser18"_1982150_1986330
+%gls:	or what get.1PL.NONPAST PRON.1PL supper tonight here PRT one question be.3S.PRES.NEG
+%eng:	or what shall we have for supper tonight is one question, isn't it
+*ARD:	stir_fry@s:eng fach . %snd:"fusser18"_1986330_1988594
+%gls:	stir_fry small
+%eng:	a little stir-fry
+*BEU:	xxx ddaru chdi sôn xxx . %snd:"fusser18"_1988338_1990648
+%gls:	xxx happen.PAST PRON.2S mention.NONFIN xxx
+%eng:	[...] you mentioned [...]
+*ARD:	+< ia . %snd:"fusser18"_1989162_1989720
+%gls:	yes
+%eng:	yes
+*ARD:	+< o'n . %snd:"fusser18"_1990068_1990614
+%gls:	be.1S.IMP
+%eng:	I did
+*ARD:	dw i (we)di cael stir_fry@s:eng . %snd:"fusser18"_1990614_1991589
+%gls:	be.1S.PRES PRON.1S PRT.PAST get.NONFIN stir_fry
+%eng:	I got a stir-fry
+*ARD:	<gaethon ni um@s:cym&eng> [///] # <well@s:cym&eng dan ni cael> [?] beef@s:cym&eng i ginio yn_do # roast@s:cym&eng beef@s:cym&eng i ginio fel cinio dydd Sul . %snd:"fusser18"_1991589_1996918
+%gls:	get.1PL.PAST PRON.1PL IM well be.1PL.PRES PRON.1PL get.NONFIN beef to lunch yes roast beef to lunch like lunch day Sunday
+%eng:	we had, um...well we had beef for lunch, didn't we, roast beef for lunch as Sunday lunch
+*ARD:	so@s:cym&eng # mae pawb right@s:cym&eng [/] # right@s:cym&eng hapus ar_ôl hynna wan dydy . %snd:"fusser18"_1996918_2000923
+%gls:	so be.3S.PRES everybody right right happy after that now be.3S.PRES.NEG
+%eng:	so everybody's quite happy after that now, aren't they
+*ARD:	wedyn xxx gawn ni +/ . %snd:"fusser18"_2000923_2003779
+%gls:	then xxx get.1PL.NONPAST PRON.1PL
+%eng:	then [...] we'll have...
+*BEU:	wnaethon nhw fwynhau o xxx . %snd:"fusser18"_2003489_2004488
+%gls:	do.3PL.PAST PRON.3PL enjoy.NONFIN PRON.3SM xxx
+%eng:	they enjoyed it [...]
+*ARD:	do wnaethon nhw mirionheddol [* wirioneddol] banhau [* fwynhau] [//] fwynhau o . %snd:"fusser18"_2004488_2006902
+%gls:	yes do.3PL.PAST PRON.3PL truly enjoy.NONFIN enjoy.NONFIN PRON.3SM
+%eng:	yes, they really enjoyed it
+*ARD:	&=clears_throat ond ges i um@s:cym&eng # ddarn nice@s:cym&eng o beef@s:cym&eng # o Tesco@s:cym&eng . %snd:"fusser18"_2006902_2011523
+%gls:	but get.1S.PAST PRON.1S IM piece nice of beef from Tesco
+%eng:	but I got a nice piece of beef from Tesco
+*ARD:	wedyn # <oedd o (y)n> [/] # <oedd o> [?] nice@s:cym&eng iawn . %snd:"fusser18"_2011523_2014646
+%gls:	then be.3S.IMP PRON.3SM PRT be.3S.IMP PRON.3SM nice very
+%eng:	so it was...it was very nice
+*ARD:	wedyn wnawn ni um@s:cym&eng # pasta@s:cym&eng # nos fory # neu rice@s:cym&eng . %snd:"fusser18"_2014646_2021798
+%gls:	then do.1PL.NONPAST PRON.1PL IM pasta night tomorrow or rice
+%eng:	so we'll make um, pasta tomorrow night, or rice
+*ARD:	neu [?] (ba)sen ni (y)n cael casserole@s:cym&eng a rice@s:cym&eng neu rywbeth . %snd:"fusser18"_2021798_2025815
+%gls:	or be.1PL.CONDIT PRON.1PL PRT get.NONFIN casserole and rice or something
+%eng:	or we'd have casserole and rice or something
+*BEU:	+< ie . %snd:"fusser18"_2023911_2024584
+%gls:	yes
+%eng:	yes
+*ARD:	a wedyn <(ba)swn i gwneud> [?] (dipy)n bach o rice@s:cym&eng . %snd:"fusser18"_2025815_2027696
+%gls:	and then be.1S.CONDIT PRON.1S do.NONFIN a_little small of rice
+%eng:	and then I'd make a little rice
+*ARD:	xxx gawn ni fried@s:eng rice@s:cym&eng wedyn nos Fawrth . %snd:"fusser18"_2027696_2029762
+%gls:	xxx get.1PL.NONPAST PRON.1PL fried rice then night Tuesday
+%eng:	[...] we'll have fried rice then on Tuesday night
+*BEU:	yeah@s:cym&eng . %snd:"fusser18"_2029762_2031353
+%gls:	yeah
+%eng:	yeah
+*ARD:	ia ? %snd:"fusser18"_2031353_2031922
+%gls:	yes
+%eng:	yes?
+*ARD:	mae hynna (y)n gweithio +/ . %snd:"fusser18"_2031922_2032967
+%gls:	be.3S.PRES that PRT work.NONFIN
+%eng:	that works...
+*BEU:	xxx wneud digon o rice@s:cym&eng # nos fory xxx +/ . %snd:"fusser18"_2032456_2035103
+%gls:	xxx do.NONFIN enough of rice night tomorrow xxx
+%eng:	[...] make enough rice tomorrow night [...] ...
+*ARD:	ia gawn ni &f # egg@s:eng fried@s:eng rice@s:cym&eng efo llysiau xxx wedyn . %snd:"fusser18"_2034685_2038087
+%gls:	yes get.1PL.NONPAST PRON.1PL egg fried rice with vegetables xxx then
+%eng:	yes, we'll have egg fried rice with vegetables [...] then
+*ARD:	iawn . %snd:"fusser18"_2038087_2041372
+%gls:	right
+%eng:	alright
+*ARD:	mae nhw (y)n deud bod Asda@s:cym&eng (y)n dod i Bangor@s:cym&eng yn_dydyn . %snd:"fusser18"_2041372_2049523
+%gls:	be.3PL.PRES PRON.3PL PRT say.NONFIN be.NONFIN Asda PRT come.NONFIN to Bangor be.3PL.PRES.NEG
+%eng:	they say Asda's coming to Bangor, don't they
+*BEU:	xxx (y)dy ? %snd:"fusser18"_2049523_2050463
+%gls:	xxx be.3S.PRES
+%eng:	[...] is it?
+*ARD:	yndyn . %snd:"fusser18"_2050196_2050927
+%gls:	be.3PL.PRES
+%eng:	yes
+*ARD:	dw (ddi)m gwybod pryd chwaith . %snd:"fusser18"_2050927_2051949
+%gls:	be.1S.PRES NEG know.NONFIN when either
+%eng:	I don't know when, either
+*BEU:	er@s:cym&eng i [/] i [/] i [/] i cae # pêl_droed xxx . %snd:"fusser18"_2051171_2053215
+%gls:	IM to to to to field football xxx
+%eng:	to the football field [...]
+*ARD:	+< cae pêl_droed ia . %snd:"fusser18"_2052808_2053842
+%gls:	field football yes
+%eng:	the football field, yes
+*BEU:	mmm@s:cym&eng . %snd:"fusser18"_2053772_2054120
+%gls:	IM
+%eng:	mmm
+*ARD:	dw meddwl bod o (we)di cael ei gadarnhau wan . %snd:"fusser18"_2054120_2056291
+%gls:	be.1S.PRES think.NONFIN be.NONFIN PRON.3SM PRT.PAST get.NONFIN POSS.3SM confirm.NONFIN now
+%eng:	I think it's been confirmed now
+*ARD:	a mae (y)r um@s:cym&eng # hotel@s:cym&eng # British_Hotel@s:cym&eng +/ . %snd:"fusser18"_2056291_2061527
+%gls:	and be.3S.PRES DET IM hotel British_Hotel
+%eng:	and the um, hotel, the British Hotel...
+*BEU:	oh@s:cym&eng British@s:cym&eng cael ei cymryd drosodd gan brifysgol (y)n_do . %snd:"fusser18"_2061527_2063478
+%gls:	IM British get.NONFIN POSS.3S take.NONFIN over from university yes
+%eng:	oh, the British has been taken over by the university, hasn't it
+*ARD:	+< y brify(sgol) xx +// . %snd:"fusser18"_2062955_2063722
+%gls:	DET university
+%eng:	the univers...
+*ARD:	do . %snd:"fusser18"_2063722_2064569
+%gls:	yes
+%eng:	yes
+*BEU:	<fath â> [?] i +.. . %snd:"fusser18"_2064569_2065951
+%gls:	kind with to
+%eng:	like, to...
+*ARD:	&ə &n (y)ndy mae (we)di cael ei &n wneud i (y)r um@s:cym&eng neuaddau # um@s:cym&eng <yr ysgol> [//] # y brifysgol . %snd:"fusser18"_2065951_2075041
+%gls:	be.3S.PRES be.3S.PRES PRT.PAST get.NONFIN POSS.3SM do.NONFIN for DET IM halls IM DET school DET university
+%eng:	yes, it's been made for the school...the university halls
+*BEU:	ond er@s:cym&eng [?] dw i (ddi)m yn meddwl &b (dy)dy [?] Marks@s:cym&eng yn wneud # llawer o fusiness@s:cym&eng (y)ma na(g) (y)dy . %snd:"fusser18"_2075041_2079070
+%gls:	but IM be.1S.PRES PRON.1S NEG PRT think.NONFIN be.3S.PRES.NEG Marks PRT do.NONFIN much of business here NEG be.3S.PRES
+%eng:	but I don't think Marks makes much business here, does it
+*ARD:	oh@s:cym&eng na . %snd:"fusser18"_2079070_2080022
+%gls:	IM no
+%eng:	oh no
+*ARD:	oh@s:cym&eng dw i (y)n gweld Marks@s:cym&eng yn +/ . %snd:"fusser18"_2080022_2081218
+%gls:	IM be.1S.PRES PRON.1S PRT see.NONFIN Marks PRT
+%eng:	oh, I see Marks...
+*BEU:	+< mae (y)r lle edrych yn wag hanner amser . %snd:"fusser18"_2080185_2081880
+%gls:	be.3S.PRES DET place look.NONFIN PRT empty half time
+%eng:	the place looks empty half the time
+*ARD:	+< yndy . %snd:"fusser18"_2081346_2082205
+%gls:	be.3S.PRES
+%eng:	yes
+*ARD:	dw i (y)n gweld o (y)n ddrud am be (y)dy o a packaging@s:eng mewn ffordd (fe)lly . %snd:"fusser18"_2082205_2085270
+%gls:	be.1S.PRES PRON.1S PRT see.NONFIN PRON.3SM PRT expensive for what be.3S.PRES PRON.3SM and packaging in way thus
+%eng:	I find it expensive for what it is and packaging in a way, you know
+*ARD:	<mae &r> [//] mae o (y)n eitha bach a +.. . %snd:"fusser18"_2085270_2087220
+%gls:	be.3S.PRES be.3S.PRES PRON.3SM PRT quite small and
+%eng:	it's quite small and...
+*BEU:	xxx +/ . %snd:"fusser18"_2087220_2088288
+*ARD:	+< yndy [?] right@s:cym&eng +/ . %snd:"fusser18"_2087720_2088497
+%gls:	be.3S.PRES right
+%eng:	yes, quite...
+@End
