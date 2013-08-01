@@ -15,7 +15,7 @@
 @Media:	stammers3, audio
 @Comment:	Filename: Stammers3.cha; Soundfile: Stammers3.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
-*GUT:	um@s:cym&eng # “trot@s:eng and@s:eng walk@s:eng ride@s:cym&eng” oedd o . 513_3924
+*GUT:	um@s:cym&eng (.) “trot@s:eng and@s:eng walk@s:eng ride@s:cym&eng” oedd o . 513_3924
 %gls:	IM trot and walk ride be.3S.IMP PRON.3SM
 %eng:	um, it was a "trot-and-walk ride" .
 *GUT:	er@s:cym&eng wnaeth [//] wnes i (dd)im ganter_o@s:eng+cym . 4760_6014
@@ -45,7 +45,7 @@
 *GUT:	a pobl y stables@s:cym&eng wedi gadael nhw ganter_o@s:eng+cym . 14048_16173
 %gls:	and people DET stables PRT.PAST leave.NONFIN PRON.3PL canter.NONFIN
 %eng:	and the stables people had let them canter.
-*GUT:	a nhw (fa)th â (we)di disgyn i_ffwrdd a siwio # y riding@s:eng stables@s:eng wedyn . 16202_19395
+*GUT:	a nhw (fa)th â (we)di disgyn i_ffwrdd a siwio (.) y riding@s:eng stables@s:eng wedyn . 16202_19395
 %gls:	and PRON.3PL kind with PRT.PAST fall.NONFIN away and sue.NONFIN DET riding stables after
 %eng:	and they'd, like, fallen off and sued the riding stables afterwards.
 *NER:	oh@s:cym&eng ! 20116_20720
@@ -79,7 +79,7 @@
 *GUT:	fel mae Dad@s:cym&eng yn reidio de . 36310_37448
 %gls:	like be.3S.PRES Dad PRT ride.NONFIN TAG
 %eng:	like Dad rides, eh
-*GUT:	a ryw cross@s:eng rhwng Shire@s:eng a ## cob@s:cym&eng ges i . 38076_42066
+*GUT:	a ryw cross@s:eng rhwng Shire@s:eng a (..) cob@s:cym&eng ges i . 38076_42066
 %gls:	and some cross between Shire and cob get.1S.PAST PRON.1S
 %eng:	and I got some cross between a Shire and a cob.
 *GUT:	ceffyl digon trwm (d)eud y gwir . 42159_43470
@@ -100,7 +100,7 @@
 *GUT:	es i am jog@s:eng dydd Sul hefyd . 47610_48969
 %gls:	go.1S.PAST PRON.1S for jog day Sunday too
 %eng:	I went for a jog on Sunday too.
-*GUT:	<dw i um@s:cym&eng> [/] # dw i am ddechrau jog_io@s:eng+cym eto (y)n o fuan # <dw i meddwl> [?] +/. 49935_52953
+*GUT:	<dw i um@s:cym&eng> [/] (.) dw i am ddechrau jog_io@s:eng+cym eto (y)n o fuan (.) <dw i meddwl> [?] +/. 49935_52953
 %gls:	be.1S.PRES PRON.1S IM be.1S.PRES PRON.1S for start.NONFIN jog.NONFIN again PRT rather soon be.1S.PRES PRON.1S think.NONFIN
 %eng:	I'm going to start jogging again quite soon I think.
 *NER:	beth am y smocio ? 53360_54335
@@ -135,7 +135,7 @@
 *GUT:	<mae (y)na> [///] toes (yn)a (ddi)m digon o oriau (y)n y diwrnod . 71787_73622
 %gls:	be.3S.PRES there be.3S.PRES.NEG there NEG enough of hours in DET day
 %eng:	there are...there aren't enough hours in a day.
-*GUT:	gen i case_load@s:eng o ## um@s:cym&eng # dri_deg wan . 74520_78881
+*GUT:	gen i case_load@s:eng o (..) um@s:cym&eng (.) dri_deg wan . 74520_78881
 %gls:	with PRON.1S case_load of IM thirty now
 %eng:	I've got a case-load of, um, 30 now.
 *NER:	mmm@s:cym&eng . 79013_79544
@@ -163,7 +163,7 @@
 *GUT:	well@s:cym&eng yeah@s:cym&eng (y)n hollol ! 90623_91413
 %gls:	well yeah PRT exact
 %eng:	well, yeah, exactly!
-*GUT:	dyna pam ti # <swnio (fa)th â> [?] scally@s:eng de +!? 91401_92678
+*GUT:	dyna pam ti (.) <swnio (fa)th â> [?] scally@s:eng de +!? 91401_92678
 %gls:	there why PRON.2S sound.NONFIN kind with scally TAG
 %eng:	that's why you sound like a scally, isn't it!?
 *NER:	+< &=laugh ! 91842_93526
@@ -173,7 +173,7 @@
 *GUT:	mae Nghymraeg i yn gwella yn yr ystyr bod fi (y)n +//. 98581_100520
 %gls:	be.3S.PRES Welsh PRON.1S PRT improve.NONFIN in DET sense be.NONFIN PRON.1S PRT
 %eng:	my Welsh is improving, in the sense that I...
-*GUT:	well@s:cym&eng <dw i> [/] dw i sgwennu case@s:eng notes@s:cym&eng yn Gymraeg neu # nodiadau achos yn Gymraeg . 100549_105106
+*GUT:	well@s:cym&eng <dw i> [/] dw i sgwennu case@s:eng notes@s:cym&eng yn Gymraeg neu (.) nodiadau achos yn Gymraeg . 100549_105106
 %gls:	well be.1S.PRES PRON.1S be.1S.PRES PRON.1S write.NONFIN case notes in Welsh or notes case in Welsh
 %eng:	well, I write case notes in Welsh, or "case notes" in Welsh.
 *NER:	+< &=laugh . 104230_104996
@@ -194,7 +194,7 @@
 *NER:	er@s:cym&eng mae wneud gwahaniaeth . 112645_113655
 %gls:	IM be.3S.PRES make.NONFIN difference
 %eng:	it makes a difference.
-*GUT:	oh@s:cym&eng er <dw i> [///] os mae (y)r client@s:cym&eng yn Saesneg # <wna i> [/] wna i (y)r gwaith trwy Saesneg de . 113728_117199
+*GUT:	oh@s:cym&eng er <dw i> [///] os mae (y)r client@s:cym&eng yn Saesneg (.) <wna i> [/] wna i (y)r gwaith trwy Saesneg de . 113728_117199
 %gls:	IM although be.1S.PRES PRON.1S if be.3S.PRES DET client PRT English do.1S.NONPAST PRON.1S do.1S.NONPAST PRON.1S DET work through English TAG
 %eng:	oh although I... if the client's English I'll do the work through English, right
 *GUT:	ond mae lot@s:cym&eng o <client@s:cym&eng yn> [?] Gymraeg . 117198_118315
@@ -230,7 +230,7 @@
 *GUT:	mae rei yn eithafol de . 130671_131740
 %gls:	be.3S.PRES some PRT extreme TAG
 %eng:	some are extreme, you know
-*GUT:	mae rei yn # timod &f Welsh@s:eng Nationalists@s:eng ffyrnig (ba)swn i ddeud de . 132590_135934
+*GUT:	mae rei yn (.) timod &f Welsh@s:eng Nationalists@s:eng ffyrnig (ba)swn i ddeud de . 132590_135934
 %gls:	be.3S.PRES some PRT know.2S Welsh Nationalists fierce be.1S.CONDIT PRON.1S say.NONFIN TAG
 %eng:	some are fierce Welsh Nationalists, I'd say, right
 *GUT:	gobeithio bod hyn yn confidential@s:eng ! 136178_137222
@@ -247,7 +247,7 @@
 *GUT:	dw i mwynhau yr gwaith . 142904_143845
 %gls:	be.1S.PRES PRON.1S enjoy.NONFIN DET work
 %eng:	I enjoy the work
-*GUT:	ond <mae (y)r> [//] # mae braidd yn ormodol weithiau . 143845_146573
+*GUT:	ond <mae (y)r> [//] (.) mae braidd yn ormodol weithiau . 143845_146573
 %gls:	but be.3S.PRES DET be.3S.PRES somewhat PRT excessive sometimes
 %eng:	but it's a bit much sometimes.
 *GUT:	ddes i weld Adam_Adams@s:cym&eng college@s:eng tutor@s:cym&eng ychydig yn_ôl . 147145_149781
@@ -266,7 +266,7 @@
 *GUT:	&efɔ &e team@s:cym&eng ni er enghraifft oedd yna fod (y)na dri social@s:eng worker@s:eng a ddim dau de . 161997_166177
 %gls:	team PRON.1PL for example be.3S.IMP there be.NONFIN there three.M social worker and NEG two.M TAG
 %eng:	our team, for example, there were supposed to be three social workers, and not two, you know
-*GUT:	(be)cause@s:eng mae (y)na digon o waith digon [!] o waith mwy na digon o waith i dri social@s:eng worker@s:eng # neu tri gweithiwr cymdeithasol <ddylwn i ddeud> [?] . 166456_172020
+*GUT:	(be)cause@s:eng mae (y)na digon o waith digon [!] o waith mwy na digon o waith i dri social@s:eng worker@s:eng (.) neu tri gweithiwr cymdeithasol <ddylwn i ddeud> [?] . 166456_172020
 %gls:	because be.3S.PRES there enough of work enough of work more than enough of work to three.M social worker or three.M worker social should.1S.CONDIT PRON.1S say.NONFIN
 %eng:	because there's enough work, enough work, more than enough work for three social workers, or "three social workers", I should say.
 %com:	have not inserted retracing marks here since repetition here is for extra emphasis.
@@ -277,10 +277,10 @@
 %gls:	do.1S.NONPAST PRON.1S talk.NONFIN Wenglish again yeah
 %eng:	I'll talk in Wenglish again, shall I?
 *NER:	&=laugh . 175795_177316
-*GUT:	deuda [?] di # am dy waith di ta . 177629_179475
+*GUT:	deuda [?] di (.) am dy waith di ta . 177629_179475
 %gls:	say.2S.IMPER PRON.2S about POSS.2S work PRON.2S then
 %eng:	you say about your work then.
-*NER:	well@s:cym&eng &pe at@s:eng least@s:eng ti (dd)im yn gorod # mynd i gwaith yn meddwl bod chdi mynd i gael # swaden neu dy frathu bob diwrnod nag wyt ? 180369_186244
+*NER:	well@s:cym&eng &pe at@s:eng least@s:eng ti (dd)im yn gorod (.) mynd i gwaith yn meddwl bod chdi mynd i gael (.) swaden neu dy frathu bob diwrnod nag wyt ? 180369_186244
 %gls:	well at least PRON.2S NEG PRT must.NONFIN go.NONFIN to work PRT think.NONFIN be.NONFIN PRON.2S go.NONFIN to get.NONFIN slap or POSS.2S bite.NONFIN every day NEG be.2S.PRES
 %eng:	well, at least you don't have to go to work thinking you're going to get a slap or bitten every day, do you?
 *NER:	mae hynna (y)n rywbeth dydy . 186220_187045
@@ -292,7 +292,7 @@
 *NER:	a <mae well> [/] mae well ers dipyn . 188066_190377
 %gls:	and be.3S.PRES better be.3S.PRES better since a_bit
 %eng:	and it's been better for a while.
-*NER:	oedd yr hogyn <oedden ni> [?] (y)n gweithio (e)fo ddwytha # creadur bach um@s:cym&eng # ddipyn o llond llaw . 190541_196172
+*NER:	oedd yr hogyn <oedden ni> [?] (y)n gweithio (e)fo ddwytha (.) creadur bach um@s:cym&eng (.) ddipyn o llond llaw . 190541_196172
 %gls:	be.3S.IMP DET boy be.1PL.IMP PRON.1PL PRT work.NONFIN with previous creature little a_bit of fill hand
 %eng:	the boy we were last working with, poor little thing, was a bit of a handful.
 *GUT:	mmm@s:cym&eng . 196206_196903
@@ -302,28 +302,28 @@
 *NER:	ond <oedden ni> [/] <oedden ni> [///] &n wnes i dechrau deud gynnau do . 200444_203080
 %gls:	but be.1PL.IMP PRON.1PL be.1PL.IMP PRON.1PL do.1S.PAST PRON.1S start.NONFIN say.NONFIN earlier yes
 %eng:	but we... I started to say before didn't I
-*NER:	oedden ni (we)di wneud <yr &p> [/] yr [/] ## yr [/] # “functional@s:eng analysis@s:eng” mae (y)n cael ei alw . 203039_208159
+*NER:	oedden ni (we)di wneud <yr &p> [/] yr [/] (..) yr [/] (.) “functional@s:eng analysis@s:eng” mae (y)n cael ei alw . 203039_208159
 %gls:	be.1PL.IMP PRON.1PL PRT.PAST do.NONFIN DET DET DET functional analysis be.3S.PRES PRT get.NONFIN POSS.3SM call.NONFIN
 %eng:	we'd done the... "functional analysis", it's called.
 *GUT:	ia . 208238_208772
 %gls:	yes
 %eng:	yes.
-*NER:	+, lle &m wyt ti (y)n um@s:cym&eng trio # um@s:cym&eng # copïo kind@s:eng of@s:eng ### &=sigh sefyllfaoedd # naturiol # sy (y)n digwydd ym mywyd # y plentyn dan ni (y)n gweithio efo . 208582_222154
+*NER:	+, lle &m wyt ti (y)n um@s:cym&eng trio (.) um@s:cym&eng (.) copïo kind@s:eng of@s:eng (...) &=sigh sefyllfaoedd (.) naturiol (.) sy (y)n digwydd ym mywyd (.) y plentyn dan ni (y)n gweithio efo . 208582_222154
 %gls:	where be.2S.PRES PRON.2S PRT IM try.NONFIN IM copy.NONFIN kind of situations natural be.PRES.REL PRT happen.NONFIN in life DET child be.1PL.PRES PRON.1PL PRT work.NONFIN with
 %eng:	...where you're trying to copy kind of, natural situations that happen in the life of the child you're working with.
 *GUT:	+< yeah@s:cym&eng . 220940_221230
 *GUT:	yeah@s:cym&eng . 222217_222589
-*NER:	+, i trio # weld <os mae (y)na rywbeth> [//] ## os (y)na er@s:cym&eng +//. 222799_226514
+*NER:	+, i trio (.) weld <os mae (y)na rywbeth> [//] (..) os (y)na er@s:cym&eng +//. 222799_226514
 %gls:	to try.NONFIN see.NONFIN if be.3S.PRES there something if there IM
 %eng:	to try and see if there's something... if there...
-*NER:	<mae o (y)n> [/] mae o (y)n # medru attack_io@s:eng+cym (y)n ofnadwy tydy . 226503_229394
+*NER:	<mae o (y)n> [/] mae o (y)n (.) medru attack_io@s:eng+cym (y)n ofnadwy tydy . 226503_229394
 %gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT can.NONFIN attack.NONFIN PRT awful be.3S.PRES.NEG
 %eng:	he's able to attack you dreadfully, isn't he?
 *GUT:	“ymosod” yeah@s:cym&eng . 229421_230570
 %gls:	attack.NONFIN yeah
 %eng:	"attack", yeah.
 *NER:	um@s:cym&eng er@s:cym&eng yeah@s:cym&eng . 230956_231723
-*NER:	+, a &ɔn &we er enghraifft i [/] i (y)r pwynt lle oedd (y)na un hogan # +//. 231815_235670
+*NER:	+, a &ɔn &we er enghraifft i [/] i (y)r pwynt lle oedd (y)na un hogan (.) +//. 231815_235670
 %gls:	and for example to to DET point where be.3S.IMP there one girl
 %eng:	and, for example, to the point where there was one girl...
 *NER:	mae un hogan off@s:cym&eng dal [!] off@s:cym&eng . 235960_237644
@@ -346,7 +346,7 @@
 %gls:	self_injury awful atrocious
 %eng:	atrocious self-injury.
 *GUT:	yeah@s:cym&eng . 247922_248398
-*NER:	wedyn maen nhw (y)n trio wneud y study@s:eng (y)ma <lle mae> [//] lle dan ni (y)n trio ffeindio # os [/] &mɔs [//] os mae (y)na rywbeth (he)blaw [?] ## ei environment@s:eng o # yn (a)chosi ## yr self_injury@s:eng <a (y)r> [/] # a (y)r attack_io@s:eng+cym de . 248517_262245
+*NER:	wedyn maen nhw (y)n trio wneud y study@s:eng (y)ma <lle mae> [//] lle dan ni (y)n trio ffeindio (.) os [/] &mɔs [//] os mae (y)na rywbeth (he)blaw [?] (..) ei environment@s:eng o (.) yn (a)chosi (..) yr self_injury@s:eng <a (y)r> [/] (.) a (y)r attack_io@s:eng+cym de . 248517_262245
 %gls:	then be.3PL.PRES PRON.3PL PRT try.NONFIN do.NONFIN DET study here where be.3S.PRES where be.1PL.PRES PRON.1PL PRT try.NONFIN find.NONFIN if if be.3S.PRES there something except POSS.3SM environment PRON.3SM PRT cause.NONFIN DET self_injury and DET and DET attack.NONFIN TAG
 %eng:	so they're trying to do this study where we're trying to find out whether there's anything apart from his environment causing the self-injury and the attacks, right
 *GUT:	+< mmm@s:cym&eng . 257659_257938
@@ -355,10 +355,10 @@
 %gls:	or attack.NONFIN
 %eng:	"attacks", rather!
 *GUT:	mmm@s:cym&eng . 263557_263998
-*NER:	a <oedd (y)na fath â> [///] un o (y)r pethau # oedd rywun yn teimlo o_blaen # oedd yn medru achosi ## yr ymosod # (y)ma # oedd um@s:cym&eng pan <fyddai fo> [//] # fydda chdi (y)n demand_io@s:eng+cym rywbeth ohono fo . 264524_276969
+*NER:	a <oedd (y)na fath â> [///] un o (y)r pethau (.) oedd rywun yn teimlo o_blaen (.) oedd yn medru achosi (..) yr ymosod (.) (y)ma (.) oedd um@s:cym&eng pan <fyddai fo> [//] (.) fydda chdi (y)n demand_io@s:eng+cym rywbeth ohono fo . 264524_276969
 %gls:	and be.3S.IMP there kind with one of DET things be.3S.IMP someone PRT feel.NONFIN before be.3S.IMP PRT can.NONFIN cause.NONFIN DET attack.NONFIN here be.3S.IMP IM when be.3S.CONDIT PRON.3SM be.2S.CONDIT PRON.2S PRT demand.NONFIN something of.3SM PRON.3SM
 %eng:	and there was, like... one of the things you previously thought could be causing these attacks was when you would demand something from him.
-*NER:	so@s:cym&eng <os fyddai> [//] fasai (y)r demand@s:eng yn ry [/] # ry fawr # fasai fo methu cope_io@s:eng+cym . 276949_281570
+*NER:	so@s:cym&eng <os fyddai> [//] fasai (y)r demand@s:eng yn ry [/] (.) ry fawr (.) fasai fo methu cope_io@s:eng+cym . 276949_281570
 %gls:	so if be.3S.CONDIT be.3S.CONDIT DET demand PRT too too big be.3S.CONDIT PRON.3SM fail.NONFIN cope.NONFIN
 %eng:	so if the demand was too great, he wouldn't be able to cope.
 *GUT:	+< mmm@s:cym&eng mmm@s:cym&eng . 279581_280638
@@ -379,7 +379,7 @@
 *NER:	dyna oedd un . 286815_287697
 %gls:	there be.3S.IMP one
 %eng:	that was one.
-*NER:	un arall oedd wrth bod gynno fo ddim iaith ## um@s:cym&eng # &ɨ <un o> [/] un o (y)r sefyllfaoedd oedd bod [/] bod (y)na rywun yn siarad # ato fo am bum munud non_stop@s:eng . 287732_298344
+*NER:	un arall oedd wrth bod gynno fo ddim iaith (..) um@s:cym&eng (.) &ɨ <un o> [/] un o (y)r sefyllfaoedd oedd bod [/] bod (y)na rywun yn siarad (.) ato fo am bum munud non_stop@s:eng . 287732_298344
 %gls:	one other be.3S.IMP as be.NONFIN with.3SM PRON.3SM NEG language IM one of one of DET situations be.3S.IMP be.NONFIN be.NONFIN there someone PRT talk.NONFIN to.3SM PRON.3SM for five minute non_stop
 %eng:	another one was, while he had no language, one of the situations was that someone would talk to him for five minutes non-stop.
 *GUT:	+< mmm@s:cym&eng . 0_0
@@ -387,7 +387,7 @@
 %gls:	IM there what be.2S.IMP PRON.2S say.NONFIN to Deb now TAG yeah
 %eng:	oh, that's what you were telling Deb, now, yeah.
 *NER:	+< yeah@s:cym&eng &dən yeah@s:cym&eng . 298647_299703
-*NER:	a: weld os [/] os mae hynna medru achosi # ymosod . 300435_304789
+*NER:	a: weld os [/] os mae hynna medru achosi (.) ymosod . 300435_304789
 %gls:	and see.NONFIN if if be.3S.PRES that can.NONFIN cause.NONFIN attack.NONFIN
 %eng:	and see whether that can cause attacks.
 *GUT:	+< mmm@s:cym&eng . 303511_303976
@@ -406,14 +406,14 @@
 %gls:	yeah what be.3S.IMP DET triggers
 %eng:	yeah, what were the triggers.
 *GUT:	yeah@s:cym&eng . 310912_311318
-*NER:	ond &bem &a &a &sa [///] so@s:cym&eng i weld os mae (y)na # fath â environmental@s:eng triggers@s:cym&eng ta er@s:cym&eng rywbeth biological@s:eng ydy o de . 311887_317576
+*NER:	ond &bem &a &a &sa [///] so@s:cym&eng i weld os mae (y)na (.) fath â environmental@s:eng triggers@s:cym&eng ta er@s:cym&eng rywbeth biological@s:eng ydy o de . 311887_317576
 %gls:	but so to see.NONFIN if be.3S.PRES there kind with environmental triggers or IM something biological be.3S.PRES PRON.3SM TAG
 %eng:	but... so, to see whether there are, like, environmental triggers or whether it's something biological, right.
-*GUT:	yeah@s:cym&eng # yeah@s:cym&eng . 317623_318691
+*GUT:	yeah@s:cym&eng (.) yeah@s:cym&eng . 317623_318691
 *NER:	so@s:cym&eng &ts dyna be dan ni wneud ar y funud . 318261_319840
 %gls:	so there what be.1PL.PRES PRON.1PL do.NONFIN on DET minute
 %eng:	so that's what we're doing at the minute.
-*NER:	ond ## dydy [///] yeah@s:cym&eng ond mae o (y)n iawn . 320139_322996
+*NER:	ond (..) dydy [///] yeah@s:cym&eng ond mae o (y)n iawn . 320139_322996
 %gls:	but be.3S.PRES.NEG yeah but be.3S.PRES PRON.3SM PRT right
 %eng:	but it's alright
 *NER:	<ond (ba)swn> [?] [//] (ba)sai well gen i fod adre <though@s:eng bysai> [?] . 322996_324365
@@ -441,7 +441,7 @@
 *GUT:	ia . 330707_331311
 %gls:	yes
 %eng:	yes.
-*NER:	achos # dim matter@s:cym&eng o raid gymaint # yn y sense@s:cym&eng that@s:eng [=? (fa)th â] +/. 331694_335560
+*NER:	achos (.) dim matter@s:cym&eng o raid gymaint (.) yn y sense@s:cym&eng that@s:eng [=? (fa)th â] +/. 331694_335560
 %gls:	because NEG matter of necessity so_much in DET sense that
 %eng:	because, not so much a question of necessity, in the sense that...
 *GUT:	well@s:cym&eng ti isio cael cadw dy career@s:eng yn fyw hefyd does i raddau does . 335495_338038
@@ -474,7 +474,7 @@
 *NER:	<yeah@s:cym&eng <fedri di &vi> [/] &vi &di fedri di> [?] +/. 347995_349987
 %gls:	yeah can.2S.NONPAST PRON.2S can.2S.NONPAST PRON.2S
 %eng:	yeah, you can... you can...
-*GUT:	ar un adeg oedda chdi sôn am bod yn educational@s:eng psychologist@s:eng # neu seicoloegwr neu &se seicolegwraig addysgol . 349092_355304
+*GUT:	ar un adeg oedda chdi sôn am bod yn educational@s:eng psychologist@s:eng (.) neu seicoloegwr neu &se seicolegwraig addysgol . 349092_355304
 %gls:	on one period be.2S.IMP PRON.2S talk.NONFIN about be.NONFIN PRT educational psychologist or psychologist_man or psychologist_woman educational
 %eng:	at one time you we're talking about becoming an educational psychologist... or "educational psychologist woman" .
 *NER:	na “seicolegydd” (ba)set ti ddeud de . 354992_357185
@@ -507,7 +507,7 @@
 *GUT:	tair iaith de Cymraeg Saesneg a Wenglish@s:cym&eng ! 371601_373320
 %gls:	three.F language TAG Welsh English and Wenglish
 %eng:	three languages, eh, Welsh, English and Wenglish!
-*NER:	yeah@s:cym&eng # ond dw i (we)di symud o (y)ma ers bod fi (y)n ### eighteen@s:eng yn_do [=! laughs] yn_do ? 372379_379010
+*NER:	yeah@s:cym&eng (.) ond dw i (we)di symud o (y)ma ers bod fi (y)n (...) eighteen@s:eng yn_do [=! laughs] yn_do ? 372379_379010
 %gls:	yeah but be.1S.PRES PRON.1S PRT.PAST move.NONFIN from here since be.NONFIN PRON.1S PRT eighteen yes yes
 %eng:	yeah, but I've moved away from here since I was eighteen, haven't I?
 *NER:	dw i +/. 378963_379161
@@ -516,14 +516,14 @@
 *GUT:	do . 379068_379474
 %gls:	yes
 %eng:	yes.
-*NER:	do # tibod . 379451_380531
+*NER:	do (.) tibod . 379451_380531
 %gls:	yes know.2S
 %eng:	yes, you know.
 *GUT:	do . 380535_380930
 %gls:	yes
 %eng:	yes.
 *NER:	+< so@s:cym&eng +/. 381023_381685
-*GUT:	ond um@s:cym&eng # be mae (y)r bobl (y)ma isio ni wneud really@s:eng (y)dy siarad fel dan ni siarad adre de efo (ei)n_gilydd de . 381267_385725
+*GUT:	ond um@s:cym&eng (.) be mae (y)r bobl (y)ma isio ni wneud really@s:eng (y)dy siarad fel dan ni siarad adre de efo (ei)n_gilydd de . 381267_385725
 %gls:	but IM what be.3S.PRES DET people here want PRON.1PL do.NONFIN really be.3S.PRES talk.NONFIN like be.1PL.PRES PRON.1PL talk.NONFIN home TAG with each_other TAG
 %eng:	but what these people want us to do really is to talk like we talk at home, right, together, yeah?
 *NER:	well@s:cym&eng dw i yn ! 385540_386214
@@ -532,7 +532,7 @@
 *NER:	dyna dw i wneud [?] ! 386191_386911
 %gls:	there be.1S.PRES PRON.1S do.NONFIN
 %eng:	that's what I'm doing!
-*GUT:	yeah@s:cym&eng # a dyna be dw i wneud I@s:eng suppose@s:eng ! 386423_388142
+*GUT:	yeah@s:cym&eng (.) a dyna be dw i wneud I@s:eng suppose@s:eng ! 386423_388142
 %gls:	yeah and there what be.1S.PRES PRON.1S do.NONFIN I suppose
 %eng:	yeah, and that's what I'm doing, I suppose.
 *GUT:	yeah@s:cym&eng . 388165_388618
@@ -541,7 +541,7 @@
 %gls:	but IM
 %eng:	but, er...
 *NER:	xxx . 390395_391347
-*GUT:	so@s:cym&eng ## ar y cyfan ti # yn teimlo (ba)sai well gen ti fod yn fam <ac yn> [/] ### ac yn er@s:cym&eng # wraig ? 391883_400312
+*GUT:	so@s:cym&eng (..) ar y cyfan ti (.) yn teimlo (ba)sai well gen ti fod yn fam <ac yn> [/] (...) ac yn er@s:cym&eng (.) wraig ? 391883_400312
 %gls:	so on DET whole PRON.2S PRT feel.NONFIN be.3S.CONDIT better with.2S PRON.2S be.NONFIN PRT mother and PRT and PRT IM wife
 %eng:	so on the whole you feel you'd rather be a mother and a wife?
 *NER:	ew ti byth yn gofyn cwestiynau fel hyn <fi fel arfer Guto@s:cym&eng> [?] ! 399411_401388
@@ -549,7 +549,7 @@
 %eng:	oh, you never ask me questions like this usually, Guto!
 *GUT:	yeah@s:cym&eng . 401493_401922
 *NER:	&=laugh ! 401983_403446
-*NER:	yndw [?] a mae Anna@s:cym&eng [///] aethon ni i [///] ## hi +//. 403528_406930
+*NER:	yndw [?] a mae Anna@s:cym&eng [///] aethon ni i [///] (..) hi +//. 403528_406930
 %gls:	be.1S.PRES and be.3S.PRES Anna go.1PL.PAST PRON.1PL to PRON.3SF
 %eng:	yes, and Anna... we went to... she...
 *NER:	oh@s:cym&eng Go(d)@s:eng ! 406941_407557
@@ -559,7 +559,7 @@
 *NER:	yndy ? 410146_410831
 %gls:	be.3S.PRES
 %eng:	is it?
-*NER:	yndy aethon ni i Ti_a_Fi@s:cym&eng heddiw [//] # Auntie@s:cym&eng Mary@s:cym&eng sorry@s:cym&eng # mae (y)n gael ei alw yn [/] yn Mynydd_Llandygai@s:cym&eng . 410698_415726
+*NER:	yndy aethon ni i Ti_a_Fi@s:cym&eng heddiw [//] (.) Auntie@s:cym&eng Mary@s:cym&eng sorry@s:cym&eng (.) mae (y)n gael ei alw yn [/] yn Mynydd_Llandygai@s:cym&eng . 410698_415726
 %gls:	be.3S.PRES go.1PL.PAST PRON.1PL to Ti_a_Fi today Auntie Mary sorry be.3S.PRES PRT get.NONFIN POSS.3SM call.NONFIN in in Mynydd_Llandygai
 %eng:	yes, we went to "Ti a Fi" today, sorry, "Auntie Mary" it's called, in Mynydd Llandygai.
 %com:	"Ti a Fi" (literally, "you and me") is a Welsh parent and toddlers organisation.
@@ -587,19 +587,19 @@
 *NER:	ond be &m +//. 426516_427514
 %gls:	but what
 %eng:	but, what...
-*NER:	achos dw i (y)n gadael iddi gael dip(yn) [//] # lot@s:cym&eng o ryddid dydw # really@s:eng tra dw i fath â +//. 427631_432159
+*NER:	achos dw i (y)n gadael iddi gael dip(yn) [//] (.) lot@s:cym&eng o ryddid dydw (.) really@s:eng tra dw i fath â +//. 427631_432159
 %gls:	because be.1S.PRES PRON.1S PRT leave.NONFIN to.3SF get.NONFIN a_bit lot of freedom be.1S.PRES.NEG really while be.1S.PRES PRON.1S kind with
 %eng:	because I let her have a bit... a lot of freedom, don't I, really, while I, like...
 *NER:	<mae (y)na> [/] mae (y)na rei [///] dw i gweld rei mamau . 432194_434098
 %gls:	be.3S.PRES there be.3S.PRES there some be.1S.PRES PRON.1S see.NONFIN some mothers
 %eng:	there are... I see some mothers.
-*NER:	maen nhw really@s:eng kind@s:eng of@s:eng hung@s:eng up@s:eng ar # fath â +... 434093_437216
+*NER:	maen nhw really@s:eng kind@s:eng of@s:eng hung@s:eng up@s:eng ar (.) fath â +... 434093_437216
 %gls:	be.3PL.PRES PRON.3PL really kind of hung up on kind with
 %eng:	they're really kind of hung up on, like...
 *NER:	&dental_click timod os maen nhw (y)n pein(tio) +//. 437543_439145
 %gls:	know.2S if be.3PL.PRES PRON.3PL PRT paint.NONFIN
 %eng:	you know, if they're painting...
-*NER:	achos er@s:cym&eng wrth_gwrs # cefndir fi (y)dy mewn celf hefyd de . 439110_442465
+*NER:	achos er@s:cym&eng wrth_gwrs (.) cefndir fi (y)dy mewn celf hefyd de . 439110_442465
 %gls:	because IM of_course background PRON.1S be.3S.PRES in art too TAG
 %eng:	because of course, my background's in art too, right
 *GUT:	yeah@s:cym&eng . 442616_442964
@@ -621,10 +621,10 @@
 *NER:	+, timod . 454744_455185
 %gls:	know.2S
 %eng:	you know.
-*NER:	a hefyd (fa)th â pan &d # dan ni (y)n wneud gwaith clai dan ni dim just@s:cym&eng dod â ryw rowlyn bach o glai allan a well@s:cym&eng (dy)na o (fe)lly . 455764_462277
+*NER:	a hefyd (fa)th â pan &d (.) dan ni (y)n wneud gwaith clai dan ni dim just@s:cym&eng dod â ryw rowlyn bach o glai allan a well@s:cym&eng (dy)na o (fe)lly . 455764_462277
 %gls:	and also kind with when be.1PL.PRES PRON.1PL PRT do.NONFIN work clay be.1PL.PRES PRON.1PL NEG just come.NONFIN with some roll little of clay out and well there PRON.3SM thus
 %eng:	and also, like, when we do work with clay, we don't just get out a little roll of clay, and then that's it.
-*NER:	dw i (y)n dod â homer o bot@s:cym&eng allan a # powndio (y)r clai a blah@s:cym&eng blah@s:cym&eng blah@s:cym&eng <mae o> [?] de ? 462299_466630
+*NER:	dw i (y)n dod â homer o bot@s:cym&eng allan a (.) powndio (y)r clai a blah@s:cym&eng blah@s:cym&eng blah@s:cym&eng <mae o> [?] de ? 462299_466630
 %gls:	be.1S.PRES PRON.1S PRT come.NONFIN with whopper of pot out and pound.NONFIN DET clay and blah blah blah be.3S.PRES PRON.3SM TAG
 %eng:	I get a whacking great pot out, and pound the caly, and it's blah blah blah, right...
 *GUT:	+< mmm@s:cym&eng . 464588_464948
@@ -637,7 +637,7 @@
 *NER:	(we)dyn [?] dim bod yn annifyr oedd hi . 470535_472045
 %gls:	then NEG be.NONFIN PRT unpleasant be.3S.IMP PRON.3SF
 %eng:	so she wasn't being horrible.
-*NER:	ond dyma hi (y)n just@s:cym&eng # dechrau # fling_io@s:eng+cym (y)r tywod i bob <man xxx> [=! laughs] ! 472066_477711
+*NER:	ond dyma hi (y)n just@s:cym&eng (.) dechrau (.) fling_io@s:eng+cym (y)r tywod i bob <man xxx> [=! laughs] ! 472066_477711
 %gls:	but here PRON.3SF PRT just start.NONFIN fling.NONFIN DET sand to every place xxx
 %eng:	but then she just started to fling the sand everywhere [...] !
 *GUT:	&=laugh . 476919_477407
@@ -648,7 +648,7 @@
 *NER:	a dim bod yn annifyr . 481329_482525
 %gls:	and NEG be.NONFIN PRT unpleasant
 %eng:	and not being horrible.
-*NER:	mae (y)n gafael ar &r rhawiaid o tywod tywod soft@s:eng timod sych ofnadwy # a roi fling@s:cym&eng iddo fo dros yr hogyn bach (y)ma ! 482516_488518
+*NER:	mae (y)n gafael ar &r rhawiaid o tywod tywod soft@s:eng timod sych ofnadwy (.) a roi fling@s:cym&eng iddo fo dros yr hogyn bach (y)ma ! 482516_488518
 %gls:	be.3S.PRES PRT hold.NONFIN on spadeful of sand sand soft know.2S dry awful and give.NONFIN fling to.3SM PRON.3SM over DET boy little here
 %eng:	she gets hold of a spadeful of sand, soft sand, you know, really dry, and gives it a fling over this little boy!
 *NER:	o'n i fath â +"/. 488495_488901
@@ -658,14 +658,14 @@
 *GUT:	fel (yn)a mae plant de . 490391_491343
 %gls:	like there be.3S.PRES children TAG
 %eng:	that's what children are like, isn't it.
-*NER:	yeah@s:cym&eng ond ## &f a [///] yeah@s:cym&eng ond digwydd bod yr hogyn bach (y)ma efo phobia@s:cym&eng am dywod ! 491414_495802
+*NER:	yeah@s:cym&eng ond (..) &f a [///] yeah@s:cym&eng ond digwydd bod yr hogyn bach (y)ma efo phobia@s:cym&eng am dywod ! 491414_495802
 %gls:	yeah but and yeah but happen.NONFIN be.NONFIN DET boy little here with phobia about sand
 %eng:	yeah, but it so happened that this little boy had a phobia of sand!
 *GUT:	oh@s:cym&eng Go(d)@s:eng ! 495837_496476
 *GUT:	oh@s:cym&eng wela i . 496441_497184
 %gls:	IM see.1S.NONPAST PRON.1S
 %eng:	oh, I see.
-*NER:	so@s:cym&eng [=! laughs] # oedd o (y)n iawn . 497106_499265
+*NER:	so@s:cym&eng [=! laughs] (.) oedd o (y)n iawn . 497106_499265
 %gls:	so be.3S.IMP PRON.3SM PRT right
 %eng:	so, he was okay.
 *GUT:	well@s:cym&eng mae (y)na rywbeth yn ddireidus yni [?] does ? 498557_499939
@@ -689,7 +689,7 @@
 *GUT:	+< a [?] mae [/] mae [/] mae chwerthin yn ddrwg weithiau dydy ? 503680_505375
 %gls:	and be.3S.PRES be.3S.PRES be.3S.PRES laugh.NONFIN PRT bad sometimes be.3S.PRES.NEG
 %eng:	and she does an evil laugh sometimes, doesn't she?
-*NER:	+< yndy [?] # a mae (y)na gymeriad cry +/. 505111_507028
+*NER:	+< yndy [?] (.) a mae (y)na gymeriad cry +/. 505111_507028
 %gls:	be.3S.PRES and be.3S.PRES there character strong
 %eng:	yes, and there's a strong character...
 *GUT:	+< ryw cackle@s:eng bach (fe)lly de ? 505786_506994
@@ -711,42 +711,42 @@
 %gls:	be.1S.PRES PRON.1S think.NONFIN
 %eng:	I think.
 *NER:	+< mmm@s:cym&eng . 513160_513741
-*NER:	es i â hi: um@s:cym&eng weld homeopath@s:eng do # dipyn yn_ôl . 514200_518008
+*NER:	es i â hi: um@s:cym&eng weld homeopath@s:eng do (.) dipyn yn_ôl . 514200_518008
 %gls:	go.1S.PAST PRON.1S with PRON.3SF IM see.NONFIN homeopath yes a_bit back
 %eng:	I took her to see a homeopath, didn't I, a while back.
 *NER:	achos pan mae (y)n cael dodgy@s:eng tummy@s:eng . 517950_519216
 %gls:	because when be.3S.PRES PRT get.NONFIN dodgy tummy
 %eng:	because of when she gets a dodgy tummy.
 *GUT:	+< homeopath@s:eng &t er@s:cym&eng oh@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 518682_520737
-*NER:	a dyma [///] <o'n i (y)n gorod &di> [/] <o'n i> [/] o'n i gorod treulio ## xxx tua [/] tua awr # a disgrifio ei phersonoliaeth hi . 520866_527878
+*NER:	a dyma [///] <o'n i (y)n gorod &di> [/] <o'n i> [/] o'n i gorod treulio (..) xxx tua [/] tua awr (.) a disgrifio ei phersonoliaeth hi . 520866_527878
 %gls:	and here be.1S.IMP PRON.1S PRT must.NONFIN be.1S.IMP PRON.1S be.1S.IMP PRON.1S must.NONFIN spend.NONFIN xxx about about hour and describe.NONFIN POSS.3SF personality PRON.3SF
 %eng:	and I had to spend about an hour describing her personality.
 *GUT:	mmm@s:cym&eng . 527960_528343
-*NER:	a um@s:cym&eng so@s:cym&eng os [///] deuda bod [///] os [/] os gynni hi # fath â gwendid <yn ei> [/] yn ei stumog deuda +//. 529117_536256
+*NER:	a um@s:cym&eng so@s:cym&eng os [///] deuda bod [///] os [/] os gynni hi (.) fath â gwendid <yn ei> [/] yn ei stumog deuda +//. 529117_536256
 %gls:	and IM so if say.2S.IMPER be.NONFIN if if with.3SF PRON.3SF kind with weakness in POSS.3S in POSS.3S stomach say.2S.IMPER
 %eng:	and so... say that... if she does have some kind of weakness in her stomach, right...
 *NER:	<pan mae hi (y)n cael yn> [/] pan mae hi (y)n cael yn upset@s:cym&eng xxx +//. 536244_538334
 %gls:	when be.3S.PRES PRON.3SF PRT get.NONFIN PRT when be.3S.PRES PRON.3SF PRT get.NONFIN PRT upset xxx
 %eng:	when she gets upset [...]...
-*NER:	<fath â> [?] lot@s:cym&eng o plant bach arall wrth_gwrs wneith hi fod yn sâl neu # gael upset@s:cym&eng tummy@s:eng neu rywbeth xxx lot@s:cym&eng # wrth_gwrs lot@s:cym&eng o blant bach arall +//. 538398_545912
+*NER:	<fath â> [?] lot@s:cym&eng o plant bach arall wrth_gwrs wneith hi fod yn sâl neu (.) gael upset@s:cym&eng tummy@s:eng neu rywbeth xxx lot@s:cym&eng (.) wrth_gwrs lot@s:cym&eng o blant bach arall +//. 538398_545912
 %gls:	kind with lot of children little other of_course do.3S.NONPAST PRON.3SF be.NONFIN PRT sick or get.NONFIN upset tummy or something xxx lot of_course lot of children little other
 %eng:	like a lot of other small children, of course, she'll be sick or get an upset tummy or something [...] a lot, of course, a lot of other small children.
 *GUT:	+< mmm@s:cym&eng . 541645_541877
 *GUT:	+< mmm@s:cym&eng . 544489_544744
-*NER:	ond <oedd o (y)n> [/] <oedd o (y)n deud um@s:cym&eng # er@s:cym&eng> [///] oedd o (y)n disgrifio fath â personality@s:eng type@s:cym&eng hi (fe)lly de . 545929_551908
+*NER:	ond <oedd o (y)n> [/] <oedd o (y)n deud um@s:cym&eng (.) er@s:cym&eng> [///] oedd o (y)n disgrifio fath â personality@s:eng type@s:cym&eng hi (fe)lly de . 545929_551908
 %gls:	but be.3S.IMP PRON.3SM PRT be.3S.IMP PRON.3SM PRT say.NONFIN IM IM be.3S.IMP PRON.3SM PRT describe.NONFIN kind with personality type PRON.3SF thus TAG
 %eng:	but he was saying... er, he was describing, like, her personality type, right.
 *GUT:	mmm@s:cym&eng . 551911_552213
-*NER:	a &b bod hi (y)n er@s:cym&eng [///] # a [/] a be fasai fo roid iddi hi fel trin(iaeth) [/] triniaeth pan fasai (y)n gael ei bouts@s:cym&eng (y)ma ## fasai phosphorus@s:cym&eng . 552237_562265
+*NER:	a &b bod hi (y)n er@s:cym&eng [///] (.) a [/] a be fasai fo roid iddi hi fel trin(iaeth) [/] triniaeth pan fasai (y)n gael ei bouts@s:cym&eng (y)ma (..) fasai phosphorus@s:cym&eng . 552237_562265
 %gls:	and be.NONFIN PRON.3SF PRT IM and and what be.3S.CONDIT PRON.3SM give.NONFIN to.3SF PRON.3SF like treatment treatment when be.3S.CONDIT PRT get.NONFIN POSS.3S bouts here be.3S.CONDIT phosphorus
 %eng:	and that she... and what he'd give her as treatment when she had these bouts of hers would be phosphorus.
 *GUT:	+< mmm@s:cym&eng . 559936_560540
-*NER:	ac i [/] i: um@s:cym&eng [/] # i blant bach wnaeth o ddeud [///] i [?] # quote_io@s:eng+cym fo (fe)lly [?] wnaeth o ddeud +"/. 562477_568294
+*NER:	ac i [/] i: um@s:cym&eng [/] (.) i blant bach wnaeth o ddeud [///] i [?] (.) quote_io@s:eng+cym fo (fe)lly [?] wnaeth o ddeud +"/. 562477_568294
 %gls:	and to to IM to children little do.3S.PAST PRON.3SM say.NONFIN to quote.NONFIN PRON.3SM thus do.3S.PAST PRON.3SM say.NONFIN
 %eng:	and for little children, he said... to quote him then, he said:
 *NER:	+" er@s:cym&eng <they@s:eng (a)re@s:eng> [/] they@s:eng (a)re@s:eng a@s:eng delight@s:eng ! 568313_569776
 *NER:	+" phosphorus@s:cym&eng children@s:eng are@s:eng a@s:eng delight@s:eng . 569729_571262
-*NER:	achos maen nhw just@s:cym&eng mor [!] fath â # llawn +/. 571250_573804
+*NER:	achos maen nhw just@s:cym&eng mor [!] fath â (.) llawn +/. 571250_573804
 %gls:	because be.3PL.PRES PRON.3PL just so kind with full
 %eng:	because they're just so, like, full of...
 *GUT:	+< phosphorus@s:cym&eng children@s:eng +!? 573386_574513
@@ -756,20 +756,20 @@
 *NER:	dw (ddi)m yn really@s:eng gwybod llawer amdan homeopathy@s:cym&eng . 575773_577572
 %gls:	be.1S.PRES NEG PRT really know.NONFIN much about homeopathy
 %eng:	I don't really know much about homeopathy.
-*NER:	ond basically@s:eng dw meddwl ## ti (y)n sbïo ar # +//. 577584_581589
+*NER:	ond basically@s:eng dw meddwl (..) ti (y)n sbïo ar (.) +//. 577584_581589
 %gls:	but basically be.1S.PRES think.NONFIN PRON.2S PRT look.NONFIN on
 %eng:	but basically, I think, you look at...
 *NER:	oh@s:cym&eng xxx ! 581729_582785
-*NER:	ti (y)n sbïo ar y plentyn # neu <ar y> [/] ar y person@s:cym&eng holistically@s:eng . 582773_586187
+*NER:	ti (y)n sbïo ar y plentyn (.) neu <ar y> [/] ar y person@s:cym&eng holistically@s:eng . 582773_586187
 %gls:	PRON.2S PRT look.NONFIN on DET child or on DET on DET person holistically
 %eng:	you look at the child, or at the person, holistically.
-*NER:	so@s:cym&eng ti (y)n sbïo ar [///] pan ti [///] os [/] <os mae> [/] os mae (y)na (ryw)beth yn matter@s:cym&eng efo nhw ti (y)n sbïo ar eu personoliaeth nhw ## um@s:cym&eng # i weld &s ## timod sut [/] sut i [/] i trin eu afiechyd nhw hyd_(y)n_oed os mae (y)r afiechyd yn physical@s:eng (fe)lly timod ? 586178_600099
+*NER:	so@s:cym&eng ti (y)n sbïo ar [///] pan ti [///] os [/] <os mae> [/] os mae (y)na (ryw)beth yn matter@s:cym&eng efo nhw ti (y)n sbïo ar eu personoliaeth nhw (..) um@s:cym&eng (.) i weld &s (..) timod sut [/] sut i [/] i trin eu afiechyd nhw hyd_(y)n_oed os mae (y)r afiechyd yn physical@s:eng (fe)lly timod ? 586178_600099
 %gls:	so PRON.2S PRT look.NONFIN on when PRON.2S if if be.3S.PRES if be.3S.PRES there something PRT matter with PRON.3PL PRON.2S PRT look.NONFIN on POSS.3PL personality PRON.3PL IM to see.NONFIN know.2S how how to to treat.NONFIN POSS.3PL illness PRON.3PL even if be.3S.PRES DET illness PRT physical thus know.2S
 %eng:	so you look at... when you... if there's something the matter with them, you look at their personality to see, you know, how to treat their illness, even if the illness is physical, you know?
 *GUT:	+< mmm@s:cym&eng . 591936_592354
 *GUT:	+< mmm@s:cym&eng . 598101_598542
 *GUT:	yeah@s:cym&eng yeah@s:cym&eng . 599796_600504
-*NER:	a # so@s:cym&eng [/] so@s:cym&eng mae (y)na (fa)th â types@s:cym&eng . 600783_603511
+*NER:	a (.) so@s:cym&eng [/] so@s:cym&eng mae (y)na (fa)th â types@s:cym&eng . 600783_603511
 %gls:	and so so be.3S.PRES there kind with types
 %eng:	and so there are, like, types.
 *NER:	ti (y)n sbïo ar sut type@s:cym&eng o berson@s:cym&eng wyt ti . 603604_605589
@@ -792,7 +792,7 @@
 *NER:	achos toedd hi cau mynd i_fewn ato fo (y)li . 614777_616856
 %gls:	because be.3S.IMP.NEG PRON.3SF refuse.NONFIN go.NONFIN in to.3SM PRON.3SM see.2S.IMPER
 %eng:	because, she was refusing to go through to him, see.
-*NER:	mae mor [///] # timod mae (y)n pers(on)@s:cym&eng [///] oedd hi (y)n adamant@s:eng toedd hi ddim yn mynd i_fewn at y doctor@s:cym&eng (y)ma . 617140_621470
+*NER:	mae mor [///] (.) timod mae (y)n pers(on)@s:cym&eng [///] oedd hi (y)n adamant@s:eng toedd hi ddim yn mynd i_fewn at y doctor@s:cym&eng (y)ma . 617140_621470
 %gls:	be.3S.PRES so know.2S be.3S.PRES PRT person be.3S.IMP PRON.3SF PRT adamant be.3S.IMP.NEG PRON.3SF NEG PRT go.NONFIN in to DET doctor here
 %eng:	she's so... you know, she's... she was adamant she wasn't going through to this doctor.
 *NER:	so@s:cym&eng o'n i (y)n just@s:cym&eng gorod +//. 621435_622331
@@ -804,7 +804,7 @@
 *GUT:	ie . 624072_624351
 %gls:	yes
 %eng:	yes.
-*NER:	a <wnaeth hi [?]> [//] wnaeth o ddeud um@s:cym&eng # na er@s:cym&eng # phosphorus@s:cym&eng child@s:eng oedd hi [?] . 624283_629171
+*NER:	a <wnaeth hi [?]> [//] wnaeth o ddeud um@s:cym&eng (.) na er@s:cym&eng (.) phosphorus@s:cym&eng child@s:eng oedd hi [?] . 624283_629171
 %gls:	and do.3S.PAST PRON.3SF do.3S.PAST PRON.3SM say.NONFIN IM PRT IM phosphorus child be.3S.IMP PRON.3SF
 %eng:	and he said that she was a phosphorus child.
 *NER:	a mae (y)n deud bod nhw (y)n delight@s:eng a bod nhw (y)n ofnadwy [!] o greadigol ofnadwy [!] o expressive@s:eng ofna(dwy) +//. 629182_634712
@@ -816,7 +816,7 @@
 *GUT:	yeah@s:cym&eng fedri [///] yeah@s:cym&eng fel (yn)a mae yeah@s:cym&eng [?] . 638596_639955
 %gls:	yeah can.2S.NONPAST yeah like there be.3S.PRES yeah
 %eng:	yeah you can... yeah, that's what she's like, yeah.
-*NER:	symudiadau mawr [!] <felly a> [?] # er@s:cym&eng [?] gwyneb hi . 639026_642353
+*NER:	symudiadau mawr [!] <felly a> [?] (.) er@s:cym&eng [?] gwyneb hi . 639026_642353
 %gls:	movements big thus and IM face PRON.3SF
 %eng:	big movements, like and, er, her face...
 *GUT:	+< ie . 639936_640331
@@ -833,21 +833,21 @@
 %gls:	yeah be.3S.PRES be.3S.PRES PRT be.3S.PRES PRT incredible in DET sense there be.3S.PRES.NEG
 %eng:	yeah, she's amazing in that sense, isn't she.
 *NER:	+< mmm@s:cym&eng . 646846_647276
-*NER:	so@s:cym&eng yeah@s:cym&eng # so@s:cym&eng +//. 647287_649029
-*NER:	a mae [/] mae [/] mae iaith hi (y)n dod yn ei blaen yn really@s:eng da # Saesneg a Cymraeg . 649029_652616
+*NER:	so@s:cym&eng yeah@s:cym&eng (.) so@s:cym&eng +//. 647287_649029
+*NER:	a mae [/] mae [/] mae iaith hi (y)n dod yn ei blaen yn really@s:eng da (.) Saesneg a Cymraeg . 649029_652616
 %gls:	and be.3S.PRES be.3S.PRES be.3S.PRES language PRON.3SF PRT come.NONFIN in POSS.3S front PRT really good English and Welsh
 %eng:	and her language is coming along really well, English and Welsh.
 *GUT:	yndy ? 651896_652198
 %gls:	be.3S.PRES
 %eng:	is it?
-*GUT:	well@s:cym&eng &di dipyn o gamp # tyfu fyny efo dwy iaith dydy . 652558_654996
+*GUT:	well@s:cym&eng &di dipyn o gamp (.) tyfu fyny efo dwy iaith dydy . 652558_654996
 %gls:	well a_bit of achievement grow.NONFIN up with two.F language be.3S.PRES.NEG
 %eng:	well, it's quite a feat to grow up with two languages, isn't it.
 *NER:	&=laugh ! 654892_655774
 *GUT:	mae dipyn o gamp . 655820_656633
 %gls:	be.3S.PRES a_bit of achievement
 %eng:	it's quite a feat.
-*NER:	(ba)swn i (y)n deud mae [?] ella ## xxx +/. 656714_659791
+*NER:	(ba)swn i (y)n deud mae [?] ella (..) xxx +/. 656714_659791
 %gls:	be.1S.CONDIT PRON.1S PRT say.NONFIN be.3S.PRES maybe xxx
 %eng:	I'd say it might [...] ...
 *GUT:	+< mae fod i helpu di [///] well@s:cym&eng mae fod i helpu chdi cognitively@s:eng de . 659315_662427
@@ -859,13 +859,13 @@
 *NER:	+< yndy yndy . 662984_663843
 %gls:	be.3S.PRES be.3S.PRES
 %eng:	yes, yes.
-*GUT:	<well@s:cym&eng appare(ntly)@s:eng> [/] well@s:cym&eng apparently@s:eng [!] # um@s:cym&eng # mae # monolingual@s:eng [//] # pobl monolingual@s:eng yn minority@s:eng bach yn y byd . 666269_673340
+*GUT:	<well@s:cym&eng appare(ntly)@s:eng> [/] well@s:cym&eng apparently@s:eng [!] (.) um@s:cym&eng (.) mae (.) monolingual@s:eng [//] (.) pobl monolingual@s:eng yn minority@s:eng bach yn y byd . 666269_673340
 %gls:	well apparently well apparently IM be.3S.PRES monolingual people monolingual PRT minority little in DET world
 %eng:	well, apparently monolingual people are a small minority in the world.
 *GUT:	mae ran fwya o bobl y byd yn siarad dwy iaith . 673436_675584
 %gls:	be.3S.PRES part biggest of people DET world PRT speak.NONFIN two.F language
 %eng:	most people in the world do speak two languages.
-*GUT:	so@s:cym&eng # ni (y)dy (y)r norm@s:cym&eng really@s:eng . 676199_677813
+*GUT:	so@s:cym&eng (.) ni (y)dy (y)r norm@s:cym&eng really@s:eng . 676199_677813
 %gls:	so PRON.1PL be.3S.PRES DET norm really
 %eng:	so we're the norm really.
 *GUT:	so@s:cym&eng &dəd dan ni (ddi)m yn mor unusual@s:eng â dan ni licio meddwl bod ni tibod . 677801_680530
@@ -875,7 +875,7 @@
 *GUT:	tibod ? 681458_681992
 %gls:	know.2S
 %eng:	you know?
-*GUT:	anyway@s:eng # moving@s:eng swiftly@s:eng on@s:eng back@s:eng on@s:eng the@s:eng ranch@s:cym&eng de +... 682259_685441
+*GUT:	anyway@s:eng (.) moving@s:eng swiftly@s:eng on@s:eng back@s:eng on@s:eng the@s:eng ranch@s:cym&eng de +... 682259_685441
 %gls:	anyway moving swiftly on back on the ranch TAG
 %eng:	anyway, moving swiftly on, back on the ranch, right...
 *NER:	o:h@s:cym&eng (y)r granny@s:eng annexe@s:eng ! 685592_687217
@@ -900,7 +900,7 @@
 *GUT:	dw i isio gadael Sir_Fôn . 699537_700721
 %gls:	be.1S.PRES PRON.1S want leave.NONFIN Anglesey
 %eng:	I want to leave Anglesey.
-*GUT:	dw i isio ## cael y Menai_Straits@s:eng rhwng fi a +... 701615_704773
+*GUT:	dw i isio (..) cael y Menai_Straits@s:eng rhwng fi a +... 701615_704773
 %gls:	be.1S.PRES PRON.1S want get.NONFIN DET Menai_Straits between PRON.1S and
 %eng:	I want to get the Menai Straits between me and...
 *NER:	&=laugh <yeah@s:cym&eng <a dy> [/] a dy frawd> [=! laughs] ! 704192_706874
@@ -921,7 +921,7 @@
 %gls:	some kind of Tardis effect through.3SM yeah
 %eng:	some kind of Tardis effect through it, yeah?
 *NER:	&=laugh ! 715547_717242
-*GUT:	(be)cause@s:eng er@s:cym&eng # no@s:eng way@s:eng fedri di gael cooker@s:cym&eng # fridge@s:eng # shower@s:eng ## wash_basin@s:eng # sink@s:cym&eng ### yn y cwt bach (y)ma (y)n cefn de . 716777_729004
+*GUT:	(be)cause@s:eng er@s:cym&eng (.) no@s:eng way@s:eng fedri di gael cooker@s:cym&eng (.) fridge@s:eng (.) shower@s:eng (..) wash_basin@s:eng (.) sink@s:cym&eng (...) yn y cwt bach (y)ma (y)n cefn de . 716777_729004
 %gls:	because IM no way can.2S.NONPAST PRON.2S get.NONFIN cooker fridge shower wash_basin sink in DET hut little here in back TAG
 %eng:	because no way can you get a cooker, a fridge, a shower, a wash-basin, a sink into this little hut at the back, right.
 *NER:	+< &=laugh &=clap:hands &=laugh ! 718861_723249
@@ -933,7 +933,7 @@
 %gls:	PRON.2S want bet
 %eng:	you want a bet?
 *NER:	&=laugh ! 737321_738296
-*GUT:	mae [?] # music@s:cym&eng Doctor_Who@s:cym&eng <yn dod i_fewn> [?] ! 738284_740792
+*GUT:	mae [?] (.) music@s:cym&eng Doctor_Who@s:cym&eng <yn dod i_fewn> [?] ! 738284_740792
 %gls:	be.3S.PRES music Doctor_Who PRT come.NONFIN in
 %eng:	the Doctor Who music's coming in!
 *NER:	&=laugh ! 739654_740548
@@ -982,14 +982,14 @@
 %eng:	a lack of space will still exist, won't it!
 *NER:	&=laugh ! 763408_764453
 *GUT:	&=laugh . 764197_764836
-*NER:	&=laugh <a dan ni mynd i roid> [=! laughs] # +/. 765962_768191
+*NER:	&=laugh <a dan ni mynd i roid> [=! laughs] (.) +/. 765962_768191
 %gls:	and be.1PL.PRES PRON.1PL go.NONFIN to put.NONFIN
 %eng:	and we're going to put...
 *GUT:	er bod xxx <fath â> [?] sardine@s:cym&eng at@s:eng least@s:eng mae genna i sense@s:cym&eng o [?] space@s:eng timod ! 768216_771258
 %gls:	although be.NONFIN xxx kind with sardine at least be.3S.PRES with.1S PRON.1S sense of space know.2S
 %eng:	even though [...] like a sardine, at least I have a sense of space, you know!
 *GUT:	great@s:cym&eng ! 771455_772140
-*GUT:	ond having@s:eng said@s:eng that@s:eng well gen i fyw fan (y)na na # er@s:cym&eng lle [/] lle ydw i wan de . 772338_775995
+*GUT:	ond having@s:eng said@s:eng that@s:eng well gen i fyw fan (y)na na (.) er@s:cym&eng lle [/] lle ydw i wan de . 772338_775995
 %gls:	but having said that better with.1S PRON.1S live.NONFIN place there than IM where where be.1S.PRES PRON.1S now TAG
 %eng:	but having said that, I'd rather live there than where I am now, you know
 *NER:	+< &=laugh ! 772500_774160
@@ -998,10 +998,10 @@
 %eng:	it'll be lovely!
 *GUT:	+< it's@s:eng no@s:eng secret@s:cym&eng ! 776970_777620
 *GUT:	huh@s:cym&eng ? 778363_778642
-*NER:	<a (y)li> [?] codi fyny <i (y)r> [/] <i (y)r> [/] i (y)r olygfa gwych # sy +/. 778642_783297
+*NER:	<a (y)li> [?] codi fyny <i (y)r> [/] <i (y)r> [/] i (y)r olygfa gwych (.) sy +/. 778642_783297
 %gls:	and see.2S.IMPER rise.NONFIN up to DET to DET to DET view brilliant be.PRES.REL
 %eng:	and you know, waking up to this fine view, which...
-*GUT:	++ prydferth # hardd # bendigedig ! 782838_785543
+*GUT:	++ prydferth (.) hardd (.) bendigedig ! 782838_785543
 %gls:	beautiful pretty blessed
 %eng:	... beautiful, pretty, marvelous!
 *NER:	+< ++ prydferth hardd ! 783604_784707
@@ -1017,24 +1017,24 @@
 *NER:	a <mae (y)na gitch(en)@s:eng> [///] dan [?] ni mynd i roi porch@s:cym&eng bach a roid y kitchen@s:eng yn f(an) yna . 787883_791006
 %gls:	and be.3S.PRES there kitchen be.1PL.PRES PRON.1PL go.NONFIN to put.NONFIN porch little and put.NONFIN DET kitchen in place there
 %eng:	and there's a... we're going to put in a little porch, and put the kitchen in there.
-*GUT:	so@s:cym&eng mae (y)na # extension@s:eng bach oes ? 790809_792562
+*GUT:	so@s:cym&eng mae (y)na (.) extension@s:eng bach oes ? 790809_792562
 %gls:	so be.3S.PRES there extension little be.3S.PRES
 %eng:	so there is a small extension, is there?
 *NER:	oes . 792527_792922
 %gls:	be.3S.PRES
 %eng:	yes.
 *GUT:	oh@s:cym&eng right@s:cym&eng . 792887_793688
-*NER:	y porch@s:cym&eng bach # a kitchen@s:eng yn f(an) yna . 793677_795685
+*NER:	y porch@s:cym&eng bach (.) a kitchen@s:eng yn f(an) yna . 793677_795685
 %gls:	DET porch little and kitchen in place there
 %eng:	the little porch,  and a kitchen there.
-*GUT:	iawn (be)cause@s:eng be (y)dy o basically@s:eng de dw i (dd)im isio talu # pres i boced [?] ryw complete@s:eng +/. 794932_799553
+*GUT:	iawn (be)cause@s:eng be (y)dy o basically@s:eng de dw i (dd)im isio talu (.) pres i boced [?] ryw complete@s:eng +/. 794932_799553
 %gls:	right because what be.3S.PRES PRON.3SM basically TAG be.1S.PRES PRON.1S NEG want pay.NONFIN money to pocket some complete
 %eng:	alright, because what it is basically, right, I don't want to pay money into the pocket of some complete...
 *NER:	oh@s:cym&eng ! 799506_800145
-*GUT:	+, well@s:cym&eng dyn estron basically@s:eng a ## timod # satisfy_o@s:eng+cym [?] capitalist@s:eng needs@s:eng o de . 800946_806310
+*GUT:	+, well@s:cym&eng dyn estron basically@s:eng a (..) timod (.) satisfy_o@s:eng+cym [?] capitalist@s:eng needs@s:eng o de . 800946_806310
 %gls:	well man foreign basically and know.2S satisfy.NONFIN capitalist needs PRON.3SM TAG
 %eng:	...well, outsider basically, and, you know, satisfy his capitalist needs, you know.
-*GUT:	dw i isio [///] os dw i am dalu # rent@s:cym&eng i rywun well fi dalu rent@s:cym&eng i nheulu yeah@s:cym&eng ? 806298_809178
+*GUT:	dw i isio [///] os dw i am dalu (.) rent@s:cym&eng i rywun well fi dalu rent@s:cym&eng i nheulu yeah@s:cym&eng ? 806298_809178
 %gls:	be.1S.PRES PRON.1S want if be.1S.PRES PRON.1S for pay.NONFIN rent to someone better PRON.1S pay.NONFIN rent to family.POSSD.1S yeah
 %eng:	I want to... if I'm going to pay rent to someone, I'd rather pay rent to my family, yeah.
 *NER:	+< oh@s:cym&eng paid â poeni am hynna . 806426_808214
@@ -1050,20 +1050,20 @@
 *GUT:	ond um@s:cym&eng dw i (we)di bod yn sbïo ar bedsit@s:eng yn Felinheli@s:cym&eng er enghraifft . 813662_816274
 %gls:	but IM be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT look.NONFIN on bedsit in Felinheli for example
 %eng:	but I've been looking at a bedsit in Felinheli, for example.
-*GUT:	a &dɔ &dɔ do'n i (dd)im yn licio (y)r idea@s:cym&eng o # wario seventy@s:eng pound@s:eng a@s:eng week@s:eng # mond am # box_room@s:eng basically@s:eng ## a roi pres ym boced dyn dw (dd)im yn nabod # boy@s:cym&eng sydd just@s:cym&eng isio wneud [?] pres &ɔ ohonof fi timod ? 816845_827491
+*GUT:	a &dɔ &dɔ do'n i (dd)im yn licio (y)r idea@s:cym&eng o (.) wario seventy@s:eng pound@s:eng a@s:eng week@s:eng (.) mond am (.) box_room@s:eng basically@s:eng (..) a roi pres ym boced dyn dw (dd)im yn nabod (.) boy@s:cym&eng sydd just@s:cym&eng isio wneud [?] pres &ɔ ohonof fi timod ? 816845_827491
 %gls:	and be.1S.IMP.NEG PRON.1S NEG PRT like.NONFIN DET idea of spend.NONFIN seventy pound a week only for box_room basically and put.NONFIN money in pocket man be.1S.PRES PRON.1S NEG PRT know.NONFIN boy be.PRES.REL just want make.NONFIN money of.1S PRON.1S know.2S
 %eng:	and I didn't like the idea of spending £70 a week just for a box-room, basically, and putting money into the pocket of a man I don't know, a bloke who just wants to make money out of me, you know?
 *NER:	+< faint oedd hwnnw ? 818412_818970
 %gls:	how_much be.3S.IMP that
 %eng:	how much was that?
-*GUT:	so@s:cym&eng # os dw i am dalu rent@s:cym&eng i rywun well gyn i dalu rent@s:cym&eng i nheulu sy &a [//] timod pobl yn hun de tibod . 828378_833591
+*GUT:	so@s:cym&eng (.) os dw i am dalu rent@s:cym&eng i rywun well gyn i dalu rent@s:cym&eng i nheulu sy &a [//] timod pobl yn hun de tibod . 828378_833591
 %gls:	so if be.1S.PRES PRON.1S for pay.NONFIN rent to someone better with PRON.1S pay.NONFIN rent to family.POSSD.1S be.PRES.REL know.2S people POSS.1S self TAG know.2S
 %eng:	so if I'm going to pay somebody rent, I'd rather pay rent to my family who... you know, my own people, you know.
 *NER:	mmhm@s:cym&eng mmm@s:cym&eng . 833243_834694
 *GUT:	dyna (y)dy rheswm dw i <isio byw> [?] (y)na de ? 834659_836227
 %gls:	there be.3S.PRES reason be.1S.PRES PRON.1S want live.NONFIN there TAG
 %eng:	that's the reason I want to live there, isn't it
-*GUT:	plus@s:eng dw i isio ## lle i fi (y)n hun basically@s:eng de . 836296_839234
+*GUT:	plus@s:eng dw i isio (..) lle i fi (y)n hun basically@s:eng de . 836296_839234
 %gls:	plus be.1S.PRES PRON.1S want place to PRON.1S POSS.1S self basically TAG
 %eng:	plus I want a place for myself basically, you know.
 *NER:	bysai fo (y)n &stə step@s:cym&eng [//] stepping_stone@s:eng bysai ? 839605_841730
@@ -1083,10 +1083,10 @@
 *GUT:	+< ry hir . 846455_846966
 %gls:	too long
 %eng:	too long.
-*GUT:	a dw i meddwl bod fi wneud mwy o ddrwg na daioni # drwy fyw adre (be)cause@s:eng mae lot@s:cym&eng o stress@s:cym&eng yn xxx creu rhwng # Adrian@s:cym&eng a fi yn ffraeo . 847757_853922
+*GUT:	a dw i meddwl bod fi wneud mwy o ddrwg na daioni (.) drwy fyw adre (be)cause@s:eng mae lot@s:cym&eng o stress@s:cym&eng yn xxx creu rhwng (.) Adrian@s:cym&eng a fi yn ffraeo . 847757_853922
 %gls:	and be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.1S do.NONFIN more of bad than goodness through live.NONFIN home because be.3S.PRES lot of stress PRT create.NONFIN between Adrian and PRON.1S PRT argue.NONFIN
 %eng:	and I think I'm doing more harm than good by living at home, because there's a lot of stress gets created between Adrian and me arguing.
-*GUT:	a (peta)swn i (y)n tynnu <yn hun> [?] allan o (y)r equation@s:eng # ella (ba)sai (y)na llai o &fr ffraeo a hence@s:eng # llai o stress@s:cym&eng de . 854960_860545
+*GUT:	a (peta)swn i (y)n tynnu <yn hun> [?] allan o (y)r equation@s:eng (.) ella (ba)sai (y)na llai o &fr ffraeo a hence@s:eng (.) llai o stress@s:cym&eng de . 854960_860545
 %gls:	and if_be.1S.CONDIT PRON.1S PRT pull.NONFIN POSS.1S self out of DET equation maybe be.3S.CONDIT there less of argue.NONFIN and hence less of stress TAG
 %eng:	and if I took myself out of the equation, there might be less arguing and hence less stress, right.
 *NER:	dw i dal dal hi gynno fo ? 860923_861840
@@ -1099,7 +1099,7 @@
 *GUT:	oh@s:cym&eng dw i (dd)im yn gwybod . 863083_863988
 %gls:	IM be.1S.PRES PRON.1S NEG PRT know.NONFIN
 %eng:	oh, I don't know.
-*GUT:	mae pawb dal hi gynno fo at@s:eng some@s:eng point@s:eng (dy)dy # bob diwrnod . 864050_866241
+*GUT:	mae pawb dal hi gynno fo at@s:eng some@s:eng point@s:eng (dy)dy (.) bob diwrnod . 864050_866241
 %gls:	be.3S.PRES everyone catch.NONFIN PRON.3SF with.3SM PRON.3SM at some point be.3S.PRES.NEG every day
 %eng:	everyone cops it from him at some point, don't they, every day.
 *NER:	mmm@s:cym&eng . 867355_867715
@@ -1124,14 +1124,14 @@
 *GUT:	(be)cause@s:eng dw i isio pethau wella de . 877211_878279
 %gls:	because be.1S.PRES PRON.1S want things improve.NONFIN TAG
 %eng:	because I do want things to improve, right.
-*GUT:	(be)cause@s:eng fedrith [?] pethau (ddi)m aros (y)r u(n) fath am hir de ## eto (be)cause@s:eng mae [?] too@s:eng much@s:eng . 878209_881996
+*GUT:	(be)cause@s:eng fedrith [?] pethau (ddi)m aros (y)r u(n) fath am hir de (..) eto (be)cause@s:eng mae [?] too@s:eng much@s:eng . 878209_881996
 %gls:	because can.3S.NONPAST things NEG stay.NONFIN DET one kind for long TAG again because be.3S.PRES too much
 %eng:	because things can't stay as they are for long, right, again, because it's too much.
 *GUT:	ond (dy)na o . 882088_882669
 %gls:	but there PRON.3SM
 %eng:	but there you are.
 *NER:	mmm@s:cym&eng . 884799_885635
-*NER:	dw i (y)n meddwl # <be (y)dy> [//] er@s:cym&eng yr plan@s:cym&eng ydy ## bod y to (y)n dod i_ffwrdd . 886111_892485
+*NER:	dw i (y)n meddwl (.) <be (y)dy> [//] er@s:cym&eng yr plan@s:cym&eng ydy (..) bod y to (y)n dod i_ffwrdd . 886111_892485
 %gls:	be.1S.PRES PRON.1S PRT think.NONFIN what be.3S.PRES IM DET plan be.3S.PRES be.NONFIN DET roof PRT come.NONFIN away
 %eng:	I think that what's... the plan is that that roof is coming off.
 *GUT:	yeah@s:cym&eng . 892624_893181
@@ -1139,7 +1139,7 @@
 %gls:	and and PRT go.NONFIN PRT higher
 %eng:	...and is going to be higher.
 *GUT:	mmm@s:cym&eng . 896606_897152
-*NER:	a to newydd yn # cael ei roid yn ei le fo . 897535_899486
+*NER:	a to newydd yn (.) cael ei roid yn ei le fo . 897535_899486
 %gls:	and roof new PRT get.NONFIN POSS.3S put.NONFIN in POSS.3SM place PRON.3SM
 %eng:	and a new roof is being put in its place.
 *NER:	dyna (y)dy (y)r plan@s:cym&eng gynta . 899520_900740
@@ -1149,7 +1149,7 @@
 %gls:	so be.3S.PRES that PRT get.NONFIN POSS.3SM do.NONFIN end month here
 %eng:	so that's getting done at the end of this month.
 *GUT:	yeah@s:cym&eng . 902428_902858
-*NER:	a wedyn # yn y build_up@s:eng i [?] wedyn # cyn Dolig # mae o mynd i roi bathroom@s:cym&eng newydd i_fewn . 903770_909250
+*NER:	a wedyn (.) yn y build_up@s:eng i [?] wedyn (.) cyn Dolig (.) mae o mynd i roi bathroom@s:cym&eng newydd i_fewn . 903770_909250
 %gls:	and after in DET build_up to after before Christmas be.3S.PRES PRON.3SM go.NONFIN to put.NONFIN bathroom new in
 %eng:	and afterwards... in the build up to then before Christmas he's going to put in a new bathroom.
 *GUT:	oh@s:cym&eng right@s:cym&eng . 910074_910945
@@ -1162,7 +1162,7 @@
 *GUT:	cyn Dolig fydd hyn i_gyd yeah@s:cym&eng ? 915507_916541
 %gls:	before Christmas be.3S.FUT this all yeah
 %eng:	this will all be before Christmas, yeah?
-*NER:	cyn Dolig # yeah@s:cym&eng . 916483_917563
+*NER:	cyn Dolig (.) yeah@s:cym&eng . 916483_917563
 %gls:	before Christmas yeah
 %eng:	before Christmas, yeah.
 *GUT:	well@s:cym&eng ro i hand@s:eng i Bob@s:cym&eng (y)li . 917284_918689
@@ -1172,27 +1172,27 @@
 *NER:	fydd rhaid chdi ! 919165_919745
 %gls:	be.3S.FUT necessity PRON.2S
 %eng:	you'll have to!
-*GUT:	+, bob weekend@s:eng dw i (y)n er@s:cym&eng ## free@s:cym&eng as@s:eng a@s:eng bird@s:eng . 919838_922868
+*GUT:	+, bob weekend@s:eng dw i (y)n er@s:cym&eng (..) free@s:cym&eng as@s:eng a@s:eng bird@s:eng . 919838_922868
 %gls:	every weekend be.1S.PRES PRON.1S PRT IM free as a bird
 %eng:	...every weekend I'm free as a bird.
 *NER:	ie (dy)dy o (ddi)m isio bod yn wneud o +//. 922833_924296
 %gls:	yes be.3S.PRES.NEG PRON.3SM NEG want be.NONFIN PRT do.NONFIN PRON.3SM
 %eng:	yes, he doesn't want to be doing it...
-*NER:	timod # be mae o (y)n gobeithio wneud (y)li +//. 924459_927187
+*NER:	timod (.) be mae o (y)n gobeithio wneud (y)li +//. 924459_927187
 %gls:	know.2S what be.3S.PRES PRON.3SM PRT hope.NONFIN do.NONFIN see.2S.IMPER
 %eng:	you know, what he's hoping to do, see...
-*NER:	mae (y)r # joban nesa s(y) gynno fo &m mae o mynd i gael rywun arall i_fewn i wneud y rhan gynta . 927164_932168
+*NER:	mae (y)r (.) joban nesa s(y) gynno fo &m mae o mynd i gael rywun arall i_fewn i wneud y rhan gynta . 927164_932168
 %gls:	be.3S.PRES DET job next be.PRES.REL with.3SM PRON.3SM be.3S.PRES PRON.3SM go.NONFIN to get.NONFIN someone other in to do.NONFIN DET part first
 %eng:	the next job he's got he's going to get someone else in to do the first bit.
 *GUT:	mmm@s:cym&eng . 932179_932679
-*NER:	achos ## dw i meddwl mae hynna mynd i <safio fo> [//] safio pres iddo fo . 933271_936928
+*NER:	achos (..) dw i meddwl mae hynna mynd i <safio fo> [//] safio pres iddo fo . 933271_936928
 %gls:	because be.1S.PRES PRON.1S think.NONFIN be.3S.PRES that go.NONFIN to save.NONFIN PRON.3SM save.NONFIN money to.3SM PRON.3SM
 %eng:	because I think that's going to save him money.
 *NER:	wedyn mae o mynd i fod efo amser i wneud o adeg hynny (y)li . 936905_939714
 %gls:	then be.3S.PRES PRON.3SM go.NONFIN to be.NONFIN with time to do.NONFIN PRON.3SM time that see.2S.IMPER
 %eng:	then he's going to have time to do it around then, see.
 *GUT:	mmm@s:cym&eng . 939761_940527
-*NER:	ond ## &ɔ: gobeithio fydd di fewn cyn Dolig . 941119_945113
+*NER:	ond (..) &ɔ: gobeithio fydd di fewn cyn Dolig . 941119_945113
 %gls:	but hope.NONFIN be.2S.FUT PRON.2S in before Christmas
 %eng:	but hopefully you'll be in before Christmas.
 *GUT:	oh@s:cym&eng gobeithio de . 944846_945856
@@ -1209,22 +1209,22 @@
 *GUT:	timod <dw (ddi)m> [//] <(dy)dy (ddi)m> [/] <(dy)dy o (ddi)m yn &təm> [//] &dmən [///] dw i (dd)im yn teimlo (y)n +... 949432_952216
 %gls:	know.2S be.1S.PRES NEG be.3S.PRES.NEG NEG be.3S.PRES.NEG PRON.3SM NEG PRT be.1S.PRES PRON.1S NEG PRT feel.NONFIN PRT
 %eng:	you know, I don't... it's not...it's not... I don't feel...
-*GUT:	&i gen i (dd)im yr un hunan_barch # yn byw adre fel ydw i ar hyn o bryd timod . 952402_955845
+*GUT:	&i gen i (dd)im yr un hunan_barch (.) yn byw adre fel ydw i ar hyn o bryd timod . 952402_955845
 %gls:	with.1S PRON.1S NEG DET one self_respect PRT live.NONFIN home like be.1S.PRES PRON.1S on this of time know.2S
 %eng:	I don't have as much self-respect living at home like I am at the moment, you know.
-*NER:	+< na # na na &t na . 954626_956646
+*NER:	+< na (.) na na &t na . 954626_956646
 %gls:	no no no no
 %eng:	no, no, no, no.
 *GUT:	dydw i ddim . 956832_957216
 %gls:	be.1S.PRES.NEG PRON.1S NEG
 %eng:	I don't
-*GUT:	dw (ddi)m yn teimlo (y)n # complete@s:eng (fe)lly . 957216_958910
+*GUT:	dw (ddi)m yn teimlo (y)n (.) complete@s:eng (fe)lly . 957216_958910
 %gls:	be.1S.PRES NEG PRT feel.NONFIN PRT complete thus
 %eng:	I don't feel complete, like.
 *GUT:	neu “cyflawn” (y)dy (y)r gair Cymraeg de . 959142_960501
 %gls:	or complete be.3S.PRES DET word Welsh TAG
 %eng:	or "cyflawn" is the Welsh word, isn't it.
-*NER:	+< na # na na . 959328_961383
+*NER:	+< na (.) na na . 959328_961383
 %gls:	no no no
 %eng:	no, no, no.
 *GUT:	timod . 961604_961998
@@ -1244,20 +1244,20 @@
 *NER:	(dy)dy o (ddi)m_byd +//. 970230_971066
 %gls:	be.3S.PRES.NEG PRON.3SM nothing
 %eng:	it's nothing...
-*NER:	timod # dim ots chwaith nac (y)dy . 971066_972935
+*NER:	timod (.) dim ots chwaith nac (y)dy . 971066_972935
 %gls:	know.2S NEG odds either NEG be.3S.PRES
 %eng:	you know, it doesn't matter either, does it.
-*NER:	ond [/] ond na # well@s:cym&eng y [/] y sefyllfa sy mwy anodd anyway@s:eng de . 972970_976255
+*NER:	ond [/] ond na (.) well@s:cym&eng y [/] y sefyllfa sy mwy anodd anyway@s:eng de . 972970_976255
 %gls:	but but no well DET DET situation be.PRES.REL more difficult anyway TAG
 %eng:	but no, well, it's the situation which is more difficult, isn't it.
 *GUT:	yeah@s:cym&eng . 976267_976882
 *NER:	so@s:cym&eng na [/] na <fydd o (y)n> [/] <fydd o (y)n> [/] fydd o nice@s:cym&eng . 976906_979437
 %gls:	so no no be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT nice
 %eng:	so, no, it'll be nice.
-*GUT:	a wedyn <fydd ti> [?] xx fydd [/] <fydd di> [//] gei di ddod i_fewn # &n cael [//] mae [//] a [/] a [/] # a [/] a [//] am baned am fwyd efo ni # a chwarae efo Anna@s:cym&eng . 979413_988285
+*GUT:	a wedyn <fydd ti> [?] xx fydd [/] <fydd di> [//] gei di ddod i_fewn (.) &n cael [//] mae [//] a [/] a [/] (.) a [/] a [//] am baned am fwyd efo ni (.) a chwarae efo Anna@s:cym&eng . 979413_988285
 %gls:	and then be.2S.FUT PRON.2S xx be.2S.FUT be.2S.FUT PRON.2S get.2S.NONPAST PRON.2S come.NONFIN in get.NONFIN be.3S.PRES and and and and for hot_drink for food with PRON.1PL and play.NONFIN with Anna
 %eng:	and then you'll... you can come in [...] for a drink, for food with us, and play with Anna.
-*GUT:	well@s:cym&eng na [/] na <fydda i> [/] # fydda i (y)n hollol annibynnol . 987356_989980
+*GUT:	well@s:cym&eng na [/] na <fydda i> [/] (.) fydda i (y)n hollol annibynnol . 987356_989980
 %gls:	well no no be.1S.FUT PRON.1S be.1S.FUT PRON.1S PRT total independent
 %eng:	well no, I'll be totally independent.
 *NER:	+< na weithiau ! 988379_989226
@@ -1279,7 +1279,7 @@
 %gls:	but get.2PL.NONPAST PRON.2PL POSS.2PL food in place here and get.1S.NONPAST PRON.1S food.POSSD.1S in place there TAG
 %eng:	but you'll have your food here, and I'll have my food there, isn't it.
 *NER:	+< oh@s:cym&eng yeah@s:cym&eng sure@s:cym&eng . 996029_997039
-*GUT:	a mae (y)n iawn mi # invite_io@s:eng+cym Chris@s:cym&eng neu rywun round@s:cym&eng rhyw noson ella ? 997097_1000162
+*GUT:	a mae (y)n iawn mi (.) invite_io@s:eng+cym Chris@s:cym&eng neu rywun round@s:cym&eng rhyw noson ella ? 997097_1000162
 %gls:	and be.3S.PRES PRT alright PRON.1S invite.NONFIN Chris or someone round some night maybe
 %eng:	and it's alright for me to invite Chris or someone round some night, maybe?
 *NER:	well@s:cym&eng yndy sure@s:cym&eng ! 1000605_1001290
@@ -1345,11 +1345,11 @@
 %eng:	yes.
 *GUT:	o_k@s:cym&eng tara@s:cym&eng . 1035630_1036617
 *GUT:	tara@s:cym&eng . 1037081_1037464
-*GUT:	yeah@s:cym&eng # so@s:cym&eng +... 1039589_1041435
+*GUT:	yeah@s:cym&eng (.) so@s:cym&eng +... 1039589_1041435
 *NER:	be Adrian@s:cym&eng oedd hwnna ? 1041562_1042514
 %gls:	what Adrian be.3S.IMP that
 %eng:	what, was that Adrian?
-*GUT:	na # Papa@s:cym&eng ## hwnna # father@s:eng dear@s:cym&eng ## Dad@s:cym&eng ! 1043269_1048935
+*GUT:	na (.) Papa@s:cym&eng (..) hwnna (.) father@s:eng dear@s:cym&eng (..) Dad@s:cym&eng ! 1043269_1048935
 %gls:	no Papa that father dear Dad
 %eng:	no, Papa, that was... father dear... Dad!
 *NER:	oedd o (y)n gwybod bod xxx ddim yn sure@s:cym&eng oedda chdi deud xxx . 1049213_1052035
@@ -1380,7 +1380,7 @@
 %eng:	so what else can we talk about?
 *NER:	um@s:cym&eng Anna@s:cym&eng ? 1064645_1065759
 *GUT:	well@s:cym&eng +... 1067456_1068443
-*GUT:	fedran ni siarad am An(na)@s:cym&eng [/] Anna@s:cym&eng till@s:eng the@s:eng cows@s:eng come@s:eng home@s:eng ## xxx . 1069615_1073087
+*GUT:	fedran ni siarad am An(na)@s:cym&eng [/] Anna@s:cym&eng till@s:eng the@s:eng cows@s:eng come@s:eng home@s:eng (..) xxx . 1069615_1073087
 %gls:	can.1PL.NONPAST PRON.1PL talk.NONFIN about Anna Anna till the cows come home xx
 %eng:	we could talk about Anna till the cows come home, [..] .
 *GUT:	(oe)s (y)na rywbeth arall ? 1074944_1076198
@@ -1396,7 +1396,7 @@
 *GUT:	ugain munud ? 1087947_1088667
 %gls:	twenty minute
 %eng:	20 minutes?
-*NER:	well@s:cym&eng # dros [/] dros dw i meddwl . 1088969_1091349
+*NER:	well@s:cym&eng (.) dros [/] dros dw i meddwl . 1088969_1091349
 %gls:	well over over be.1S.PRES PRON.1S think.NONFIN
 %eng:	well, more I think.
 *GUT:	+< oh@s:cym&eng mae (y)na ugain munud (we)di pasio de oh@s:cym&eng . 1089561_1090885
@@ -1408,10 +1408,10 @@
 *NER:	&=laugh diolch yn fawr Guto@s:cym&eng &=laugh ! 1092545_1094437
 %gls:	thanks PRT big Guto
 %eng:	thanks very much, Guto!
-*GUT:	um@s:cym&eng ## (ga)d [?] i mi feddwl . 1094623_1096875
+*GUT:	um@s:cym&eng (..) (ga)d [?] i mi feddwl . 1094623_1096875
 %gls:	IM leave.2S.IMPER to PRON.1S think.NONFIN
 %eng:	um... let me think.
-*GUT:	<be sy> [?] [///] (ryw)beth ddiddorol sy digwydd i mi # ddiweddar (y)ma ? 1096887_1099093
+*GUT:	<be sy> [?] [///] (ryw)beth ddiddorol sy digwydd i mi (.) ddiweddar (y)ma ? 1096887_1099093
 %gls:	what be.PRES.REL something interesting be.PRES.REL happen.NONFIN to PRON.1S recent here
 %eng:	something interesting that's happened to me lately?
 *GUT:	well@s:cym&eng dw i dal yn young@s:eng free@s:eng and@s:eng single@s:eng de [?] . 1100456_1102128
@@ -1461,7 +1461,7 @@
 *GUT:	yeah@s:cym&eng dw i gwybod . 1116662_1117115
 %gls:	yeah be.1S.PRES PRON.1S know.NONFIN
 %eng:	yeah, I know.
-*GUT:	mae (y)n embarrassing@s:eng (y)ndy # huh@s:cym&eng ? 1117115_1118322
+*GUT:	mae (y)n embarrassing@s:eng (y)ndy (.) huh@s:cym&eng ? 1117115_1118322
 %gls:	be.3S.PRES PRT embarrassing be.3S.PRES IM
 %eng:	it's embarassing, isn't it, eh?
 *NER:	oh@s:cym&eng na(g) (y)dy [?] . 1118369_1119112
@@ -1479,7 +1479,7 @@
 *GUT:	+< dw (ddi)m gwybod . 1123083_1123396
 %gls:	be.1S.PRES NEG know.NONFIN
 %eng:	I don't know.
-*GUT:	(dy)dy [/] <(dy)dy (y)r um@s:cym&eng> [/] # (dy)dy (y)r <oomph@s:cym&eng (dd)im gynno fi dim mwy> [?] de . 1123384_1125706
+*GUT:	(dy)dy [/] <(dy)dy (y)r um@s:cym&eng> [/] (.) (dy)dy (y)r <oomph@s:cym&eng (dd)im gynno fi dim mwy> [?] de . 1123384_1125706
 %gls:	be.3S.PRES.NEG be.3S.PRES.NEG DET IM be.3S.PRES.NEG DET oomph NEG with.1S PRON.1S NEG more TAG
 %eng:	I haven't got the oomph any more, no.
 *GUT:	dw (ddi)m gwybod . 1126032_1126566
@@ -1502,13 +1502,13 @@
 *GUT:	+< oedd (y)na ferched nice@s:cym&eng yn coleg . 1134778_1135754
 %gls:	be.3S.IMP there women nice in college
 %eng:	there were some nice women at college.
-*GUT:	ond # ti gwybod sut maen nhw gyd . 1135730_1137333
+*GUT:	ond (.) ti gwybod sut maen nhw gyd . 1135730_1137333
 %gls:	but PRON.2S know.NONFIN how be.3PL.PRES PRON.3PL all
 %eng:	but you know the way they all are.
 *GUT:	timod pawb mor i_fewn [?] i gwaith . 1138714_1140270
 %gls:	know.2S everyone so in to work
 %eng:	you know, everyone so into their work.
-*GUT:	ti (dd)im yn # meddwl am bethau felly tibod . 1140247_1142418
+*GUT:	ti (dd)im yn (.) meddwl am bethau felly tibod . 1140247_1142418
 %gls:	PRON.2S NEG PRT think.NONFIN about things thus know.2S
 %eng:	you don't think about those kind of things, you know.
 *NER:	na . 1143265_1144217
@@ -1574,13 +1574,13 @@
 *NER:	a pawb yn chwilio . 1170618_1171442
 %gls:	and everyone PRT search.NONFIN
 %eng:	and everyone's looking.
-*NER:	a <mae (y)n> [/] mae (y)n hawdd # adeg hynny . 1171431_1173532
+*NER:	a <mae (y)n> [/] mae (y)n hawdd (.) adeg hynny . 1171431_1173532
 %gls:	and be.3S.PRES PRT be.3S.PRES PRT easy time that
 %eng:	and it's easy at that stage.
 *NER:	rwyt ti (y)n cyfar(fod) +//. 1173544_1174182
 %gls:	be.2S.PRES PRON.2S PRT meet.NONFIN
 %eng:	you're meeting...
-*NER:	<mae o> [/] mae o (y)n kind@s:eng of@s:eng er@s:cym&eng # unspoken@s:eng rule@s:eng . 1174182_1176760
+*NER:	<mae o> [/] mae o (y)n kind@s:eng of@s:eng er@s:cym&eng (.) unspoken@s:eng rule@s:eng . 1174182_1176760
 %gls:	be.3S.PRES PRON.3SM be.3S.PRES PRON.3SM PRT kind of IM unspoken rule
 %eng:	it's kind of an unspoken rule.
 *NER:	(dy)na o . 1176748_1177135
@@ -1596,12 +1596,12 @@
 *NER:	<argoel mae hann(er)> [?] +//. 1178586_1179236
 %gls:	lord be.3S.PRES half
 %eng:	God, half...
-*NER:	&mə &rə timod pan ti (y)n dy: # &n approaching@s:eng [//] well@s:cym&eng # +/. 1179225_1183091
+*NER:	&mə &rə timod pan ti (y)n dy: (.) &n approaching@s:eng [//] well@s:cym&eng (.) +/. 1179225_1183091
 %gls:	know.2S when PRON.2S in POSS.2S approaching well
 %eng:	you know, when you're in your... approaching... well...
 *GUT:	yeah@s:cym&eng yeah@s:cym&eng less@s:eng said@s:eng the@s:eng better@s:eng ! 1183195_1184426
 *NER:	+< yeah@s:cym&eng &=laugh ! 1183636_1185041
-*NER:	mae [//] tibod mae rhan fwya o bobl # <neu lot@s:cym&eng> [/] neu lot@s:cym&eng dim rhan fwya [///] mae lot@s:cym&eng wedi priodi do ? 1185796_1191589
+*NER:	mae [//] tibod mae rhan fwya o bobl (.) <neu lot@s:cym&eng> [/] neu lot@s:cym&eng dim rhan fwya [///] mae lot@s:cym&eng wedi priodi do ? 1185796_1191589
 %gls:	be.3S.PRES know.2S be.3S.PRES part biggest of people or lot or lot NEG part biggest be.3S.PRES lot PRT.PAST marry.NONFIN yes
 %eng:	you know, most people... or a lot, not most... a lot of people have got married, haven't they?
 *NER:	mae lot@s:cym&eng wedi priodi neu efo rywun . 1191578_1193308
@@ -1611,27 +1611,27 @@
 %gls:	yes
 %eng:	yes.
 *GUT:	yeah@s:cym&eng . 1193435_1193737
-*NER:	a wedyn # tydy o +//. 1193644_1194457
+*NER:	a wedyn (.) tydy o +//. 1193644_1194457
 %gls:	and after be.3S.PRES.NEG PRON.3SM
 %eng:	and then, it's not...
 *NER:	dw i (y)n nabod loa(ds)@s:eng [?] +//. 1194480_1195467
 %gls:	be.1S.PRES PRON.1S PRT know.NONFIN loads
 %eng:	I know loads...
-*NER:	timod Bridget@s:cym&eng um@s:cym&eng godmother@s:eng # Anna@s:cym&eng o Chepstow@s:eng ? 1195498_1199074
+*NER:	timod Bridget@s:cym&eng um@s:cym&eng godmother@s:eng (.) Anna@s:cym&eng o Chepstow@s:eng ? 1195498_1199074
 %gls:	know.2S Bridget IM godmother Anna from Chepstow
 %eng:	you know Bridget, Anna's godmother, from Chepstow?
 *GUT:	+< yeah@s:cym&eng yeah@s:cym&eng . 1198401_1199597
-*NER:	brawd hi iawn ## brawd hi <oedd o> [//] mae o <rywbeth tebyg i oed> [/] # rywbeth tebyg i oed fi dw meddwl . 1199624_1207496
+*NER:	brawd hi iawn (..) brawd hi <oedd o> [//] mae o <rywbeth tebyg i oed> [/] (.) rywbeth tebyg i oed fi dw meddwl . 1199624_1207496
 %gls:	brother PRON.3SF right brother PRON.3SF be.3S.IMP PRON.3SM be.3S.PRES PRON.3SM something similar to age something similar to age PRON.1S be.1S.PRES think.NONFIN
 %eng:	her brother, right, her brother, he was... he is roughly my age I think.
 *GUT:	yeah@s:cym&eng . 1207484_1207856
-*NER:	ac oedd o (we)di bod yn # &s sengl # am oes . 1207856_1211327
+*NER:	ac oedd o (we)di bod yn (.) &s sengl (.) am oes . 1207856_1211327
 %gls:	and be.3S.IMP PRON.3SM PRT.PAST be.NONFIN PRT single for age
 %eng:	and he'd been single for ages.
 *GUT:	sengl yeah@s:cym&eng . 1211420_1212419
 %gls:	single yeah
 %eng:	single, yeah.
-*NER:	am oes # yn_de ? 1212616_1214334
+*NER:	am oes (.) yn_de ? 1212616_1214334
 %gls:	for age TAG
 %eng:	for ages, right?
 *GUT:	+< yeah@s:cym&eng . 1213823_1214056
@@ -1647,7 +1647,7 @@
 *NER:	dw i [///] gynno fi (y)r um@s:cym&eng website@s:eng address@s:eng actually@s:eng i chdi &=laugh ! 1221023_1223705
 %gls:	be.1S.PRES PRON.1S with.1S PRON.1S DET IM website address actually for PRON.2S
 %eng:	I've got the website address actually, for you!
-*GUT:	+< oh@s:cym&eng na # na ! 1223323_1225007
+*GUT:	+< oh@s:cym&eng na (.) na ! 1223323_1225007
 %gls:	IM no no
 %eng:	oh, no, no!
 *NER:	yeah@s:cym&eng gwranda ! 1224216_1225180
@@ -1656,10 +1656,10 @@
 *NER:	gwranda ! 1225040_1225934
 %gls:	listen.2S.IMPER
 %eng:	listen!
-*NER:	anyway@s:eng # so@s:cym&eng dyma fo (y)n cyfarfod hi . 1225993_1227955
+*NER:	anyway@s:eng (.) so@s:cym&eng dyma fo (y)n cyfarfod hi . 1225993_1227955
 %gls:	anyway so here PRON.3SM PRT meet.NONFIN PRON.3SF
 %eng:	anyway, so then he met her.
-*NER:	oedd hi o [/] # o (y)r Alban . 1227955_1229952
+*NER:	oedd hi o [/] (.) o (y)r Alban . 1227955_1229952
 %gls:	be.3S.IMP PRON.3SF from from DET Scotland
 %eng:	she was from Scotland.
 *GUT:	ia . 1230033_1230532
@@ -1681,7 +1681,7 @@
 *NER:	a mi oedd hi yn +... 1235925_1237516
 %gls:	and PRT be.3S.IMP PRON.3SF PRT
 %eng:	and she was...
-*NER:	anyway@s:eng &s &ədə <dyma nhw (y)n &kə> [///] ar_ôl [//] # dwn i (ddi)m am [///] ar_ôl [/] ar_ôl hyn a hyn o amser dyma nhw (y)n cyfarfod . 1238131_1244029
+*NER:	anyway@s:eng &s &ədə <dyma nhw (y)n &kə> [///] ar_ôl [//] (.) dwn i (ddi)m am [///] ar_ôl [/] ar_ôl hyn a hyn o amser dyma nhw (y)n cyfarfod . 1238131_1244029
 %gls:	anyway here PRON.3PL PRT after know.1S.NONPAST.NEG PRON.1S NEG for after after this and this of time here PRON.3PL PRT meet.NONFIN
 %eng:	anyway, they... after (I don't know) after such and such a time they met.
 *NER:	a mi wnaethon nhw ddechrau mynd +//. 1244033_1244880
@@ -1698,7 +1698,7 @@
 *NER:	maen [=? (dy)ma] nhw (y)n priodi . 1251718_1252542
 %gls:	be.3PL.PRES PRON.3PL PRT marry.NONFIN
 %eng:	they're getting married.
-*NER:	um@s:cym&eng # boy@s:cym&eng # dw i (y)n nabod i_fyny (y)r lôn yn f(an) yma # de ? 1252960_1257697
+*NER:	um@s:cym&eng (.) boy@s:cym&eng (.) dw i (y)n nabod i_fyny (y)r lôn yn f(an) yma (.) de ? 1252960_1257697
 %gls:	IM boy be.1S.PRES PRON.1S PRT know.NONFIN up DET lane in place here TAG
 %eng:	um, a bloke I know up the road here, right?
 *GUT:	ia . 1257372_1257790
@@ -1785,7 +1785,7 @@
 *NER:	(dy)dy [?] [/] <(dy)dy o ddim yn am bod yn> [//] (dy)dy o ddim +/. 1288219_1290390
 %gls:	be.3S.PRES.NEG be.3S.PRES.NEG PRON.3SM NEG PRT about be.NONFIN PRT be.3S.PRES.NEG PRON.3SM NEG
 %eng:	it's not about being... it's not...
-*GUT:	in@s:eng fact@s:eng de (ba)swn i right@s:cym&eng fodlon de # bod ar ben yn hun am weddill yn oes . 1289996_1293235
+*GUT:	in@s:eng fact@s:eng de (ba)swn i right@s:cym&eng fodlon de (.) bod ar ben yn hun am weddill yn oes . 1289996_1293235
 %gls:	in fact TAG be.1S.CONDIT PRON.1S right willing TAG be.NONFIN on head POSS.1S self for remainder POSS.1S age
 %eng:	in fact, right, I'd be quite willing, right, to be on my own for the rest of my days.
 *NER:	+< mmm@s:cym&eng . 1291935_1292353
@@ -1810,7 +1810,7 @@
 *NER:	rwtsh ! 1299911_1300491
 %gls:	rubbish
 %eng:	rubbish!
-*GUT:	ond y [?] drwg ydy mae pobl yn meddwl bod chi (y)n odd@s:cym&eng # os ti ar ben dy hun (fe)lly yn yr oes hon . 1300216_1304094
+*GUT:	ond y [?] drwg ydy mae pobl yn meddwl bod chi (y)n odd@s:cym&eng (.) os ti ar ben dy hun (fe)lly yn yr oes hon . 1300216_1304094
 %gls:	but DET bad be.3S.PRES be.3S.PRES people PRT think.NONFIN be.NONFIN PRON.2PL PRT odd if PRON.2S on head POSS.2S self thus in DET age this
 %eng:	but the problem is people think you're weird if you're on your own, like, these days.
 *NER:	ti (we)di darllen &prɨ +/. 1304097_1304748
@@ -1834,10 +1834,10 @@
 %gls:	anyway anyway talk.NONFIN about something other
 %eng:	anyway, talk about something else.
 *NER:	&=laugh ! 1314481_1315781
-*NER:	(ba)set ti # isio xx +//. 1317806_1319165
+*NER:	(ba)set ti (.) isio xx +//. 1317806_1319165
 %gls:	be.2S.CONDIT PRON.2S want xx
 %eng:	you'd want [..] ...
-*NER:	well@s:cym&eng # dw i meddwl dyla chdi . 1319141_1321278
+*NER:	well@s:cym&eng (.) dw i meddwl dyla chdi . 1319141_1321278
 %gls:	well be.1S.PRES PRON.1S think.NONFIN should.2S.CONDIT PRON.2S
 %eng:	well, I think you should.
 *GUT:	yeah@s:cym&eng . 1321364_1321782
@@ -1850,7 +1850,7 @@
 *GUT:	na dan ni (y)n iawn (dy)dan . 1323906_1324812
 %gls:	no be.1PL.PRES PRON.1PL PRT right be.1PL.PRES.NEG
 %eng:	no, we're okay, aren't we.
-*NER:	xxx # do sure@s:cym&eng . 1325288_1326519
+*NER:	xxx (.) do sure@s:cym&eng . 1325288_1326519
 %gls:	xxx yes sure
 %eng:	[...] , of course.
 *GUT:	anyway@s:eng um@s:cym&eng +... 1326832_1328992
@@ -1866,7 +1866,7 @@
 %gls:	PRON.2S NEG PRT be.NONFIN to say.NONFIN that
 %eng:	you're not supposed to say that.
 *GUT:	um@s:cym&eng +... 1339699_1340233
-*NER:	um@s:cym&eng # mae +//. 1340082_1341167
+*NER:	um@s:cym&eng (.) mae +//. 1340082_1341167
 %gls:	IM be.3S.PRES
 %eng:	um, it...
 *NER:	well@s:cym&eng dw (ddi)m yn gwybod . 1341155_1341898
@@ -1875,20 +1875,20 @@
 *NER:	mae well de . 1341898_1342606
 %gls:	be.3S.PRES better TAG
 %eng:	it's better, right.
-*NER:	mae (y)r ## dehumidifier@s:eng (y)na on@s:eng # wastad . 1342606_1345451
+*NER:	mae (y)r (..) dehumidifier@s:eng (y)na on@s:eng (.) wastad . 1342606_1345451
 %gls:	be.3S.PRES DET dehumidifier there on always
 %eng:	that dehumidifier's on all the time.
-*NER:	um@s:cym&eng &ɔ <oedd um@s:cym&eng> [/] # oedd mam@s:cym&eng Carol@s:cym&eng (we)di bod efo problem@s:cym&eng # er@s:cym&eng # tamprwydd . 1345431_1351770
+*NER:	um@s:cym&eng &ɔ <oedd um@s:cym&eng> [/] (.) oedd mam@s:cym&eng Carol@s:cym&eng (we)di bod efo problem@s:cym&eng (.) er@s:cym&eng (.) tamprwydd . 1345431_1351770
 %gls:	IM be.3S.IMP IM be.3S.IMP mother Carol PRT.PAST be.NONFIN with problem IM dampness
 %eng:	um, Carol's mother had had a problem, er, with damp.
 *GUT:	yeah@s:cym&eng . 1351909_1352269
-*NER:	a <oedd hi> [/] oedd hi (y)n deu(d) (wr)tha fi &=stutter os mae o seventy_five@s:eng percent@s:eng ## <neu &s er@s:cym&eng> [//] neu i_fyny humidity@s:eng &m <mae o (y)n &ri> [//] hwnna [//] # mae drwg (fe)lly . 1352129_1361547
+*NER:	a <oedd hi> [/] oedd hi (y)n deu(d) (wr)tha fi &=stutter os mae o seventy_five@s:eng percent@s:eng (..) <neu &s er@s:cym&eng> [//] neu i_fyny humidity@s:eng &m <mae o (y)n &ri> [//] hwnna [//] (.) mae drwg (fe)lly . 1352129_1361547
 %gls:	and be.3S.IMP PRON.3SF be.3S.IMP PRON.3SF PRT say.NONFIN to.1S PRON.1S if be.3S.PRES PRON.3SM seventy_five percent or IM or up humidity be.3S.PRES PRON.3SM PRT that be.3S.PRES bad thus
 %eng:	and she was telling me, if it's 75% or more, humidity, then that's bad.
 *GUT:	ia . 1361582_1362046
 %gls:	yes
 %eng:	yes.
-*NER:	a pan wnaethon ni sticio (y)r thing@s:eng on@s:eng am y tro cynta oedd hi (y)n ## um@s:cym&eng # dros eighty@s:eng ## percent@s:eng humidity@s:eng sy (y)n +//. 1362094_1371556
+*NER:	a pan wnaethon ni sticio (y)r thing@s:eng on@s:eng am y tro cynta oedd hi (y)n (..) um@s:cym&eng (.) dros eighty@s:eng (..) percent@s:eng humidity@s:eng sy (y)n +//. 1362094_1371556
 %gls:	and when do.1PL.PAST PRON.1PL stick.NONFIN DET thing on for DET turn first be.3S.IMP PRON.3SF PRT IM over eighty percent humidity be.PRES.REL PRT
 %eng:	and when we stuck the thing on for the first time it was over 80% humidity, which is...
 *GUT:	+< ia . 1364363_1364955
@@ -1914,7 +1914,7 @@
 *NER:	really@s:eng [?] gawn ni weld . 1380653_1381605
 %gls:	really get.1PL.NONPAST PRON.1PL see.NONFIN
 %eng:	really, we'll see.
-*GUT:	ti meddwl bod o (y)n creu yr annwyd yma # fath â +... 1381350_1383348
+*GUT:	ti meddwl bod o (y)n creu yr annwyd yma (.) fath â +... 1381350_1383348
 %gls:	PRON.2S think.NONFIN be.NONFIN PRON.3SM PRT create.NONFIN DET cold here kind with
 %eng:	do you think it's causing this cold, like..?
 *NER:	oh@s:cym&eng dw (ddi)m yn gwybod . 1383730_1384682
@@ -1936,7 +1936,7 @@
 *GUT:	+< na . 1392984_1393693
 %gls:	no
 %eng:	no
-*NER:	ac ers [//] ## well@s:cym&eng ers +/. 1393217_1394935
+*NER:	ac ers [//] (..) well@s:cym&eng ers +/. 1393217_1394935
 %gls:	and since well since
 %eng:	and since...
 *GUT:	(y)dy o (y)n wneud gwahaniaeth ti meddwl ? 1394447_1395202
@@ -1958,7 +1958,7 @@
 *NER:	oh@s:cym&eng sure@s:cym&eng iawn bod o os mae o (w)edi mynd o eighty_five@s:eng i sixty@s:eng . 1402098_1404711
 %gls:	IM sure very be.NONFIN PRON.3SM if be.3S.PRES PRON.3SM PRT.PAST go.NONFIN from eighty_five to sixty
 %eng:	oh, certainly it has, if it's gone from 85 to 60 .
-*GUT:	yeah@s:cym&eng yeah@s:cym&eng ond ## (y)dy [/] (y)dy o deimlo wahanol (fe)lly yn y tŷ ? 1404711_1407880
+*GUT:	yeah@s:cym&eng yeah@s:cym&eng ond (..) (y)dy [/] (y)dy o deimlo wahanol (fe)lly yn y tŷ ? 1404711_1407880
 %gls:	yeah yeah but be.3S.PRES be.3S.PRES PRON.3SM feel.NONFIN different thus in DET house
 %eng:	yeah, yeah but does it feel different, like, in the house?
 *NER:	oh@s:cym&eng dw (ddi)m yn amau . 1407857_1409018
@@ -1974,7 +1974,7 @@
 *NER:	(a)chos <oedd o> [?] [///] mae o (we)di bod yn iawn yn (y)r ha . 1414370_1416460
 %gls:	because be.3S.IMP PRON.3SM be.3S.PRES PRON.3SM PRT.PAST be.NONFIN PRT right in DET summer
 %eng:	because... it was... it's been alright in the summer.
-*NER:	ond (we)dyn efo (y)r glaw mawr (y)ma &m mae [/] mae (y)r dŵr yn rhedeg # o_dan y tai (y)li . 1416553_1421708
+*NER:	ond (we)dyn efo (y)r glaw mawr (y)ma &m mae [/] mae (y)r dŵr yn rhedeg (.) o_dan y tai (y)li . 1416553_1421708
 %gls:	but then with DET rain big here be.3S.PRES be.3S.PRES DET water PRT run.NONFIN under DET houses see.2S.IMPER
 %eng:	but with this heavy rain, the water runs underneath the houses, see.
 *NER:	mae (y)na (fa)th â gullies@s:cym&eng . 1421824_1423020
@@ -1985,13 +1985,13 @@
 %eng:	yeah, Bob was saying about this, yeah.
 *NER:	+< yeah@s:cym&eng . 1423321_1423646
 *GUT:	yeah@s:cym&eng . 1423739_1424262
-*NER:	a wedyn # dw i meddwl # mae o just@s:cym&eng rhedeg +//. 1424389_1427420
+*NER:	a wedyn (.) dw i meddwl (.) mae o just@s:cym&eng rhedeg +//. 1424389_1427420
 %gls:	and then be.1S.PRES PRON.1S think.NONFIN be.3S.PRES PRON.3SM just run.NONFIN
 %eng:	and then, I think it just runs...
 *NER:	mae Diane@s:cym&eng <yn gael> [//] drws nesa yn xxx cael (y)r un trafferth . 1427420_1429428
 %gls:	be.3S.PRES Diane PRT get.NONFIN noor next PRT xxx get.NONFIN DET one trouble
 %eng:	Diane next door hast the same problem.
-*NER:	wedyn <rydw i sure@s:cym&eng bod o> [/] ## dw i sure@s:cym&eng bod o (y)n helpu . 1429417_1432807
+*NER:	wedyn <rydw i sure@s:cym&eng bod o> [/] (..) dw i sure@s:cym&eng bod o (y)n helpu . 1429417_1432807
 %gls:	then be.1S.PRES PRON.1S sure be.NONFIN PRON.3SM be.1S.PRES PRON.1S sure be.NONFIN PRON.3SM PRT help.NONFIN
 %eng:	so I'm sure it does help.
 *GUT:	mmm@s:cym&eng . 1432865_1433318
@@ -2004,7 +2004,7 @@
 *NER:	(e)fallai na just@s:cym&eng fluke@s:cym&eng (y)dy o yn_de . 1437613_1438937
 %gls:	perhaps PRT just fluke be.3S.PRES PRON.3SM TAG
 %eng:	perhaps it's just a fluke, right.
-*NER:	ond ers bod ni nôl o Florence@s:cym&eng # timod <tydy (ddi)m> [/] tydy (ddi)m (we)di cael annwyd . 1438902_1443082
+*NER:	ond ers bod ni nôl o Florence@s:cym&eng (.) timod <tydy (ddi)m> [/] tydy (ddi)m (we)di cael annwyd . 1438902_1443082
 %gls:	but since be.NONFIN PRON.1PL back from Florence know.2S be.3S.PRES.NEG NEG be.3S.PRES.NEG NEG PRT.PAST get.NONFIN cold
 %eng:	but since we got back from Florence, you know, she's not had a cold.
 *GUT:	+< ia . 1441804_1442130
@@ -2030,7 +2030,7 @@
 %gls:	no xxx from one cold to DET other TAG through DET winter
 %eng:	no, [...] from one cold to another, right, all winter.
 *GUT:	yeah@s:cym&eng . 1453368_1453914
-*NER:	ond um@s:cym&eng # er@s:cym&eng dw [/] dw (ddi)m (y)n gwybod . 1454517_1457989
+*NER:	ond um@s:cym&eng (.) er@s:cym&eng dw [/] dw (ddi)m (y)n gwybod . 1454517_1457989
 %gls:	but IM IM be.1S.PRES be.1S.PRES NEG PRT know.NONFIN
 %eng:	but, er... I don't know.
 *GUT:	yeah@s:cym&eng . 1458501_1458966
@@ -2044,7 +2044,7 @@
 *NER:	<gawn ni weld> [?] . 1462082_1462373
 %gls:	get.1PL.NONPAST PRON.1PL see.NONFIN
 %eng:	we'll see.
-*NER:	<dw (ddi)m> [/] <dw (ddi)m> [//] <dan ni meddwl> [/] dan ni meddwl symud anyway@s:eng # yn y +/. 1462361_1465003
+*NER:	<dw (ddi)m> [/] <dw (ddi)m> [//] <dan ni meddwl> [/] dan ni meddwl symud anyway@s:eng (.) yn y +/. 1462361_1465003
 %gls:	be.1S.PRES NEG be.1S.PRES NEG be.1PL.PRES PRON.1PL think.NONFIN be.1PL.PRES PRON.1PL think.NONFIN move.NONFIN anyway in DET
 %eng:	we're thinking of moving anyway, in the...
 *GUT:	nac (y)dach ! 1464840_1465734
@@ -2068,7 +2068,7 @@
 *NER:	+< yeah@s:cym&eng fyddi di (we)di gael gwraig a +/. 1473571_1475405
 %gls:	yeah be.2S.FUT PRON.2S PRT.PAST get.NONFIN wife and
 %eng:	yeah, you'll have got a wife and...
-*GUT:	<ddim yn y> [/] # ddim yn y dyfodol agos . 1474070_1476264
+*GUT:	<ddim yn y> [/] (.) ddim yn y dyfodol agos . 1474070_1476264
 %gls:	NEG in DET NEG in DET future near
 %eng:	not in the near future.
 *NER:	wedi &blə blwyddyn neu ddau . 1476682_1478354
@@ -2089,10 +2089,10 @@
 *NER:	dan ni +//. 1483946_1484399
 %gls:	be.1PL.PRES PRON.1PL
 %eng:	we're...
-*NER:	yndy yndy yndy yndy # yndy . 1484388_1486164
+*NER:	yndy yndy yndy yndy (.) yndy . 1484388_1486164
 %gls:	be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES
 %eng:	yes, yes, yes, yes, it is.
-*NER:	ond na dan ni (we)di cael &aj idea@s:cym&eng &r # da . 1486181_1489455
+*NER:	ond na dan ni (we)di cael &aj idea@s:cym&eng &r (.) da . 1486181_1489455
 %gls:	but no be.1PL.PRES PRON.1PL PRT.PAST get.NONFIN idea good
 %eng:	but no, we've had a good idea.
 *NER:	dan ni mynd i: chwilio am plot:@s:cym&eng +... 1490767_1494807
@@ -2103,7 +2103,7 @@
 %gls:	and IM sides Mynydd_Llandygai
 %eng:	...er, around Mynydd Llandygai...
 *GUT:	yeah@s:cym&eng . 1499068_1499555
-*NER:	+, a ## &mni bildio # tŷ arty_farty@s:eng hefo turret@s:eng . 1500322_1505883
+*NER:	+, a (..) &mni bildio (.) tŷ arty_farty@s:eng hefo turret@s:eng . 1500322_1505883
 %gls:	and build.NONFIN house arty_farty with turret
 %eng:	...and build an arty-farty house with a turret.
 *GUT:	ie . 1506027_1506654
@@ -2119,7 +2119,7 @@
 *NER:	xxx un o (y)r rhesymau mwya dw i isio symud &əw o f(an) yma ydy yr lôn . 1509417_1512947
 %gls:	xxx one of DET reasons biggest be.1S.PRES PRON.1S want move.NONFIN from place here be.3S.PRES DET road
 %eng:	[...] one of the main reasons I want to move from here is the road.
-*NER:	achos pan wnaethon [?] ni symud i_fewn yma # <mae (y)r> [/] mae (y)r um@s:cym&eng # speed@s:cym&eng # thirty@s:eng miles@s:eng an@s:eng hour@s:eng (y)dy o fod de ? 1513337_1520245
+*NER:	achos pan wnaethon [?] ni symud i_fewn yma (.) <mae (y)r> [/] mae (y)r um@s:cym&eng (.) speed@s:cym&eng (.) thirty@s:eng miles@s:eng an@s:eng hour@s:eng (y)dy o fod de ? 1513337_1520245
 %gls:	because when do.1PL.PAST PRON.1PL move.NONFIN in here be.3S.PRES DET be.3S.PRES DET IM speed thirty miles an hour be.3S.PRES PRON.3SM be.NONFIN TAG
 %eng:	because when we moved in here, the speed... it's supposed to be thirty miles an hour, right?
 *GUT:	+< yeah@s:cym&eng . 1513776_1514101
@@ -2164,7 +2164,7 @@
 *NER:	wedyn +/. 1539446_1539980
 %gls:	then
 %eng:	so...
-*GUT:	ydy Bob@s:cym&eng yn # frysur o_hyd ? 1540085_1541663
+*GUT:	ydy Bob@s:cym&eng yn (.) frysur o_hyd ? 1540085_1541663
 %gls:	be.3S.PRES Bob PRT busy still
 %eng:	is Bob still busy?
 *NER:	Argol yndy ! 1542470_1543340
@@ -2179,7 +2179,7 @@
 *NER:	nac (y)dy ! 1545453_1546115
 %gls:	NEG be.3S.PRES
 %eng:	no!
-*GUT:	Argol <bydd rhaid> [?] watsiad # huh@s:cym&eng ? 1546591_1548402
+*GUT:	Argol <bydd rhaid> [?] watsiad (.) huh@s:cym&eng ? 1546591_1548402
 %gls:	Lord be.3S.FUT necessity watch.NONFIN IM
 %eng:	Crikey, have to watch out, eh?
 *NER:	na . 1548971_1549819
@@ -2204,7 +2204,7 @@
 *NER:	ti (dd)im (we)di synnu ? 1556748_1557677
 %gls:	PRON.2S NEG PRT.PAST surprise.NONFIN
 %eng:	you're not surprised?
-*GUT:	na mae(n) [/] maen (y)na rywbeth yn debyg yn y ddau sti ## dw i meddwl . 1557898_1560848
+*GUT:	na mae(n) [/] maen (y)na rywbeth yn debyg yn y ddau sti (..) dw i meddwl . 1557898_1560848
 %gls:	no be.3S.PRES be.3S.PRES there something PRT similar in DET two.M know.2S be.1S.PRES PRON.1S think.NONFIN
 %eng:	no, they're fairly similar, the two of them, you know, I think.
 *NER:	+< &=laugh ! 1559768_1560221
@@ -2237,7 +2237,7 @@
 *GUT:	labrwr (y)dy o ? 1571768_1572360
 %gls:	labourer be.3S.PRES PRON.3SM
 %eng:	is he a labourer?
-*NER:	o:h@s:cym&eng ## personoliaeth # xxx +/. 1572488_1576633
+*NER:	o:h@s:cym&eng (..) personoliaeth (.) xxx +/. 1572488_1576633
 %gls:	IM personality
 %eng:	oh, a [...] personality...
 *GUT:	yeah@s:cym&eng . 1576349_1576651
@@ -2266,12 +2266,12 @@
 %gls:	boy young be.3S.PRES PRON.3SM
 %eng:	is he a young lad?
 *NER:	yeah@s:cym&eng yeah@s:cym&eng . 1586229_1586763
-*NER:	ond oedd Dad@s:cym&eng a fo a Bob@s:cym&eng wedi bod yn cael # whale@s:eng of@s:eng a@s:eng time@s:eng . 1586775_1590467
+*NER:	ond oedd Dad@s:cym&eng a fo a Bob@s:cym&eng wedi bod yn cael (.) whale@s:eng of@s:eng a@s:eng time@s:eng . 1586775_1590467
 %gls:	but be.3S.IMP Dad and PRON.3SM and Bob PRT.PAST be.NONFIN PRT get.NONFIN whale of a time
 %eng:	but Dad and him and Bob had been having a whale of a time.
 *GUT:	yeah@s:cym&eng ? 1590409_1590873
 *NER:	mmm@s:cym&eng . 1591377_1592236
-*NER:	so@s:cym&eng ## Dad@s:cym&eng a Bob@s:cym&eng yn ## hapus iawn efo ei_gilydd . 1592399_1596811
+*NER:	so@s:cym&eng (..) Dad@s:cym&eng a Bob@s:cym&eng yn (..) hapus iawn efo ei_gilydd . 1592399_1596811
 %gls:	so Dad and Bob PRT happy very with each_other
 %eng:	so... Dad and Bob very happy together.
 *NER:	oedd Dad@s:cym&eng yn deud adre ? 1596822_1597960
@@ -2322,7 +2322,7 @@
 *GUT:	well@s:cym&eng ges i ddallt um@s:cym&eng bod rhaid (i)ddi watsiad efo shingles@s:eng . 1619128_1621357
 %gls:	well get.1S.PAST PRON.1S understand.NONFIN IM be.NONFIN necessity PRON.3SF watch.NONFIN with shingles
 %eng:	well, I was given to understand that she has to watch it with shingles.
-*GUT:	(a)chos # mae (y)n beryg i [/] # i +//. 1621380_1623528
+*GUT:	(a)chos (.) mae (y)n beryg i [/] (.) i +//. 1621380_1623528
 %gls:	because be.3S.PRES PRT dangerous to to
 %eng:	because it's dangerous to...
 *GUT:	<(dy)na chdi> [?] Anna@s:cym&eng wan <dydy (dd)im (we)di> [?] gael frech y ieir ydy [?] . 1624086_1625966
@@ -2334,10 +2334,10 @@
 *NER:	yndy mae o (y)n beryg [?] &d dw gwybod . 1626489_1627963
 %gls:	be.3S.PRES be.3S.PRES PRON.3SM PRT dangerous be.1S.PRES know.NONFIN
 %eng:	yes, it is dangerous, I know.
-*GUT:	so@s:cym&eng # (peta)sai (y)n dod i contact@s:eng efo rywun efo shingles@s:eng ## neu i gyswllt efo rywun efo &ʃi shingles@s:eng um@s:cym&eng beryg iddi ddal o (e)i hun tibod ## neu dal rywbeth de . 1627917_1637756
+*GUT:	so@s:cym&eng (.) (peta)sai (y)n dod i contact@s:eng efo rywun efo shingles@s:eng (..) neu i gyswllt efo rywun efo &ʃi shingles@s:eng um@s:cym&eng beryg iddi ddal o (e)i hun tibod (..) neu dal rywbeth de . 1627917_1637756
 %gls:	so if_be.3S.CONDIT PRT come.NONFIN in contact with someone with shingles or in contact with someone with shingles IM danger to.3SF catch.NONFIN PRON.3SM POSS.3S self know.2S or catch.NONFIN something TAG
 %eng:	so if she comes into contact with someone with shingles, or comes into "contact" with someone with shingles, she's in danger of catching it herself, you know, or of catching something, right?
-*GUT:	so@s:cym&eng dw (ddi)m yn gwybod os (y)dy (y)n idea@s:cym&eng dda Mam@s:cym&eng ddod yma # mor fuan â hynna de . 1638110_1640781
+*GUT:	so@s:cym&eng dw (ddi)m yn gwybod os (y)dy (y)n idea@s:cym&eng dda Mam@s:cym&eng ddod yma (.) mor fuan â hynna de . 1638110_1640781
 %gls:	so be.1S.PRES NEG PRT know.NONFIN if be.3S.PRES PRT idea good Mam come.NONFIN here so fast with that TAG
 %eng:	so I don't know whether it's a good idea for Mam to come here so soon, right.
 *GUT:	ella (ba)sai well (i)ddo glirio gynta cyn iddi ddod round@s:cym&eng . 1640967_1643021
@@ -2350,19 +2350,19 @@
 *GUT:	well@s:cym&eng chi sy gwybod orau de . 1649326_1650336
 %gls:	well PRON.2PL be.PRES.REL know.NONFIN best TAG
 %eng:	well, you know best, eh.
-*GUT:	chi (y)dy (y)r ## nurturers@s:eng . 1650324_1653029
+*GUT:	chi (y)dy (y)r (..) nurturers@s:eng . 1650324_1653029
 %gls:	PRON.2PL be.3S.PRES DET nurturers
 %eng:	you're the nurturers.
 *NER:	well@s:cym&eng na hi [/] hi really@s:eng xxx . 1653529_1655386
 %gls:	well no PRON.3SF PRON.3SF really xxx
 %eng:	well, no, it's her really, [...]
-*NER:	<mae (y)r &d> [//] oedd doctor@s:cym&eng (we)di deud os maen nhw (we)di # sychu # i_fyny # y [//] yr [/] yr # be bynnag ydyn nhw # um@s:cym&eng # mae (y)n iawn . 1655367_1664128
+*NER:	<mae (y)r &d> [//] oedd doctor@s:cym&eng (we)di deud os maen nhw (we)di (.) sychu (.) i_fyny (.) y [//] yr [/] yr (.) be bynnag ydyn nhw (.) um@s:cym&eng (.) mae (y)n iawn . 1655367_1664128
 %gls:	be.3S.PRES DET be.3S.IMP doctor PRT.PAST say.NONFIN if be.3PL.PRES PRON.3PL PRT.PAST dry.NONFIN up DET DET DET what ever be.3PL.PRES PRON.3PL IM be.3S.PRES PRT right
 %eng:	the doctor said that if they've dried up, the... whatever they are, um, it's alright.
 *GUT:	+< yeah@s:cym&eng . 1658119_1658595
 *GUT:	+< yeah@s:cym&eng . 1659710_1660116
 *GUT:	+< yeah@s:cym&eng . 1662659_1663367
-*NER:	so@s:cym&eng <mae mynd i> [/] ## mae mynd i ddŵad &m meddai hi . 1664156_1667941
+*NER:	so@s:cym&eng <mae mynd i> [/] (..) mae mynd i ddŵad &m meddai hi . 1664156_1667941
 %gls:	so be.3S.PRES go.NONFIN to be.3S.PRES go.NONFIN to come.NONFIN say.3S.PAST PRON.3SF
 %eng:	so she's going to come, she said.
 *GUT:	+< yeah@s:cym&eng . 1667198_1667558
@@ -2381,10 +2381,10 @@
 *GUT:	nag (y)dy ? 1675546_1676010
 %gls:	NEG be.3S.PRES
 %eng:	isn't it?
-*NER:	nac ydy # thirty_five@s:eng . 1676207_1677601
+*NER:	nac ydy (.) thirty_five@s:eng . 1676207_1677601
 %gls:	NEG be.3S.PRES thirty_five
 %eng:	no, 35 .
-*GUT:	o_k@s:cym&eng # <sticia i> [?] <(y)r er@s:cym&eng> [//] <i (y)r er@s:cym&eng> [/] # i (y)r cytundeb . 1676474_1679609
+*GUT:	o_k@s:cym&eng (.) <sticia i> [?] <(y)r er@s:cym&eng> [//] <i (y)r er@s:cym&eng> [/] (.) i (y)r cytundeb . 1676474_1679609
 %gls:	o_k stick.1S.NONPAST PRON.1S DET IM to DET IM to DET agreement
 %eng:	okay, I'll stick to the agreement.
 *NER:	+< dw i (y)n meddwl . 1679040_1679598
@@ -2409,11 +2409,11 @@
 *NER:	naddo ! 1688177_1688874
 %gls:	no
 %eng:	no!
-*GUT:	dw i (y)n nabod pobl diddorol sti ## <deu(d) (wr)tha chdi> [?] ! 1688433_1690964
+*GUT:	dw i (y)n nabod pobl diddorol sti (..) <deu(d) (wr)tha chdi> [?] ! 1688433_1690964
 %gls:	be.1S.PRES PRON.1S PRT know.NONFIN people interesting know.2S say.NONFIN to.2S PRON.2S
 %eng:	I know some interesting people, you know, telling you!
 *NER:	+< &=laugh ! 1689826_1692322
-*GUT:	so@s:cym&eng # &b be wnawn ni er@s:cym&eng ## weekend@s:eng nesa ta be # efo (y)r &g granny@s:eng annexe@s:eng ? 1694183_1699895
+*GUT:	so@s:cym&eng (.) &b be wnawn ni er@s:cym&eng (..) weekend@s:eng nesa ta be (.) efo (y)r &g granny@s:eng annexe@s:eng ? 1694183_1699895
 %gls:	so what do.1PL.NONPAST PRON.1PL IM weekend next or what with DET granny annexe
 %eng:	so, what shall we do, next weekend or what, with the granny annexe?
 *NER:	oh@s:cym&eng er@s:cym&eng dw (ddi)m yn gwybod . 1700348_1701880
@@ -2432,7 +2432,7 @@
 %gls:	Lord know.2S be.1S.PRES PRON.1S PRT.PAST work.NONFIN with roofs
 %eng:	God, you know, I've worked with roofs!
 *NER:	&=laugh ! 1710019_1711528
-*GUT:	wnes i weithio i Ogwen_Roofing@s:cym&eng am [/] # am flwyddyn . 1710158_1712561
+*GUT:	wnes i weithio i Ogwen_Roofing@s:cym&eng am [/] (.) am flwyddyn . 1710158_1712561
 %gls:	do.1S.PAST PRON.1S work.NONFIN for Ogwen_Roofing for for year
 %eng:	I worked for Ogwen Roofing for a year.
 *NER:	do dw i meddwl bod o (y)n xx +/. 1713095_1714419
@@ -2457,7 +2457,7 @@
 *GUT:	(dy)dy o (ddi)m yn ofn i mi frifo . 1726473_1728389
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT fear to PRON.1S hurt.NONFIN
 %eng:	he's not afraid of me getting hurt.
-*NER:	yndy <ella bod> [?] chdi dipyn bach yn ## xxx <common@s:eng sen(se)@s:cym&eng> [?] +/. 1728557_1732318
+*NER:	yndy <ella bod> [?] chdi dipyn bach yn (..) xxx <common@s:eng sen(se)@s:cym&eng> [?] +/. 1728557_1732318
 %gls:	be.3S.PRES maybe be.NONFIN PRON.2S a_bit little PRT xxx common sense
 %eng:	yes, you might be a little bit [..] common sense...
 *GUT:	+< office@s:cym&eng boy@s:cym&eng (fe)lly ? 1731849_1732615
@@ -2466,7 +2466,7 @@
 *NER:	yeah@s:cym&eng (dy)na chdi yeah@s:cym&eng ! 1732882_1733578
 %gls:	yeah there PRON.2S yeah
 %eng:	yeah, there you are, yeah!
-*GUT:	o:h@s:cym&eng right@s:cym&eng oh@s:cym&eng (y)r working@s:eng class@s:eng er@s:cym&eng grit@s:cym&eng (y)ma yeah@s:cym&eng # ddim gynno fi dim mwy ! 1733381_1738211
+*GUT:	o:h@s:cym&eng right@s:cym&eng oh@s:cym&eng (y)r working@s:eng class@s:eng er@s:cym&eng grit@s:cym&eng (y)ma yeah@s:cym&eng (.) ddim gynno fi dim mwy ! 1733381_1738211
 %gls:	IM right IM DET working class IM grit here yeah NEG with.1S PRON.1S NEG more
 %eng:	oh, right, this working class grit yeah, I've not got it any more!
 *NER:	+< &=laugh ! 1734298_1735715
@@ -2488,7 +2488,7 @@
 *GUT:	a fydda i yma bright@s:eng and@s:eng early@s:eng . 1752294_1753699
 %gls:	and be.1S.FUT PRON.1S here bright and early
 %eng:	and I'll be here bright and early.
-*GUT:	(be)cause@s:eng er@s:cym&eng # dw i (y)n edrych ymlaen cael lle <i fi> [//] bach i fi (y)n hun . 1755707_1758691
+*GUT:	(be)cause@s:eng er@s:cym&eng (.) dw i (y)n edrych ymlaen cael lle <i fi> [//] bach i fi (y)n hun . 1755707_1758691
 %gls:	because IM be.1S.PRES PRON.1S PRT look.NONFIN forward get.NONFIN place to PRON.1S little to PRON.1S POSS.1S self
 %eng:	because I'm looking forward to having a little place to myself.
 *GUT:	a bach [!] fydd o (he)fyd de +!? 1759248_1760351
@@ -2509,11 +2509,11 @@
 *GUT:	well@s:cym&eng fydd (y)na (ddi)m lle <iddyn nhw> [?] na fydd . 1770465_1771951
 %gls:	well be.3S.FUT there NEG place to.3PL PRON.3PL NEG be.3S.FUT
 %eng:	well, there'll be no room for them, will there?
-*NER:	a fydd (y)na wely (y)ma # yn barod i chdi . 1775167_1777663
+*NER:	a fydd (y)na wely (y)ma (.) yn barod i chdi . 1775167_1777663
 %gls:	and be.3S.FUT there bed here PRT ready to PRON.2S
 %eng:	and there'll be a bed here, ready for you.
 *GUT:	+< yeah@s:cym&eng . 1776467_1776920
-*NER:	a: ## nice@s:cym&eng ! 1778441_1781088
+*NER:	a: (..) nice@s:cym&eng ! 1778441_1781088
 %gls:	and nice
 %eng:	and... nice!
 *NER:	mae (y)n lovely@s:eng actually@s:eng . 1781378_1782319
@@ -2528,7 +2528,7 @@
 *GUT:	well@s:cym&eng dw i edrych ymlaen . 1784525_1785535
 %gls:	well be.1S.PRES PRON.1S look.NONFIN forward
 %eng:	well, I'm looking forward to it.
-*GUT:	(be)cause@s:eng er@s:cym&eng ## mae (y)n hen bryd i mi # symud ymlaen ddeud gwir de . 1785709_1789807
+*GUT:	(be)cause@s:eng er@s:cym&eng (..) mae (y)n hen bryd i mi (.) symud ymlaen ddeud gwir de . 1785709_1789807
 %gls:	because IM be.3S.PRES PRT old time to PRON.1S move.NONFIN forward say.NONFIN truth TAG
 %eng:	because it's high time I moved on really, you know.
 *GUT:	Argol dw i <(we)di bod gael> [?] [/] gael yn nal yn_ôl ry hir dw meddwl . 1789981_1792059
@@ -2537,7 +2537,7 @@
 *NER:	gyn pwy ? 1792814_1793348
 %gls:	with who
 %eng:	by who?
-*GUT:	well@s:cym&eng dim gyn neb arbennig just@s:cym&eng &s: ## circumstances@s:eng (fe)lly . 1793360_1798190
+*GUT:	well@s:cym&eng dim gyn neb arbennig just@s:cym&eng &s: (..) circumstances@s:eng (fe)lly . 1793360_1798190
 %gls:	well NEG with nobody special just circumstances thus
 %eng:	well, not by anyone in particular, just circumstances, like.
 *GUT:	felly dw i (y)n teimlo . 1798956_1800128
@@ -2555,7 +2555,7 @@
 *GUT:	dw i +/. 1806084_1806282
 %gls:	be.1S.PRES PRON.1S
 %eng:	I...
-*NER:	hey@s:cym&eng <ti (we)di &m> [//] ti am mynd <am yr um@s:cym&eng> [//] # am y swydd (y)na # yn er@s:cym&eng # +//? 1806131_1811553
+*NER:	hey@s:cym&eng <ti (we)di &m> [//] ti am mynd <am yr um@s:cym&eng> [//] (.) am y swydd (y)na (.) yn er@s:cym&eng (.) +//? 1806131_1811553
 %gls:	hey PRON.2S PRT.PAST PRON.2S for go.NONFIN for DET IM for DET job there in IM
 %eng:	hey, have you... are you going to go for that job in...?
 *NER:	oedda chdi am mynd ryw [//] am ryw swydd arall neu rywbeth ? 1811773_1813793
@@ -2567,14 +2567,14 @@
 *NER:	dw (ddi)m yn gwybod . 1815175_1815813
 %gls:	be.1S.PRES NEG PRT know.NONFIN
 %eng:	I don't know.
-*NER:	efo # child@s:eng # protection@s:cym&eng . 1815825_1819180
+*NER:	efo (.) child@s:eng (.) protection@s:cym&eng . 1815825_1819180
 %gls:	with child protection
 %eng:	with child protection.
 *GUT:	+< ++ protection@s:cym&eng ? 1818754_1819648
-*GUT:	oh@s:cym&eng &di ella # ella . 1819729_1821726
+*GUT:	oh@s:cym&eng &di ella (.) ella . 1819729_1821726
 %gls:	IM maybe maybe
 %eng:	oh, maybe... maybe.
-*GUT:	mae dipyn o # minefield@s:eng um@s:cym&eng legally@s:eng yn y &l legal@s:eng sense@s:cym&eng de . 1821693_1826952
+*GUT:	mae dipyn o (.) minefield@s:eng um@s:cym&eng legally@s:eng yn y &l legal@s:eng sense@s:cym&eng de . 1821693_1826952
 %gls:	be.3S.PRES a_bit of minefield IM legally in DET legal sense TAG
 %eng:	it's a bit of a minefield legally, in the legal sense, right.
 *GUT:	mae (y)r legal@s:eng framework@s:eng yn gymhleth ofnadwy . 1826987_1828891
@@ -2583,13 +2583,13 @@
 *NER:	yn Gaernarfon@s:cym&eng mae hwnna mynd i fod yeah@s:cym&eng ? 1829019_1830505
 %gls:	in Caernarfon be.3S.PRES that go.NONFIN to be.NONFIN yeah
 %eng:	that's going to be in Caernarfon, yeah?
-*GUT:	+< a # yeah@s:cym&eng mae [/] mae job@s:cym&eng stressful@s:eng ofnadwy . 1829646_1832293
+*GUT:	+< a (.) yeah@s:cym&eng mae [/] mae job@s:cym&eng stressful@s:eng ofnadwy . 1829646_1832293
 %gls:	and yeah be.3S.PRES be.3S.PRES job stressful awful
 %eng:	and yeah, it's a really stressful job.
 *GUT:	mwy [?] [//] os rywbeth mae mwy stressful@s:eng na be dw wneud wan de . 1832293_1834708
 %gls:	more if something be.3S.PRES more stressful than what be.1S.PRES do.NONFIN now TAG
 %eng:	if anything it's more stressful than what I'm doing now, right.
-*GUT:	&lai well@s:cym&eng # dw i licio pawb ar y team@s:cym&eng yna . 1835394_1837867
+*GUT:	&lai well@s:cym&eng (.) dw i licio pawb ar y team@s:cym&eng yna . 1835394_1837867
 %gls:	well be.1S.PRES PRON.1S like.NONFIN everyone on DET team there
 %eng:	well, I like everyone on that team.
 *NER:	oh@s:cym&eng mae hynna (y)n bwysig yndy . 1838668_1840595
@@ -2617,10 +2617,10 @@
 *GUT:	a wedyn um@s:cym&eng +"/. 1850047_1851116
 %gls:	and then IM
 %eng:	and then, um...
-*GUT:	+" be am siarad efo Ben_Bennett@s:cym&eng # ynglŷn â hyn ? 1851290_1853983
+*GUT:	+" be am siarad efo Ben_Bennett@s:cym&eng (.) ynglŷn â hyn ? 1851290_1853983
 %gls:	what about talk.NONFIN with Ben_Bennett concerning with this
 %eng:	how about talking to Ben Bennett about this?
-*GUT:	ac ella wna i # gysidro # ymuno (y)r team@s:cym&eng yna de ? 1854575_1857675
+*GUT:	ac ella wna i (.) gysidro (.) ymuno (y)r team@s:cym&eng yna de ? 1854575_1857675
 %gls:	and maybe do.1S.NONPAST PRON.1S consider.NONFIN join.NONFIN DET team there TAG
 %eng:	and maybe I'll consider joining that team, right?
 *GUT:	ond mae (y)na options@s:cym&eng eraill ysti . 1857710_1859753
