@@ -3,38 +3,39 @@
 @Begin
 @Languages:	cy, en
 @Participants:	HOW Howyn Adult, HEF Hefeydd Adult
-@ID:	cy|siarad|HOW|33;|male|||Adult||
-@ID:	cy|siarad|HEF|25;|male|||Adult||
+@ID:	cym|siarad|HOW|33;|male|||Adult||
+@ID:	cym|siarad|HEF|25;|male|||Adult||
 @Situation:	informal conversation between colleagues recorded at the University
 @Comment:	HOW was brought up in England, but is now living in north-west Wales, after spending some years in south-west Wales and abroad
 @Comment:	HEF was brought up in north-west Wales where he is still living
 @Date:	12-JAN-2006
 @Comment:	Researcher:	Nesta Roberts, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:35:22
-@Comment:	Filename: Roberts1.CHA; Soundfile: Roberts1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English, @6 = German
+@Media:	roberts1, audio
+@Comment:	Filename: Roberts1.cha; Soundfile: Roberts1.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	left track cuts out at 00:01:09. Hefeydd's speech is picked up on the right track, but is sometimes difficult to understand, especially where their speech overlaps. At 00:06:52 the right track also cuts out until 00:07:21 when the researcher comes in to fix the equipment. She leaves at 00:07:47 and the transcription resumes from here. Left track cuts out again at 00:30:12
-*HOW:	dangos nhw er@s:cym&eng yn y <cinema@s:cym&eng i> [=? sinemâu] +.. . 0_2670
+*HOW:	dangos nhw er@s:cym&eng yn y <cinema@s:cym&eng i> [=? sinemâu] +... 0_2670
 %gls:	show.NONFIN PRON.3PL IM in DET cinema to
 %eng:	show them in the cinema to...
-*HEF:	well@s:cym&eng os [/] os ti (y)n wneud fersiwn wedi drosleisio yna mae gen +// . 2670_6525
+*HEF:	well@s:cym&eng os [/] os ti (y)n wneud fersiwn wedi drosleisio yna mae gen +//. 2670_6525
 %gls:	well if if PRON.2S PRT do.NONFIN version PRT.PAST dub.NONFIN then be.3S.PRES with
 %eng:	well if...if you do a dubbed version, then...
-*HOW:	+< xxx +// . 4493_5201
+*HOW:	+< xxx +//. 4493_5201
 *HEF:	na dw (ddi)m yn sure@s:cym&eng am hynny â deud y gwir . 6525_9033
 %gls:	no be.1S.PRES NEG PRT sure about that with say.NONFIN DET truth
 %eng:	no, I'm not sure about that to tell the truth
 *HEF:	os [/] # os oes &s gen ti (y)r fersiwn wedi # ysgrifennu ar_gyfer y trosleisio wyt [//] oes gen ti &s fersiwn ysgrifenedig wedyn ? 9033_17833
 %gls:	if if be.3S.PRES with PRON.2S DET version PRT.PAST write.NONFIN for DET dub.NONFIN be.2S.PRES be.3S.PRES with PRON.2S version written then
 %eng:	if...if you've got the version written for the dubbing, do you have a written version then?
-*HEF:	dw i (ddi)m yn +.. . 17833_18971
+*HEF:	dw i (ddi)m yn +... 17833_18971
 %gls:	be.1S.PRES PRON.1S NEG PRT
 %eng:	I'm not...
-*HOW:	yeah@s:cym&eng # er@s:cym&eng +/ . 18971_20910
+*HOW:	yeah@s:cym&eng # er@s:cym&eng +/. 18971_20910
 %gls:	yeah IM
 %eng:	yeah, er...
-*HEF:	achos <dw i (y)n> [/] <dw i (y)n> [/] dw i (y)n eitha sure@s:cym&eng <bod um@s:cym&eng> [/] # er@s:cym&eng er@s:cym&eng bod &k Crouching:@s:cym&eng # er@s:cym&eng Tiger_Hidden_Dragon@s:cym&eng neu be bynnag ydy o # um@s:cym&eng yn [//] # bod fi (we)di gweld o gynta efo isdeitlau +/ . 20259_34563
+*HEF:	achos <dw i (y)n> [/] <dw i (y)n> [/] dw i (y)n eitha sure@s:cym&eng <bod um@s:cym&eng> [/] # er@s:cym&eng er@s:cym&eng bod &k Crouching:@s:cym&eng # er@s:cym&eng Tiger_Hidden_Dragon@s:cym&eng neu be bynnag ydy o # um@s:cym&eng yn [//] # bod fi (we)di gweld o gynta efo isdeitlau +/. 20259_34563
 %gls:	because be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT quite sure be.NONFIN IM IM IM be.NONFIN Crouching IM Tiger_Hidden_Dragon or what ever be.3S.PRES PRON.3SM IM PRT be.NONFIN PRON.1S PRT.PAST see.NONFIN PRON.3SM first with subtitle
 %eng:	because I'm...I'm..I'm quite sure that um...er, er, that Crouching, er, Tiger Hidden Dragon or whatever it is, um, that I saw it first with subtitles...
 *HOW:	+< yeah@s:cym&eng . 28096_28653
@@ -65,7 +66,7 @@
 *HOW:	um@s:cym&eng # dyna <o'n i> [//] <peth o'n i> [//] un o pethau o'n i wedi sôn amdano fo oedd # adeg um@s:cym&eng # des i i [/] i er@s:cym&eng # &x &clicks_finger er@s:cym&eng tŷ chi a [/] a [/] # a gwylio fath â Crouching_Tiger_Hidden_Dragon@s:cym&eng efo trosleisio a (y)r isdeitlo ar yr un pryd . 74408_90210
 %gls:	IM there be.1S.IMP PRON.1S thing be.1S.IMP PRON.1S one of things be.1S.IMP PRON.1S PRT.PAST mention.NONFIN about.3SM PRON.3SM be.3S.IMP time IM come.1S.PAST PRON.1S to to IM IM house PRON.2PL and and and watch.NONFIN kind with Crouching_Tiger_Hidden_Dragon with dub.NONFIN and DET subtitle.NONFIN at DET one time
 %eng:	um, that's what I...thing I was...one of the things I mentioned was when, um, I came to...te...to, er, er, your house and...and...and watched, like, Crouching Tiger Hidden Dragon with dubbing and the subtitling at the same time
-*HOW:	ac oedd hynny right@s:cym&eng drawiadol +/ . 90210_92373
+*HOW:	ac oedd hynny right@s:cym&eng drawiadol +/. 90210_92373
 %gls:	and be.3S.IMP that right striking
 %eng:	and that was quite striking...
 *HEF:	yeah@s:cym&eng . 92373_92861
@@ -77,13 +78,13 @@
 *HEF:	ia yeah@s:cym&eng achos oedd xx eitha gwahanol # weithiau [?] . 99270_101998
 %gls:	yes yeah because be.3S.IMP xx quite different sometimes
 %eng:	yes yeah, because [...] quite different sometimes
-*HOW:	+< um@s:cym&eng +// . 100117_100628
+*HOW:	+< um@s:cym&eng +//. 100117_100628
 %gls:	IM
 %eng:	um...
 *HOW:	+< oedd . 101406_101986
 %gls:	be.3S.IMP
 %eng:	yes
-*HOW:	<dw meddwl> [/] dw meddwl bod er@s:cym&eng [=? y] +/ . 101986_103322
+*HOW:	<dw meddwl> [/] dw meddwl bod er@s:cym&eng [=? y] +/. 101986_103322
 %gls:	be.1S.PRES think.NONFIN be.1S.PRES think.NONFIN be.NONFIN IM
 %eng:	I think...I think that er...
 *HEF:	xx enwau pobl yn wahanol hefyd . 103322_105284
@@ -92,13 +93,13 @@
 *HOW:	oedden yeah@s:cym&eng . 105284_106491
 %gls:	be.3PL.IMP yeah
 %eng:	yeah, they were
-*HOW:	a &də [//] dw meddwl xx <bod er@s:cym&eng> [//] # ella bod yr isdeitlau # yn cynnwys yr elfen # crouching_tiger_hidden_dragon@s:cym&eng <bod o> [?] ryw fath o # ddywediad neu rywbeth +/ . 106491_115628
+*HOW:	a &də [//] dw meddwl xx <bod er@s:cym&eng> [//] # ella bod yr isdeitlau # yn cynnwys yr elfen # crouching_tiger_hidden_dragon@s:cym&eng <bod o> [?] ryw fath o # ddywediad neu rywbeth +/. 106491_115628
 %gls:	and be.1S.PRES think.NONFIN xx be.NONFIN IM perhaps be.NONFIN DET subtitles PRT include.NONFIN DET element crouching_tiger_hidden_dragon be.NONFIN PRON.3SM some kind of saying or something
 %eng:	and I think [...] that, er...perhaps that the subtitles include the element crouching tiger hidden dragon, that it's some kind of saying or something
 *HEF:	yeah@s:cym&eng . 115628_116255
 %gls:	yeah
 %eng:	yeah
-*HOW:	+, ond bod y [/] # y trosleisio wedi +/ . 116255_119332
+*HOW:	+, ond bod y [/] # y trosleisio wedi +/. 116255_119332
 %gls:	but be.NONFIN DET DET dub.NONFIN PRT.PAST
 %eng:	but that the...the dubbing has...
 *HEF:	++ symleiddio . 119332_120771
@@ -110,19 +111,19 @@
 *HEF:	yeah@s:cym&eng [?] . 124765_125137
 %gls:	yeah
 %eng:	yeah
-*HOW:	um@s:cym&eng # ond oedd o (y)n right@s:cym&eng ddiddorol a [//] just@s:cym&eng o safbwynt # er@s:cym&eng sut mae +// . 125137_133450
+*HOW:	um@s:cym&eng # ond oedd o (y)n right@s:cym&eng ddiddorol a [//] just@s:cym&eng o safbwynt # er@s:cym&eng sut mae +//. 125137_133450
 %gls:	IM but be.3S.IMP PRON.3SM PRT right interesting and just from standpoint IM how be.3S.PRES
 %eng:	um, but it was quite interesting, and...just in terms of, er, how...
-*HOW:	<os o(edd)> [?] [/] os o(edd) [?] gyn ti fath â xx +// . 133450_137529
+*HOW:	<os o(edd)> [?] [/] os o(edd) [?] gyn ti fath â xx +//. 133450_137529
 %gls:	if be.3S.IMP if be.3S.IMP with PRON.2S kind with xx
 %eng:	if...if you had, like, [...] ...
 *HOW:	er@s:cym&eng &f peth # er@s:cym&eng # &a arall xx timod yn Pulp_Fiction@s:cym&eng lle mae [/] # mae nhw mynd i <&ʤa &ragɪ> [//] Jack_Rabbit_Slims@s:cym&eng . 137529_145912
 %gls:	IM thing IM other xx know.2S in Pulp_Fiction where be.3PL.PRES be.3PL.PRES PRON.3PL go.NONFIN to Jack_Rabbit_Slims
 %eng:	er, er, another thing [...] you know in Pulp Fiction where they go to Jack Raggi...Jack Rabbit Slims
-*HOW:	ac yn y car@s:cym&eng mae # er@s:cym&eng # um@s:cym&eng # xx Mia_Wallace@s:cym&eng yn [/] # yn deud wrth Vincent_Vega@s:cym&eng +"/ . 145912_154062
+*HOW:	ac yn y car@s:cym&eng mae # er@s:cym&eng # um@s:cym&eng # xx Mia_Wallace@s:cym&eng yn [/] # yn deud wrth Vincent_Vega@s:cym&eng +"/. 145912_154062
 %gls:	and in DET car be.3S.PRES IM IM xx Mia_Wallace PRT PRT say.NONFIN to Vincent_Vega
 %eng:	and in the car, er, um [...] Mia Wallace tells Vincent Vega:
-*HOW:	[- eng] +" &p # <don't be such a> [?] +.. . 154062_156686
+*HOW:	[- eng] +" &p # <don't be such a> [?] +... 154062_156686
 %gls:	don't be such a
 %eng:	don't be such a...
 *HOW:	a wedyn yn tynnu fath â siâp sgwâr yr awyr (fe)lly . 156686_159460
@@ -134,26 +135,26 @@
 *HOW:	ond <o'n i gwylio> [//] mi oedd er@s:cym&eng brodyr Tamsin@s:cym&eng gwylio # Pulp_Fiction@s:cym&eng er@s:cym&eng efo trosleisio # almaeneg . 160180_166496
 %gls:	but be.1S.IMP PRON.1S watch.NONFIN PRT be.3S.IMP IM brothers Tamsin watch.NONFIN Pulp_Fiction IM with dub.NONFIN german
 %eng:	but I was watching...Tamsin's, er, brothers were watching Pulp Fiction, er, with german dubbing
-*HOW:	ac oedden nhw fath â +// . 166496_167703
+*HOW:	ac oedden nhw fath â +//. 166496_167703
 %gls:	and be.3PL.IMP PRON.3PL kind with
 %eng:	and they were, like...
-*HOW:	a &o xx y cymeriad (we)di deud fath â +"/ . 167703_170223
+*HOW:	a &o xx y cymeriad (we)di deud fath â +"/. 167703_170223
 %gls:	and xx DET character PRT.PAST say.NONFIN kind with
 %eng:	and [...] the character said, like:
-*HOW:	[- eng] +" don't be such a +.. . 170223_171117
+*HOW:	[- eng] +" don't be such a +... 170223_171117
 %gls:	don't be such a
 %eng:	don't be such a...
 *HEF:	yeah@s:cym&eng . 171117_171929
 %gls:	yeah
 %eng:	yeah
-*HOW:	a oedden nhw fath â +"/ . 171929_173009
+*HOW:	a oedden nhw fath â +"/. 171929_173009
 %gls:	and be.3PL.IMP PRON.3PL kind with
 %eng:	and they were like:
 *HOW:	+" eh@s:cym&eng &=laugh be oedd hynna ? 173009_175714
 %gls:	IM what be.3S.IMP that
 %eng:	eh, what was that?
 *HEF:	xxx . 175122_177142
-*HOW:	+< er@s:cym&eng +// . 176051_176562
+*HOW:	+< er@s:cym&eng +//. 176051_176562
 %gls:	IM
 %eng:	er
 *HOW:	yn union . 176899_177491
@@ -174,7 +175,7 @@
 *HEF:	yeah@s:cym&eng . 191365_191887
 %gls:	yeah
 %eng:	yeah
-*HOW:	ond er@s:cym&eng xx mae rywbeth tebyg yn um@s:cym&eng # Full_Metal_Jacket@s:cym&eng lle mae [/] mae nhw (y)n deud (wr)tha fo # fath â beidio +// . 191887_200367
+*HOW:	ond er@s:cym&eng xx mae rywbeth tebyg yn um@s:cym&eng # Full_Metal_Jacket@s:cym&eng lle mae [/] mae nhw (y)n deud (wr)tha fo # fath â beidio +//. 191887_200367
 %gls:	but IM xx be.3S.PRES something similar in IM Full_Metal_Jacket where be.3PL.PRES be.3PL.PRES PRON.3PL PRT say.NONFIN to.3SM PRON.3SM kind with desist.NONFIN
 %eng:	but er, [...] there's something similar in um, Full Metal Jacket where they tell him, like, not to...
 *HOW:	mae fath â bod nhw (y)n &g fod i dda(l) [//] dal y rifle@s:cym&eng fath â hyn a hyn o # fodfeddi o flaen ei frest o (fe)lly xx . 200367_206299
@@ -195,7 +196,7 @@
 *HOW:	fath â dangos <y lla(w)> [//] y <fath â> [?] pum bys xxx (fe)lly . 210335_213064
 %gls:	kind with show.NONFIN DET hand DET kind with five finger xxx thus
 %eng:	[...] like, showed the hand...the, like, five fingers, like
-*HOW:	ond efo trosleisio mae (y)n deud <am beidio> [?] dal y peth fath â hyn a hyn o sentimetrau <o flaen xx> [=! laughs] +// . 213064_217522
+*HOW:	ond efo trosleisio mae (y)n deud <am beidio> [?] dal y peth fath â hyn a hyn o sentimetrau <o flaen xx> [=! laughs] +//. 213064_217522
 %gls:	but with dub.NONFIN be.3S.PRES PRT say.NONFIN for desist.NONFIN hold.NONFIN DET thing kind with this and this of centimetres of front xx
 %eng:	but with dubbing it says not to hold the thing, like, this many centimetres in front of [...] ...
 *HEF:	yeah@s:cym&eng . 217522_218079
@@ -222,7 +223,7 @@
 *HEF:	right@s:cym&eng . 240765_241450
 %gls:	right
 %eng:	right
-*HOW:	er@s:cym&eng ond # mmm@s:cym&eng +/ . 241450_243366
+*HOW:	er@s:cym&eng ond # mmm@s:cym&eng +/. 241450_243366
 %gls:	IM but IM
 %eng:	er but, mm...
 *HEF:	do'n i ddim yn um@s:cym&eng # ymwybodol # <o &f> [/] o fluid@s:eng ounces@s:cym&eng # er@s:cym&eng America@s:cym&eng tan i fi fynd yna . 242497_250053
@@ -234,7 +235,7 @@
 *HOW:	yeah@s:cym&eng . 252538_253072
 %gls:	yeah
 %eng:	yeah
-*HEF:	um@s:cym&eng # dydyn nhw ddim yn rhoi # um@s:cym&eng # y [?] cyfaint +/ . 253072_258911
+*HEF:	um@s:cym&eng # dydyn nhw ddim yn rhoi # um@s:cym&eng # y [?] cyfaint +/. 253072_258911
 %gls:	IM be.3PL.PRES.NEG PRON.3PL NEG PRT put.NONFIN IM DET volume
 %eng:	um, they don't put, um, the volume...
 *HOW:	yeah@s:cym&eng . 258911_259759
@@ -249,25 +250,25 @@
 *HEF:	mae nhw (y)n rhoi # fluid@s:eng ounce@s:cym&eng . 264473_266853
 %gls:	be.3PL.PRES PRON.3PL PRT put.NONFIN fluid ounce
 %eng:	they put fluid ounce
-*HEF:	so@s:cym&eng fath â rywbeth fel tri point@s:cym&eng wyth fluid@s:eng ounce@s:cym&eng +// . 266853_269941
+*HEF:	so@s:cym&eng fath â rywbeth fel tri point@s:cym&eng wyth fluid@s:eng ounce@s:cym&eng +//. 266853_269941
 %gls:	so kind with something like three.M point eight fluid ounce
 %eng:	so something like three point eight fluid ounces
-*HEF:	mae nhw wneud o # drwy gymharu # um@s:cym&eng # yn lle cyfaint # pwysau dŵr +/ . 269941_277592
+*HEF:	mae nhw wneud o # drwy gymharu # um@s:cym&eng # yn lle cyfaint # pwysau dŵr +/. 269941_277592
 %gls:	be.3PL.PRES PRON.3PL do.NONFIN PRON.3SM through compare.NONFIN IM in place volume weight water
 %eng:	they do it by comparing, um, instead of volume, the weight of water
 *HOW:	yeah@s:cym&eng . 277592_278428
 %gls:	yeah
 %eng:	yeah
-*HEF:	+, o (y)r un cyfaint # a wedyn cymharu +/ . 278428_282886
+*HEF:	+, o (y)r un cyfaint # a wedyn cymharu +/. 278428_282886
 %gls:	of DET one volume and then compare.NONFIN
 %eng:	of the same volume and then compare...
 *HOW:	iawn . 282886_283316
 %gls:	right
 %eng:	right
-*HEF:	+, cymha(ru) [/] cymharu +// . 283316_285173
+*HEF:	+, cymha(ru) [/] cymharu +//. 283316_285173
 %gls:	compare.NONFIN compare.NONFIN
 %eng:	comp...compare...
-*HEF:	hynny yw dyna fysai # pwysau # dŵr # os fysai fo yn # yr un +/ . 285173_290792
+*HEF:	hynny yw dyna fysai # pwysau # dŵr # os fysai fo yn # yr un +/. 285173_290792
 %gls:	that be.3S.PRES there be.3S.CONDIT weight water if be.3S.CONDIT PRON.3SM in DET one
 %eng:	that is, that's what water would weigh if it was in the same...
 *HOW:	+< yeah@s:cym&eng . 287774_288169
@@ -283,7 +284,7 @@
 *HOW:	<achos mae> [?] gynna i ryw gof o weld fath â rywbeth fath â f_l@s:cym&eng neu rywbeth wedi sgwennu ar ganiau Coke@s:cym&eng pan o'n i (y)n # right@s:cym&eng fach . 295715_301961
 %gls:	because be.3S.PRES with.1S PRON.1S some memory of see.NONFIN kind with something kind with f_l or something PRT.PAST write.NONFIN on cans Coke when be.1S.IMP PRON.1S PRT right small
 %eng:	because I've got some memory of seeing, like, something like fl or something written on Coke cans when I was quite small
-*HEF:	yeah@s:cym&eng dyna ydy f_l@s:cym&eng +/ . 301950_303401
+*HEF:	yeah@s:cym&eng dyna ydy f_l@s:cym&eng +/. 301950_303401
 %gls:	yeah there be.3S.PRES f_l
 %eng:	yeah that's what fl is...
 *HOW:	yeah@s:cym&eng . 303401_303958
@@ -311,7 +312,7 @@
 *HOW:	neu beth bynnag . 320468_321257
 %gls:	or what ever
 %eng:	or whatever
-*HOW:	dyna beth o'n i golli yn Pulp_Fiction@s:cym&eng llwyr <oedd y> [/] # oedd y xxx methu cofio # oedd um@s:cym&eng # just@s:cym&eng bod chdi (ddi)m yn cael er@s:cym&eng # fath â y &g er@s:cym&eng chemistry@s:eng felly de # (en)wedig <yn y> [//] ar gychwyn y film@s:cym&eng pan mae gyn ti (y)r ddau # hitman@s:eng +/ . 321257_337151
+*HOW:	dyna beth o'n i golli yn Pulp_Fiction@s:cym&eng llwyr <oedd y> [/] # oedd y xxx methu cofio # oedd um@s:cym&eng # just@s:cym&eng bod chdi (ddi)m yn cael er@s:cym&eng # fath â y &g er@s:cym&eng chemistry@s:eng felly de # (en)wedig <yn y> [//] ar gychwyn y film@s:cym&eng pan mae gyn ti (y)r ddau # hitman@s:eng +/. 321257_337151
 %gls:	there what be.1S.IMP PRON.1S miss.NONFIN in Pulp_Fiction complete be.3S.IMP DET be.3S.IMP DET xxx fail.NONFIN remember.NONFIN be.3S.IMP IM just be.NONFIN PRON.2S NEG PRT get.NONFIN IM kind with DET IM chemistry thus TAG particular in DET on start DET film when be.3S.PRES with PRON.2S DET two.M hitman
 %eng:	that's what I missed in Pulp Fiction completely, was the...was the [...] can't remember, um, just that you didn't get, er, like the chemistry, like isn't it, particularly in the...at the start of the film whan you've got the two hitmen
 *HEF:	right@s:cym&eng yeah@s:cym&eng . 337151_338393
@@ -327,13 +328,13 @@
 *HEF:	right@s:cym&eng . 350468_351118
 %gls:	right
 %eng:	right
-*HOW:	a wedyn mi oedd Tamsin@s:cym&eng yn deud +// . 351118_352383
+*HOW:	a wedyn mi oedd Tamsin@s:cym&eng yn deud +//. 351118_352383
 %gls:	and then PRT be.3S.IMP Tamsin PRT say.NONFIN
 %eng:	and then Tamsin said...
 *HOW:	yeah@s:cym&eng achos ddim actorion fel y cyfryw <sy (y)n # er@s:cym&eng> [/] # sy (y)n gwneud y trosleisio . 352383_357643
 %gls:	yeah because NEG actors like DET such be.PRES.REL PRT IM be.PRES.REL PRT do.NONFIN DET dub.NONFIN
 %eng:	yeah, because it's not actors, as such, that, er...that do the dubbing
-*HOW:	neu bod y pwys(lais) [/] # pwyslais yn fwy # ella ar # wneud yn sure@s:cym&eng bod nhw (y)n deud y geiriau # angenrheidiol # fel bod nhw (y)n cyfateb i [/] i symudiadau ceg yn hytrach na bod nhw fath â roid er@s:cym&eng +/ . 357643_367883
+*HOW:	neu bod y pwys(lais) [/] # pwyslais yn fwy # ella ar # wneud yn sure@s:cym&eng bod nhw (y)n deud y geiriau # angenrheidiol # fel bod nhw (y)n cyfateb i [/] i symudiadau ceg yn hytrach na bod nhw fath â roid er@s:cym&eng +/. 357643_367883
 %gls:	or be.NONFIN DET emphasis emphasis PRT more perhaps on do.NONFIN PRT sure be.NONFIN PRON.3PL PRT say.NONFIN DET words necessary like be.NONFIN PRON.3PL PRT correspond.NONFIN to to movements mouth PRT rather PRT be.NONFIN PRON.3PL kind with put.NONFIN IM
 %eng:	or that the emph...emphasis is more perhaps on making sure that they say the necessary words, so that they correspond to...to mouth movements rather than that they, like, put, er...
 *HEF:	++ cyfleu xx emosiwn xx . 367883_369972
@@ -348,16 +349,16 @@
 *HEF:	yeah@s:cym&eng . 369972_370832
 %gls:	yeah
 %eng:	yeah
-*HEF:	mae [/] mae (y)n odd@s:cym&eng achos +// . 370832_372411
+*HEF:	mae [/] mae (y)n odd@s:cym&eng achos +//. 370832_372411
 %gls:	be.3S.PRES be.3S.PRES PRT strange because
 %eng:	it's odd because...
-*HEF:	ia (dy)na fo achos xx cofio um@s:cym&eng +// . 372411_375847
+*HEF:	ia (dy)na fo achos xx cofio um@s:cym&eng +//. 372411_375847
 %gls:	yes there PRON.3SM because xx remember.NONFIN IM
 %eng:	yes, that's it, because [...] remember, um...
 *HEF:	er@s:cym&eng dw (ddi)m yn gwybod os ti (we)di gweld o . 375847_377325
 %gls:	IM be.1S.PRES NEG PRT know.NONFIN if PRON.2S PRT.PAST see.NONFIN PRON.3SM
 %eng:	er, I don't know if you've seen it
-*HEF:	Night_on_Earth@s:cym&eng ydy o lle mae xx # um@s:cym&eng yr [/] yr pimp@s:cym&eng +/ . 377325_381106
+*HEF:	Night_on_Earth@s:cym&eng ydy o lle mae xx # um@s:cym&eng yr [/] yr pimp@s:cym&eng +/. 377325_381106
 %gls:	Night_on_Earth be.3S.PRES PRON.3SM where be.3S.PRES xx IM DET DET pimp
 %eng:	it's Night on Earth where [...] um, the...the pimp...
 *HOW:	+< &dɔ yeah@s:cym&eng . 378738_379690
@@ -366,7 +367,7 @@
 *HOW:	&=laugh xx [=! laughs] # film@s:cym&eng dda . 381106_383010
 %gls:	xx film good
 %eng:	[...] good film
-*HEF:	+, a (y)r saith [/] saith # mewn taxi@s:cym&eng # um@s:cym&eng +.. . 381768_386180
+*HEF:	+, a (y)r saith [/] saith # mewn taxi@s:cym&eng # um@s:cym&eng +... 381768_386180
 %gls:	and DET seven seven in taxi um
 %eng:	and the seven...seven in a taxi, um...
 *HOW:	+< yeah@s:cym&eng . 383045_383417
@@ -387,7 +388,7 @@
 *HOW:	+< yeah@s:cym&eng . 393843_394249
 %gls:	yeah
 %eng:	yeah
-*HEF:	achos # mae well gen i dw meddwl er@s:cym&eng wylio film@s:cym&eng <efo (y)r> [/] er@s:cym&eng efo (y)r isdeitlau gan dy fod ti (y)n gallu cael mwy o [/] # timod <o (y)r> [/] <o (y)r> [/] o (y)r emosiwn +/ . 399822_411083
+*HEF:	achos # mae well gen i dw meddwl er@s:cym&eng wylio film@s:cym&eng <efo (y)r> [/] er@s:cym&eng efo (y)r isdeitlau gan dy fod ti (y)n gallu cael mwy o [/] # timod <o (y)r> [/] <o (y)r> [/] o (y)r emosiwn +/. 399822_411083
 %gls:	because be.3S.PRES better with PRON.1S be.1S.PRES think.NONFIN IM watch.NONFIN film with DET IM with DET subtitles for POSS.2S be.NONFIN PRON.2S PRT can.NONFIN get.NONFIN more of know.2S of DET of DET of DET emotion
 %eng:	because I prefer, I think, er, to watch a film with the...er, with the subtitles, because you can get more of, you know of the...of the...of the emotion
 *HOW:	+< mmm@s:cym&eng . 405905_406184
@@ -396,14 +397,14 @@
 *HOW:	yeah@s:cym&eng . 411083_412047
 %gls:	yeah
 %eng:	yeah
-*HEF:	+, o +/ . 412047_413313
+*HEF:	+, o +/. 412047_413313
 %gls:	from
 %eng:	from...
 %com:	right track also cuts out (00:06:52). Resumes at 00:07:21 . Transcription resumes at 00:07:47
 *HOW:	&də ia &b <fath â &ho> [//] # pethau [?] Simpsons@s:cym&eng yn hollol wahanol # a Sesame_Street@s:cym&eng hefyd . 467856_471966
 %gls:	yes kind with things Simpsons PRT complete different and Sesame_Street also
 %eng:	yes, like...Simpsons things are completely different, and Sesame Street too
-*HOW:	bod um@s:cym&eng # Bert@s:cym&eng ac Ernie@s:cym&eng felly +// . 471966_475368
+*HOW:	bod um@s:cym&eng # Bert@s:cym&eng ac Ernie@s:cym&eng felly +//. 471966_475368
 %gls:	be.NONFIN IM Bert and Ernie thus
 %eng:	that, um, Bert and Ernie, like...
 *HOW:	xx welais i (r)heina (e)fo # <eu fersiwn> [//] eu lleisiau Almaeneg . 475368_479733
@@ -419,13 +420,13 @@
 *HEF:	yeah@s:cym&eng sgwn [/] sgwn i sut <mae nhw (y)n> [/] # mae nhw (y)n # mynd ati benodi um@s:cym&eng # pobl i (y)r swyddi trosleisio . 485573_494431
 %gls:	yeah if_know.1S.NONPAST if_know.1S.NONPAST PRON.1S how be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT go.NONFIN to.3SF appoint.NONFIN IM people to DET jobs dub.NONFIN
 %eng:	yeah, I wonder how they...they go about appointing people, um, to the dubbing jobs
-*HEF:	xx # &m mae rei +// . 494431_497496
+*HEF:	xx # &m mae rei +//. 494431_497496
 %gls:	xx be.3S.PRES some
 %eng:	[...] some...
 *HEF:	&n dw i (y)n cofio gweld yr um@s:cym&eng X_Files@s:cym&eng yn Ffrainc . 497496_501432
 %gls:	be.1S.PRES PRON.1S PRT remember.NONFIN see.NONFIN DET IM X_Files in France
 %eng:	I remember seeing the, um, X Files in France
-*HEF:	ac +/ . 501432_501978
+*HEF:	ac +/. 501432_501978
 %gls:	and
 %eng:	and...
 *HOW:	mmm@s:cym&eng . 501664_502082
@@ -440,7 +441,7 @@
 *HEF:	<oedden nhw (y)n> [//] oedd o (y)n cyfateb yn eitha da i # Mulder@s:cym&eng a Scully@s:cym&eng . 505217_508271
 %gls:	be.3PL.IMP PRON.3PL PRT be.3S.IMP PRON.3SM PRT correspond.NONFIN PRT quite good to Mulder and Scully
 %eng:	they...it corresponded quite well to Mulder and Scully
-*HEF:	ond dw i (we)di gweld rhei eraill # lle mae nhw (y)n +// . 508271_510411
+*HEF:	ond dw i (we)di gweld rhei eraill # lle mae nhw (y)n +//. 508271_510411
 %gls:	but be.1S.PRES PRON.1S PRT.PAST see.NONFIN some others where be.3PL.PRES PRON.3PL PRT
 %eng:	but I've seen some others where they
 *HEF:	mae [/] mae nhw just@s:cym&eng # yn swnio (y)n # rhy ddifrifol # drwy (y)r amser fe(l) [/] fel (pe)tasen nhw yn darllen o bapur . 510388_518023
@@ -464,7 +465,7 @@
 *HEF:	right@s:cym&eng . 529575_530376
 %gls:	right
 %eng:	right
-*HOW:	o'n i licio (y)r Treebeard@s:cym&eng Almaeneg yn well na +/ . 530132_532431
+*HOW:	o'n i licio (y)r Treebeard@s:cym&eng Almaeneg yn well na +/. 530132_532431
 %gls:	be.1S.IMP PRON.1S like.NONFIN DET Treebeard German PRT better PRT
 %eng:	I liked the German Treebeard better than...
 *HEF:	na [?] ? 532431_533151
@@ -473,7 +474,7 @@
 *HOW:	+, &n John_Reese_Davies@s:cym&eng de . 533151_534532
 %gls:	John_Reese_Davies TAG
 %eng:	John Reese Davies, you know
-*HOW:	um@s:cym&eng # ond efo rywbeth fath â # Simpsons@s:cym&eng neu # Sesame_Street@s:cym&eng neu beth bynnag # ella <bod (y)na> [//] <bod nhw> [//] # <bod (y)na ryw fath o> [///] # <gan bod nhw> [/] gan bod nhw (y)n bethau eitha ysgafn neu # (di)py(n) bach yn ddoniol neu beth bynnag neu # bod o (y)n rhan o (y)r # diddanwch # ydy fath â # er@s:cym&eng y lleisiau # difyr de +.. . 534532_556487
+*HOW:	um@s:cym&eng # ond efo rywbeth fath â # Simpsons@s:cym&eng neu # Sesame_Street@s:cym&eng neu beth bynnag # ella <bod (y)na> [//] <bod nhw> [//] # <bod (y)na ryw fath o> [///] # <gan bod nhw> [/] gan bod nhw (y)n bethau eitha ysgafn neu # (di)py(n) bach yn ddoniol neu beth bynnag neu # bod o (y)n rhan o (y)r # diddanwch # ydy fath â # er@s:cym&eng y lleisiau # difyr de +... 534532_556487
 %gls:	IM but with something kind with Simpsons or Sesame_Street or what ever perhaps be.NONFIN there be.NONFIN PRON.3PL be.NONFIN there some kind of for be.NONFIN PRON.3PL for be.NONFIN PRON.3PL PRT things quite light or a_little small PRT funny or what ever or be.NONFIN PRON.3SM PRT part of DET entertainment be.3S.PRES kind with IM DET voices funny TAG
 %eng:	um, but with something like Simpsons or Sesame Street or whatever perhaps there's...they're...there's some kind of...because they're...because they're quite light-hearted things or a little bit funny or whatever or that it's part of the entertainment is, like, er, the funny voices, you know
 *HEF:	+< llais mwy odd@s:cym&eng # neu xx xx xx . 555546_557625
@@ -482,7 +483,7 @@
 *HEF:	yeah@s:cym&eng . 557625_558983
 %gls:	yeah
 %eng:	yeah
-*HOW:	achos [?] yn bendant oedd # er@s:cym&eng just@s:cym&eng +// . 558983_568445
+*HOW:	achos [?] yn bendant oedd # er@s:cym&eng just@s:cym&eng +//. 558983_568445
 %gls:	because PRT definite be.3S.IMP IM just
 %eng:	because definitely, er, just...
 *HOW:	o_k@s:cym&eng dw (y)n gweld efo [/] efo Homer@s:cym&eng Almaeneg oedden nhw (we)di trio gwneud y peth yn # ryw fath o lais # gwyrion neu beth bynnag . 568445_575926
@@ -497,7 +498,7 @@
 *HEF:	right@s:cym&eng right@s:cym&eng . 579169_580632
 %gls:	right right
 %eng:	right, right
-*HEF:	&s do'n i (ddi)m yn gweld llais Homer@s:cym&eng yn cyfleu <(y)r un> [//] # y slobrwydd &d a # diniweidrwydd +/ . 580632_589409
+*HEF:	&s do'n i (ddi)m yn gweld llais Homer@s:cym&eng yn cyfleu <(y)r un> [//] # y slobrwydd &d a # diniweidrwydd +/. 580632_589409
 %gls:	be.1S.IMP.NEG PRON.1S NEG PRT see.NONFIN voice Homer PRT convey.NONFIN DET one DET slobbery and innocence
 %eng:	I didn't think Homer's voice conveyed the same...the slobbery and innocence...
 *HOW:	na . 589409_590477
@@ -528,13 +529,13 @@
 *HOW:	a (dy)na ni . 604305_605257
 %gls:	and there PRON.1PL
 %eng:	and that's it
-*HEF:	yeah@s:cym&eng <mae &sn> [//] mae (y)n swnio &m yn [/] # yn ddi_glem yn unig +/ . 605257_609785
+*HEF:	yeah@s:cym&eng <mae &sn> [//] mae (y)n swnio &m yn [/] # yn ddi_glem yn unig +/. 605257_609785
 %gls:	yeah be.3S.PRES be.3S.PRES PRT sound.NONFIN PRT PRT clueless PRT only
 %eng:	yeah he just sounds clueless
 *HOW:	yeah@s:cym&eng . 609785_610121
 %gls:	yeah
 %eng:	yeah
-*HEF:	+, xx <ryw fath â> [?] [//] # &n nid yn ddi_glem # a (y)r holl elfennau eraill +/ . 610121_614034
+*HEF:	+, xx <ryw fath â> [?] [//] # &n nid yn ddi_glem # a (y)r holl elfennau eraill +/. 610121_614034
 %gls:	xx some kind with NEG PRT clueless and DET complete elements other
 %eng:	[...] some, like, not clueless and all the other elements
 *HOW:	+< yeah@s:cym&eng . 611352_611700
@@ -549,7 +550,7 @@
 *HOW:	yeah@s:cym&eng . 615009_615334
 %gls:	yeah
 %eng:	yeah
-*HEF:	ond er@s:cym&eng +.. . 615334_616867
+*HEF:	ond er@s:cym&eng +... 615334_616867
 %gls:	but IM
 %eng:	but er...
 *HEF:	yeah@s:cym&eng dw meddwl bod o'n i gweld efo <lot@s:cym&eng o (y)r> [/] lot@s:cym&eng o (y)r &f [//] # er@s:cym&eng rhaglenni um@s:cym&eng o'n [/] o'n i (y)n gweld yn Ffrainc oedd # <bod yr # um@s:cym&eng> [//] # bod y lleisiau hefyd yn eitha tebyg i w_gilydd . 616867_630404
@@ -579,7 +580,7 @@
 *HOW:	yeah@s:cym&eng dw gwybod be ti feddwl yeah@s:cym&eng . 654011_655195
 %gls:	yeah be.1S.PRES know.NONFIN what PRON.2S think.NONFIN yeah
 %eng:	yeah, I know what you mean, yeah
-*HOW:	<yeah@s:cym&eng mae (y)n um@s:cym&eng> [/] ## yeah@s:cym&eng mae (y)n +.. . 655195_659874
+*HOW:	<yeah@s:cym&eng mae (y)n um@s:cym&eng> [/] ## yeah@s:cym&eng mae (y)n +... 655195_659874
 %gls:	yeah be.3S.PRES PRT IM yeah be.3S.PRES PRT
 %eng:	yeah it's um...it's...
 *HEF:	&əd &ə be mae nhw wneud o ran timod pan mae gen ti actor@s:cym&eng enwog ? 659874_663427
@@ -588,7 +589,7 @@
 *HEF:	er@s:cym&eng yd(yn) [/] ydyn nhw (y)n # um@s:cym&eng penodi un +/? 663427_667444
 %gls:	IM be.3PL.PRES be.3PL.PRES PRON.3PL PRT IM appoint.NONFIN one
 %eng:	er, do they, um, appoint one..?
-*HOW:	dw i (we)di &hɔ +/ . 667444_668686
+*HOW:	dw i (we)di &hɔ +/. 667444_668686
 %gls:	be.1S.PRES PRON.1S PRT.PAST
 %eng:	I've...
 *HEF:	+< +, dyn trosleisio +/? 668140_669359
@@ -603,7 +604,7 @@
 *HEF:	+< xx na ? 670892_671856
 %gls:	xx no
 %eng:	[...] no?
-*HOW:	<dw i (y)n &gʊ> [//] ond dw i (y)n &gʊ +// . 671856_673504
+*HOW:	<dw i (y)n &gʊ> [//] ond dw i (y)n &gʊ +//. 671856_673504
 %gls:	be.1S.PRES PRON.1S PRT but be.1S.PRES PRON.1S PRT
 %eng:	I...but I...
 *HOW:	mae [/] mae (y)na un film@s:cym&eng # er@s:cym&eng The_Last_Unicorn@s:cym&eng rywbeth . 673504_677115
@@ -651,7 +652,7 @@
 *HEF:	yn [//] ydyn <nhw (y)n # ysgogi pobl i fynd> [///] # ca(el) [/] cael rhyw actor@s:cym&eng # enwog felly (y)n ysgogi # y bobl yna i fynd # a gweld y film@s:cym&eng ? 718930_727824
 %gls:	PRT be.3PL.PRES PRON.3PL PRT motivate.NONFIN people to go.NONFIN get.NONFIN get.NONFIN some actor famous thus PRT motivate.NONFIN DET people there to go.NONFIN and see.NONFIN DET film
 %eng:	do they make people go...get...get some famous actor like that make those people go and see the film?
-*HEF:	<ydyn nhw mynd> [?] +"/ . 727824_728137
+*HEF:	<ydyn nhw mynd> [?] +"/. 727824_728137
 %gls:	be.3PL.PRES PRON.3PL go.NONFIN
 %eng:	do they go:
 *HEF:	+" oh@s:cym&eng Tom_Cruise@s:cym&eng . 728137_729356
@@ -688,7 +689,7 @@
 *HEF:	+< yeah@s:cym&eng . 771222_771547
 %gls:	yeah
 %eng:	yeah
-*HOW:	achos mae [?] fath â +// . 771872_773799
+*HOW:	achos mae [?] fath â +//. 771872_773799
 %gls:	because be.3S.PRES kind with
 %eng:	because, like...
 *HOW:	achos [?] dyna [/] dyna un o pethau # dw i licio am [/] am wylio ffilmiau Johnny_Depp@s:cym&eng ydy gan na fod o (y)n actor@s:cym&eng felly de # a bod <y lleisi(au)> [//] y llais yn ran o (e)i berfformiad # felly # yn wahanol i fath â Sean_Connery@s:cym&eng . 773799_786675
@@ -709,7 +710,7 @@
 *HEF:	mmm@s:cym&eng . 792050_792480
 %gls:	IM
 %eng:	mm
-*HOW:	um@s:cym&eng ## ond er@s:cym&eng # ie mae (y)n &=dental_click +.. . 792480_797367
+*HOW:	um@s:cym&eng ## ond er@s:cym&eng # ie mae (y)n &=dental_click +... 792480_797367
 %gls:	IM but IM yes be.3S.PRES PRT
 %eng:	um, but er, yes it's...
 *HOW:	just@s:cym&eng [?] dw i (we)di cymryd o achos fo [//] i fi fo (y)dy (y)r enghraifft amlyca o actor@s:cym&eng sydd yn newid ei lais efo perfformiad . 797367_805290
@@ -727,16 +728,16 @@
 *HOW:	+< yeah@s:cym&eng . 816187_816466
 %gls:	yeah
 %eng:	yeah
-*HEF:	um@s:cym&eng +/ . 820483_821876
+*HEF:	um@s:cym&eng +/. 820483_821876
 %gls:	IM
 %eng:	um...
-*HOW:	oh@s:cym&eng yeah@s:cym&eng &s Luc@s:cym&eng [/] Luc_Beson@s:cym&eng oedd wedi +/ . 821539_824140
+*HOW:	oh@s:cym&eng yeah@s:cym&eng &s Luc@s:cym&eng [/] Luc_Beson@s:cym&eng oedd wedi +/. 821539_824140
 %gls:	IM yeah Luc Luc_Beson be.3S.IMP PRT.PAST
 %eng:	oh yeah it was [...] who...
 *HEF:	+, +< Le_Cinquième_Élément@s:cym&eng . 822375_823745
 %gls:	Le_Cinquième_Élément
 %eng:	Le Cinquième Élément
-*HOW:	a mae (y)r trosleisio (y)n [//] # er@s:cym&eng yn hwnna +// . 824140_827309
+*HOW:	a mae (y)r trosleisio (y)n [//] # er@s:cym&eng yn hwnna +//. 824140_827309
 %gls:	and be.3S.PRES DET dub.NONFIN PRT IM in that
 %eng:	and the dubbing is...er, in that...
 *HEF:	hynny yw yr film@s:cym&eng Saesneg ydy o . 827309_829074
@@ -769,7 +770,7 @@
 *HOW:	dw (ddi)m gwybod . 840847_841508
 %gls:	be.1S.PRES NEG know.NONFIN
 %eng:	I don't know
-*HEF:	+, sy (y)n um@s:cym&eng +// . 841508_842557
+*HEF:	+, sy (y)n um@s:cym&eng +//. 841508_842557
 %gls:	be.PRES.REL PRT IM
 %eng:	who's um...
 *HEF:	mae o (y)n # d_j@s:eng radio@s:cym&eng . 842580_844724
@@ -796,7 +797,7 @@
 *HEF:	a # <mae (y)r> [//] mae hwnna (we)di cael ei drosleisio (y)n eitha da . 857832_862348
 %gls:	and be.3S.PRES DET be.3S.PRES that PRT.PAST get.NONFIN POSS.3SM dub.NONFIN PRT quite good
 %eng:	and the...that's been dubbed quite well
-*HEF:	um@s:cym&eng # <mae (y)r er@s:cym&eng> [/] ## &m mae (y)r +// . 862348_869419
+*HEF:	um@s:cym&eng # <mae (y)r er@s:cym&eng> [/] ## &m mae (y)r +//. 862348_869419
 %gls:	IM be.3S.PRES DET IM be.3S.PRES DET
 %eng:	um, the, er...the...
 *HEF:	timod <y rei [?] xx &m > [//] y mannerisms@s:eng a hynny gyd gynno [/] gynno fo # yn [/] yn y llais (fe)lly yn cyd_fynd yn eitha da . 869419_877840
@@ -826,7 +827,7 @@
 *HEF:	mmm@s:cym&eng . 897310_898053
 %gls:	IM
 %eng:	mm
-*HOW:	um@s:cym&eng +/ . 898053_898394
+*HOW:	um@s:cym&eng +/. 898053_898394
 %gls:	IM
 %eng:	um...
 *HEF:	yeah@s:cym&eng mae gynno fo lais mor ddyfn does . 898394_900147
@@ -838,7 +839,7 @@
 *HEF:	mmm@s:cym&eng . 901970_902399
 %gls:	IM
 %eng:	mm
-*HOW:	um@s:cym&eng # fel fod o (y)n gallu deud +"/ . 902399_906172
+*HOW:	um@s:cym&eng # fel fod o (y)n gallu deud +"/. 902399_906172
 %gls:	IM like be.NONFIN PRON.3SM PRT can.NONFIN say.NONFIN
 %eng:	um, so that he can say:
 *HOW:	+" that's@s:eng one@s:eng tasty@s:eng burger@s:cym&eng . 906172_908367
@@ -886,7 +887,7 @@
 *HEF:	ond <oedd o> [/] # oedd o fel petai o ddim yn sylweddoli bod o (y)n # heneiddio . 943619_949877
 %gls:	but be.3S.IMP PRON.3SM be.3S.IMP PRON.3SM like if_be.3S.CONDIT PRON.3SM NEG PRT realise.NONFIN be.NONFIN PRON.3SM PRT age.NONFIN
 %eng:	but it was...it was as if he didn't realise that he's getting old
-*HEF:	oedd o (y)n trio wneud ryw [/] ryw jiggles@s:eng xx # timod ysgwyd ei [/] # ei er@s:cym&eng gluniau nôl a (y)mlaen a +.. . 949877_957319
+*HEF:	oedd o (y)n trio wneud ryw [/] ryw jiggles@s:eng xx # timod ysgwyd ei [/] # ei er@s:cym&eng gluniau nôl a (y)mlaen a +... 949877_957319
 %gls:	be.3S.IMP PRON.3SM PRT try.NONFIN do.NONFIN some some jiggles xx know.2S shake.NONFIN POSS.3S POSS.3SM IM hips back and forward and
 %eng:	he was trying to do some...some jiggles [...] you know, shaking his, er, hip back and forth and...
 *HOW:	+< ia oh@s:cym&eng yeah@s:cym&eng # ie . 953638_955810
@@ -901,7 +902,7 @@
 *HOW:	welais i rywbeth tebyg . 962613_963321
 %gls:	see.1S.PAST PRON.1S something similar
 %eng:	I saw something similar
-*HOW:	welais i Cliff_Richard@s:cym&eng +// . 963321_964389
+*HOW:	welais i Cliff_Richard@s:cym&eng +//. 963321_964389
 %gls:	see.1S.PAST PRON.1S Cliff_Richard
 %eng:	I saw Cliff Richard...
 *HOW:	welais [?] i ryw # couple@s:cym&eng o funudau o Cliff_Richard@s:cym&eng yn perfformio # xxx neu rywbeth ar y Royal_Variety@s:cym&eng # peth (y)na . 964389_971367
@@ -916,7 +917,7 @@
 *HEF:	mmm@s:cym&eng . 976568_976975
 %gls:	IM
 %eng:	mm
-*HOW:	oedd o just@s:cym&eng +"/ . 976649_977230
+*HOW:	oedd o just@s:cym&eng +"/. 976649_977230
 %gls:	be.3S.IMP PRON.3SM just
 %eng:	it was just:
 *HOW:	+" Cliff@s:cym&eng just@s:cym&eng sefyll yn stond please@s:cym&eng [=! laughs] . 977230_979703
@@ -928,7 +929,7 @@
 *HOW:	yeah@s:cym&eng . 980875_981421
 %gls:	yeah
 %eng:	yeah
-*HOW:	um@s:cym&eng +/ . 981421_982489
+*HOW:	um@s:cym&eng +/. 981421_982489
 %gls:	IM
 %eng:	um...
 *HEF:	&s # doedd o just@s:cym&eng methu gwneud o . 982106_984091
@@ -937,7 +938,7 @@
 *HOW:	+< yeah@s:cym&eng . 983256_983627
 %gls:	yeah
 %eng:	yeah
-*HEF:	oh@s:cym&eng # ond er@s:cym&eng # &=laugh +/ . 984091_989351
+*HEF:	oh@s:cym&eng # ond er@s:cym&eng # &=laugh +/. 984091_989351
 %gls:	IM but IM
 %eng:	oh, but er...
 *HOW:	wnest ti weld y beth Comic_Relief@s:cym&eng (y)na efo # Theophilus_P_Wildebeeste@s:cym&eng a Tom_Jones@s:cym&eng yn cystadlu weld pwy (y)dy (y)r love@s:eng God@s:eng &m mwya felly ? 988898_996421
@@ -1005,7 +1006,7 @@
 *HEF:	xxx er@s:cym&eng # o'n i gweld hynny (y)n eitha difyr . 1042919_1046414
 %gls:	xxx IM be.1S.IMP PRON.1S see.NONFIN that PRT quite amusing
 %eng:	[...] er, I thought that was quite amusing
-*HOW:	achos mae House_of_Blues@s:cym&eng yn swnio fwy fath â +// . 1046414_1048891
+*HOW:	achos mae House_of_Blues@s:cym&eng yn swnio fwy fath â +//. 1046414_1048891
 %gls:	because be.3S.PRES House_of_Blues PRT sound.NONFIN more kind with
 %eng:	because House of Blues sounds more like...
 *HOW:	o'n i mynd i ddeud swnio fwy fath â club@s:cym&eng bach . 1048903_1052486
@@ -1014,7 +1015,7 @@
 *HEF:	mmm@s:cym&eng . 1052486_1053856
 %gls:	IM
 %eng:	mm
-*HOW:	mwy agos ata chdi fath â +/ . 1053856_1055412
+*HOW:	mwy agos ata chdi fath â +/. 1053856_1055412
 %gls:	more close to.2S PRON.2S kind with
 %eng:	more intimate, like...
 *HEF:	+< a &r rywbeth yn New_Orleans@s:cym&eng neu rywbeth felly . 1054169_1056271
@@ -1030,7 +1031,7 @@
 *HEF:	yeah@s:cym&eng yeah@s:cym&eng . 1060090_1061066
 %gls:	yeah yeah
 %eng:	yeah, yeah
-*HEF:	dw [/] dw (ddi)m yn sure@s:cym&eng os na (y)r +// . 1061066_1063155
+*HEF:	dw [/] dw (ddi)m yn sure@s:cym&eng os na (y)r +//. 1061066_1063155
 %gls:	be.1S.PRES be.1S.PRES NEG PRT sure if PRT DET
 %eng:	I...I'm not sure os the...
 *HEF:	ella [//] bosib na (y)r un lle a bod nhw (we)di newid o dipyn ers hynny . 1063155_1066673
@@ -1078,7 +1079,7 @@
 *HOW:	yeah@s:cym&eng mae hynny ddiddorol hefyd . 1086259_1088918
 %gls:	yeah be.3S.PRES that interesting also
 %eng:	yeah, that's interesting too
-*HOW:	achos wnes i weld Sound_of_Music@s:cym&eng +// . 1088918_1090683
+*HOW:	achos wnes i weld Sound_of_Music@s:cym&eng +//. 1088918_1090683
 %gls:	because do.1S.PAST PRON.1S see.NONFIN Sound_of_Music
 %eng:	because I saw Sound of Music
 *HEF:	mmm@s:cym&eng . 1090683_1091112
@@ -1087,16 +1088,16 @@
 *HOW:	<wnes i> [/] # <wnes i> [?] [/] wnes i ddechrau gwylio Sound@s:cym&eng [//] well@s:cym&eng # Sound_of_Music@s:cym&eng mewn Almaeneg . 1091112_1095373
 %gls:	do.1S.PAST PRON.1S do.1S.PAST PRON.1S do.1S.PAST PRON.1S start.NONFIN watch.NONFIN Sound well Sound_of_Music in German
 %eng:	I...I...I started to watch Sound...well, Sound of Music in German
-*HOW:	a <mae nhw we(di)> [/] mae nhw wedi cyfieithu caneuon hefyd +/ . 1095373_1098717
+*HOW:	a <mae nhw we(di)> [/] mae nhw wedi cyfieithu caneuon hefyd +/. 1095373_1098717
 %gls:	and be.3PL.PRES PRON.3PL PRT.PAST be.3PL.PRES PRON.3PL PRT.PAST translate.NONFIN songs also
 %eng:	and they've...they've translated the songs too
 *HEF:	oh@s:cym&eng right@s:cym&eng . 1098717_1099971
 %gls:	IM right
 %eng:	oh right
-*HOW:	+, sydd yn +// . 1099611_1100435
+*HOW:	+, sydd yn +//. 1099611_1100435
 %gls:	be.PRES.REL PRT
 %eng:	which is...
-*HOW:	ond efo Grease@s:cym&eng # toedden nhw ddim +/ . 1100435_1102478
+*HOW:	ond efo Grease@s:cym&eng # toedden nhw ddim +/. 1100435_1102478
 %gls:	but with Grease be.3PL.IMP.NEG PRON.3PL NEG
 %eng:	but with Grease, they hadn't...
 *HEF:	right@s:cym&eng . 1102478_1103163
@@ -1117,29 +1118,29 @@
 *HEF:	<dw (ddi)m yn gwybod> [?] &m achos # mae (y)na dipyn mwy o waith i wneud hynny (y)n_does . 1109665_1112428
 %gls:	be.1S.PRES NEG PRT know.NONFIN because be.3S.PRES there a_little more of work to do that be.3S.PRES.NEG
 %eng:	I don't know because there's quite a bit more work to do that, isn't there
-*HOW:	+< <at ei> [?] [/] at ei_gilydd tydan nhw ddim +// . 1110187_1111557
+*HOW:	+< <at ei> [?] [/] at ei_gilydd tydan nhw ddim +//. 1110187_1111557
 %gls:	to POSS.3S to each_other be.3PL.PRES.NEG PRON.3PL NEG
 %eng:	on the whole they're not...
-*HOW:	oes xx +/ . 1112428_1113032
+*HOW:	oes xx +/. 1112428_1113032
 %gls:	be.3S.PRES xx
 %eng:	yes [...] ...
 *HEF:	achos um@s:cym&eng # wnaethon nhw wneud perfformiad o Grease@s:cym&eng yn er@s:cym&eng # Tryfan@s:cym&eng pan o'n i (y)na . 1112753_1117931
 %gls:	because IM do.3PL.PAST PRON.3PL do.NONFIN performance of Grease in IM Tryfan when be.1S.IMP PRON.1S there
 %eng:	because um, they did a performance of Grease when I was there
-*HOW:	yeah@s:cym&eng mae (y)n +/ . 1117931_1119324
+*HOW:	yeah@s:cym&eng mae (y)n +/. 1117931_1119324
 %gls:	yeah be.3S.PRES PRT
 %eng:	yeah it's...
 *HEF:	a oedd Meilyr@s:cym&eng yn un o (y)r er@s:cym&eng # extras@s:cym&eng . 1118883_1121879
 %gls:	and be.3S.IMP Meilyr PRT one of DET IM extras
 %eng:	and Meilyr was one of the, er, extras
 *HOW:	&=laugh . 1121879_1123992
-*HEF:	um@s:cym&eng ac oedd o (y)n &=laugh +// . 1122773_1125838
+*HEF:	um@s:cym&eng ac oedd o (y)n &=laugh +//. 1122773_1125838
 %gls:	IM and be.3S.IMP PRON.3SM PRT
 %eng:	and it was...
 *HEF:	oedd <o (y)n um@s:cym&eng> [/] # xx oedd o (y)n gyfieithiad llawn . 1125838_1130946
 %gls:	be.3S.IMP PRON.3SM PRT IM xx be.3S.IMP PRON.3SM PRT translation full
-%eng:	it was, um.. . [...] it was a full translation
-*HEF:	oedd y caneuon +/ . 1130946_1131759
+%eng:	it was, um... [...] it was a full translation
+*HEF:	oedd y caneuon +/. 1130946_1131759
 %gls:	be.3S.IMP DET songs
 %eng:	the songs were...
 *HOW:	right@s:cym&eng yeah@s:cym&eng . 1131759_1132943
@@ -1160,7 +1161,7 @@
 *HOW:	um@s:cym&eng # ond mae (y)na rei pobl sydd efo # ryw ddawn at wneud ffasiwn beth . 1142405_1147920
 %gls:	IM but be.3S.PRES there some people be.PRES.REL with some talent to do.NONFIN fashion thing
 %eng:	um, but there are some people who have a knack for doing such a thing
-*HOW:	xxx dw (ddi)m yn licio hynna # fath â bod nhw (y)n cyfiei(thu) +// . 1147920_1152703
+*HOW:	xxx dw (ddi)m yn licio hynna # fath â bod nhw (y)n cyfiei(thu) +//. 1147920_1152703
 %gls:	xxx be.1S.PRES NEG PRT like.NONFIN that kind with be.NONFIN PRON.3PL PRT translate.NONFIN
 %eng:	[...] I like that, like they're translat...
 *HOW:	<oh@s:cym&eng (en)wedig> [?] [/] oh@s:cym&eng (en)wedig os (y)dyn nhw fath â iconic@s:cym&eng de . 1152703_1155048
@@ -1169,13 +1170,13 @@
 *HEF:	yeah@s:cym&eng . 1155048_1156105
 %gls:	yeah
 %eng:	yeah
-*HOW:	um@s:cym&eng +/ . 1156105_1156755
+*HOW:	um@s:cym&eng +/. 1156105_1156755
 %gls:	IM
 %eng:	um...
 *HEF:	<oedd o> [/] oedd o (y)n dda # chwarae teg . 1156651_1158671
 %gls:	be.3S.IMP PRON.3SM be.3S.IMP PRON.3SM PRT good play.NONFIN fair
 %eng:	it was...it was good, fair play
-*HEF:	um@s:cym&eng oedd o (y)n +// . 1158671_1161387
+*HEF:	um@s:cym&eng oedd o (y)n +//. 1158671_1161387
 %gls:	IM be.3S.IMP PRON.3SM PRT
 %eng:	um, it was...
 *HEF:	xxx &m o'n i (we)di gweld &g Grease@s:cym&eng pan o'n i (y)n ifanc iawn . 1161387_1166020
@@ -1215,7 +1216,7 @@
 %gls:	and be.3PL.IMP PRON.3PL PRT.PAST start.NONFIN with Grease then Grease_two then Footloose then Saturday_Night_Fever then Staying_Alive kind with five film back_to_back
 %eng:	and they started with Grease then Grease 2 then Footloose then Saturday Night Fever then Staying Alive, like five films back-to-back
 *HEF:	+< &=laugh . 1204952_1206414
-*HOW:	xx # um@s:cym&eng wnes i (ddi)m gwylio +// . 1212254_1215296
+*HOW:	xx # um@s:cym&eng wnes i (ddi)m gwylio +//. 1212254_1215296
 %gls:	xx IM do.1S.PAST PRON.1S NEG watch.NONFIN
 %eng:	[...] um, I didn't watch...
 *HOW:	wnes i xxx cychwyn # Grease@s:cym&eng just@s:cym&eng i weld # sut [/] sut [/] sut oedd o (y)n edrych xx . 1215296_1220207
@@ -1227,10 +1228,10 @@
 *HOW:	&vəsn [//] mmm@s:cym&eng # dw i meddwl bod Grease_two@s:cym&eng mor sâl fyswn i (we)di methu gwneud . 1222158_1227347
 %gls:	IM be.1S.PRES PRON.1S think.NONFIN be.NONFIN Grease_two so ill be.1S.CONDIT PRON.1S PRT.PAST fail.NONFIN do.NONFIN
 %eng:	mmm, I think Grease 2 is so bad, I wouldn't have been able to
-*HOW:	a mae Footloose@s:cym&eng yn amazi(ng)@s:eng +// . 1227347_1228636
+*HOW:	a mae Footloose@s:cym&eng yn amazi(ng)@s:eng +//. 1227347_1228636
 %gls:	and be.3S.PRES Footloose PRT amazing
 %eng:	and Footloose is amazi...
-*HOW:	felly byswn i (we)di gwylio [?] (di)pyn bach o Footloose@s:cym&eng just@s:cym&eng &=laugh +// . 1228636_1231805
+*HOW:	felly byswn i (we)di gwylio [?] (di)pyn bach o Footloose@s:cym&eng just@s:cym&eng &=laugh +//. 1228636_1231805
 %gls:	thus be.1S.CONDIT PRON.1S PRT.PAST watch.NONFIN a_little small of Footloose just
 %eng:	so, I would have watched a little bit of Footloose just...
 *HEF:	+< &=laugh . 1229054_1231805
@@ -1261,10 +1262,10 @@
 *HOW:	+< yeah@s:cym&eng . 1252348_1252708
 %gls:	yeah
 %eng:	yeah
-*HEF:	ond byswn i (ddi)m yn meindio [?] gweld # um@s:cym&eng +// . 1252708_1255819
+*HEF:	ond byswn i (ddi)m yn meindio [?] gweld # um@s:cym&eng +//. 1252708_1255819
 %gls:	but be.1S.CONDIT PRON.1S NEG PRT mind.NONFIN see.NONFIN IM
 %eng:	but, I wouldn't mind seeing, um...
-*HEF:	oh@s:cym&eng na achos [?] +// . 1255819_1257886
+*HEF:	oh@s:cym&eng na achos [?] +//. 1255819_1257886
 %gls:	IM no because
 %eng:	oh no, because...
 *HEF:	oedd [/] oedd rhei o (y)r golygfeydd yn atgoffa fi o Bolzano@s:cym&eng . 1257886_1261566
@@ -1282,7 +1283,7 @@
 *HOW:	yeah@s:cym&eng . 1268594_1269128
 %gls:	yeah
 %eng:	yeah
-*HOW:	na <dw (ddi)m yn> [/] <dw (ddi)m yn> [/] dw (ddi)m yn +// . 1269128_1271287
+*HOW:	na <dw (ddi)m yn> [/] <dw (ddi)m yn> [/] dw (ddi)m yn +//. 1269128_1271287
 %gls:	no be.1S.PRES NEG PRT be.1S.PRES NEG PRT be.1S.PRES NEG PRT
 %eng:	no, I'm not...I'm not...I'm not...
 *HOW:	yeah@s:cym&eng be dw meddwl am Sound_of_Music@s:cym&eng ? 1271287_1272971
@@ -1321,7 +1322,7 @@
 *HOW:	just@s:cym&eng bod y Nazis@s:cym&eng yn ryw fath o bresenoldeb bygythiol . 1321454_1325645
 %gls:	just be.NONFIN DET Nazis PRT some kind of presence threatening
 %eng:	just that the Nazis are some kind of threatening presence
-*HOW:	ond gan bod y prif gymeriadau redeg ffwrdd yn hytrach na # cwffio (y)n eu erbyn nhw mae (y)n +.. . 1325645_1329825
+*HOW:	ond gan bod y prif gymeriadau redeg ffwrdd yn hytrach na # cwffio (y)n eu erbyn nhw mae (y)n +... 1325645_1329825
 %gls:	but for be.NONFIN DET main characters run.NONFIN away PRT rather PRT fight.NONFIN PRT POSS.3PL against PRON.3PL be.3S.PRES PRT
 %eng:	but because the main characters run away instead of fighting them, it's...
 *HEF:	+< yeah@s:cym&eng . 1325761_1326191
@@ -1333,7 +1334,7 @@
 *HEF:	yeah@s:cym&eng dw (ddi)m yn gwybod . 1330057_1333726
 %gls:	yeah be.1S.PRES NEG PRT know.NONFIN
 %eng:	yeah, I don't know
-*HOW:	na mae +.. . 1333726_1336919
+*HOW:	na mae +... 1333726_1336919
 %gls:	no be.3S.PRES
 %eng:	no...
 *HOW:	na dw meddwl bod Disney@s:cym&eng licio (di)pyn bach o drais . 1336919_1341667
@@ -1367,7 +1368,7 @@
 *HOW:	do [=! whispers] . 1388119_1389036
 %gls:	yes
 %eng:	yes
-*HEF:	+, ei er@s:cym&eng +/ . 1389036_1390406
+*HEF:	+, ei er@s:cym&eng +/. 1389036_1390406
 %gls:	POSS.3S IM
 %eng:	er...
 *HOW:	++ ei wahardd . 1390406_1392554
@@ -1376,19 +1377,19 @@
 *HEF:	well@s:cym&eng na na # na er@s:cym&eng hynny yw <bod o (we)di ei> [//] <mae (we)di cael iw> [//] # gafodd o (e)i wahardd am ddeg wythnos gynta . 1392554_1398045
 %gls:	well no no no IM that be.3S.PRES be.NONFIN PRON.3SM PRT.PAST POSS.3S be.3S.PRES PRT.PAST get.NONFIN POSS.3S get.3S.PAST PRON.3SM POSS.3SM ban.NONFIN for ten week first
 %eng:	well no no, no, er, that is, that he's been...he's been...he was banned for ten weeks to start
-*HOW:	+< oh@s:cym&eng mae +// . 1394725_1395073
+*HOW:	+< oh@s:cym&eng mae +//. 1394725_1395073
 %gls:	IM be.3S.PRES
 %eng:	oh...
 *HOW:	do glywais [?] i hynna [?] de . 1397557_1398533
 %gls:	yes hear.1S.PAST PRON.1S that TAG
 %eng:	yes, I heard that, you know
-*HEF:	ond [/] ond mae nhw (we)di um@s:cym&eng er@s:cym&eng gostwng y gwaharddiad i chwe wythnos +/ . 1398045_1402666
+*HEF:	ond [/] ond mae nhw (we)di um@s:cym&eng er@s:cym&eng gostwng y gwaharddiad i chwe wythnos +/. 1398045_1402666
 %gls:	but but be.3PL.PRES PRON.3PL PRT.PAST IM IM reduce.NONFIN DET ban to six week
 %eng:	but...but they've, um, er, reduced the ban to six weeks...
-*HOW:	oh@s:cym&eng <mae hynny (y)n> [?] +// . 1402666_1403281
+*HOW:	oh@s:cym&eng <mae hynny (y)n> [?] +//. 1402666_1403281
 %gls:	IM be.3S.PRES that PRT
 %eng:	oh that's...
-*HOW:	oh@s:cym&eng felly <fydd o (y)n> [/] fydd o (y)n +/ . 1403281_1404709
+*HOW:	oh@s:cym&eng felly <fydd o (y)n> [/] fydd o (y)n +/. 1403281_1404709
 %gls:	IM thus be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT
 %eng:	oh so he'll be...he'll be...
 *HEF:	+, um@s:cym&eng # rŵan . 1403920_1405325
@@ -1440,7 +1441,7 @@
 *HEF:	+< yeah@s:cym&eng yeah@s:cym&eng . 1442562_1443259
 %gls:	yeah yeah
 %eng:	yeah, yeah
-*HOW:	<mae nhw> [?] xx +/ . 1443061_1443688
+*HOW:	<mae nhw> [?] xx +/. 1443061_1443688
 %gls:	be.3PL.PRES PRON.3PL xx
 %eng:	they [...] ...
 *HEF:	xx o't ti (we)di clywed bod # Stephen_Jones@s:cym&eng ar ei ffordd nôl i Llanelli@s:cym&eng ? 1443259_1446498
@@ -1464,10 +1465,10 @@
 *HEF:	ond wedyn # mae (y)n dod o ardal Caerfyrddin tydy . 1465260_1470205
 %gls:	but then be.3S.PRES PRT come.NONFIN from area Camarthen be.3S.PRES.NEG
 %eng:	but then, he comes from the Camarthen area, doesn't he
-*HEF:	mae (we)di &x &x # chwarae (e)fo # Dwayne_Peel@s:cym&eng o (y)r blaen felly +/ . 1470205_1473971
+*HEF:	mae (we)di &x &x # chwarae (e)fo # Dwayne_Peel@s:cym&eng o (y)r blaen felly +/. 1470205_1473971
 %gls:	be.3S.PRES PRT.PAST play.NONFIN with Dwayne_Peel of DET front thus
 %eng:	he's played with Dwayne Peel before, so...
-*HOW:	yndy a dw [/] dw meddwl just@s:cym&eng o ran # gweld +/ . 1473460_1475828
+*HOW:	yndy a dw [/] dw meddwl just@s:cym&eng o ran # gweld +/. 1473460_1475828
 %gls:	be.3S.PRES and be.1S.PRES be.1S.PRES think.NONFIN just of part see.NONFIN
 %eng:	yes, and I think just in terms of seeing...
 *HEF:	mae wneud synnwyr yn_dydy . 1475329_1476792
@@ -1476,7 +1477,7 @@
 *HOW:	ydy xx gweld be sy digwydd i chwaraeon [* chwaraewyr] [//] # chwaraeon chwaraewyr [!!] # pan fyddan nhw mynd i Gaerdydd . 1476606_1482074
 %gls:	be.3S.PRES xx see.NONFIN what be.PRES.REL happen.NONFIN to sports sports players when be.3PL.FUT PRON.3PL go.NONFIN to Cardiff
 %eng:	yes [...] see what happens to sports...sports!..players when they go to Cardiff
-*HOW:	<tydyn nhw> [/] tydyn nhw ddim yn +.. . 1482074_1485766
+*HOW:	<tydyn nhw> [/] tydyn nhw ddim yn +... 1482074_1485766
 %gls:	be.3PL.PRES.NEG PRON.3PL be.3PL.PRES.NEG PRON.3PL NEG PRT
 %eng:	they're not...they're not...
 *HOW:	dw meddwl <mae Caerdydd cyni(fer)> [///] mae (y)na gynifer o chwae@s:cym&eng [*] [//] chwaraewyr da sy just@s:cym&eng wedi dod yn chwaraewyr sâl tra bod nhw yng Nghaerdydd . 1485766_1493011
@@ -1494,7 +1495,7 @@
 *HOW:	<dw i> [/] dw i falch bod o (we)di mynd i Lanelli@s:cym&eng . 1497458_1498932
 %gls:	be.1S.PRES PRON.1S be.1S.PRES PRON.1S glad be.NONFIN PRON.3SM PRT.PAST go.NONFIN to Llanelli
 %eng:	I'm...I'm glad that he's gone to Llanelli
-*HOW:	dw meddwl fod o (we)di +/ . 1498932_1499605
+*HOW:	dw meddwl fod o (we)di +/. 1498932_1499605
 %gls:	be.1S.PRES think.NONFIN be.NONFIN PRON.3SM PRT.PAST
 %eng:	I think he's...
 *HEF:	na dw meddwl <(dy)na (y)r &dɛ> [//] dyna oedd y dewis iawn . 1499630_1501881
@@ -1512,7 +1513,7 @@
 *HOW:	glywais i bod nhw wedi curo Leinster@s:cym&eng yeah@s:cym&eng . 1505445_1507338
 %gls:	hear.1S.PAST PRON.1S be.NONFIN PRON.3PL PRT.PAST beat.NONFIN Leinster yeah
 %eng:	I heard they'd beaten Leinster, yeah
-*HEF:	+< <&s mae> [?] gynnyn nhw bedair +// . 1505921_1507013
+*HEF:	+< <&s mae> [?] gynnyn nhw bedair +//. 1505921_1507013
 %gls:	be.3S.PRES with.3PL PRON.3PL four.F
 %eng:	they've got four...
 *HEF:	do do <dim ond> [/] dim ond just@s:cym&eng curo@s:cym&eng . 1507338_1510356
@@ -1524,7 +1525,7 @@
 *HOW:	yeah@s:cym&eng . 1510356_1510681
 %gls:	yeah
 %eng:	yeah
-*HEF:	ond # <mae nhw ryw> [///] # mae gynnyn nhw # pedair # game@s:cym&eng +/ . 1510681_1515825
+*HEF:	ond # <mae nhw ryw> [///] # mae gynnyn nhw # pedair # game@s:cym&eng +/. 1510681_1515825
 %gls:	but be.3PL.PRES PRON.3PL some be.3S.PRES with.3PL PRON.3PL four.F game
 %eng:	but they're about...they've got four games...
 *HOW:	mmm@s:cym&eng . 1515825_1516335
@@ -1533,7 +1534,7 @@
 *HEF:	+, um@s:cym&eng # yn ychwanegol er@s:cym&eng # i chwarae # um@s:cym&eng # o (e)u cymharu â (y)r timau sydd <ar yr> [//] # <ar fr(ig)> [/] ar frig y tabl . 1516335_1525844
 %gls:	IM PRT additional IM to play.NONFIN IM of POSS.3PL compare.NONFIN with DET teams be.PRES.REL on DET on peak on peak DET table
 %eng:	um extra er, to play, um, compared to the on top...on top of the table
-*HEF:	wedyn um@s:cym&eng # dw meddwl o:s [/] os [/] os fyddan nhw curo (y)r gemau (y)na i [/] i_gyd neu (y)n curo ryw dair o (y)r bedair +/ . 1525844_1535527
+*HEF:	wedyn um@s:cym&eng # dw meddwl o:s [/] os [/] os fyddan nhw curo (y)r gemau (y)na i [/] i_gyd neu (y)n curo ryw dair o (y)r bedair +/. 1525844_1535527
 %gls:	then IM be.1S.PRES think.NONFIN if if if be.3PL.FUT PRON.3PL win.NONFIN DET gamese there to all or PRT win.NONFIN some three.F of DET four.F
 %eng:	so, um, I think if...if...if they win all those games, or win about three of the four...
 *HOW:	yeah@s:cym&eng . 1535527_1535829
@@ -1548,10 +1549,10 @@
 *HOW:	be (y)dy <enw hi> [?] ? 1543681_1544215
 %gls:	what be.3S.PRES name PRON.3SF
 %eng:	what's it called?
-*HOW:	y bencampwr(iaeth) +// . 1544215_1545144
+*HOW:	y bencampwr(iaeth) +//. 1544215_1545144
 %gls:	DET championship
 %eng:	the championsh...
-*HOW:	well@s:cym&eng dim pencampwriaeth +/ . 1545144_1546165
+*HOW:	well@s:cym&eng dim pencampwriaeth +/. 1545144_1546165
 %gls:	well NEG championship
 %eng:	well, not championship...
 *HEF:	+< y Heineken@s:cym&eng ? 1545469_1546305
@@ -1560,7 +1561,7 @@
 *HOW:	ddim yr Heineken@s:cym&eng . 1546305_1547454
 %gls:	NEG DET Heineken
 %eng:	not the Heineken
-*HOW:	yr un rhwng # clybiau Cymru a rei +/ . 1547454_1549463
+*HOW:	yr un rhwng # clybiau Cymru a rei +/. 1547454_1549463
 %gls:	DET one between clubs Wales and some
 %eng:	the one between the Wales clubs and...
 *HEF:	Powergen@s:cym&eng (y)dy hwnna [?] . 1549149_1550136
@@ -1572,7 +1573,7 @@
 *HOW:	be sy (y)n digwydd efo hwnna ? 1550171_1550926
 %gls:	what be.PRES.REL PRT happen.NONFIN with that
 %eng:	what's happening with that?
-*HEF:	+< um@s:cym&eng # dw i &mɛ +// . 1550310_1552806
+*HEF:	+< um@s:cym&eng # dw i &mɛ +//. 1550310_1552806
 %gls:	IM be.1S.PRES PRON.1S
 %eng:	um, I...
 *HEF:	<ydy o> [//] ai dim ond un team@s:cym&eng sy drwodd yn_de . 1552806_1555302
@@ -1587,10 +1588,10 @@
 *HEF:	dw meddwl ia . 1557950_1559215
 %gls:	be.1S.PRES think.NONFIN yes
 %eng:	I think so, yes
-*HOW:	mmm@s:cym&eng # (ba)swn i (ddi)m yn synnu # ond +.. . 1558902_1560771
+*HOW:	mmm@s:cym&eng # (ba)swn i (ddi)m yn synnu # ond +... 1558902_1560771
 %gls:	IM be.1S.CONDIT PRON.1S NEG PRT be_surprised.NONFIN but
 %eng:	mm, I wouldn't be surprised, but...
-*HEF:	achos xx +// . 1560771_1562152
+*HEF:	achos xx +//. 1560771_1562152
 %gls:	because xx
 %eng:	because [...] ...
 *HEF:	ai dim ond Llanelli@s:cym&eng sy drwodd efo (y)r # Heineken@s:cym&eng # ta +//? 1562152_1565717
@@ -1611,7 +1612,7 @@
 *HOW:	achos er@s:cym&eng oedden nhw (we)di mynd i [//] at Wasps@s:cym&eng neu rywbeth ? 1573902_1577106
 %gls:	because IM be.3PL.IMP PRON.3PL PRT.PAST go.NONFIN to to Wasps or something
 %eng:	because er, they went to...to Wasps or something?
-*HEF:	wnaethon nhw golli (y)n Wasps@s:cym&eng yn_do neu er@s:cym&eng er@s:cym&eng +/ . 1577106_1581170
+*HEF:	wnaethon nhw golli (y)n Wasps@s:cym&eng yn_do neu er@s:cym&eng er@s:cym&eng +/. 1577106_1581170
 %gls:	do.3PL.PAST PRON.3PL loose.NONFIN in Wasps yes or IM IM
 %eng:	they lost at Wasps, didn't they, or, er, er...
 *HOW:	+< xx er@s:cym&eng oh@s:cym&eng iawn . 1579370_1580334
@@ -1630,7 +1631,7 @@
 *HOW:	oh@s:cym&eng dear@s:cym&eng . 1586359_1587253
 %gls:	IM dear
 %eng:	oh dear
-*HEF:	um@s:cym&eng # wedyn <dw i> [/] <dw i (ddi)m yn> [/] dw (ddi)m yn sure@s:cym&eng pwy sydd dal +// . 1587253_1594022
+*HEF:	um@s:cym&eng # wedyn <dw i> [/] <dw i (ddi)m yn> [/] dw (ddi)m yn sure@s:cym&eng pwy sydd dal +//. 1587253_1594022
 %gls:	IM then be.1S.PRES PRON.1S be.1S.PRES PRON.1S NEG PRT be.1S.PRES NEG PRT sure who be.PRES.REL still
 %eng:	um, so I...I'm not...I'm not sure who's still...
 *HEF:	dw meddwl bod gyn Caerdydd obaith . 1594022_1596355
@@ -1642,7 +1643,7 @@
 *HOW:	mmm@s:cym&eng . 1599989_1600349
 %gls:	IM
 %eng:	mm
-*HEF:	mae gynnyn nhw # er@s:cym&eng Perpignan@s:cym&eng a # Calvisano@s:cym&eng +/ . 1600047_1604877
+*HEF:	mae gynnyn nhw # er@s:cym&eng Perpignan@s:cym&eng a # Calvisano@s:cym&eng +/. 1600047_1604877
 %gls:	be.3S.PRES with.3PL PRON.3PL IM Perpignan and Calvisano
 %eng:	they've got, er, Perpignan and Calvisano...
 *HOW:	yeah@s:cym&eng . 1604877_1605318
@@ -1654,7 +1655,7 @@
 *HOW:	iawn yeah@s:cym&eng . 1615814_1616313
 %gls:	right yeah
 %eng:	right, yeah
-*HEF:	felly dydy hwnna ddim yn +// . 1616313_1617509
+*HEF:	felly dydy hwnna ddim yn +//. 1616313_1617509
 %gls:	thus be.3S.PRES.NEG that NEG PRT
 %eng:	so that's not...
 *HOW:	+< yeah@s:cym&eng . 1616684_1617010
@@ -1666,10 +1667,10 @@
 *HEF:	felly dydy hwnna ddim yn er@s:cym&eng # group@s:cym&eng anodd iawn mewn gwirionedd . 1619529_1622919
 %gls:	thus be.3S.PRES.NEG that NEG PRT IM group difficult very in truth
 %eng:	so, that's not a very difficult group really
-*HOW:	well@s:cym&eng (en)wedig iddyn nhw +// . 1622791_1623523
+*HOW:	well@s:cym&eng (en)wedig iddyn nhw +//. 1622791_1623523
 %gls:	well particlar for.3PL PRON.3PL
 %eng:	well particularly for them...
-*HOW:	ddylsai fo ddim # &m bod chwaith de o ystyried fath â # lle mae timau eraill yn [/] # yn eu gwledydd # fath â # eu hun # a lle mae Caerdydd xxx chwaraewyr +/ . 1623523_1635520
+*HOW:	ddylsai fo ddim # &m bod chwaith de o ystyried fath â # lle mae timau eraill yn [/] # yn eu gwledydd # fath â # eu hun # a lle mae Caerdydd xxx chwaraewyr +/. 1623523_1635520
 %gls:	should.3S.CONDIT PRON.3SM NEG be.NONFIN either TAG of consider.NONFIN  kind with where be.3S.PRES teams other PRT PRT POSS.3PL countries kind with POSS.3PL self and where be.3S.PRES Cardiff xxx players
 %eng:	and it shouldn't be either, you know, considering, like, where other teams are in...in their, like, own countries, and where Cardiff is [...] players
 *HEF:	+< mmm@s:cym&eng . 1633078_1633356
@@ -1687,7 +1688,7 @@
 *HEF:	na mae o (y)n um@s:cym&eng # xx bod (y)chydig bach o siom # &=laugh <yr er@s:cym&eng> [//] # fel mae timau Cymru (we)di chwarae yn enwedig y Gweilch . 1638198_1648089
 %gls:	no be.3S.PRES PRON.3SM PRT IM xx be.NONFIN a_little small of disappointment DET IM like be.3S.PRES teams Wales PRT.PAST play.NONFIN PRT particular DET Ospreys
 %eng:	no, it's, um, [...] been a bit of a disappointment, the er...how the Welsh teams have played, particularly the Ospreys
-*HEF:	ond hynny yw mae (y)n +/ . 1648089_1649657
+*HEF:	ond hynny yw mae (y)n +/. 1648089_1649657
 %gls:	but that be.3S.PRES be.3S.PRES PRT
 %eng:	but that is, it's...
 *HOW:	+< dw (ddi)m yn synnu cymaint am (r)heina de . 1649065_1650504
@@ -1705,7 +1706,7 @@
 *HOW:	yeah@s:cym&eng . 1658213_1658724
 %gls:	yeah
 %eng:	yeah
-*HEF:	dw meddwl mae nhw (we)di cael +// . 1658699_1659665
+*HEF:	dw meddwl mae nhw (we)di cael +//. 1658699_1659665
 %gls:	be.1S.PRES think.NONFIN be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN
 %eng:	I think they've got...
 *HEF:	&m mae # eitha dipyn o amser ar_ôl yn yr # Gynghrair_Geltaidd . 1659665_1663206
@@ -1732,7 +1733,7 @@
 *HOW:	+< yeah@s:cym&eng . 1689502_1689851
 %gls:	yeah
 %eng:	yeah
-*HEF:	mae (y)na # nifer o dimau +// . 1690118_1692138
+*HEF:	mae (y)na # nifer o dimau +//. 1690118_1692138
 %gls:	be.3S.PRES there number of teams
 %eng:	there are many teams...
 *HEF:	mae [//] dw meddwl bod y timau # cymreig i_gyd # wedi chwarae dipyn yn llai o gemau # hyd yn hyn <na (y)r> [/] na [///] # yn enwedig timau (y)r Alban . 1692138_1700845
@@ -1741,7 +1742,7 @@
 *HOW:	yeah@s:cym&eng . 1700845_1702645
 %gls:	yeah
 %eng:	yeah
-*HEF:	um@s:cym&eng # achos <dw meddwl> [/] # dw i (y)n meddwl na # &b yr Borde(rs)@s:cym&eng +// . 1702343_1709158
+*HEF:	um@s:cym&eng # achos <dw meddwl> [/] # dw i (y)n meddwl na # &b yr Borde(rs)@s:cym&eng +//. 1702343_1709158
 %gls:	IM because be.1S.PRES think.NONFIN be.1S.PRES PRON.1S PRT think.NONFIN PRT DET Borders
 %eng:	um because I think...I think that the Borde...
 *HEF:	na # dw meddwl Caeredin sy (y)n ail . 1709158_1712130
@@ -1750,7 +1751,7 @@
 *HOW:	xx wnes i sylwi bod timau (y)r Alban yn xx [//] # wneud gymaint yn well # er@s:cym&eng &d eleni yeah@s:cym&eng . 1712130_1717877
 %gls:	xx do.1S.PAST PRON.1S notice.NONFIN be.NONFIN teams DET Scotland PRT xx do.NONFIN so_much PRT better IM this_year yeah
 %eng:	[...] I noticed that the Scottish teams are [...] ...doing so much better this year, yeah
-*HEF:	+< mmm@s:cym&eng ond bod nhw (we)di +// . 1716298_1717157
+*HEF:	+< mmm@s:cym&eng ond bod nhw (we)di +//. 1716298_1717157
 %gls:	IM but be.NONFIN PRON.3PL PRT.PAST
 %eng:	mm, but that they've...
 *HEF:	mae nhw (we)di bod yn chwarae well . 1717227_1718272
@@ -1771,7 +1772,7 @@
 *HEF:	+< xx yeah@s:cym&eng . 1742316_1742943
 %gls:	xx yeah
 %eng:	[...] yeah
-*HOW:	achos # er@s:cym&eng dw meddwl bob +// . 1743907_1745618
+*HOW:	achos # er@s:cym&eng dw meddwl bob +//. 1743907_1745618
 %gls:	because IM be.1S.PRES think.NONFIN every
 %eng:	because, er, I think every...
 *HOW:	ydy # Borders@s:cym&eng yn dal ar y gwaelod ? 1745618_1747928
@@ -1792,26 +1793,26 @@
 *HOW:	oh@s:cym&eng mae (y)n iawn felly de . 1752491_1753617
 %gls:	IM be.3S.PRES PRT right thus TAG
 %eng:	oh it's alright then, isn't it
-*HEF:	ond <mae Conn(aught)@s:cym&eng> [/] # mae Connaught@s:cym&eng # yn bach o +// . 1753617_1757088
+*HEF:	ond <mae Conn(aught)@s:cym&eng> [/] # mae Connaught@s:cym&eng # yn bach o +//. 1753617_1757088
 %gls:	but be.3S.PRES Connaught be.3S.PRES Connaught PRT small of
 %eng:	but Conn...Connaught are a bit of a...
-*HEF:	mae nhw # braidd yn [/] # yn sâl # yn rhy +// . 1757088_1761071
+*HEF:	mae nhw # braidd yn [/] # yn sâl # yn rhy +//. 1757088_1761071
 %gls:	be.3PL.PRES PRON.3PL rather PRT PRT ill PRT too
 %eng:	they're a bit...a bit poor to...
 *HEF:	mae nhw (y)n gyson sâl . 1761071_1762464
 %gls:	be.3PL.PRES PRON.3PL PRT consistent ill
 %eng:	they're consistently poor
-*HEF:	a mae hynna bach yn +/ . 1762464_1763300
+*HEF:	a mae hynna bach yn +/. 1762464_1763300
 %gls:	and be.3S.PRES that small PRT
 %eng:	and that's a bit...
-*HOW:	xx +/ . 1763300_1763729
-*HEF:	+, wael ar_gyfer yr er@s:cym&eng +/ . 1763729_1765494
+*HOW:	xx +/. 1763300_1763729
+*HEF:	+, wael ar_gyfer yr er@s:cym&eng +/. 1763729_1765494
 %gls:	bad for DET IM
 %eng:	bad for the, er...
 *HOW:	+< yeah@s:cym&eng . 1764542_1764960
 %gls:	yeah
 %eng:	yeah
-*HOW:	nhw [?] +/ . 1765494_1766365
+*HOW:	nhw [?] +/. 1765494_1766365
 %gls:	PRON.3PL
 %eng:	them...
 *HEF:	+, y timau gwyddelig xx . 1766156_1767468
@@ -1838,32 +1839,32 @@
 *HEF:	+< dw meddwl dyna (y)dy (y)r drwg yeah@s:cym&eng . 1775467_1777150
 %gls:	be.1S.PRES think.NONFIN there be.3S.PRES DET bad yeah
 %eng:	I think that's the problem, yeah
-*HOW:	<achos efo> [?] [/] <efo # Munster@s:cym&eng a> [///] # well@s:cym&eng <efo &tə> [//] efo tri # team@s:cym&eng arall ond enwedig Munster@s:cym&eng a Leinster@s:cym&eng mae &m +// . 1777150_1785115
+*HOW:	<achos efo> [?] [/] <efo # Munster@s:cym&eng a> [///] # well@s:cym&eng <efo &tə> [//] efo tri # team@s:cym&eng arall ond enwedig Munster@s:cym&eng a Leinster@s:cym&eng mae &m +//. 1777150_1785115
 %gls:	because with with Munster and well with with three.M team other but particular Munster and Leinster be.3S.PRES
 %eng:	because with...with Munster and...well, with...with three other teams but particularly Munster and Leinster...
 *HEF:	+< mmm@s:cym&eng . 1783188_1783443
 %gls:	IM
 %eng:	mm
-*HOW:	os ti sbïo ar # deam@s:cym&eng Iwerddon +/ . 1785115_1788215
+*HOW:	os ti sbïo ar # deam@s:cym&eng Iwerddon +/. 1785115_1788215
 %gls:	if PRON.2S look.NONFIN at team Ireland
 %eng:	if you look at the Ireland team...
 *HEF:	mmm@s:cym&eng . 1788215_1788656
 %gls:	IM
 %eng:	mm
-*HOW:	+, lle mae chwaraewyr nhw (y)n dod +/ . 1788656_1789945
+*HOW:	+, lle mae chwaraewyr nhw (y)n dod +/. 1788656_1789945
 %gls:	where be.3S.PRES players PRON.3PL PRT come.NONFIN
 %eng:	where their players come from...
 *HEF:	mmm@s:cym&eng . 1789945_1790490
 %gls:	IM
 %eng:	mm
-*HOW:	xxx +/ . 1790490_1792119
+*HOW:	xxx +/. 1790490_1792119
 *HEF:	er mae Ulster@s:cym&eng (we)di bod yn # er@s:cym&eng gryf um@s:cym&eng yn ddiweddar . 1790947_1794325
 %gls:	although be.3S.PRES Ulster PRT.PAST be.NONFIN PRT IM strong IM PRT recent
 %eng:	although Ulster have been, er, strong, um recently
 *HOW:	+< &m yndan mae nhw . 1792433_1793280
 %gls:	be.3PL.PRES be.3PL.PRES PRON.3PL
 %eng:	yes they have
-*HEF:	xx mae (y)na dipyn o chwaraewyr +// . 1794325_1795695
+*HEF:	xx mae (y)na dipyn o chwaraewyr +//. 1794325_1795695
 %gls:	xx be.3S.PRES there a_little of players
 %eng:	[...] there are a few players...
 *HEF:	mae [/] mae fel (pe)tasai (y)na newid <ar &d> [/] ar droed yn # um@s:cym&eng rugby@s:cym&eng Iwerddon . 1795695_1801256
@@ -1878,7 +1879,7 @@
 *HOW:	yeah@s:cym&eng . 1812599_1812924
 %gls:	yeah
 %eng:	yeah
-*HEF:	Trimble@s:cym&eng a +/ . 1812924_1814054
+*HEF:	Trimble@s:cym&eng a +/. 1812924_1814054
 %gls:	Trimble and
 %eng:	Trimble and...
 *HOW:	&=laugh Trimb(le)@s:cym&eng [/] # Trimble@s:cym&eng yeah@s:cym&eng . 1814054_1815865
@@ -1890,7 +1891,7 @@
 *HOW:	yeah@s:cym&eng . 1815923_1816214
 %gls:	yeah
 %eng:	yeah
-*HEF:	<i um@s:cym&eng> [/] i Reverend@s:eng [?] +// . 1816214_1819557
+*HEF:	<i um@s:cym&eng> [/] i Reverend@s:eng [?] +//. 1816214_1819557
 %gls:	for IM for Reverend
 %eng:	for um...for Reverend
 *HEF:	oh@s:cym&eng na # Paisley@s:cym&eng (y)dy hwnna de &=laugh . 1819557_1824050
@@ -1903,35 +1904,35 @@
 *HEF:	yeah@s:cym&eng . 1833292_1834372
 %gls:	yeah
 %eng:	yeah
-*HOW:	xx ond [/] ond [/] ond [//] dw [//] dyna [?] [//] # ond dw (y)n gwybod na ryw # obaith eitha +// . 1834372_1839236
+*HOW:	xx ond [/] ond [/] ond [//] dw [//] dyna [?] [//] # ond dw (y)n gwybod na ryw # obaith eitha +//. 1834372_1839236
 %gls:	xx but but but be.1S.PRES there but be.1S.PRES PRT know.NONFIN PRT some hope quite
 %eng:	[...] but...but...but...I...but I know that quite a [...] hope...
 *HOW:	xx [/] xx [//] mae (y)n groes i fath â ysbryd y game@s:cym&eng rywsut . 1839236_1842255
 %gls:	xx xx be.3S.PRES PRT across to kind with spirit DET game somehow
 %eng:	[...] it's against the spirit of the game somehow
-*HOW:	ond dw gobeithio bydd Cymru (y)n gallu sticio xx i Iwerddon +/ . 1842255_1844705
+*HOW:	ond dw gobeithio bydd Cymru (y)n gallu sticio xx i Iwerddon +/. 1842255_1844705
 %gls:	but be.1S.PRES hope.NONFIN be.3S.FUT Wales PRT can.NONFIN stick.NONFIN xx to Ireland
 %eng:	but I hope that Wales will be able to stick [...] to Ireland
 *HEF:	yeah@s:cym&eng . 1844705_1845181
 %gls:	yeah
 %eng:	yeah
-*HOW:	+, er@s:cym&eng ym mhen [//] pencampwriaeth y chwe gwlad eleni just@s:cym&eng achos bod +/ . 1845181_1848362
+*HOW:	+, er@s:cym&eng ym mhen [//] pencampwriaeth y chwe gwlad eleni just@s:cym&eng achos bod +/. 1845181_1848362
 %gls:	IM in head championship DET six country this_year just because be.NONFIN
 %eng:	er in the six nations championship this year, just because...
 *HEF:	xx . 1847932_1848466
 *HOW:	yeah@s:cym&eng [?] . 1848466_1848861
 %gls:	yeah
 %eng:	yeah
-*HOW:	um@s:cym&eng # felly efo [/] efo +// . 1848861_1852762
+*HOW:	um@s:cym&eng # felly efo [/] efo +//. 1848861_1852762
 %gls:	IM thus with with
 %eng:	um, so with...with...
 *HOW:	<fyswn i (y)n> [/] # fyswn i (y)n gobeithio bod nhw (y)n gallu ennill # tair game@s:cym&eng o leia . 1852762_1858892
 %gls:	be.1S.CONDIT PRON.1S PRT be.1S.CONDIT PRON.1S PRT hope.NONFIN be.NONFIN PRON.3PL PRT can.NONFIN win.NONFIN three.F game of least
 %eng:	I'd...I'd hope they can win three games at least
-*HEF:	yeah@s:cym&eng ond <dw (y)n> [/] # dw i (y)n meddwl bydd Ffrainc <yn er@s:cym&eng> [/] # yn drech na ni dw i meddwl +/ . 1858892_1865173
+*HEF:	yeah@s:cym&eng ond <dw (y)n> [/] # dw i (y)n meddwl bydd Ffrainc <yn er@s:cym&eng> [/] # yn drech na ni dw i meddwl +/. 1858892_1865173
 %gls:	yeah but be.1S.PRES PRT be.1S.PRES PRON.1S PRT think.NONFIN be.3S.FUT France PRT IM PRT dominant PRT PRON.1PL be.1S.PRES PRON.1S think.NONFIN
 %eng:	yeah but I...I think that France will beat us, I think
-*HOW:	+< <dw (ddi)m yn> [/] dw (ddi)m yn &kɪ +// . 1860436_1861086
+*HOW:	+< <dw (ddi)m yn> [/] dw (ddi)m yn &kɪ +//. 1860436_1861086
 %gls:	be.1S.PRES NEG PRT be.1S.PRES NEG PRT
 %eng:	I'm not...I'm not...
 *HOW:	&d yeah@s:cym&eng dw (y)n cytuno # yeah@s:cym&eng . 1865173_1867263
@@ -1946,16 +1947,16 @@
 *HOW:	+< <dw i> [///] na . 1871721_1872510
 %gls:	be.1S.PRES PRON.1S no
 %eng:	I...no
-*HOW:	na dw i cytu(no) +// . 1873300_1874113
+*HOW:	na dw i cytu(no) +//. 1873300_1874113
 %gls:	no be.1S.PRES PRON.1S agree.NONFIN
 %eng:	no, I agr...
 *HOW:	just@s:cym&eng # curo Lloegr . 1874113_1875575
 %gls:	just beat.NONFIN England
 %eng:	just to beat England
-*HOW:	mmm@s:cym&eng # <os (y)dy> [/] os (y)dy # eejit@s:eng Henson@s:cym&eng # allan # er@s:cym&eng +.. . 1875575_1884329
+*HOW:	mmm@s:cym&eng # <os (y)dy> [/] os (y)dy # eejit@s:eng Henson@s:cym&eng # allan # er@s:cym&eng +... 1875575_1884329
 %gls:	IM if be.3S.PRES if be.3S.PRES eejit Henson out IM
 %eng:	mmm, if...if the eejit Henson is out, er...
-*HOW:	na dw (ddi)m yn +/ . 1884329_1886663
+*HOW:	na dw (ddi)m yn +/. 1884329_1886663
 %gls:	no  be.1S.PRES NEG PRT
 %eng:	no, I'm not...
 *HEF:	yeah@s:cym&eng <(dy)na (y)r> [?] [//] un o (y)r pethau oedd yn [//] xx yn eitha difyr o(edd) (y)n codi o [/] o (y)r business@s:cym&eng Henson@s:cym&eng oedd # um@s:cym&eng # yr unig reswm gafodd o # ei enwi ar_ôl y game@s:cym&eng # um@s:cym&eng # oedd # gan nad oedd yr # ref@s:cym&eng wedi ddal o . 1886663_1904310
@@ -1964,7 +1965,7 @@
 *HOW:	right@s:cym&eng . 1904310_1907294
 %gls:	right
 %eng:	right
-*HEF:	doedd y ref@s:cym&eng heb (we)di gosbi fo +/ . 1907187_1908745
+*HEF:	doedd y ref@s:cym&eng heb (we)di gosbi fo +/. 1907187_1908745
 %gls:	be.3S.IMP.NEG DET ref without PRT.PAST punish.NONFIN PRON.3SM
 %eng:	the ref didn't penalise him
 *HOW:	yeah@s:cym&eng . 1908745_1909117
@@ -1979,7 +1980,7 @@
 *HOW:	+< yeah@s:cym&eng . 1915142_1915618
 %gls:	yeah
 %eng:	yeah
-*HEF:	ac # mae (y)n debyg os bysai fo (we)di cael ei gosbi +/ . 1916315_1920007
+*HEF:	ac # mae (y)n debyg os bysai fo (we)di cael ei gosbi +/. 1916315_1920007
 %gls:	and be.3S.PRES PRT likely if be.3S.CONDIT PRON.3SM PRT.PAST get.NONFIN POSS.3SM penalise.NONFIN
 %eng:	and it's likely that had he not been penalised...
 *HOW:	yeah@s:cym&eng . 1920007_1920436
@@ -1988,8 +1989,8 @@
 *HEF:	+, kick@s:cym&eng rydd yn ei erbyn o neu # kick@s:cym&eng gosb neu # cerdyn melyn # fysai (y)na ddim # um@s:cym&eng # modd mynd # ymlaen efo process@s:cym&eng enwi . 1920436_1931663
 %gls:	kick free PRT POSS.3SM agains PRON.3SM or kick punishment or card yellow be.3S.CONDIT there NEG IM mean go.NONFIN ahead with process name.NONFIN
 %eng:	a free kick against him or a penalty kick or a yellow card, there wouldn't have been a way, um, of going ahead with the citing process
-*HOW:	xxx +/ . 1931663_1933292
-*HEF:	<a wedyn> [?] <mae (y)r> [/] mae (y)r gwahaniaeth rhwng # y gosb # +// . 1933141_1936787
+*HOW:	xxx +/. 1931663_1933292
+*HEF:	<a wedyn> [?] <mae (y)r> [/] mae (y)r gwahaniaeth rhwng # y gosb # +//. 1933141_1936787
 %gls:	and then be.3S.PRES DET be.3S.PRES DET difference between DET punishment
 %eng:	and then the...the difference between the punishment...
 *HOW:	+< mmm@s:cym&eng . 1934953_1935301
@@ -2004,7 +2005,7 @@
 *HOW:	yeah@s:cym&eng . 1942000_1942371
 %gls:	yeah
 %eng:	yeah
-*HEF:	wedyn bysai fo (y)n colli +// . 1942371_1944322
+*HEF:	wedyn bysai fo (y)n colli +//. 1942371_1944322
 %gls:	then be.3S.CONDIT PRON.3SM PRT lose.NONFIN
 %eng:	then he'd lose...
 *HEF:	dw (ddi)m (gwy)bod deuda bod yr [?] game@s:cym&eng hanner ffordd drwodd (ba)sai (y)n colli pedwar_deg munud o rugby@s:cym&eng . 1944322_1948118
@@ -2013,19 +2014,19 @@
 *HOW:	yeah@s:cym&eng . 1948118_1948629
 %gls:	yeah
 %eng:	yeah
-*HEF:	ond mae (y)r gwahaniaeth rhwng y gosb yna a # y gosb # o gael dy enwi a mynd o flaen yr # um@s:cym&eng # y panel@s:cym&eng +/ . 1948629_1958289
+*HEF:	ond mae (y)r gwahaniaeth rhwng y gosb yna a # y gosb # o gael dy enwi a mynd o flaen yr # um@s:cym&eng # y panel@s:cym&eng +/. 1948629_1958289
 %gls:	but be.3S.PRES DET difference between DET punishment there and DET punishment of get.NONFIN POSS.2S name.NONFIN and go.NONFIN of front DET IM DET panel
 %eng:	but the difference between that punishment and that of being cited and appearing before the, um, panel...
 *HOW:	yeah@s:cym&eng . 1958289_1958834
 %gls:	yeah
 %eng:	yeah
-*HEF:	+, disgyblu yn +// . 1958834_1960850
+*HEF:	+, disgyblu yn +//. 1958834_1960850
 %gls:	disciplin.NONFIN PRT
 %eng:	disciplin is...
 *HEF:	<mae (y)n> [/] mae (y)n andros o [/] # o go(sb) [/] gosb fawr . 1960861_1964175
 %gls:	be.3S.PRES PRT be.3S.PRES PRT devil of of punishment punishment big
 %eng:	it's a hell of a big punishment
-*HEF:	timod xxx # bron â bod <isio wneud yn amlwg> [=! laughs] i (y)r ref@s:cym&eng +/ . 1964175_1967414
+*HEF:	timod xxx # bron â bod <isio wneud yn amlwg> [=! laughs] i (y)r ref@s:cym&eng +/. 1964175_1967414
 %gls:	know.2S xx almost with be.NONFIN want.NONFIN do.NONFIN PRT obvious to DET ref
 %eng:	you know, [...] almost want to make it obvious to the ref
 *HOW:	yeah@s:cym&eng . 1967414_1967809
@@ -2034,7 +2035,7 @@
 *HEF:	+, xxx be wyt ti (y)n gwneud . 1967809_1969260
 %gls:	xxx what be.2S.PRES PRON.2S PRT do.NONFIN
 %eng:	[...] what you do
-*HEF:	achos [?] &tn # xx cofio # Sidoli@s:cym&eng a # um@s:cym&eng # be (y)dy enw fo # um@s:cym&eng er@s:cym&eng clo # um@s:cym&eng # Iwerddon # xxx O'Connell@s:cym&eng +/ . 1969260_1982194
+*HEF:	achos [?] &tn # xx cofio # Sidoli@s:cym&eng a # um@s:cym&eng # be (y)dy enw fo # um@s:cym&eng er@s:cym&eng clo # um@s:cym&eng # Iwerddon # xxx O'Connell@s:cym&eng +/. 1969260_1982194
 %gls:	because xx remember.NONFIN Sidoli and IM what be.3S.PRES name PRON.3SM IM IM lock IM Ireland xxx O'Connell
 %eng:	because [...] remember Sidoli and um, what's his name, um er, Ireland lock [...] O'Connell...
 *HOW:	yeah@s:cym&eng . 1982194_1982511
@@ -2055,7 +2056,7 @@
 *HOW:	+< na . 1991428_1991777
 %gls:	no
 %eng:	no
-*HEF:	wnaeth o just@s:cym&eng deud +"/ . 1992020_1992798
+*HEF:	wnaeth o just@s:cym&eng deud +"/. 1992020_1992798
 %gls:	do.3S.PAST PRON.3SM just say.NONFIN
 %eng:	he just said:
 *HEF:	+" right@s:cym&eng # dw (we)di gweld hynna . 1992798_1994679
@@ -2070,16 +2071,16 @@
 *HOW:	yeah@s:cym&eng . 1997512_1998022
 %gls:	yeah
 %eng:	yeah
-*HEF:	timod i gymharu hynny efo +.. . 1998022_2000611
+*HEF:	timod i gymharu hynny efo +... 1998022_2000611
 %gls:	know.2S to compare.NONFIN that with
 %eng:	you know, to compare that with...
-*HOW:	yeah@s:cym&eng mae (y)n +/ . 2000611_2003676
+*HOW:	yeah@s:cym&eng mae (y)n +/. 2000611_2003676
 %gls:	yeah be.3S.PRES PRT
 %eng:	yeah it's...
-*HEF:	oedd yna gyn [/] gyn_lleied o # +// . 2003676_2005968
+*HEF:	oedd yna gyn [/] gyn_lleied o # +//. 2003676_2005968
 %gls:	be.3S.IMP there so so_little of
 %eng:	there was so...so little...
-*HEF:	bod [/] bod y [?] ddau yna (we)di cael i_ffwrdd # efo hi heb unrhyw gosb o_gwbl +/ . 2005957_2010677
+*HEF:	bod [/] bod y [?] ddau yna (we)di cael i_ffwrdd # efo hi heb unrhyw gosb o_gwbl +/. 2005957_2010677
 %gls:	be.NONFIN be.NONFIN DET two.M there PRT.PAST get.NONFIN away with PRON.3SF without any punishment at_all
 %eng:	that those two got away with it without any punishment at all
 *HOW:	+< yeah@s:cym&eng [?] . 2008135_2008541
@@ -2138,7 +2139,7 @@
 *HOW:	xx oedd o wedi ddal # ar y camerâu felly . 2083627_2087702
 %gls:	xx be.3S.IMP PRON.3SM PRT.PAST catch.NONFIN on DET cameras thus
 %eng:	xx he'd been caught, on the cameras, like
-*HEF:	+< xx # oedden nhw +// . 2086657_2087957
+*HEF:	+< xx # oedden nhw +//. 2086657_2087957
 %gls:	xx be.3PL.IMP PRON.3PL
 %eng:	[...] they were...
 *HEF:	oedd oedd . 2087957_2088665
@@ -2150,7 +2151,7 @@
 *HEF:	oedd # oedd o wedi ddal . 2088956_2090256
 %gls:	be.3S.IMP be.3S.IMP PRON.3SM PRT.PAST catch.NONFIN
 %eng:	yes, he was caught
-*HEF:	ond er@s:cym&eng +.. . 2090256_2091533
+*HEF:	ond er@s:cym&eng +... 2090256_2091533
 %gls:	but IM
 %eng:	but er...
 *HEF:	dw (ddi)m (gwy)bod . 2091533_2094470

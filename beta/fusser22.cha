@@ -3,17 +3,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	WYN Wyn Adult, EVA Eva Adult
-@ID:	cy|siarad|WYN|49;|male|||Adult||
-@ID:	cy|siarad|EVA|40;|female|||Adult||
+@ID:	cym|siarad|WYN|49;|male|||Adult||
+@ID:	cym|siarad|EVA|40;|female|||Adult||
 @Situation:	informal conversation between two colleagues in a cafe
 @Comment:	WYN was brought up in north-west Wales and has lived there all his life
 @Comment:	EVA was born in the Netherlands but has been living in north-west Wales for a number of years
 @Date:	24-FEB-2006
 @Comment:	Researcher:	Marika Fusser, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:27:52
-@Comment:	Filename: Fusser22.CHA; Soundfile: Fusser22.wav
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English, @7 = Dutch
+@Media:	fusser22, audio
+@Comment:	Filename: Fusser22.cha; Soundfile: Fusser22.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Eva's utterances tend to be long, she sometimes lists a lot, across many of Wyn's utterances, some are truncated, and difficult to divide into clauses
 *EVA:	i [/] i [/] <i um@s:cym&eng> [//] # xxx [//] i gau [?] # y rhif archebu . 0_6490
@@ -28,7 +29,7 @@
 *EVA:	bob tro . 7303_8371
 %gls:	every turn
 %eng:	every time
-*EVA:	um@s:cym&eng # ond dw i meddwl um@s:cym&eng # yeah@s:cym&eng <dan ni> [?] # &ra [/] raid i ni # um@s:cym&eng ofyn +/ . 8371_17369
+*EVA:	um@s:cym&eng # ond dw i meddwl um@s:cym&eng # yeah@s:cym&eng <dan ni> [?] # &ra [/] raid i ni # um@s:cym&eng ofyn +/. 8371_17369
 %gls:	IM but be.1S.PRES PRON.1S think.NONFIN IM yeah be.1PL.PRES PRON.1PL necessity for PRON.1PL IM ask.NONFIN
 %eng:	um, but I think, um, yeah we're...we have to ask
 *WYN:	ia rhaid ni ofyn . 17369_18355
@@ -53,7 +54,7 @@
 *WYN:	+< mae hwnna i_fyny Iestyn@s:cym&eng a fi ddeud y gwir . 25711_27197
 %gls:	be.3S.PRES that up Iestyn and PRON.1S say.NONFIN DET truth
 %eng:	that's up to Iestyn and me, to tell the truth
-*WYN:	xxx # ni sydd yn &gwa +// . 27197_29264
+*WYN:	xxx # ni sydd yn &gwa +//. 27197_29264
 %gls:	xxx PRON.1PL be.PRES.REL PRT
 %eng:	[...] it's us who are...
 *EVA:	+< ia . 27662_28022
@@ -111,21 +112,21 @@
 %gls:	yes
 %eng:	yes
 *WYN:	[- eng] xxx # I'm trying to understand why that's happening [?] . 61319_64129
-*WYN:	xxx +/ . 64129_65290
+*WYN:	xxx +/. 64129_65290
 *EVA:	er@s:cym&eng <dw i (y)n> [/] <dw i (y)n> [/] <dw i (y)n> [/] <dw i (y)n> [/] # dw i (y)n dallt . 64953_68297
 %gls:	IM be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT understand.NONFIN
 %eng:	I understand
-*WYN:	xxx +// . 68297_69469
+*WYN:	xxx +//. 68297_69469
 *WYN:	dw (ddi)m yn dallt pam mae (y)n digwydd . 69469_70979
 %gls:	be.1S.PRES NEG PRT understand.NONFIN why be.3S.PRES PRT happen.NONFIN
 %eng:	I don't understand how it happens
-*EVA:	&=sigh ## yeah@s:cym&eng you@s:eng saying@s:eng xxx +/ . 70979_75611
-*WYN:	+< yeah@s:cym&eng # the@s:eng turn_over@s:eng +/ . 74589_75936
-*EVA:	++ is [/] <is xxx> [//] is [/] is +/ . 75936_77469
+*EVA:	&=sigh ## yeah@s:cym&eng you@s:eng saying@s:eng xxx +/. 70979_75611
+*WYN:	+< yeah@s:cym&eng # the@s:eng turn_over@s:eng +/. 74589_75936
+*EVA:	++ is [/] <is xxx> [//] is [/] is +/. 75936_77469
 *WYN:	+< the@s:eng turn_over@s:eng is@s:eng [/] <is@s:eng &g xxx> [//] is@s:eng very@s:cym&eng good@s:eng . 76238_78769
 *EVA:	[- eng] is reasonable . 78374_79106
 *WYN:	yeah@s:cym&eng but@s:eng then@s:eng [?] we@s:eng have@s:eng big@s:eng gaps@s:eng xxx cash@s:eng flow@s:eng xxx . 78978_81857
-*EVA:	+< xxx +.. . 79233_79895
+*EVA:	+< xxx +... 79233_79895
 *EVA:	yeah@s:cym&eng . 81857_82554
 %gls:	yeah
 %eng:	yeah
@@ -133,13 +134,13 @@
 %gls:	xxx what the hell is going on TAG
 %eng:	[...] what the hell's going on, you know
 *WYN:	is@s:eng it@s:eng because@s:eng the@s:eng individual@s:eng # jobs@s:cym&eng of@s:eng work@s:eng are@s:eng getting@s:eng bigger@s:eng ? 84365_88370
-*WYN:	so@s:cym&eng that@s:eng +/ . 88370_89450
+*WYN:	so@s:cym&eng that@s:eng +/. 88370_89450
 *EVA:	yeah@s:cym&eng . 89450_89949
 %gls:	yeah
 %eng:	yeah
-*WYN:	xxx +/ . 89949_90205
-*EVA:	it@s:eng looks@s:eng as@s:eng if@s:eng um@s:cym&eng +// . 90205_91900
-*EVA:	yeah@s:cym&eng dw i meddwl <dw i (y)n> [/] dw i (y)n um@s:cym&eng # gwneud # llai # o anfonebau +/ . 91900_98413
+*WYN:	xxx +/. 89949_90205
+*EVA:	it@s:eng looks@s:eng as@s:eng if@s:eng um@s:cym&eng +//. 90205_91900
+*EVA:	yeah@s:cym&eng dw i meddwl <dw i (y)n> [/] dw i (y)n um@s:cym&eng # gwneud # llai # o anfonebau +/. 91900_98413
 %gls:	yeah be.1S.PRES PRON.1S think.NONFIN be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT IM do.NONFIN less of invoices
 %eng:	yeah, I think I'm...I'm doing less invoices
 *WYN:	ia ia ia . 98413_99922
@@ -155,12 +156,12 @@
 *WYN:	ia . 107852_108444
 %gls:	yes
 %eng:	yes
-*EVA:	um@s:cym&eng # and@s:eng that's@s:eng why@s:eng yeah@s:cym&eng xxx gaps@s:eng +/ . 108444_113483
+*EVA:	um@s:cym&eng # and@s:eng that's@s:eng why@s:eng yeah@s:cym&eng xxx gaps@s:eng +/. 108444_113483
 *WYN:	+< yeah@s:cym&eng . 112600_112949
 %gls:	yeah
 %eng:	yeah
 *WYN:	[- eng] I thought it was that . 113483_114249
-*WYN:	[- eng] that's why +/ . 114249_114748
+*WYN:	[- eng] that's why +/. 114249_114748
 *EVA:	[- eng] +, in the cash flow . 114423_115422
 *WYN:	yeah@s:cym&eng so@s:cym&eng if@s:eng we@s:eng ask@s:eng for@s:eng part@s:cym&eng payments@s:eng <it@s:eng should@s:eng> [/] # it@s:eng should@s:eng be@s:eng better@s:eng . 115422_120066
 *EVA:	+< yeah@s:cym&eng . 117987_118243
@@ -169,10 +170,10 @@
 *EVA:	ia xxx it@s:eng would@s:eng be@s:eng spread@s:eng [/] # spread@s:eng out@s:eng better@s:eng . 119729_122364
 %gls:	yes xxx it would be spread spread out better
 %eng:	yes [...] it would be spread out better
-*WYN:	[- eng] +< because +.. . 120054_120565
+*WYN:	[- eng] +< because +... 120054_120565
 *WYN:	+< that@s:eng [/] that's@s:eng what@s:eng Iestyn@s:cym&eng and@s:eng me@s:eng are@s:eng thinking@s:eng . 121494_123061
-*WYN:	[- eng] (be)cause +/ . 123061_124048
-*EVA:	(be)cause@s:eng xxx ar hyn o bryd <dan ni> [/] dan ni aros # um@s:cym&eng um@s:cym&eng um@s:cym&eng +// . 124048_131188
+*WYN:	[- eng] (be)cause +/. 123061_124048
+*EVA:	(be)cause@s:eng xxx ar hyn o bryd <dan ni> [/] dan ni aros # um@s:cym&eng um@s:cym&eng um@s:cym&eng +//. 124048_131188
 %gls:	because xxx on this of time be.1PL.PRES PRON.1PL be.1PL.PRES PRON.1PL wait.NONFIN IM IM IM
 %eng:	because [...] at the moment we're...we're waiting, um, um, um...
 *EVA:	[- eng] what's an amount “amount” ? 131188_133022
@@ -208,7 +209,7 @@
 *EVA:	+< yeah@s:cym&eng # yeah@s:cym&eng . 151819_152759
 %gls:	yeah yeah
 %eng:	yeah, yeah
-*WYN:	so@s:cym&eng # <ti (y)n &g> [//] os ti (y)n gorod # disgwyl mwy amdano +// . 152759_157554
+*WYN:	so@s:cym&eng # <ti (y)n &g> [//] os ti (y)n gorod # disgwyl mwy amdano +//. 152759_157554
 %gls:	so PRON.2S PRT if PRON.2S PRT must.NONFIN wait.NONFIN more for.3SM
 %eng:	so you...if you have to wait longer for...
 *EVA:	mmm@s:cym&eng . 157543_158390
@@ -217,7 +218,7 @@
 *WYN:	mae &ɬa [//] # fwy o waith # ond # bod o (y)n mwy o # waith efo (e)i_gilydd . 158390_163661
 %gls:	be.3S.PRES more of work but be.NONFIN PRON.3SM PRT more of work with each_other
 %eng:	it's more work, but that it's more work together
-*EVA:	+< mwy +// . 162635_163123
+*EVA:	+< mwy +//. 162635_163123
 %gls:	more
 %eng:	more...
 *EVA:	+< yeah@s:cym&eng . 163250_163661
@@ -236,7 +237,7 @@
 *WYN:	+< &ra [/] rhandaliadau . 168753_170019
 %gls:	part_payments
 %eng:	part payments
-*EVA:	ia &ɔr &o &or um@s:cym&eng # rhan [//] xxx +// . 169833_173363
+*EVA:	ia &ɔr &o &or um@s:cym&eng # rhan [//] xxx +//. 169833_173363
 %gls:	yes IM part xxx
 %eng:	yes [...]
 *WYN:	+< xxx yeah@s:cym&eng . 172469_173757
@@ -246,13 +247,13 @@
 *WYN:	+< mmm@s:cym&eng . 174303_174674
 %gls:	IM
 %eng:	mmm
-*WYN:	yeah@s:cym&eng but@s:eng xxx +// . 176311_177275
+*WYN:	yeah@s:cym&eng but@s:eng xxx +//. 176311_177275
 *WYN:	[- eng] xxx I think it's only asking them you know . 177275_179644
-*EVA:	+< a hefyd +// . 177867_178657
+*EVA:	+< a hefyd +//. 177867_178657
 %gls:	and also
 %eng:	and also...
 *WYN:	[- eng] xxx most people would I think . 179644_180851
-*WYN:	it's@s:eng just@s:cym&eng that@s:eng we@s:eng haven't@s:eng +// . 180851_181931
+*WYN:	it's@s:eng just@s:cym&eng that@s:eng we@s:eng haven't@s:eng +//. 180851_181931
 *EVA:	yeah@s:cym&eng [?] . 181931_182709
 *WYN:	[- eng] people [//] # some people are &sə [//] strange . 182709_184810
 *WYN:	they@s:eng [/] # they@s:eng won't@s:eng pay@s:eng till@s:eng they've@s:eng seen@s:eng the@s:eng end@s:eng of@s:eng the@s:eng work@s:eng de . 184810_187492
@@ -265,9 +266,9 @@
 %gls:	IM play fair if be.3S.PRES work PRT three.M month xxx waiting three months
 %eng:	oh fair play, if the work's three months [...] waiting three months
 *EVA:	yeah@s:cym&eng . 192380_192716
-*WYN:	xxx +// . 192716_193448
-*WYN:	[- eng] xxx <I don't think> [?] +// . 193448_193993
-*WYN:	[- eng] if we ask them xxx +// . 193993_195468
+*WYN:	xxx +//. 192716_193448
+*WYN:	[- eng] xxx <I don't think> [?] +//. 193448_193993
+*WYN:	[- eng] if we ask them xxx +//. 193993_195468
 *EVA:	yeah@s:cym&eng . 195294_195805
 *EVA:	well@s:cym&eng <mae (y)na> [/] mae (y)na pwynt <i er@s:cym&eng> [/] # i cyfarfod # um:@s:cym&eng y dydd Llun . 195805_202922
 %gls:	well be.3S.PRES there be.3S.PRES there point to IM to meet.NONFIN IM DET day Monday
@@ -282,7 +283,7 @@
 *WYN:	yndy . 204419_204802
 %gls:	be.3S.PRES
 %eng:	yes
-*WYN:	um@s:cym&eng a peth arall # mae +// . 204802_207960
+*WYN:	um@s:cym&eng a peth arall # mae +//. 204802_207960
 %gls:	IM and thing other be.3S.PRES
 %eng:	um, and another thing...
 *WYN:	dw i (ddi)m yn sure@s:cym&eng . 207960_209063
@@ -306,7 +307,7 @@
 *WYN:	<dw i> [/] dw i (ddi)m yn meddwl de . 219663_220882
 %gls:	be.1S.PRES PRON.1S be.1S.PRES PRON.1S NEG PRT think.NONFIN TAG
 %eng:	I don't think so, you know
-*EVA:	xxx <dw i> [/] dw i +/ . 220000_221509
+*EVA:	xxx <dw i> [/] dw i +/. 220000_221509
 %gls:	xxx be.1S.PRES PRON.1S be.1S.PRES PRON.1S
 %eng:	[...] I...I...
 *WYN:	+< ti meddwl [?] ? 221149_221509
@@ -348,30 +349,30 @@
 *WYN:	+< na na na na . 250983_251796
 %gls:	no no no no
 %eng:	no no no no
-*EVA:	xxx +// . 251796_252608
-*WYN:	xxx +/ . 252097_253212
+*EVA:	xxx +//. 251796_252608
+*WYN:	xxx +/. 252097_253212
 *EVA:	because@s:eng <mae (y)n &a> [/] <mae (y)n &a> [/] <mae (y)n &a> [/] # mae (y)n &a anodd <i da(llt)> [/] i ddallt . 253212_257949
 %gls:	because be.3S.PRES PRT be.3S.PRES PRT be.3S.PRES PRT be.3S.PRES PRT difficult to understand.NONFIN to understand.NONFIN
 %eng:	because it's difficult to understand
 *WYN:	yndy . 257949_258548
 %gls:	be.3S.PRES
 %eng:	it is
-*WYN:	be sy rhyfedd <ti weld> [?] # hwyrach +// . 258548_261683
+*WYN:	be sy rhyfedd <ti weld> [?] # hwyrach +//. 258548_261683
 %gls:	what be.PRES.REL strange PRON.2S see.NONFIN perhaps
 %eng:	what's strange, you see, perhaps...
 *WYN:	strange@s:eng <(be)cause@s:eng I@s:eng kn(ow)@s:eng> [?] [///] xxx there's@s:eng peaks@s:eng and@s:eng troughs@s:eng de . 261683_264469
 %gls:	strange because I know xxx there's peaks and troughs TAG
-%eng:	strange, because I know.. . [...] there's peaks and troughs, right
+%eng:	strange, because I know... [...] there's peaks and troughs, right
 *EVA:	ia . 264469_265061
 %gls:	yes
 %eng:	yes
 *WYN:	but@s:eng they@s:eng don't@s:eng happen@s:eng in@s:eng the@s:eng same@s:eng time@s:eng every@s:cym&eng year@s:eng . 265061_268359
 *EVA:	[- eng] no . 268359_268893
-*WYN:	you'd@s:eng expect@s:eng the@s:eng [?] seasonal@s:eng business@s:cym&eng like@s:eng this@s:eng one@s:eng here@s:eng +.. . 268893_270948
+*WYN:	you'd@s:eng expect@s:eng the@s:eng [?] seasonal@s:eng business@s:cym&eng like@s:eng this@s:eng one@s:eng here@s:eng +... 268893_270948
 *EVA:	yeah@s:cym&eng . 270948_271342
 %gls:	yeah
 %eng:	yeah
-*WYN:	I'm@s:eng sure@s:cym&eng there@s:eng are@s:eng peaks@s:eng and@s:eng troughs@s:eng xxx troughs@s:eng +/ . 271342_274152
+*WYN:	I'm@s:eng sure@s:cym&eng there@s:eng are@s:eng peaks@s:eng and@s:eng troughs@s:eng xxx troughs@s:eng +/. 271342_274152
 *EVA:	+< xxx . 273038_273328
 *EVA:	oh@s:cym&eng xxx oh@s:cym&eng yma oh@s:cym&eng definitely@s:eng . 273943_276323
 %gls:	IM xxx IM here IM definitely
@@ -401,7 +402,7 @@
 *EVA:	yeah@s:cym&eng . 283900_284330
 %gls:	yeah
 %eng:	yeah
-*WYN:	&wɪθ [//] # &=laugh <dw i (ddi)m yn> [///] dw i just@s:cym&eng ddim yn +// . 284330_286791
+*WYN:	&wɪθ [//] # &=laugh <dw i (ddi)m yn> [///] dw i just@s:cym&eng ddim yn +//. 284330_286791
 %gls:	be.1S.PRES PRON.1S NEG PRT be.1S.PRES PRON.1S just NEG PRT
 %eng:	I don't...I just don't...
 *EVA:	yeah@s:cym&eng . 286791_287465
@@ -413,7 +414,7 @@
 *EVA:	yeah@s:cym&eng . 291598_292457
 %gls:	yeah
 %eng:	yeah
-*WYN:	ond ddim flwyddyn +// . 292457_294140
+*WYN:	ond ddim flwyddyn +//. 292457_294140
 %gls:	but NEG year
 %eng:	but not year...
 *WYN:	xxx er@s:cym&eng flwyddyn dwytha oedd hi (y)n o_k@s:cym&eng (y)n yr ha . 294140_296265
@@ -431,7 +432,7 @@
 *EVA:	yeah@s:cym&eng ? 300556_301590
 %gls:	yeah
 %eng:	yeah?
-*WYN:	xxx dw i (ddi)m yn dallt xxx +// . 301264_302820
+*WYN:	xxx dw i (ddi)m yn dallt xxx +//. 301264_302820
 %gls:	xxx be.1S.PRES PRON.1S NEG PRT understand.NONFIN xxx
 %eng:	[...] I don't understand [...] ...
 *EVA:	<dw i> [/] <dw i> [/] dw i ddim yn dallt hefyd . 302449_304643
@@ -440,7 +441,7 @@
 *WYN:	+< xxx rhyfedd (y)ndy . 303180_304028
 %gls:	xxx strange be.3S.PRES
 %eng:	[...] strange, isn't it
-*WYN:	xxx +// . 304643_306117
+*WYN:	xxx +//. 304643_306117
 *EVA:	+< dw i ddim yn dallt . 305107_306025
 %gls:	be.1S.PRES PRON.1S NEG PRT understand.NONFIN
 %eng:	I don't understand
@@ -489,7 +490,7 @@
 *WYN:	timod mae Stan@s:cym&eng yn gwneud y pethau # dw i ddim yn licio wneud # neu dw i ddim # (d)igon: e:r@s:cym&eng disciplined@s:eng i wneud &=laugh timod . 329152_341307
 %gls:	know.2S be.3S.PRES Stan PRT do.NONFIN DET things be.1S.PRES PRON.1S NEG PRT like.NONFIN do.NONFIN or be.1S.PRES PRON.1S NEG enough IM disciplined to do.NONFIN know.2S
 %eng:	you know, Stan does the things I don't like to do, or that I'm not disciplined enough to do, you know
-*EVA:	+< xxx +.. . 338660_339264
+*EVA:	+< xxx +... 338660_339264
 *EVA:	ia ia yeah@s:cym&eng . 340286_341574
 %gls:	yes yes yeah
 %eng:	yes yes yeah
@@ -517,7 +518,7 @@
 *WYN:	ia yeah@s:cym&eng . 356342_356969
 %gls:	yes yeah
 %eng:	yes yeah
-*EVA:	a &=sigh although@s:eng yeah@s:cym&eng [?] +// . 356644_359872
+*EVA:	a &=sigh although@s:eng yeah@s:cym&eng [?] +//. 356644_359872
 %gls:	and although yeah
 %eng:	and although, yeah...
 *EVA:	“although@s:eng” “er” ? 359872_360475
@@ -526,7 +527,7 @@
 *WYN:	yeah@s:cym&eng yeah@s:cym&eng “er” . 360475_361125
 %gls:	yeah yeah although
 %eng:	yeah yeah "er"
-*EVA:	er mae o (y)n er@s:cym&eng <brysur efo> [/] brysur efo um:@s:cym&eng ddysgu Ffrainc [*] +.. . 360673_366164
+*EVA:	er mae o (y)n er@s:cym&eng <brysur efo> [/] brysur efo um:@s:cym&eng ddysgu Ffrainc [*] +... 360673_366164
 %gls:	althoug be.3S.PRES PRON.3SM PRT IM busy with busy with IM learn.NONFIN France
 %eng:	although he's busy with...busy with learning/teaching France
 %com:	Wyn's mobile phone starts ringing
@@ -542,11 +543,11 @@
 %gls:	phone mobile
 %eng:	mobile phone
 *WYN:	&=laugh . 372417_373033
-*EVA:	i er@s:cym&eng +.. . 373033_374101
+*EVA:	i er@s:cym&eng +... 373033_374101
 %gls:	to IM
 %eng:	to er...
 *WYN:	+< xxx . 373451_373927
-*EVA:	xxx +.. . 374101_376202
+*EVA:	xxx +... 374101_376202
 *WYN:	+< xxx . 375482_375947
 *EVA:	yeah@s:cym&eng . 376202_376551
 %gls:	yeah
@@ -651,7 +652,7 @@
 *WYN:	well@s:cym&eng ella fydd raid mynd i nôl nhw dydd Llun . 439326_443528
 %gls:	well perhaps be.3S.FUT necessity go.NONFIN to fetch.NONFIN PRON.3PL day Monday
 %eng:	well, perhaps they'll need to be picked up on Monday
-*WYN:	xxx +/ . 443528_446501
+*WYN:	xxx +/. 443528_446501
 *WYN:	byddan byddan . 446501_448707
 %gls:	be.3PL.FUT be.3PL.FUT
 %eng:	yes, yes
@@ -690,12 +691,12 @@
 *EVA:	+< ie . 476798_477147
 %gls:	yes
 %eng:	yes
-*EVA:	+< xxx +.. . 479353_480096
+*EVA:	+< xxx +... 479353_480096
 *EVA:	&ə [/] # ydy (y)r [/] # y prosiect sure@s:cym&eng ? 480525_484008
 %gls:	be.3S.PRES DET DET project sure
 %eng:	is the project sure?
 *EVA:	[- eng] <is it> [///] has it been confirmed ? 484008_485436
-*WYN:	+< xxx +// . 484333_485065
+*WYN:	+< xxx +//. 484333_485065
 *WYN:	[- eng] it hasn't been confirmed . 485436_486353
 *WYN:	but@s:eng I@s:eng think@s:eng it@s:eng will@s:eng de . 486353_487340
 %gls:	but I think it will TAG
@@ -704,7 +705,7 @@
 %gls:	yeah
 %eng:	yeah?
 *WYN:	[- eng] I think it will . 487596_488362
-*WYN:	um@s:cym&eng +/ . 488362_489101
+*WYN:	um@s:cym&eng +/. 488362_489101
 %gls:	IM
 %eng:	um...
 *EVA:	+< pry(d) [/] pryd ? 488810_489716
@@ -730,7 +731,7 @@
 *WYN:	well@s:cym&eng ti (y)n gwybod fel mae nhw . 499108_500548
 %gls:	well PRON.2S PRT know.NONFIN like be.3PL.PRES PRON.3PL
 %eng:	well, you know what they're like
-*WYN:	um@s:cym&eng # if@s:eng [//] # os dan ni rhoid yr anfoneb # cyn [/] cyn diwedd y flwyddyn +.. . 500548_505320
+*WYN:	um@s:cym&eng # if@s:eng [//] # os dan ni rhoid yr anfoneb # cyn [/] cyn diwedd y flwyddyn +... 500548_505320
 %gls:	IM if if be.1PL.PRES PRON.1PL give.NONFIN DET invoice before before end DET year
 %eng:	um, if we give the invoice before the end of the year...
 *EVA:	+< cyn mis Ebrill . 503497_504519
@@ -749,7 +750,7 @@
 *WYN:	ydyn [?] ond <mae er@s:cym&eng> [//] # (dy)dy hynna (ddi)m yn talu nag (y)dy &=laugh . 510463_516802
 %gls:	be.3PL.PRES but be.3S.PRES IM be.3S.PRES.NEG that NEG PRT pay.NONFIN NEG be.3S.PRES
 %eng:	yes, but that doesn't pay, does it
-*EVA:	+< er@s:cym&eng # <mae o (y)n> [/] mae o (y)n +// . 512077_513841
+*EVA:	+< er@s:cym&eng # <mae o (y)n> [/] mae o (y)n +//. 512077_513841
 %gls:	IM be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT
 %eng:	er, it's...it's...
 *EVA:	+< &=laugh . 513841_514515
@@ -759,7 +760,7 @@
 *WYN:	+< ie . 517185_517533
 %gls:	yes
 %eng:	yes
-*EVA:	er@s:cym&eng mae o (y)n angen i er@s:cym&eng +// . 518102_520900
+*EVA:	er@s:cym&eng mae o (y)n angen i er@s:cym&eng +//. 518102_520900
 %gls:	IM be.3S.PRES PRON.3SM PRT need to IM
 %eng:	er, he needs to, er...
 *EVA:	yeah@s:cym&eng . 520900_521342
@@ -771,7 +772,7 @@
 *WYN:	+< yeah@s:cym&eng . 524290_524569
 %gls:	yeah
 %eng:	yeah
-*WYN:	well@s:cym&eng xxx [/] dan ni hefyd yn cael # wythnos: +// . 526787_531082
+*WYN:	well@s:cym&eng xxx [/] dan ni hefyd yn cael # wythnos: +//. 526787_531082
 %gls:	well xxx be.1PL.PRES PRON.1PL also PRT get.NONFIN week
 %eng:	well [...] we're also having, week...
 *WYN:	wsnos i heddiw ? 531082_532452
@@ -789,7 +790,7 @@
 *EVA:	yeah@s:cym&eng . 536887_537259
 %gls:	yeah
 %eng:	yeah
-*WYN:	mae gynnon ni cyfarfod yma +// . 537259_538594
+*WYN:	mae gynnon ni cyfarfod yma +//. 537259_538594
 %gls:	be.3S.PRES with.1PL PRON.1PL meeting here
 %eng:	we've got this meeting...
 *WYN:	dan ni (we)di wneud cyfarfod yn # Castell_Deudraeth@s:cym&eng . 538594_540719
@@ -827,13 +828,13 @@
 *EVA:	yeah@s:cym&eng . 558435_558853
 %gls:	yeah
 %eng:	yeah
-*WYN:	<a dan ni> [?] isio bod (di)pyn bach yn fwy # proactive@s:eng +/ . 558505_561315
+*WYN:	<a dan ni> [?] isio bod (di)pyn bach yn fwy # proactive@s:eng +/. 558505_561315
 %gls:	and be.1PL.PRES PRON.1PL want be.NONFIN a_little small PRT more proactive
 %eng:	and we want to be a little bit more proactive
 *EVA:	yeah@s:cym&eng . 561315_561872
 %gls:	yeah
 %eng:	yeah
-*WYN:	+, ddim just@s:cym&eng +/ . 561872_562429
+*WYN:	+, ddim just@s:cym&eng +/. 561872_562429
 %gls:	NEG just
 %eng:	not just...
 *EVA:	I@s:eng hope@s:eng that@s:eng [/] that@s:eng yeah@s:cym&eng [?] he@s:eng [/] he@s:eng will@s:eng be@s:eng # after@s:eng his@s:eng # exams@s:cym&eng . 562360_566841
@@ -850,11 +851,11 @@
 %gls:	xxx it'll go into that budget TAG
 %eng:	[...] it'll go into that budget, right
 *EVA:	yeah@s:cym&eng xxx . 583109_584096
-*WYN:	xxx +// . 583615_584827
+*WYN:	xxx +//. 583615_584827
 *WYN:	hwyrach xxx nhw dalu ni . 584827_587010
 %gls:	perhaps xxx PRON.3PL pay.NONFIN PRON.1PL
 %eng:	perhaps they [...] pay us
-*WYN:	ond # yn sicr fydd nhw isio anfoneb +/ . 587010_588926
+*WYN:	ond # yn sicr fydd nhw isio anfoneb +/. 587010_588926
 %gls:	but PRT certain be.3PL.FUT PRON.3PL want invoice
 %eng:	but they'll certainly want an invoice...
 *EVA:	yeah@s:cym&eng . 588926_589413
@@ -869,7 +870,7 @@
 *EVA:	mmm@s:cym&eng . 592339_593175
 %gls:	IM
 %eng:	mmm
-*WYN:	um@s:cym&eng # so@s:cym&eng +/ . 593175_595021
+*WYN:	um@s:cym&eng # so@s:cym&eng +/. 593175_595021
 %gls:	IM so
 %eng:	um, so...
 *EVA:	xxx . 595021_596193
@@ -879,16 +880,16 @@
 *EVA:	+< yeah@s:cym&eng . 596460_597064
 %gls:	yeah
 %eng:	yeah
-*WYN:	timod mae o +// . 597087_597877
+*WYN:	timod mae o +//. 597087_597877
 %gls:	know.2S be.3S.PRES PRON.3SM
 %eng:	you know, it's...
-*WYN:	os dyn nhw (y)n digwydd yn +// . 597877_599618
+*WYN:	os dyn nhw (y)n digwydd yn +//. 597877_599618
 %gls:	if be.3PL.PRES PRON.3PL PRT happen.NONFIN in
 %eng:	if they happen in...
 *WYN:	a just@s:cym&eng yn Llanrwst@s:cym&eng (y)dy hwnna . 599618_600779
 %gls:	and just in Llanrwst be.3S.PRES that
 %eng:	and that's just in Llanrwst
-*WYN:	dw i meddwl fydd rhaid ni wneud yr un peth yn y dau le arall hefyd +/ . 600779_603879
+*WYN:	dw i meddwl fydd rhaid ni wneud yr un peth yn y dau le arall hefyd +/. 600779_603879
 %gls:	be.1S.PRES PRON.1S think.NONFIN be.3S.FUT necessity PRON.1PL do.NONFIN DET one thing in DET two.M place other also
 %eng:	I think we'll have to do the same in the other two places too
 *EVA:	iawn [?] . 603879_604355
@@ -905,7 +906,7 @@
 %gls:	yeah
 %eng:	yeah
 *WYN:	still@s:cym&eng haven't@s:eng started@s:eng in@s:eng the@s:eng other@s:eng two@s:eng . 609092_610764
-*WYN:	so@s:cym&eng +/ . 610764_611043
+*WYN:	so@s:cym&eng +/. 610764_611043
 *EVA:	yeah@s:cym&eng . 611043_611368
 %gls:	yeah
 %eng:	yeah
@@ -918,10 +919,10 @@
 *WYN:	oh@s:cym&eng oes # oes . 619762_621132
 %gls:	IM be.3S.PRES be.3S.PRES
 %eng:	oh yes, yes
-*EVA:	but@s:eng [/] but@s:eng not@s:eng coming@s:eng out@s:eng yet@s:eng # not@s:eng [//] dim eto dim [/] dim +.. . 620807_625242
+*EVA:	but@s:eng [/] but@s:eng not@s:eng coming@s:eng out@s:eng yet@s:eng # not@s:eng [//] dim eto dim [/] dim +... 620807_625242
 %gls:	but but not coming out yet not NEG yet NEG NEG
 %eng:	but not coming out yet, not yet, not...not...
-*WYN:	+< xxx +.. . 623895_624127
+*WYN:	+< xxx +... 623895_624127
 *WYN:	+< not@s:eng [///] # nac (y)dy . 624557_625776
 %gls:	not NEG be.3S.PRES
 %eng:	not...no
@@ -934,7 +935,7 @@
 *WYN:	<mae (y)na &s> [/] # mae (y)na syniadau eraill . 627564_630106
 %gls:	be.3S.PRES there be.3S.PRES there ideas other
 %eng:	there are...there are other ideas
-*WYN:	um@s:cym&eng ## mae (y)na rei pethau +// . 630106_634170
+*WYN:	um@s:cym&eng ## mae (y)na rei pethau +//. 630106_634170
 %gls:	IM be.3S.PRES there some things
 %eng:	um, there are some things...
 *WYN:	mae <gynnon ni ddigon> [/] # gynnon ni ddigon o waith . 634170_636886
@@ -956,12 +957,12 @@
 *WYN:	dan ni (y)n disgwyl clywed # un neu ddau o bethau right@s:cym&eng fawr . 645392_648805
 %gls:	be.1PL.PRES PRON.1PL PRT expect.NONFIN hear.NONFIN one or two.M of things right big
 %eng:	we're expecting to hear about one or two quite big things
-*EVA:	“yn disgwyl” ydy +.. . 648805_650082
+*EVA:	“yn disgwyl” ydy +... 648805_650082
 %gls:	PRT expect.NONFIN be.3S.PRES
 %eng:	"yn disgwyl" is..?
 *WYN:	&dɪ # “disgwyl” # “waiting@s:eng” . 649804_651325
 %gls:	expect.NONFIN waiting
-%eng:	disgwyl .. . waiting
+%eng:	disgwyl ... waiting
 *EVA:	+< xxx . 650883_651325
 *EVA:	[- eng] “waiting” ? 651325_651882
 *WYN:	yeah@s:cym&eng . 651882_652160
@@ -1008,7 +1009,7 @@
 *WYN:	so@s:cym&eng that's@s:eng [//] it's@s:eng enough@s:eng to@s:eng get@s:eng on@s:eng with@s:eng . 680357_682075
 *EVA:	+< o_k@s:cym&eng so@s:cym&eng [//] yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 681343_682771
 *WYN:	um@s:cym&eng # but@s:eng # xxx # the@s:eng social@s:eng service@s:eng thing@s:eng [/] that's@s:eng that's@s:eng Stan's@s:eng speciality@s:eng . 682771_688391
-*WYN:	[- eng] and [?] # I think +/ . 688391_689737
+*WYN:	[- eng] and [?] # I think +/. 688391_689737
 *EVA:	+< &i . 689122_689505
 *EVA:	&i [//] because@s:eng he's@s:eng got@s:eng his@s:eng # special@s:cym&eng [//] specialist@s:eng # subjects@s:eng . 689737_694323
 *WYN:	+< oh@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng . 692559_693545
@@ -1018,8 +1019,8 @@
 %gls:	yeah
 %eng:	yeah
 *EVA:	+< he@s:eng does@s:eng yeah@s:cym&eng . 694358_695496
-*WYN:	um@s:cym&eng # that's@s:eng +// . 695496_697504
-*WYN:	and@s:eng the@s:eng other@s:eng thing@s:eng # that'll@s:eng [?] come@s:eng out@s:eng # of@s:eng # the@s:eng meeting@s:eng we've@s:eng got@s:eng in@s:eng Castell_Deudraeth@s:cym&eng I@s:eng think@s:eng is@s:eng that@s:eng +// . 697504_703913
+*WYN:	um@s:cym&eng # that's@s:eng +//. 695496_697504
+*WYN:	and@s:eng the@s:eng other@s:eng thing@s:eng # that'll@s:eng [?] come@s:eng out@s:eng # of@s:eng # the@s:eng meeting@s:eng we've@s:eng got@s:eng in@s:eng Castell_Deudraeth@s:cym&eng I@s:eng think@s:eng is@s:eng that@s:eng +//. 697504_703913
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng . 703449_704436
 %gls:	yeah yeah
 %eng:	yeah yeah
@@ -1027,7 +1028,7 @@
 *EVA:	+< mmm@s:cym&eng . 709277_709695
 %gls:	IM
 %eng:	mmm
-*WYN:	so@s:cym&eng # if@s:eng we@s:eng can@s:eng # tap@s:eng in@s:eng to@s:eng projects@s:cym&eng from@s:eng them@s:eng as@s:eng well@s:eng de@s:eng it'll@s:eng [///] and@s:eng bring@s:eng people@s:eng in@s:eng # just@s:cym&eng as@s:eng we@s:eng want@s:eng +.. . 718310_724649
+*WYN:	so@s:cym&eng # if@s:eng we@s:eng can@s:eng # tap@s:eng in@s:eng to@s:eng projects@s:cym&eng from@s:eng them@s:eng as@s:eng well@s:eng de@s:eng it'll@s:eng [///] and@s:eng bring@s:eng people@s:eng in@s:eng # just@s:cym&eng as@s:eng we@s:eng want@s:eng +... 718310_724649
 %gls:	so if we can tap in to projects from them as well TAG it'll and bring people in just as we want
 %eng:	so if we can tap in to projects from them as well, right, it'll...and bring people in just as we want...
 *EVA:	+< yeah@s:cym&eng . 723391_723716
@@ -1043,7 +1044,7 @@
 *EVA:	mmhm@s:cym&eng mmhm@s:cym&eng . 726920_727895
 %gls:	IM IM
 %eng:	mmhm, mmhm
-*WYN:	er@s:cym&eng # mae Iestyn@s:cym&eng (we)di bod yn xx +// . 727895_731262
+*WYN:	er@s:cym&eng # mae Iestyn@s:cym&eng (we)di bod yn xx +//. 727895_731262
 %gls:	IM be.3S.PRES Iestyn PRT.PAST be.NONFIN PRT xx
 %eng:	er, Iestyn's been [...] ...
 *WYN:	mae # Gwenith@s:cym&eng a John@s:cym&eng (we)di bod yn helpu ni # ar yr ymgynghoriad ia ? 731262_737125
@@ -1055,7 +1056,7 @@
 %eng:	mmhm
 *WYN:	“ymgynghoriad” “consultation@s:eng” . 737125_738344
 %gls:	consultation consultation
-%eng:	ymgynghoriad .. . consultation
+%eng:	ymgynghoriad ... consultation
 *EVA:	[- eng] +< xxx consultation . 737578_740515
 *WYN:	+< digwydd [?] <y poli(ce)@s:cym&eng> [///] efo (y)r heddlu . 739064_740515
 %gls:	happen.NONFIN DET police with DET police
@@ -1079,12 +1080,12 @@
 %gls:	yes
 %eng:	yes
 *WYN:	so@s:cym&eng it's@s:eng starting@s:eng to@s:eng [/] to@s:eng work@s:eng . 753839_755267
-*WYN:	so@s:cym&eng +.. . 755267_755917
+*WYN:	so@s:cym&eng +... 755267_755917
 *WYN:	the@s:eng reason@s:eng I@s:eng want@s:eng everybody@s:eng to@s:eng come@s:eng together@s:eng the@s:eng same@s:eng room@s:cym&eng is@s:eng that@s:eng everybody@s:eng knows@s:eng # what@s:eng everybody@s:eng else@s:eng can@s:eng do@s:eng . 755917_761253
 *EVA:	+< yeah@s:cym&eng # yeah@s:cym&eng . 760011_761253
 %gls:	yeah yeah
 %eng:	yeah, yeah
-*WYN:	and@s:eng so@s:cym&eng # you@s:eng know@s:eng if@s:eng you@s:eng +/ . 761253_762530
+*WYN:	and@s:eng so@s:cym&eng # you@s:eng know@s:eng if@s:eng you@s:eng +/. 761253_762530
 *EVA:	yeah@s:cym&eng . 762530_763099
 %gls:	yeah
 %eng:	yeah
@@ -1097,7 +1098,7 @@
 *WYN:	[- eng] it's not a partnership . 768335_769357
 *WYN:	it's@s:eng just@s:cym&eng # like@s:eng a@s:eng group@s:cym&eng # of@s:eng # associates@s:eng networking@s:eng xx . 769357_773037
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng networking@s:eng . 769682_771969
-*EVA:	yeah@s:cym&eng [?] be (y)dy “networking@s:eng” yn [?] +.. . 772747_774570
+*EVA:	yeah@s:cym&eng [?] be (y)dy “networking@s:eng” yn [?] +... 772747_774570
 %gls:	yeah what be.3S.PRES networking in
 %eng:	yeah, what's "networking" is..?
 *WYN:	+< &rʰʊ [//] # “rhwydwaith” . 773177_774570
@@ -1124,7 +1125,7 @@
 *EVA:	<mmm@s:cym&eng da iawn> [?] . 779806_780642
 %gls:	IM good very
 %eng:	mmm, very good
-*WYN:	+< so@s:cym&eng mae hwnna (y)n +// . 780201_781037
+*WYN:	+< so@s:cym&eng mae hwnna (y)n +//. 780201_781037
 %gls:	so be.3S.PRES that PRT
 %eng:	so that's...
 *WYN:	[- eng] that can be a springboard really . 781037_783405
@@ -1185,7 +1186,7 @@
 %eng:	yeah yeah
 *WYN:	lot@s:cym&eng of@s:eng energy@s:eng negative@s:cym&eng energy@s:eng . 832329_834152
 *EVA:	negative@s:cym&eng . 834083_834837
-*WYN:	if@s:eng we@s:eng can@s:eng # take@s:eng some@s:eng of@s:eng that@s:eng without@s:eng taking@s:eng away@s:eng from@s:eng [/] # from@s:eng that@s:eng # just@s:cym&eng cause@s:eng de [=! laughs] +.. . 834837_841025
+*WYN:	if@s:eng we@s:eng can@s:eng # take@s:eng some@s:eng of@s:eng that@s:eng without@s:eng taking@s:eng away@s:eng from@s:eng [/] # from@s:eng that@s:eng # just@s:cym&eng cause@s:eng de [=! laughs] +... 834837_841025
 %gls:	if we can take some of that without taking away from from that just cause TAG
 %eng:	if we can take some of that without taking away from that just cause, right...
 *EVA:	+< mmhm@s:cym&eng . 839922_840433
@@ -1194,7 +1195,7 @@
 *EVA:	yeah@s:cym&eng . 841025_841455
 %gls:	yeah
 %eng:	yeah
-*WYN:	[- eng] if we can +// . 841223_842012
+*WYN:	[- eng] if we can +//. 841223_842012
 *WYN:	there's@s:eng a@s:eng point@s:cym&eng that's@s:eng gonna@s:eng come@s:eng when@s:eng you@s:eng <got@s:eng to@s:eng> [=? gonna@s:eng] stop@s:eng protesting@s:eng and@s:eng do@s:eng something@s:eng positive@s:cym&eng innit@s:eng [?] . 842012_845182
 *EVA:	yeah@s:cym&eng . 845182_845611
 %gls:	yeah
@@ -1208,10 +1209,10 @@
 *WYN:	+< yeah@s:cym&eng ? 847121_847504
 %gls:	yeah
 %eng:	yeah?
-*WYN:	+< so@s:cym&eng <fedran ni> [?] +// . 847620_848467
+*WYN:	+< so@s:cym&eng <fedran ni> [?] +//. 847620_848467
 %gls:	so can.1PL.NONPAST PRON.1PL
 %eng:	so we can...
-*WYN:	dan ni (we)di dechrau trafodaeth <yn deud> [?] +"/ . 848467_850290
+*WYN:	dan ni (we)di dechrau trafodaeth <yn deud> [?] +"/. 848467_850290
 %gls:	be.1PL.PRES PRON.1PL PRT.PAST start.NONFIN discussion PRT say.NONFIN
 %eng:	we've started a discussion saying:
 *WYN:	+" o_k@s:cym&eng be fedran ni wneud ? 850290_851231
@@ -1236,7 +1237,7 @@
 *EVA:	yeah@s:cym&eng . 862597_862887
 %gls:	yeah
 %eng:	yeah
-*WYN:	[- eng] ask people how they feel # about it +.. . 862794_865975
+*WYN:	[- eng] ask people how they feel # about it +... 862794_865975
 *EVA:	+< yeah@s:cym&eng . 864524_864849
 %gls:	yeah
 %eng:	yeah
@@ -1276,7 +1277,7 @@
 %gls:	yeah
 %eng:	yeah
 *WYN:	yeah@s:cym&eng he's@s:eng got@s:eng contacts@s:eng in@s:eng Blaenau@s:cym&eng . 889075_890456
-*EVA:	yeah@s:cym&eng yeah@s:cym&eng xxx +/ . 890456_891629
+*EVA:	yeah@s:cym&eng yeah@s:cym&eng xxx +/. 890456_891629
 %gls:	yeah yeah xxx
 %eng:	yeah yeah [...] ...
 *WYN:	+< different@s:eng [/] different@s:eng stakeholder@s:eng groups@s:cym&eng xx . 891060_892604
@@ -1289,7 +1290,7 @@
 *WYN:	oh@s:cym&eng wyt ? 898548_899210
 %gls:	IM be.2S.PRES
 %eng:	oh are you?
-*EVA:	um:@s:cym&eng +.. . 899210_901300
+*EVA:	um:@s:cym&eng +... 899210_901300
 %gls:	IM
 %eng:	um...
 *WYN:	+< be ti wneud xx ? 900174_900940
@@ -1307,7 +1308,7 @@
 *WYN:	ie . 911726_912132
 %gls:	yes
 %eng:	yes
-*EVA:	um@s:cym&eng +/ . 912132_913398
+*EVA:	um@s:cym&eng +/. 912132_913398
 %gls:	IM
 %eng:	um...
 *WYN:	+< western@s:eng carnival@s:cym&eng ? 912550_913398
@@ -1344,7 +1345,7 @@
 *WYN:	do do do do do do . 950155_951815
 %gls:	yes yes yes yes yes yes
 %eng:	yes yes, yes yes yes yes
-*EVA:	er@s:cym&eng [?] and@s:eng [/] and@s:eng ## they@s:eng [/] they@s:eng [//] all@s:eng they@s:eng want@s:eng now@s:eng is@s:eng just@s:cym&eng to@s:eng double@s:cym&eng the@s:eng numbers@s:cym&eng &a and@s:eng and@s:eng +/ . 951177_958208
+*EVA:	er@s:cym&eng [?] and@s:eng [/] and@s:eng ## they@s:eng [/] they@s:eng [//] all@s:eng they@s:eng want@s:eng now@s:eng is@s:eng just@s:cym&eng to@s:eng double@s:cym&eng the@s:eng numbers@s:cym&eng &a and@s:eng and@s:eng +/. 951177_958208
 *WYN:	+< &=laugh . 953994_954888
 *WYN:	+< oh@s:cym&eng yeah@s:cym&eng ? 956827_957210
 %gls:	IM yeah
@@ -1353,7 +1354,7 @@
 *EVA:	promote@s:eng it@s:eng # er@s:cym&eng re_enactment@s:eng . 960101_963259
 *WYN:	+< xxx . 960925_961622
 *WYN:	<oh@s:cym&eng yes@s:eng> [?] . 963259_964234
-*EVA:	um:@s:cym&eng ond hefyd <lot@s:cym&eng o> [/] lot@s:cym&eng o er@s:cym&eng stalls@s:cym&eng a # hwyl a &dɔn [//] dawnsio # lot@s:cym&eng +// . 964234_973545
+*EVA:	um:@s:cym&eng ond hefyd <lot@s:cym&eng o> [/] lot@s:cym&eng o er@s:cym&eng stalls@s:cym&eng a # hwyl a &dɔn [//] dawnsio # lot@s:cym&eng +//. 964234_973545
 %gls:	IM but also lot of lot of IM stalls and fun and dance.NONFIN lot
 %eng:	um, but also a lot of, er, stalls and fun and dancing, a lot...
 *WYN:	+< yeah@s:cym&eng just@s:cym&eng hwyl . 968262_969261
@@ -1380,7 +1381,7 @@
 *WYN:	+< ah@s:cym&eng right@s:cym&eng . 990855_991982
 %gls:	IM right
 %eng:	ah, right
-*EVA:	um@s:cym&eng and@s:eng although@s:eng I'm@s:eng sitting@s:eng there@s:eng on@s:eng behalf@s:eng of@s:eng the@s:eng # Ffestiniog_Railway@s:eng # I'm@s:eng also@s:eng +// . 992434_1000817
+*EVA:	um@s:cym&eng and@s:eng although@s:eng I'm@s:eng sitting@s:eng there@s:eng on@s:eng behalf@s:eng of@s:eng the@s:eng # Ffestiniog_Railway@s:eng # I'm@s:eng also@s:eng +//. 992434_1000817
 *WYN:	+< yeah@s:cym&eng . 997949_998309
 %gls:	yeah
 %eng:	yeah
@@ -1398,7 +1399,7 @@
 *WYN:	yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1015051_1017268
 %gls:	yeah yeah yeah yeah yeah yeah yeah yeah yeah
 %eng:	yeah yeah yeah yeah yeah yeah yeah yeah yeah
-*EVA:	because@s:eng it's@s:eng not@s:eng in@s:eng the@s:eng interest@s:cym&eng of@s:eng the@s:eng authority@s:eng to@s:eng +// . 1016664_1019764
+*EVA:	because@s:eng it's@s:eng not@s:eng in@s:eng the@s:eng interest@s:cym&eng of@s:eng the@s:eng authority@s:eng to@s:eng +//. 1016664_1019764
 *WYN:	+< na na na . 1019044_1019648
 %gls:	no no no
 %eng:	no no no
@@ -1413,7 +1414,7 @@
 *WYN:	&=laugh great@s:cym&eng [=! laughs] . 1032373_1034818
 %gls:	great
 %eng:	great
-*EVA:	+< um@s:cym&eng # er@s:cym&eng but@s:eng I'm@s:eng [//] <dw i (y)n> [/] dw i (y)n er@s:cym&eng diddoreb [* diddordeb] +// . 1032496_1037372
+*EVA:	+< um@s:cym&eng # er@s:cym&eng but@s:eng I'm@s:eng [//] <dw i (y)n> [/] dw i (y)n er@s:cym&eng diddoreb [* diddordeb] +//. 1032496_1037372
 %gls:	IM IM but I'm be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT IM interest
 %eng:	um, but I'm...I'm interest...
 *EVA:	[- eng] “I'm interested” how would you say that ? 1037372_1038855
@@ -1437,7 +1438,7 @@
 *WYN:	oh@s:cym&eng great@s:cym&eng . 1048959_1049528
 %gls:	IM great
 %eng:	oh great
-*EVA:	<dw i> [/] dw i er@s:cym&eng <dau dydd> [//] # dau diwrnod +/ . 1049389_1052686
+*EVA:	<dw i> [/] dw i er@s:cym&eng <dau dydd> [//] # dau diwrnod +/. 1049389_1052686
 %gls:	be.1S.PRES PRON.1S be.1S.PRES PRON.1S IM two.M day two.M day
 %eng:	I'm...I'm, er, two days...
 *WYN:	+< yeah@s:cym&eng . 1051513_1051943
@@ -1461,7 +1462,7 @@
 *WYN:	ta just@s:cym&eng events@s:eng <(y)dy o> [?] ? 1066258_1067489
 %gls:	or just events be.3S.PRES PRON.3SM
 %eng:	or is it just events?
-*EVA:	+< ydy yeah@s:cym&eng to@s:eng [/] to@s:eng promote@s:eng or@s:eng to@s:eng [/] to@s:eng [/] to@s:eng look@s:eng at@s:eng the@s:eng cultural@s:eng # aspects@s:eng # of@s:eng Blaenau@s:cym&eng # in@s:eng [/] in@s:eng the@s:eng interest@s:cym&eng of@s:eng the@s:eng community@s:eng +/ . 1066688_1074496
+*EVA:	+< ydy yeah@s:cym&eng to@s:eng [/] to@s:eng promote@s:eng or@s:eng to@s:eng [/] to@s:eng [/] to@s:eng look@s:eng at@s:eng the@s:eng cultural@s:eng # aspects@s:eng # of@s:eng Blaenau@s:cym&eng # in@s:eng [/] in@s:eng the@s:eng interest@s:cym&eng of@s:eng the@s:eng community@s:eng +/. 1066688_1074496
 %gls:	be.3S.PRES yeah to to promote or to to to look at the cultural aspects of Blaenau in in the interest of the community
 %eng:	yes, yeah to promote or to look at the cultural aspects of Blaenau in the interest of the community...
 *WYN:	+< xxx . 1069945_1071037
@@ -1477,8 +1478,8 @@
 %eng:	to improve confidence and..?
 *WYN:	xxx “confidence@s:eng” “hyder” . 1080801_1082101
 %gls:	xxx confidence confidence
-%eng:	[...] "confidence" .. . "hyder"
-*EVA:	+< i codi [/] # codi hyder i codi yeah@s:cym&eng +/ . 1080835_1083819
+%eng:	[...] "confidence" ... "hyder"
+*EVA:	+< i codi [/] # codi hyder i codi yeah@s:cym&eng +/. 1080835_1083819
 %gls:	to raise.NONFIN raise.NONFIN confidence to raise.NONFIN yeah
 %eng:	to improve...IMProve confidence, to improve, yeah...
 *WYN:	[- eng] +< xxx confidence xxx . 1082786_1084179
@@ -1503,7 +1504,7 @@
 *WYN:	oh@s:cym&eng . 1094206_1094682
 %gls:	IM
 %eng:	oh
-*WYN:	(a)chos os dan ni (y)n +// . 1094682_1095832
+*WYN:	(a)chos os dan ni (y)n +//. 1094682_1095832
 %gls:	because if be.1PL.PRES PRON.1PL PRT
 %eng:	because if we...
 *WYN:	efo project@s:cym&eng iechyd xxx # a lles &ɪ [/] it's@s:eng wider@s:eng than@s:eng just@s:cym&eng health@s:eng . 1095832_1100998
@@ -1530,10 +1531,10 @@
 *EVA:	yeah@s:cym&eng . 1106176_1106606
 %gls:	yeah
 %eng:	yeah
-*WYN:	and@s:eng # hwyrach fysai group@s:cym&eng Blaenau_Bendigedig@s:cym&eng yn un o (y)r +// . 1106606_1110298
+*WYN:	and@s:eng # hwyrach fysai group@s:cym&eng Blaenau_Bendigedig@s:cym&eng yn un o (y)r +//. 1106606_1110298
 %gls:	and perhaps be.3S.CONDIT group Blaenau_Bendigedig PRT one of DET
 %eng:	and perhaps the Blaenau Bendigedig group would be one of the...
-*WYN:	(a)chos fedri di +// . 1110298_1111702
+*WYN:	(a)chos fedri di +//. 1110298_1111702
 %gls:	because can.2S.NONPAST PRON.2S
 %eng:	because you can...
 *WYN:	dw i (ddi)m isio mynd allan efo # holiadur questionnaire@s:eng # round@s:cym&eng bob tŷ xxx . 1111702_1117600
@@ -1554,11 +1555,11 @@
 *EVA:	+< yeah@s:cym&eng <mae (y)n er@s:cym&eng well@s:cym&eng> [?] i [/] i siarad xxx . 1122523_1125251
 %gls:	yeah be.3S.PRES PRT IM better to to speak.NONFIN xxx
 %eng:	yeah, it's better to talk [...]
-*WYN:	+< &sa &m +// . 1123591_1124183
+*WYN:	+< &sa &m +//. 1123591_1124183
 *WYN:	+< yndy . 1124752_1125251
 %gls:	be.3S.PRES
 %eng:	yes
-*WYN:	ac # hwyrach # just@s:cym&eng u(n) [/] un [/] un # <timod tua> [?] awr # efo un group@s:cym&eng # gei di lot@s:cym&eng fwy o wybodaeth na just@s:cym&eng # questionnaires@s:eng yn mynd round@s:cym&eng de +.. . 1125251_1134400
+*WYN:	ac # hwyrach # just@s:cym&eng u(n) [/] un [/] un # <timod tua> [?] awr # efo un group@s:cym&eng # gei di lot@s:cym&eng fwy o wybodaeth na just@s:cym&eng # questionnaires@s:eng yn mynd round@s:cym&eng de +... 1125251_1134400
 %gls:	and perhaps just one one one know.2S approximately hour with one group get.2S.NONPAST PRON.2S lot more of information PRT just questionnaires PRT go.NONFIN round TAG
 %eng:	and perhaps just one, you know, approximately one hour with one group, you'll get a lot more information than just a questionnaire going round, you know
 *EVA:	+< yeah@s:cym&eng . 1126501_1126954
@@ -1573,14 +1574,14 @@
 *EVA:	xxx you@s:eng saying@s:eng it@s:eng takes@s:eng longer@s:eng where@s:eng [?] you're@s:eng using@s:eng <“hwy(rach)”> [/] “hwyrach” ? 1135185_1138401
 %gls:	xxx you saying it takes longer  where you're saying perhaps perhaps
 %eng:	[...] you saying it takes longer where you're saying "hwyrach"?
-*WYN:	um@s:cym&eng xxx “hwyrach” xxx +/ . 1138401_1140746
+*WYN:	um@s:cym&eng xxx “hwyrach” xxx +/. 1138401_1140746
 %gls:	IM xxx perhaps xxx
 %eng:	um [...] "hwyrach" [...] ...
-*EVA:	[- eng] +< you were saying +// . 1139574_1140282
+*EVA:	[- eng] +< you were saying +//. 1139574_1140282
 *EVA:	what@s:eng does@s:eng it@s:eng mean@s:eng # “hwyrach” ? 1140444_1142209
 %gls:	what does it mean perhaps
 %eng:	what does it mean, "hwyrach" ?
-*WYN:	oh@s:cym&eng “hwyrach” xxx +/ . 1142209_1145239
+*WYN:	oh@s:cym&eng “hwyrach” xxx +/. 1142209_1145239
 %gls:	IM perhaps xxx
 %eng:	oh, "hwyrach" [...] ...
 *EVA:	+< is@s:eng it@s:eng from@s:eng <“hwy(r)”> [/] # “hwyr” ? 1144763_1146284
@@ -1602,7 +1603,7 @@
 %gls:	yeah perhaps yeah
 %eng:	yeah "ella" yeah
 *EVA:	[- eng] (be)cause I [/] I don't use that word . 1150533_1152449
-*EVA:	[- eng] I don't +/ . 1152449_1153099
+*EVA:	[- eng] I don't +/. 1152449_1153099
 *WYN:	+< “ella” “hwyrach” . 1152705_1153599
 %gls:	perhaps perhaps
 %eng:	ella hwyrach
@@ -1637,17 +1638,17 @@
 *WYN:	+< yeah@s:cym&eng . 1165754_1166184
 %gls:	yeah
 %eng:	yeah
-*WYN:	&ɔv +// . 1167600_1168459
+*WYN:	&ɔv +//. 1167600_1168459
 *WYN:	yeah@s:cym&eng . 1168459_1169017
 %gls:	yeah
 %eng:	yeah
-*EVA:	yeah@s:cym&eng um@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng # dw i (y)n +/ . 1169017_1172743
+*EVA:	yeah@s:cym&eng um@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng # dw i (y)n +/. 1169017_1172743
 %gls:	yeah IM yeah yeah be.1S.PRES PRON.1S PRT
 %eng:	yeah, um, yeah, yeah I'm...
-*WYN:	+< mmm@s:cym&eng so@s:cym&eng +.. . 1170712_1171722
+*WYN:	+< mmm@s:cym&eng so@s:cym&eng +... 1170712_1171722
 %gls:	IM so
 %eng:	mmm, so...
-*WYN:	o_k@s:cym&eng <(dy)dy o (ddi)m yn> [/] (dy)dy o (ddi)m yn +// . 1172325_1173591
+*WYN:	o_k@s:cym&eng <(dy)dy o (ddi)m yn> [/] (dy)dy o (ddi)m yn +//. 1172325_1173591
 %gls:	o_k be.3S.PRES.NEG PRON.3SM NEG PRT be.3S.PRES.NEG PRON.3SM NEG PRT
 %eng:	ok, it's not...it's not...
 *WYN:	yeah@s:cym&eng [?] Blaenau_Bendigedig@s:cym&eng isn't@s:eng <a@s:eng sort@s:cym&eng of@s:eng> [/] # a@s:eng [?] sort@s:cym&eng of@s:eng er@s:cym&eng # project@s:cym&eng iechyd # xxx health@s:eng project@s:cym&eng . 1173591_1179338
@@ -1682,7 +1683,7 @@
 %gls:	be.3S.PRES PRT right yeah
 %eng:	it's alright, yeah
 *WYN:	xxx . 1202744_1203405
-*WYN:	oh@s:cym&eng mae (y)na lot@s:cym&eng o bethau (y)n dig(wydd) +// . 1203405_1204566
+*WYN:	oh@s:cym&eng mae (y)na lot@s:cym&eng o bethau (y)n dig(wydd) +//. 1203405_1204566
 %gls:	IM be.3S.PRES there lot of things PRT happen.NONFIN
 %eng:	oh, a lot of things are happening...
 *WYN:	mae [?] (y)na lot@s:cym&eng fawr o bethau (y)n digwydd yn Blaenau@s:cym&eng toes [?] . 1204566_1207237
@@ -1694,7 +1695,7 @@
 *EVA:	yeah@s:cym&eng . 1209791_1210174
 %gls:	yeah
 %eng:	yeah
-*WYN:	timod [?] lot@s:cym&eng o groups@s:cym&eng xxx +/ . 1210174_1212240
+*WYN:	timod [?] lot@s:cym&eng o groups@s:cym&eng xxx +/. 1210174_1212240
 %gls:	know.2S lot of groups xxx
 %eng:	you know, a lot of groups [...] ...
 *EVA:	+< xx lot@s:cym&eng o groups@s:cym&eng . 1211315_1212322
@@ -1706,7 +1707,7 @@
 *WYN:	oh@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng “Siambr_Fasnach” . 1214493_1216699
 %gls:	IM yeah yeah yeah yeah Chamber_of_Commerce
 %eng:	oh yeah yeah yeah yeah "Siambr Fasnach"
-*EVA:	+< achos mae +// . 1215468_1216246
+*EVA:	+< achos mae +//. 1215468_1216246
 %gls:	because be.3S.PRES
 %eng:	because...
 *EVA:	ia . 1216374_1216745
@@ -1764,7 +1765,7 @@
 %gls:	xxx yeah
 %eng:	[...] yeah
 *WYN:	+< xxx . 1252504_1253270
-*WYN:	ond mae [/] # mae Jen@s:cym&eng a fi # a # Sylvie@s:cym&eng # a Wil@s:cym&eng # dan ni mynd i_lawr i Caerdydd +/ . 1253560_1261827
+*WYN:	ond mae [/] # mae Jen@s:cym&eng a fi # a # Sylvie@s:cym&eng # a Wil@s:cym&eng # dan ni mynd i_lawr i Caerdydd +/. 1253560_1261827
 %gls:	but be.3S.PRES be.3S.PRES Jen and PRON.1S and Sylvie and Wil be.1PL.PRES PRON.1PL go.NONFIN down to Cardiff
 %eng:	but Jen and I and Sylvie and Wil, we're going down to Cardiff
 *EVA:	+< ie . 1254977_1255383
@@ -1812,7 +1813,7 @@
 *WYN:	dim [?] yn mynd i (y)r cae . 1280705_1281436
 %gls:	NEG PRT go.NONFIN to DET field
 %eng:	not going to the ground
-*WYN:	dan ni (ddi)m yn mynd i +// . 1281436_1282469
+*WYN:	dan ni (ddi)m yn mynd i +//. 1281436_1282469
 %gls:	be.1PL.PRES PRON.1PL NEG PRT go.NONFIN to
 %eng:	we're not going to...
 *WYN:	oes gynnon ni (ddi)m tocyn . 1282469_1284280
@@ -1907,7 +1908,7 @@
 *WYN:	(a)chos mae o gwesty um@s:cym&eng # er@s:cym&eng Village_Hotels@s:eng . 1322918_1326564
 %gls:	because be.3S.PRES PRON.3SM hotel IM IM Village_Hotels
 %eng:	because it's a hotel, um, Village Hotels
-*WYN:	they're@s:eng [?] [/] <they're@s:eng like@s:eng> [?] um@s:cym&eng gwesty chwaraeon # like@s:eng sports@s:cym&eng +/ . 1326564_1329432
+*WYN:	they're@s:eng [?] [/] <they're@s:eng like@s:eng> [?] um@s:cym&eng gwesty chwaraeon # like@s:eng sports@s:cym&eng +/. 1326564_1329432
 %gls:	they're they're like IM hotel sports like sports
 %eng:	they're like, um, sports hotels, like sports...
 *EVA:	gwesty teulu gwesty +/? 1329072_1330593
@@ -1916,7 +1917,7 @@
 *WYN:	gwesty teulu ond gwesty um@s:cym&eng &spo [//] er@s:cym&eng er@s:cym&eng sports@s:cym&eng ydy o timod . 1330418_1334157
 %gls:	hotel family but hotel IM IM IM sports be.3S.PRES PRON.3SM know.2S
 %eng:	a family hotel but it's a sports hotel, you know
-*EVA:	um@s:cym&eng +.. . 1334157_1335666
+*EVA:	um@s:cym&eng +... 1334157_1335666
 %gls:	IM
 %eng:	um...
 *WYN:	they've@s:eng got@s:eng &s tremendous@s:eng &f sporting@s:eng facilities@s:eng specialist@s:eng sporting@s:eng hotel@s:cym&eng . 1335666_1339497
@@ -1954,27 +1955,27 @@
 *WYN:	+< <a cael> [?] Cymru yn curo Ffrainc . 1363460_1364923
 %gls:	and have.NONFIN Wales PRT beat.NONFIN France
 %eng:	and have Wales beating France
-*EVA:	dach chi (y)n er@s:cym&eng +// . 1364923_1365817
+*EVA:	dach chi (y)n er@s:cym&eng +//. 1364923_1365817
 %gls:	be.2PL.PRES PRON.2PL PRT IM
 %eng:	are you, er...
-*EVA:	[- eng] I was going to say you are +// . 1365817_1367187
-*EVA:	<I@s:eng can't@s:eng find@s:eng> [?] the@s:eng word@s:eng now@s:eng for@s:eng a@s:eng # yeah@s:cym&eng # someone@s:eng who@s:eng really@s:eng enjoys@s:eng # eating@s:eng and@s:eng drinking@s:eng er@s:cym&eng +.. . 1367187_1373337
+*EVA:	[- eng] I was going to say you are +//. 1365817_1367187
+*EVA:	<I@s:eng can't@s:eng find@s:eng> [?] the@s:eng word@s:eng now@s:eng for@s:eng a@s:eng # yeah@s:cym&eng # someone@s:eng who@s:eng really@s:eng enjoys@s:eng # eating@s:eng and@s:eng drinking@s:eng er@s:cym&eng +... 1367187_1373337
 *WYN:	+< and@s:eng sport@s:cym&eng . 1372853_1373503
-*EVA:	um@s:cym&eng and@s:eng spo(rt)@s:eng xxx +// . 1373503_1375802
-*WYN:	+< xxx +/ . 1374908_1376150
+*EVA:	um@s:cym&eng and@s:eng spo(rt)@s:eng xxx +//. 1373503_1375802
+*WYN:	+< xxx +/. 1374908_1376150
 *EVA:	er@s:cym&eng what's@s:eng the@s:eng word@s:eng ? 1375872_1376707
 *EVA:	[- eng] what's the word for it ? 1376707_1377578
 *EVA:	burgunder@7 “[?]” # <in@s:eng Dutch@s:eng> [//] in@s:eng [/] in@s:eng [//] yn [/] yn Iseldireg . 1377578_1381096
 %gls:	burgunder in Dutch in in in in Dutch
 %eng:	"burgunder" in Dutch
-*WYN:	xxx er@s:cym&eng +.. . 1381096_1382071
-*EVA:	er@s:cym&eng <dan ni> [/] dan ni um:@s:cym&eng +/ . 1382071_1385438
+*WYN:	xxx er@s:cym&eng +... 1381096_1382071
+*EVA:	er@s:cym&eng <dan ni> [/] dan ni um:@s:cym&eng +/. 1382071_1385438
 %gls:	IM be.1PL.PRES PRON.1PL be.1PL.PRES PRON.1PL IM
 %eng:	er, we're...we're, um...
 *WYN:	er@s:cym&eng oh@s:cym&eng wn i be ti feddwl . 1385438_1386425
 %gls:	IM IM know.1S.NONPAST PRON.1S what PRON.2S think.NONFIN
 %eng:	er, oh I know what you mean
-*WYN:	xxx # um@s:cym&eng +.. . 1386425_1388747
+*WYN:	xxx # um@s:cym&eng +... 1386425_1388747
 *EVA:	+< yeah@s:cym&eng . 1387180_1387493
 *EVA:	dan ni ddeud um@s:cym&eng “burgunder@7” # “from@s:eng Burgundy@s:eng” . 1388747_1393913
 %gls:	be.1PL.PRES PRON.1PL say.NONFIN IM burgunder from Burgundy
@@ -1982,13 +1983,13 @@
 *WYN:	oh@s:cym&eng ia [=! laughs] ? 1393913_1395156
 %gls:	IM yes
 %eng:	oh yes?
-*EVA:	a [//] (be)cause@s:eng Burgundy@s:eng <mae (y)na> [/] mae (y)na +/ . 1394784_1396990
+*EVA:	a [//] (be)cause@s:eng Burgundy@s:eng <mae (y)na> [/] mae (y)na +/. 1394784_1396990
 %gls:	and because Burgundy be.3S.PRES there be.3S.PRES there
 %eng:	and...because Burgundy, there's...there's...
-*WYN:	+< “bourgeoisie@s:cym&eng” y same@s:eng gair +// . 1396084_1397768
+*WYN:	+< “bourgeoisie@s:cym&eng” y same@s:eng gair +//. 1396084_1397768
 %gls:	bourgeoisie DET same word
 %eng:	"bourgeoisie" the same word...
-*EVA:	yeah@s:cym&eng “bourgeoisie@s:cym&eng” +// . 1397513_1398453
+*EVA:	yeah@s:cym&eng “bourgeoisie@s:cym&eng” +//. 1397513_1398453
 *WYN:	+< er@s:cym&eng nace [?] # na(g) (y)dy # na . 1397803_1399347
 %gls:	IM no NEG be.3S.PRES no
 %eng:	er no, no, no
@@ -2004,7 +2005,7 @@
 *WYN:	ah@s:cym&eng right@s:cym&eng right@s:cym&eng . 1411126_1412352
 %gls:	IM right right
 %eng:	ah, right, right
-*EVA:	and@s:eng um@s:cym&eng xxx “burgunder@7” er@s:cym&eng ydy person@s:cym&eng i [/] i [/] i fwyta <lot@s:cym&eng o> [/] lot@s:cym&eng o bwyd # er@s:cym&eng i: +/ . 1412120_1422256
+*EVA:	and@s:eng um@s:cym&eng xxx “burgunder@7” er@s:cym&eng ydy person@s:cym&eng i [/] i [/] i fwyta <lot@s:cym&eng o> [/] lot@s:cym&eng o bwyd # er@s:cym&eng i: +/. 1412120_1422256
 %gls:	and IM xxx burgunder IM be.3S.PRES person to to to eat.NONFIN lot of lot of food IM to
 %eng:	and um [...] "burgunder" is a person to eat a lot of food, er, to...
 *WYN:	er@s:cym&eng ffordd o fyw mwynhau . 1422256_1423997
@@ -2014,22 +2015,22 @@
 *WYN:	+< yeah@s:cym&eng yeah@s:cym&eng . 1424821_1425344
 *WYN:	yeah@s:cym&eng . 1426516_1426841
 *WYN:	[- eng] “bohemian” ? 1426841_1427550
-*EVA:	&bʊ +// . 1427550_1427828
+*EVA:	&bʊ +//. 1427550_1427828
 *EVA:	[- eng] &n &n not necessarily . 1427828_1429222
 *WYN:	[- eng] +< no ? 1428165_1428444
-*EVA:	[- eng] &k you don't +// . 1429222_1429756
-*EVA:	no@s:eng just@s:cym&eng # er@s:cym&eng +.. . 1429756_1431834
+*EVA:	[- eng] &k you don't +//. 1429222_1429756
+*EVA:	no@s:eng just@s:cym&eng # er@s:cym&eng +... 1429756_1431834
 *WYN:	[- eng] a good life . 1431834_1432902
-*EVA:	<you@s:eng &g> [//] you@s:eng just@s:cym&eng +// . 1432902_1433842
-*EVA:	yeah@s:cym&eng # and@s:eng [/] and@s:eng +// . 1433842_1435410
+*EVA:	<you@s:eng &g> [//] you@s:eng just@s:cym&eng +//. 1432902_1433842
+*EVA:	yeah@s:cym&eng # and@s:eng [/] and@s:eng +//. 1433842_1435410
 *EVA:	yeah@s:cym&eng . 1435410_1436013
-*WYN:	a mae Ffrancwyr yn # gwybod sut <i &g> [=! laughs] &=laugh +.. . 1436013_1440030
+*WYN:	a mae Ffrancwyr yn # gwybod sut <i &g> [=! laughs] &=laugh +... 1436013_1440030
 %gls:	and be.3S.PRES French_people PRT know.NONFIN how to
 %eng:	and the French know how to...
 *EVA:	+< yeah@s:cym&eng [=! laughs] &=laugh . 1438463_1439531
 *EVA:	[- eng] xxx &bu [/] &bur [/] “burgunder@7” . 1440030_1442712
 *WYN:	[- eng] “burgunder@7” . 1442712_1443490
-*EVA:	yeah@s:cym&eng mi wna i sgrifennu +// . 1442991_1444407
+*EVA:	yeah@s:cym&eng mi wna i sgrifennu +//. 1442991_1444407
 %gls:	yeah PRT do.1S.NONPAST PRON.1S write.NONFIN
 %eng:	yeah, I'll write...
 *WYN:	ie yeah@s:cym&eng . 1444407_1445046
@@ -2063,22 +2064,22 @@
 *WYN:	oh@s:cym&eng &d um@s:cym&eng &və mi ydyn ni . 1465254_1466694
 %gls:	IM IM PRT be.1PL.PRES PRON.1PL
 %eng:	oh we are
-*WYN:	so@s:cym&eng xxx ni wneud rywbeth # um@s:cym&eng # cyn [/] # cyn [/] cyn +// . 1466694_1472847
+*WYN:	so@s:cym&eng xxx ni wneud rywbeth # um@s:cym&eng # cyn [/] # cyn [/] cyn +//. 1466694_1472847
 %gls:	so xxx PRON.1PL do.NONFIN something IM before before before
 %eng:	so we [...] do something um, before...before...before...
 *EVA:	+< yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 1467379_1468783
-*WYN:	xxx +// . 1472835_1473439
+*WYN:	xxx +//. 1472835_1473439
 *WYN:	ia . 1473439_1473834
 %gls:	yes
 %eng:	yes
-*WYN:	xx # mis Mawrth Ebrill +.. . 1473834_1476330
+*WYN:	xx # mis Mawrth Ebrill +... 1473834_1476330
 %gls:	xx month March April
 %eng:	[...] March, April...
 *WYN:	ia dechrau mis Ebrill hwyrach . 1476330_1478617
 %gls:	yes start.NONFIN month April perhaps
 %eng:	yes, the beginning of April perhaps
 *EVA:	xxx yeah@s:cym&eng o_k@s:cym&eng . 1478907_1480254
-*WYN:	achos um@s:cym&eng +/ . 1480254_1481276
+*WYN:	achos um@s:cym&eng +/. 1480254_1481276
 %gls:	because IM
 %eng:	because um...
 *EVA:	yeah@s:cym&eng . 1481276_1481798
@@ -2089,7 +2090,7 @@
 *EVA:	dw i ddim yn ddallt . 1488260_1489212
 %gls:	be.1S.PRES PRON.1S NEG PRT understand.NONFIN
 %eng:	I don't understand
-*WYN:	&s &sɪ Sylvie@s:cym&eng er@s:cym&eng +.. . 1488550_1490396
+*WYN:	&s &sɪ Sylvie@s:cym&eng er@s:cym&eng +... 1488550_1490396
 *WYN:	you@s:eng [?] came@s:eng along@s:eng before@s:eng didn't@s:eng you@s:eng when@s:eng Sylvie@s:cym&eng made@s:eng some@s:eng creole@s:cym&eng food@s:eng . 1490396_1494843
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng . 1494309_1495122
 *WYN:	oh@s:cym&eng yeah@s:cym&eng xxx . 1494843_1495865
@@ -2110,20 +2111,20 @@
 *WYN:	+< yeah@s:cym&eng tŷ ni yeah@s:cym&eng yeah@s:cym&eng . 1501089_1502169
 %gls:	yeah house PRON.1PL yeah yeah
 %eng:	yeah our house, yeah, yeah
-*WYN:	o_k@s:cym&eng os [?] +/ . 1502169_1502900
+*WYN:	o_k@s:cym&eng os [?] +/. 1502169_1502900
 %gls:	o_k if
 %eng:	ok, if...
 *EVA:	xxx . 1502564_1504944
 *WYN:	+< yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng # tŷ ni . 1503887_1505408
 %gls:	yeah yeah yeah house PRON.1PL
 %eng:	yeah, yeah yeah, our house
-*WYN:	wedyn oedd [?] +// . 1505408_1506372
+*WYN:	wedyn oedd [?] +//. 1505408_1506372
 %gls:	then be.3S.IMP
 %eng:	then...
 *WYN:	do wnaeth hi bwyd creole@s:cym&eng do . 1506372_1507498
 %gls:	yes do.3S.PAST PRON.3SF food creole yes
 %eng:	yes, she made creole food, didn't she
-*WYN:	wnaeth hi wneud yr um@s:cym&eng +/ . 1507498_1508647
+*WYN:	wnaeth hi wneud yr um@s:cym&eng +/. 1507498_1508647
 %gls:	do.3S.PAST PRON.3SF do.NONFIN DET IM
 %eng:	she made the um...
 *EVA:	+< yeah@s:cym&eng . 1507579_1507916
@@ -2134,16 +2135,16 @@
 %gls:	yes yes yes yes yes yes yes yes
 %eng:	yes yes yes yes yes yes yes yes
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1510842_1512444
-*WYN:	a (y)r um@s:cym&eng # prawns@s:cym&eng # a [/] a (y)r +// . 1512270_1515265
+*WYN:	a (y)r um@s:cym&eng # prawns@s:cym&eng # a [/] a (y)r +//. 1512270_1515265
 %gls:	and DET IM prawns and and DET
 %eng:	and the, um, prawns, and...and the...
-*EVA:	+< prawns@s:cym&eng a: +.. . 1513767_1515985
+*EVA:	+< prawns@s:cym&eng a: +... 1513767_1515985
 %gls:	prawns and
 %eng:	prawns and...
-*WYN:	be ti (y)n galw pethau [//] parseli um@s:cym&eng # xxx +.. . 1515265_1517517
+*WYN:	be ti (y)n galw pethau [//] parseli um@s:cym&eng # xxx +... 1515265_1517517
 %gls:	what PRON.2S PRT call.NONFIN things parcels IM xxx
 %eng:	what do you call things...the parcels, um [...] ..?
-*EVA:	um@s:cym&eng pph@s:cym&eng +.. . 1516879_1518098
+*EVA:	um@s:cym&eng pph@s:cym&eng +... 1516879_1518098
 *WYN:	samosas@s:cym&eng . 1518098_1518957
 *EVA:	samosas@s:cym&eng a: llysiau [/] llysiau . 1518957_1522498
 %gls:	samosas and vegetables vegetables
@@ -2158,10 +2159,10 @@
 *WYN:	do do do . 1528024_1529255
 %gls:	yes yes yes
 %eng:	yes yes yes
-*EVA:	+< ar_ôl +/ . 1528709_1529406
+*EVA:	+< ar_ôl +/. 1528709_1529406
 %gls:	after
 %eng:	after
-*WYN:	oh@s:cym&eng do'n i (ddi)m yn &k +// . 1529406_1530103
+*WYN:	oh@s:cym&eng do'n i (ddi)m yn &k +//. 1529406_1530103
 %gls:	IM be.1S.IMP.NEG PRON.1S NEG PRT
 %eng:	oh I didn't...
 *WYN:	oh@s:cym&eng yeah@s:cym&eng Amanda@s:cym&eng oedd ddim yna de . 1530103_1531542
@@ -2170,7 +2171,7 @@
 *WYN:	oedda chdi [/] # chdi a Stan@s:cym&eng a [/] a Iestyn@s:cym&eng . 1531542_1534909
 %gls:	be.2S.IMP PRON.2S PRON.2S and Stan and and Iesty
 %eng:	there was you, Stan and Iestyn
-*EVA:	Iestyn@s:cym&eng yn [/] yn [/] yn +// . 1534851_1536569
+*EVA:	Iestyn@s:cym&eng yn [/] yn [/] yn +//. 1534851_1536569
 %gls:	Iestyn PRT PRT PRT
 %eng:	Iestyn was...
 *WYN:	+< oedd Amanda@s:cym&eng methu dod . 1535060_1536000
@@ -2189,7 +2190,7 @@
 *WYN:	yn tŷ chi # yn yr ogof . 1543489_1545312
 %gls:	in house PRON.2PL in DET cave
 %eng:	in your house, in the cave
-*EVA:	yn yr ogo(f) +// . 1545312_1546194
+*EVA:	yn yr ogo(f) +//. 1545312_1546194
 %gls:	in DET cave
 %eng:	in the cave...
 *EVA:	faint o bobl ? 1546194_1547181
@@ -2201,13 +2202,13 @@
 *WYN:	na na na na . 1548980_1550141
 %gls:	no no no no
 %eng:	no no no no
-*EVA:	<mae (y)na> [/] mae (y)na rhy +// . 1549700_1550931
+*EVA:	<mae (y)na> [/] mae (y)na rhy +//. 1549700_1550931
 %gls:	be.3S.PRES there be.3S.PRES there too
 %eng:	there's...there's too...
 *WYN:	+< na na (doe)s dim lle . 1550339_1551488
 %gls:	no no be.3S.PRES.NEG NEG place
 %eng:	no, no, there's no room
-*EVA:	mae [/] mae [/] mae &=sigh +/ . 1551186_1552463
+*EVA:	mae [/] mae [/] mae &=sigh +/. 1551186_1552463
 %gls:	be.3S.PRES be.3S.PRES be.3S.PRES
 *WYN:	na: (doe)s dim lle nag oes . 1552463_1553868
 %gls:	no be.3S.PRES.NEG NEG place NEG be.3S.PRES
@@ -2228,7 +2229,7 @@
 *EVA:	+< chwech . 1558902_1559773
 %gls:	six
 %eng:	six
-*EVA:	dim +// . 1559773_1560110
+*EVA:	dim +//. 1559773_1560110
 %gls:	NEG
 %eng:	no...
 *EVA:	yeah@s:cym&eng . 1560110_1560423
@@ -2239,13 +2240,13 @@
 *WYN:	yndy . 1563918_1564463
 %gls:	be.3S.PRES
 %eng:	yes
-*EVA:	ry [/] rhy xxx +/ . 1564463_1566588
+*EVA:	ry [/] rhy xxx +/. 1564463_1566588
 %gls:	too too xxx
 %eng:	too [...] ...
 *WYN:	a gormod o ddiod [=! laughs] . 1565764_1567296
 %gls:	and too_much of drink
 %eng:	and too much drink
-*EVA:	+, &x # um@s:cym&eng [?] +.. . 1567296_1569676
+*EVA:	+, &x # um@s:cym&eng [?] +... 1567296_1569676
 %gls:	IM
 %eng:	um...
 *WYN:	+< xxx &=laugh gormod o ddiod . 1568364_1570594
@@ -2275,7 +2276,7 @@
 *WYN:	+< &=laugh <problem@s:cym&eng i mi> [=! laughs] . 1581205_1582413
 %gls:	problem for PRON.1S
 %eng:	a problem for me
-*EVA:	[- eng] would you drink more of it if you were living in our +.. . 1582413_1585315
+*EVA:	[- eng] would you drink more of it if you were living in our +... 1582413_1585315
 *WYN:	er@s:cym&eng yeah@s:cym&eng . 1585292_1586174
 *EVA:	yeah@s:cym&eng ? 1586174_1586731
 *EVA:	xxx <would@s:eng you@s:eng be> [?] # finding@s:eng it@s:eng difficult@s:eng ? 1586731_1589320
@@ -2293,10 +2294,10 @@
 %eng:	just joking
 *WYN:	o_k@s:cym&eng [?] . 1593999_1594545
 *EVA:	yeah@s:cym&eng yeah@s:cym&eng . 1594545_1595369
-*WYN:	diod gwahanol s(y) gynnoch chi <de timod just@s:cym&eng> [?] +.. . 1595091_1596890
+*WYN:	diod gwahanol s(y) gynnoch chi <de timod just@s:cym&eng> [?] +... 1595091_1596890
 %gls:	drink different be.PRES.REL with.2PL PRON.2PL TAG know.2S just
 %eng:	you've just got different drinks, you know, just...
-*EVA:	yeah@s:cym&eng <lot@s:cym&eng o> [/] lot@s:cym&eng o +/ . 1596890_1599224
+*EVA:	yeah@s:cym&eng <lot@s:cym&eng o> [/] lot@s:cym&eng o +/. 1596890_1599224
 %gls:	yeah lot of lot of
 %eng:	yeah, a lot of...a lot of...
 *WYN:	lot@s:cym&eng of@s:eng different@s:eng xxx . 1598829_1600512
@@ -2308,7 +2309,7 @@
 *WYN:	yndy rhy fach yndy yndy yndy . 1605760_1607455
 %gls:	be.3S.PRES too small be.3S.PRES be.3S.PRES be.3S.PRES
 %eng:	yes too small, yes yes yes
-*EVA:	yeah@s:cym&eng it's@s:eng +// . 1606898_1607985
+*EVA:	yeah@s:cym&eng it's@s:eng +//. 1606898_1607985
 *EVA:	yeah@s:cym&eng . 1607974_1608489
 *EVA:	xxx # gawn ni weld . 1608489_1610102
 %gls:	xxx get.1PL.NONPAST PRON.1PL see.NONFIN
@@ -2325,7 +2326,7 @@
 %eng:	and a lot of servants
 *WYN:	Lord@s:eng Batten@s:cym&eng <of@s:eng &ta> [/] of@s:eng Tan_y_Bwlch@s:cym&eng . 1621087_1623361
 *EVA:	+< Lord@s:eng Batten@s:cym&eng . 1621762_1622688
-*EVA:	[- eng] +" I've dropped +/ . 1623361_1624081
+*EVA:	[- eng] +" I've dropped +/. 1623361_1624081
 *WYN:	+< xxx . 1623407_1624081
 *EVA:	+" I've@s:eng dropped@s:eng the@s:eng word@s:eng “Mount@s:cym&eng” . 1624081_1625962
 *EVA:	+" I'm@s:eng now@s:eng just@s:cym&eng Mr_Batten@s:cym&eng # no@s:eng longer@s:eng Mr_Mountbatten@s:cym&eng . 1625962_1629549

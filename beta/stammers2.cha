@@ -3,29 +3,30 @@
 @Begin
 @Languages:	cy, en
 @Participants:	JAQ Jaqueline Adult, CHR Charlotte Child
-@ID:	cy|siarad|JAQ|38;|female|||Adult||
-@ID:	cy|siarad|CHR|10;|female|||Child||
+@ID:	cym|siarad|JAQ|38;|female|||Adult||
+@ID:	cym|siarad|CHR|10;|female|||Child||
 @Situation:	Conversation between mother and daughter recorded at the University
 @Comment:	JAQ was brought up in north-west Wales an has lived there all her life
 @Comment:	CHR was born in north-west Wales and has lived there all her life
 @Date:	26-JUN-2006
 @Comment:	Researcher:	Jonathan Stammers and Peredur Davies, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:30:10
-@Comment:	Filename: Stammers2.CHA; Soundfile: Stammers2.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	stammers2, audio
+@Comment:	Filename: Stammers2.cha; Soundfile: Stammers2.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Participants don't usually speak Welsh to one another. Conversation style sometimes forced, and seem conscious of being recorded
 @Comment:	A lot of disruption on Charlotte's mic
 *JAQ:	right@s:cym&eng ## be gest ti i ginio heddiw ? 209_6954
 %gls:	right what get.2S.PAST PRON.2S for lunch today
 %eng:	right, what did you have for lunch today?
-*CHR:	brechdanau +/ . 6954_10217
+*CHR:	brechdanau +/. 6954_10217
 %gls:	sandwiches
 %eng:	sandwiches
 *JAQ:	brechdanau . 10217_11088
 %gls:	sandwiches
 %eng:	sandwiches
-*CHR:	+, cris(ps)@s:cym&eng [//] creision +/ . 11088_12759
+*CHR:	+, cris(ps)@s:cym&eng [//] creision +/. 11088_12759
 %gls:	crisps crisps
 %eng:	cris...crisps
 *JAQ:	yeah@s:cym&eng . 12759_13201
@@ -116,7 +117,7 @@
 *JAQ:	na ? 57574_58445
 %gls:	no
 %eng:	no?
-*CHR:	&ds um@s:cym&eng +.. . 58445_61092
+*CHR:	&ds um@s:cym&eng +... 58445_61092
 %gls:	IM
 %eng:	um...
 *JAQ:	+< dim_byd special@s:cym&eng ? 59884_60894
@@ -131,7 +132,7 @@
 *CHR:	pasta@s:cym&eng # yeah@s:cym&eng . 65666_66815
 %gls:	pasta yeah
 %eng:	pasta, yeah
-*JAQ:	ia mae gen i um@s:cym&eng +/ . 66815_67919
+*JAQ:	ia mae gen i um@s:cym&eng +/. 66815_67919
 %gls:	yes be.3S.PRES with PRON.1S IM
 %eng:	yes I've got um...
 *CHR:	hefo garlic@s:eng bread@s:eng . 67384_68545
@@ -152,13 +153,13 @@
 *JAQ:	yeah@s:cym&eng . 71657_72377
 %gls:	yeah
 %eng:	yeah
-*CHR:	oh@s:cym&eng ella yeah@s:cym&eng +/ . 72237_73584
+*CHR:	oh@s:cym&eng ella yeah@s:cym&eng +/. 72237_73584
 %gls:	IM perhaps yeah
 %eng:	oh perhaps, yeah...
 *JAQ:	mmhm@s:cym&eng . 73584_74269
 %gls:	IM
 %eng:	mmhm
-*CHR:	+, ga i um@s:cym&eng # cael pasta@s:cym&eng i ysgol fory +/ . 74269_79192
+*CHR:	+, ga i um@s:cym&eng # cael pasta@s:cym&eng i ysgol fory +/. 74269_79192
 %gls:	get.1S.NONPAST PRON.1S IM get.NONFIN pasta for school tomorrow
 %eng:	I can have pasta for school tomorrow...
 *JAQ:	ia . 79192_79679
@@ -272,7 +273,7 @@
 *JAQ:	yn yr wythnos # pan mae gen ti ysgol # y bore # nesa ? 155540_160218
 %gls:	in DET week when be.3S.PRES with PRON.2S school DET morning next
 %eng:	in the week when you've got school the next morning?
-*CHR:	+< ia # ond # pan does (y)na ddim ysgol dw i (y)n mynd i ## gwely (y)n # hwyr iawn +/ . 158477_169808
+*CHR:	+< ia # ond # pan does (y)na ddim ysgol dw i (y)n mynd i ## gwely (y)n # hwyr iawn +/. 158477_169808
 %gls:	yes but when be.3S.PRES.NEG there NEG school be.1S.PRES PRON.1S PRT go.NONFIN to bed PRT late very
 %eng:	yes, but when there's no school I go to bed very late
 *JAQ:	ia . 169808_170632
@@ -359,7 +360,7 @@
 *JAQ:	pêl_droed ia . 221844_223052
 %gls:	football yes
 %eng:	football, yes
-*CHR:	ac roedd +// . 222634_223307
+*CHR:	ac roedd +//. 222634_223307
 %gls:	and be.3S.IMP
 %eng:	and...
 *CHR:	na ! 223307_225188
@@ -386,9 +387,9 @@
 *JAQ:	ia mae Brazil@s:cym&eng yn team@s:cym&eng dda tydy . 249998_252076
 %gls:	yes be.3S.PRES Brazil PRT team good be.3S.PRES.NEG
 %eng:	yes, Brazil is a good team, isn't it
-*CHR:	a xx [//] # mae # Ronaldinho@s:cym&eng yn dda iawn +/ . 251751_254886
+*CHR:	a xx [//] # mae # Ronaldinho@s:cym&eng yn dda iawn +/. 251751_254886
 %gls:	and xx be.3S.PRES Ronaldinho PRT good very
-%eng:	and [...] .. . Ronaldinho is very good...
+%eng:	and [...] ... Ronaldinho is very good...
 *JAQ:	yndy mae o . 254886_255943
 %gls:	be.3S.PRES be.3S.PRES PRON.3SM
 %eng:	yes he is
@@ -440,7 +441,7 @@
 *CHR:	do . 283389_283899
 %gls:	yes
 %eng:	yes
-*JAQ:	oedd o (y)n xx +/ . 283899_284747
+*JAQ:	oedd o (y)n xx +/. 283899_284747
 %gls:	be.3S.IMP PRON.3SM PRT xx
 %eng:	it was [...] ...
 *CHR:	oeddwn i meddwl oedd o (y)n Rooney@s:cym&eng . 284155_285687
@@ -464,7 +465,7 @@
 *CHR:	yeah@s:cym&eng . 291574_292827
 %gls:	yeah
 %eng:	yeah
-*JAQ:	oeddech chi (we)di gael hwyl ddoe yn tŷ # auntie@s:cym&eng # auntie@s:cym&eng +.. . 292827_298865
+*JAQ:	oeddech chi (we)di gael hwyl ddoe yn tŷ # auntie@s:cym&eng # auntie@s:cym&eng +... 292827_298865
 %gls:	be.2PL.IMP PRON.2PL PRT.PAST get.NONFIN fun yesterday in house auntie auntie
 %eng:	did you have fun yesterday in the house of auntie...auntie...
 *CHR:	do . 298865_299306
@@ -476,7 +477,7 @@
 *JAQ:	be wnaetho(ch) [//] wnaethoch chi ? 299898_302290
 %gls:	what do.2PL.PAST do.2PL.PAST PRON.2PL
 %eng:	what did you do?
-*CHR:	&d chwarae hefo dolls@s:cym&eng +/ . 302290_304879
+*CHR:	&d chwarae hefo dolls@s:cym&eng +/. 302290_304879
 %gls:	play.NONFIN with dolls
 %eng:	played with dolls
 *JAQ:	ia . 304879_305703
@@ -503,7 +504,7 @@
 *JAQ:	oh@s:cym&eng yeah@s:cym&eng ? 320413_321121
 %gls:	IM yeah
 %eng:	oh yeah?
-*CHR:	ac +// . 321121_321527
+*CHR:	ac +//. 321121_321527
 %gls:	and
 %eng:	and...
 *CHR:	na doedd o ddim yn # olwyn chdi . 321527_324105
@@ -557,7 +558,7 @@
 *JAQ:	+< xx cael tyllau . 337213_337967
 %gls:	xx get.NONFIN holes
 %eng:	[...] get holes
-*CHR:	<oedd um@s:cym&eng> [//] # oeddwn i (we)di mynd i (y)r llyfrgell yeah@s:cym&eng +// . 338478_342008
+*CHR:	<oedd um@s:cym&eng> [//] # oeddwn i (we)di mynd i (y)r llyfrgell yeah@s:cym&eng +//. 338478_342008
 %gls:	be.3S.IMP IM be.1S.IMP PRON.1S PRT.PAST go.NONFIN to DET library yeah
 %eng:	um, I went to the library, yeah
 *CHR:	oh@s:cym&eng dw i (we)di anghofio (y)r llyfrau . 342008_344237
@@ -573,7 +574,7 @@
 *CHR:	yn ysgol . 347639_348347
 %gls:	in school
 %eng:	at school
-*CHR:	oeddwn i isio um@s:cym&eng +/ . 348347_349543
+*CHR:	oeddwn i isio um@s:cym&eng +/. 348347_349543
 %gls:	be.1S.IMP PRON.1S want IM
 %eng:	I wanted, um...
 *JAQ:	ti (we)di gael llyfr newydd [?] ? 349543_351156
@@ -585,7 +586,7 @@
 *JAQ:	ia ? 351830_352689
 %gls:	yes
 %eng:	yes?
-*CHR:	xx +/ . 352689_353293
+*CHR:	xx +/. 352689_353293
 *JAQ:	pa llyfr (y)dy o ? 353293_354198
 %gls:	which book be.3S.PRES PRON.3SM
 %eng:	what book is it?
@@ -614,7 +615,7 @@
 *JAQ:	na . 366667_367062
 %gls:	no
 %eng:	no
-*CHR:	ac yr un Cymraeg ydy um@s:cym&eng +// . 367062_369629
+*CHR:	ac yr un Cymraeg ydy um@s:cym&eng +//. 367062_369629
 %gls:	and DET Welsh be.3S.PRES IM
 %eng:	and the Welsh one is, um...
 *CHR:	dw i anghofio fo . 369629_372160
@@ -671,7 +672,7 @@
 *JAQ:	xx [=! whispers] size@s:cym&eng mwy . 405770_408858
 %gls:	xx size bigger
 %eng:	[...] bigger size
-*CHR:	+< size@s:cym&eng +/ . 408359_409473
+*CHR:	+< size@s:cym&eng +/. 408359_409473
 %gls:	size
 %eng:	size...
 *JAQ:	size@s:cym&eng mwy ? 409473_410623
@@ -689,7 +690,7 @@
 *JAQ:	oh@s:cym&eng iawn . 413038_414280
 %gls:	IM right
 %eng:	oh right
-*JAQ:	mi geith hi fynd â fo +/ . 414280_415789
+*JAQ:	mi geith hi fynd â fo +/. 414280_415789
 %gls:	PRT get.3S.NONPAST PRON.3SF go.NONFIN with PRON.3SM
 %eng:	she can take it
 *CHR:	ond lle mae (y)r receipt@s:cym&eng ? 415789_417565
@@ -798,10 +799,10 @@
 *JAQ:	pam ? 473978_475116
 %gls:	why
 %eng:	why?
-*CHR:	dawnsio # yn yr +/ . 475116_477833
+*CHR:	dawnsio # yn yr +/. 475116_477833
 %gls:	dance.NONFIN in DET
 %eng:	dancing in the...
-*JAQ:	yn xx xx +// . 477159_477787
+*JAQ:	yn xx xx +//. 477159_477787
 %gls:	PRT xx xx
 %eng:	[...] ...
 *JAQ:	pa bryd ? 477787_478321
@@ -827,7 +828,7 @@
 %eng:	yeah
 *CHR:	xx [//] yn dawnsio i (y)r Wiggles@s:cym&eng . 482210_485321
 %gls:	xx PRT dance.NONFIN to DET Wiggles
-%eng:	[...] .. . dancing to the Wiggles
+%eng:	[...] ... dancing to the Wiggles
 *JAQ:	ah@s:cym&eng bechod . 485321_486575
 %gls:	IM sin
 %eng:	oh bless!
@@ -840,7 +841,7 @@
 *JAQ:	yeah@s:cym&eng ? 491231_491707
 %gls:	yeah
 %eng:	yeah?
-*CHR:	ac <roedd hi (we)di dweud yr> [//] # oh@s:cym&eng roedd yr um@s:cym&eng xx [=! whispers] +/ . 491440_496781
+*CHR:	ac <roedd hi (we)di dweud yr> [//] # oh@s:cym&eng roedd yr um@s:cym&eng xx [=! whispers] +/. 491440_496781
 %gls:	and be.3S.IMP PRON.3SF PRT.PAST say.NONFIN DET IM be.3S.IMP DET IM xx
 %eng:	and she'd said the...oh the, um, [...]
 *JAQ:	cardyn . 496781_497652
@@ -849,7 +850,7 @@
 *CHR:	+, &ka [//] er@s:cym&eng cerdyn yn # nice@s:cym&eng . 497652_501959
 %gls:	IM card PRT nice
 %eng:	er, card was nice
-*JAQ:	yr un +/ . 501959_503097
+*JAQ:	yr un +/. 501959_503097
 %gls:	DET one
 %eng:	the one...
 *CHR:	er@s:cym&eng beth roedd i (we)di dweud yeah@s:cym&eng . 503097_504734
@@ -858,7 +859,7 @@
 *JAQ:	oh@s:cym&eng # be oeddech chi (we)di ddeud ? 504734_506556
 %gls:	IM what be.2PL.IMP PRON.2PL PRT.PAST say.NONFIN
 %eng:	oh, what had you said?
-*CHR:	+< ac roedd hi +// . 505767_506440
+*CHR:	+< ac roedd hi +//. 505767_506440
 %gls:	and be.3S.IMP PRON.3SF
 %eng:	and she...
 *CHR:	um@s:cym&eng # i cael # xx [//] pen_blwydd # da . 506556_517667
@@ -896,7 +897,7 @@
 %eng:	yeah
 *JAQ:	<ti (ddi)m> [//] xx # gwybod enw fo ? 532088_533957
 %gls:	PRON.2S NEG xx know.NONFIN name PRON.3SM
-%eng:	you don't.. . [...] know its name?
+%eng:	you don't... [...] know its name?
 *CHR:	na(g) (y)dw . 533957_536267
 %gls:	NEG be.1S.PRES
 %eng:	no
@@ -939,7 +940,7 @@
 *CHR:	ia . 553125_553601
 %gls:	yes
 %eng:	yes
-*CHR:	na yn mynd i +// . 553601_554972
+*CHR:	na yn mynd i +//. 553601_554972
 %gls:	no PRT go.NONFIN to
 %eng:	no, going to...
 *CHR:	Nana@s:cym&eng xx . 554984_555958
@@ -981,13 +982,13 @@
 *JAQ:	os dach chi (y)n gofyn &t ti (y)n gwybod . 575637_578260
 %gls:	if be.2PL.PRES PRON.2PL PRT ask.NONFIN PRON.2S PRT know.NONFIN
 %eng:	if you ask you know
-*CHR:	oedd hi (we)di dweud # um@s:cym&eng # maybe@s:eng # fi [?] (y)n cael # cysgu (y)n tŷ hi +/ . 578260_587316
+*CHR:	oedd hi (we)di dweud # um@s:cym&eng # maybe@s:eng # fi [?] (y)n cael # cysgu (y)n tŷ hi +/. 578260_587316
 %gls:	be.3S.IMP PRON.3SF PRT.PAST say.NONFIN IM maybe PRON.1S PRT get.NONFIN sleep.NONFIN in house PRON.3SF
 %eng:	she said, um, maybe, I get to sleep at her house
 *JAQ:	oh@s:cym&eng right@s:cym&eng braf . 587316_589023
 %gls:	IM right fine
 %eng:	oh right, nice
-*CHR:	[- eng] +, &dɨ on [?] +/ . 589023_590834
+*CHR:	[- eng] +, &dɨ on [?] +/. 589023_590834
 %gls:	on
 %eng:	on...
 *JAQ:	pa bryd ? 590602_591194
@@ -1029,7 +1030,7 @@
 *JAQ:	oherwydd ti (y)n gwybod be sy mynd i digwydd . 604058_606160
 %gls:	because PRON.2S PRT know.NONFIN what be.PRES.REL go.NONFIN to happen.NONFIN
 %eng:	because you know what's going to happen
-*CHR:	Christina@s:cym&eng isio +/ . 605881_607100
+*CHR:	Christina@s:cym&eng isio +/. 605881_607100
 %gls:	Christina want
 %eng:	Christina will want to...
 *JAQ:	wneith hi isio aros . 606961_608226
@@ -1038,7 +1039,7 @@
 *JAQ:	ond mae o (y)n # lot@s:cym&eng i wneud efo # dwy o plant bach hefyd yn_tydy . 608226_612591
 %gls:	but be.3S.PRES PRON.3SF PRT lot to do.NONFIN with two.F of children small also be.3S.PRES.NEG
 %eng:	but it's a lot to do with two small children too, isn't it
-*CHR:	+< xx Christina@s:cym&eng +// . 610966_611965
+*CHR:	+< xx Christina@s:cym&eng +//. 610966_611965
 %gls:	xx Christina
 %eng:	[...] Christina...
 *CHR:	yeah@s:cym&eng . 612197_612580
@@ -1074,7 +1075,7 @@
 *CHR:	beth ydy amser ? 630169_631957
 %gls:	what be.3S.PRES time
 %eng:	what's the time?
-*JAQ:	mae hi: (y)n +/ . 631957_634163
+*JAQ:	mae hi: (y)n +/. 631957_634163
 %gls:	be.3S.PRES PRON.3SF PRT
 %eng:	it's...
 *CHR:	mae hwnna (y)n wrong@s:cym&eng . 634163_635208
@@ -1109,10 +1110,10 @@
 %gls:	be.1S.PRES want just start.NONFIN make.NONFIN tea for PRON.1PL
 %eng:	I want to just start making tea for us
 *CHR:	xx . 662747_663467
-*JAQ:	<a wedyn> [//] # ond dw i meddwl wna i # popio i gweld # Joanne@s:cym&eng +/ . 663467_670631
+*JAQ:	<a wedyn> [//] # ond dw i meddwl wna i # popio i gweld # Joanne@s:cym&eng +/. 663467_670631
 %gls:	and then but be.1S.PRES PRON.1S think.NONFIN do.1S.NONPAST PRON.1S pop.NONFIN to see.NONFIN Joanne
 %eng:	and then...but I think I'll pop to see Joanne
-*CHR:	oh@s:cym&eng &ka +/ . 670631_671490
+*CHR:	oh@s:cym&eng &ka +/. 670631_671490
 %gls:	IM
 %eng:	oh...
 *JAQ:	+, i ddeud pen_blwydd hapus iddi hi . 671211_672755
@@ -1157,18 +1158,18 @@
 *CHR:	yeah@s:cym&eng . 696231_696858
 %gls:	yeah
 %eng:	yeah
-*JAQ:	a +/ . 696858_697415
+*JAQ:	a +/. 696858_697415
 %gls:	and
 %eng:	and...
 *CHR:	&=laugh . 697415_698437
 *JAQ:	+, dach chi ddim # gorod wneud lot@s:cym&eng efo cathod nac (y)dach . 698007_700886
 %gls:	be.2PL.PRES PRON.2PL NEG must.NONFIN do.NONFIN lot with cats NEG be.2PL.PRES
 %eng:	you don't have to do a lot with cats, do you
-*CHR:	xx +/ . 700886_701560
-*JAQ:	mae nhw yn medru +/ . 701385_702964
+*CHR:	xx +/. 700886_701560
+*JAQ:	mae nhw yn medru +/. 701385_702964
 %gls:	be.3PL.PRES PRON.3PL PRT can.NONFIN
 %eng:	they can...
-*CHR:	++ &kə [//] pwpŵo +// . 702964_705170
+*CHR:	++ &kə [//] pwpŵo +//. 702964_705170
 %gls:	pooh_pooh.NONFIN
 %eng:	pooh-pooh...
 *JAQ:	+, edrych ar_ôl eu hunain . 704056_705298
@@ -1177,7 +1178,7 @@
 *CHR:	ac wneud yr waste@s:eng # eu hunain . 705298_709420
 %gls:	and do.NONFIN DET waste POSS.3PL selves
 %eng:	and do their own waste
-*JAQ:	tu allan i (y)r +// . 709211_710174
+*JAQ:	tu allan i (y)r +//. 709211_710174
 %gls:	side out to DET
 %eng:	outside the...
 *CHR:	yeah@s:cym&eng . 709988_710325
@@ -1204,18 +1205,18 @@
 *CHR:	yeah@s:cym&eng . 719346_720054
 %gls:	yeah
 %eng:	yeah
-*JAQ:	yr unig beth dw i ddim yn hoffi # ydy +/ . 719776_723340
+*JAQ:	yr unig beth dw i ddim yn hoffi # ydy +/. 719776_723340
 %gls:	DET only thing be.1S.PRES PRON.1S NEG PRT like.NONFIN be.3S.PRES
 %eng:	the only thing I don't like is...
-*CHR:	roi bwyd i +/ . 723340_724524
+*CHR:	roi bwyd i +/. 723340_724524
 %gls:	give.NONFIN food to
 %eng:	give food to...
-*JAQ:	+< mae +// . 724118_724501
+*JAQ:	+< mae +//. 724118_724501
 %gls:	be.3S.PRES
 *JAQ:	naci . 724501_725186
 %gls:	no
 %eng:	no
-*JAQ:	mae [/] # mae hi (y)n dŵad â # llygoden +/ . 725186_729029
+*JAQ:	mae [/] # mae hi (y)n dŵad â # llygoden +/. 725186_729029
 %gls:	be.3S.PRES be.3S.PRES PRON.3SF PRT come.NONFIN with mouse
 %eng:	she brings a mouse
 *CHR:	++ &ɬg [/] llygod &=laugh . 728205_730178
@@ -1224,7 +1225,7 @@
 *JAQ:	+, i (y)r drws . 729853_730863
 %gls:	to DET door
 %eng:	to the door
-*JAQ:	a dw i (ddi)m yn hoffi &ɬ [/] # llygod +/ . 730863_732907
+*JAQ:	a dw i (ddi)m yn hoffi &ɬ [/] # llygod +/. 730863_732907
 %gls:	and be.1S.PRES PRON.1S NEG PRT like.NONFIN mice
 %eng:	and I don't like mice
 *CHR:	na fi . 732907_733708
@@ -1248,7 +1249,7 @@
 *CHR:	dw i isio un . 743448_744540
 %gls:	be.1S.PRES PRON.1S want one
 %eng:	I want one
-*JAQ:	xx # xx [=! stumbles over words] +// . 744540_746711
+*JAQ:	xx # xx [=! stumbles over words] +//. 744540_746711
 *JAQ:	dach chi (y)n hoffi # ci ? 746711_748928
 %gls:	be.2PL.PRES PRON.2PL PRT like.NONFIN dog
 %eng:	do you like dogs?
@@ -1279,7 +1280,7 @@
 *CHR:	yndy . 760353_761027
 %gls:	be.3S.PRES
 %eng:	yes
-*CHR:	guard@s:cym&eng <(y)dy o> [?] # guard@s:cym&eng +// . 761027_764232
+*CHR:	guard@s:cym&eng <(y)dy o> [?] # guard@s:cym&eng +//. 761027_764232
 %gls:	guard be.3S.PRES PRON.3SM guard
 %eng:	it's a guard...guard...
 *JAQ:	be ? 764232_765961
@@ -1412,7 +1413,7 @@
 *CHR:	i lle ? 827321_827878
 %gls:	to where
 %eng:	where?
-*JAQ:	mae nhw # yn mynd o fa(n) (y)ma # i # Palma_Nova@s:cym&eng # a we(dyn) +/ . 827878_834008
+*JAQ:	mae nhw # yn mynd o fa(n) (y)ma # i # Palma_Nova@s:cym&eng # a we(dyn) +/. 827878_834008
 %gls:	be.3PL.PRES PRON.3PL PRT go.NONFIN from place here to Palma_Nova and then
 %eng:	they're going from here to Palma Nova, and then...
 *CHR:	+< lle mae hwnna ? 833370_834136
@@ -1436,7 +1437,7 @@
 *CHR:	dim Simon@s:cym&eng ? 848440_849612
 %gls:	NEG Simon
 %eng:	not Simon?
-*JAQ:	na mae Simon@s:cym&eng yn aros yn tŷ Anna@s:cym&eng +/ . 849612_851783
+*JAQ:	na mae Simon@s:cym&eng yn aros yn tŷ Anna@s:cym&eng +/. 849612_851783
 %gls:	no be.3S.PRES Simon PRT stay.NONFIN in house Anna
 %eng:	no, Simon's staying at Anna's house
 *CHR:	oh@s:cym&eng . 851783_853060
@@ -1460,7 +1461,7 @@
 *JAQ:	a mae Andy@s:cym&eng yn edrych ymlaen # mynd ar cruise@s:cym&eng . 861153_864799
 %gls:	and be.3S.PRES Andy PRT look.NONFIN forward go.NONFIN on cruise
 %eng:	and Andy's looking forward to going on a cruise
-*JAQ:	(dy)dy o ddim (we)di bod o blaen +/ . 864799_866354
+*JAQ:	(dy)dy o ddim (we)di bod o blaen +/. 864799_866354
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT be.NONFIN of before
 %eng:	he hasn't been before...
 *CHR:	na . 866354_867562
@@ -1494,7 +1495,7 @@
 %gls:	but be.3S.PRES.NEG with.1PL PRON.1PL NEG money NEG year here
 %eng:	but we haven't got any money, not this year
 *CHR:	xxx . 885383_888692
-*JAQ:	+< oherw(ydd) +// . 886335_886811
+*JAQ:	+< oherw(ydd) +//. 886335_886811
 %gls:	because
 %eng:	beca...
 *JAQ:	na # na . 888692_890689
@@ -1512,7 +1513,7 @@
 *JAQ:	ia ? 894984_895298
 %gls:	yes
 %eng:	yes?
-*CHR:	xx +/ . 895298_896354
+*CHR:	xx +/. 895298_896354
 *JAQ:	felly # dan ni ddim yn # medru mynd am # holiday@s:cym&eng # dim blwyddyn yma . 896134_901614
 %gls:	thus be.1PL.PRES PRON.1PL NEG PRT can.NONFIN go.NONFIN for holiday NEG year here
 %eng:	so we can't go for a holiday, not this year
@@ -1522,7 +1523,7 @@
 *JAQ:	dw (ddi)m yn gwybod lle . 903959_906664
 %gls:	be.1S.PRES NEG PRT know.NONFIN where
 %eng:	I don't know where
-*JAQ:	dan ni +/ . 906664_907187
+*JAQ:	dan ni +/. 906664_907187
 %gls:	be.1PL.PRES PRON.1PL
 %eng:	we're...
 *CHR:	a fi # a Luke@s:cym&eng . 907187_908580
@@ -1543,7 +1544,7 @@
 *CHR:	mmhm@s:cym&eng . 928177_928990
 %gls:	IM
 %eng:	mmhm
-*JAQ:	neu os dach chi (y)n +// . 928990_930615
+*JAQ:	neu os dach chi (y)n +//. 928990_930615
 %gls:	or if be.2PL.PRES PRON.2PL PRT
 %eng:	or if you...
 *JAQ:	gei di fynd i Rhyl@s:cym&eng # Sun_Centre@s:cym&eng . 930615_933332
@@ -1582,7 +1583,7 @@
 *JAQ:	sheet@s:cym&eng ? 953847_954729
 %gls:	sheet
 %eng:	sheet?
-*CHR:	i fill_io@s:eng+cym mewn +/ . 954729_956041
+*CHR:	i fill_io@s:eng+cym mewn +/. 954729_956041
 %gls:	to fill.NONFIN in
 %eng:	to fill in
 *JAQ:	i llenwi fewn . 956041_956924
@@ -1600,7 +1601,7 @@
 *JAQ:	ah@s:cym&eng yeah@s:cym&eng . 961405_962682
 %gls:	IM yeah
 %eng:	ah yeah
-*CHR:	gwyliau haf # i +/ . 962473_964609
+*CHR:	gwyliau haf # i +/. 962473_964609
 %gls:	holiday summer to
 %eng:	summer holidays, to...
 *JAQ:	efo pwy ? 964319_964923
@@ -1654,7 +1655,7 @@
 *JAQ:	ond # (dy)dyn [//] # dw i ddim (we)di gweld dim_byd . 999254_1001889
 %gls:	but be.3PL.PRES.NEG be.1S.PRES PRON.1S NEG PRT.PAST see.NONFIN nothing
 %eng:	but I haven't seen anything
-*CHR:	dan [?] ni mynd i Knowsley_Safari_Park@s:cym&eng dydd # um@s:cym&eng ## dydd Iau nesaf +/ . 1001889_1014672
+*CHR:	dan [?] ni mynd i Knowsley_Safari_Park@s:cym&eng dydd # um@s:cym&eng ## dydd Iau nesaf +/. 1001889_1014672
 %gls:	be.1PL.PRES PRON.1PL go.NONFIN to Knowsley_Safari_Park day IM day Thursday next
 %eng:	we're going to Knowsley Safari Park, um, next Thursday
 *JAQ:	oh@s:cym&eng braf . 1014672_1015473
@@ -1681,10 +1682,10 @@
 *JAQ:	na ? 1024122_1024668
 %gls:	no
 %eng:	no?
-*CHR:	dim yn +// . 1024494_1025573
+*CHR:	dim yn +//. 1024494_1025573
 %gls:	NEG PRT
 %eng:	not...
-*JAQ:	xx +/ . 1025573_1026781
+*JAQ:	xx +/. 1025573_1026781
 *CHR:	(y)dyn ni mynd i (y)r un yn Birmingham@s:cym&eng ? 1026456_1028917
 %gls:	be.1PL.PRES PRON.1PL go.NONFIN to DET one in Birmingham
 %eng:	are we going to the one in Birmingham?
@@ -1812,13 +1813,13 @@
 *CHR:	yndy [//] yndan . 1097846_1099018
 %gls:	be.3S.PRES be.1PL.PRES
 %eng:	yes...yes
-*JAQ:	oh@s:cym&eng yeah@s:cym&eng # oherwydd <mae (y)na> [//] # does (y)na ddim um@s:cym&eng +/ . 1099018_1104394
+*JAQ:	oh@s:cym&eng yeah@s:cym&eng # oherwydd <mae (y)na> [//] # does (y)na ddim um@s:cym&eng +/. 1099018_1104394
 %gls:	IM yeah because be.3S.PRES there be.3S.PRES.NEG there NEG IM
 %eng:	oh yeah, because there's...there's no, um...
 *CHR:	++ ysgol . 1104394_1106611
 %gls:	school
 %eng:	school
-*JAQ:	+, athrawon +/ . 1106611_1107563
+*JAQ:	+, athrawon +/. 1106611_1107563
 %gls:	teachers
 %eng:	teachers
 *CHR:	na . 1107563_1108260
@@ -1830,7 +1831,7 @@
 *CHR:	naci . 1108659_1109232
 %gls:	no
 %eng:	no
-*JAQ:	+, i edrych ar_ôl +.. . 1109072_1109862
+*JAQ:	+, i edrych ar_ôl +... 1109072_1109862
 %gls:	to look.NONFIN after
 %eng:	to look after...
 *CHR:	<mae nhw (y)n> [?] dod hefo ni . 1109862_1112497
@@ -1839,7 +1840,7 @@
 *JAQ:	yndyn . 1112497_1113136
 %gls:	be.3PL.PRES
 %eng:	yes
-*JAQ:	ella fydd # rhei ohonyn nhw yn mynd i (y)r um@s:cym&eng babanod +/ . 1113136_1116979
+*JAQ:	ella fydd # rhei ohonyn nhw yn mynd i (y)r um@s:cym&eng babanod +/. 1113136_1116979
 %gls:	perhaps be.3S.FUT some of.3PL PRON.3PL PRT go.NONFIN to DET IM infants
 %eng:	perhaps some of them will go to the, um, infants
 *CHR:	na . 1116979_1118175
@@ -1908,7 +1909,7 @@
 *CHR:	a pres . 1143148_1144123
 %gls:	and money
 %eng:	and money
-*JAQ:	a pres # i fynd +/ . 1144123_1145946
+*JAQ:	a pres # i fynd +/. 1144123_1145946
 %gls:	and money to go.NONFIN
 %eng:	and money, to go...
 *CHR:	faint ydw i (y)n cael ? 1145435_1146561
@@ -1944,10 +1945,10 @@
 *CHR:	na xx . 1160168_1161050
 %gls:	no xx
 %eng:	no [...]
-*JAQ:	na dach chi (y)n wario pres +/ . 1161004_1162873
+*JAQ:	na dach chi (y)n wario pres +/. 1161004_1162873
 %gls:	no be.2PL.PRES PRON.2PL PRT spend.NONFIN money
 %eng:	no you spend money
-*CHR:	ca i pres gan Nana@s:cym&eng [?] +/ . 1162107_1164336
+*CHR:	ca i pres gan Nana@s:cym&eng [?] +/. 1162107_1164336
 %gls:	get.1S.NONPAST PRON.1S money from Nana
 %eng:	I'll get money from Nana
 *JAQ:	mmm@s:cym&eng . 1164336_1165207
@@ -1956,7 +1957,7 @@
 *CHR:	+, pres gan ti pres gan dad@s:cym&eng . 1165160_1167645
 %gls:	money from PRON.2S money from dad
 %eng:	money from you, money from dad
-*JAQ:	mae raid i chi cadw yr um@s:cym&eng arian pocket@s:cym&eng +/ . 1167645_1172010
+*JAQ:	mae raid i chi cadw yr um@s:cym&eng arian pocket@s:cym&eng +/. 1167645_1172010
 %gls:	be.3S.PRES necessity for PRON.2PL keep.NONFIN DET IM money pocket
 %eng:	you have to keep the, um, pocket money
 *CHR:	yeah@s:cym&eng . 1172010_1172683
@@ -1968,7 +1969,7 @@
 *CHR:	wythnos yma . 1174170_1174947
 %gls:	week here
 %eng:	this week
-*CHR:	ond dw i isio # credit@s:cym&eng i fy +/ . 1174947_1177850
+*CHR:	ond dw i isio # credit@s:cym&eng i fy +/. 1174947_1177850
 %gls:	but be.1S.PRES PRON.1S want credit for POSS.1S
 %eng:	but I want credit for my...
 *JAQ:	ah@s:cym&eng right@s:cym&eng . 1177850_1179684
@@ -1992,7 +1993,7 @@
 *JAQ:	ia ? 1193024_1193431
 %gls:	yes
 %eng:	yes
-*CHR:	ac um@s:cym&eng # dw i (y)n +/ . 1193431_1196008
+*CHR:	ac um@s:cym&eng # dw i (y)n +/. 1193431_1196008
 %gls:	and IM be.1S.PRES PRON.1S PRT
 %eng:	and, um, I'm...
 *JAQ:	ti (ddi)m yn gael free@s:cym&eng texts@s:eng [=? text@s:eng] ? 1195544_1196867
@@ -2016,7 +2017,7 @@
 *JAQ:	ia . 1206933_1207490
 %gls:	yes
 %eng:	yes
-*JAQ:	dw i efo +/ . 1207490_1208907
+*JAQ:	dw i efo +/. 1207490_1208907
 %gls:	be.1S.PRES PRON.1S with
 %eng:	I'm with...
 *CHR:	dw i (y)n &ɔ ar Virgin@s:cym&eng . 1208477_1209928
@@ -2046,7 +2047,7 @@
 *CHR:	xx cael um@s:cym&eng # un newydd i fy pen_blwydd . 1226995_1230014
 %gls:	xx get.NONFIN IM one new for POSS.1S birthday
 %eng:	[...] getting, um, a new one for my birthday
-*JAQ:	oh@s:cym&eng yndach +! ? 1230014_1231476
+*JAQ:	oh@s:cym&eng yndach +!? 1230014_1231476
 %gls:	IM be.2PL.PRES
 %eng:	oh are you?
 *CHR:	yeah@s:cym&eng . 1231476_1232394
@@ -2095,7 +2096,7 @@
 *JAQ:	mae (y)na lot@s:cym&eng o plant yn gael nhw . 1262533_1265529
 %gls:	be.3PL.PRES there lot of children PRT get.NONFIN PRON.3PL
 %eng:	a lot of children get them
-*JAQ:	a wedyn # pan mae nhw isio credit@s:cym&eng iddo fo # mae nhw (y)n # meddwl +"/ . 1265529_1271810
+*JAQ:	a wedyn # pan mae nhw isio credit@s:cym&eng iddo fo # mae nhw (y)n # meddwl +"/. 1265529_1271810
 %gls:	and then when be.3PL.PRES PRON.3PL want credit for.3SM PRON.3SM be.3PL.PRES PRON.3PL PRT think.NONFIN
 %eng:	and then when they want credit for it they think:
 *JAQ:	+" oh@s:cym&eng dw i (ddi)m yn hoffi hyn # gorod talu fy hun # am credit@s:cym&eng . 1271810_1276338
@@ -2126,7 +2127,7 @@
 %gls:	be.1S.IMP PRON.1S be.1S.IMP be.1S.IMP PRT.PAST wear.NONFIN shorts morning here
 %eng:	I...I...I wore shorts this morning
 *CHR:	+< &=laugh . 1303760_1304538
-*CHR:	shorts@s:cym&eng +! ? 1305328_1306373
+*CHR:	shorts@s:cym&eng +!? 1305328_1306373
 %gls:	shorts
 %eng:	shorts!?
 *JAQ:	shorts@s:cym&eng # well@s:cym&eng rhei at fy mhengliniau [=? mhenglin ia@] . 1306152_1309136
@@ -2138,10 +2139,10 @@
 *JAQ:	a wedyn amser cinio <mi wne(s)> [/] mi wnes i fynd adre # i newid i trousers@s:cym&eng oherwydd oedd hi (y)n &g # oer . 1309821_1315863
 %gls:	and then time lunch PRT do.1S.PAST PRT do.1S.PAST PRON.1S go.NONFIN home to change.NONFIN to trousers because be.3S.IMP PRON.3SF PRT cold
 %eng:	and then at lunch time I...I went home because it was cold
-*JAQ:	dach chi ddim yn gwybod be i gwisgo na +/ . 1315863_1320144
+*JAQ:	dach chi ddim yn gwybod be i gwisgo na +/. 1315863_1320144
 %gls:	be.2PL.PRES PRON.2PL NEG PRT know.NONFIN what to wear.NONFIN no
 %eng:	you don't know what to wear, no
-*CHR:	na <ddim os> [?] +/ . 1320144_1321421
+*CHR:	na <ddim os> [?] +/. 1320144_1321421
 %gls:	no NEG if
 %eng:	no, not if...
 *JAQ:	+, yn y boreau . 1320807_1321617
@@ -2150,7 +2151,7 @@
 *CHR:	na . 1321617_1322207
 %gls:	no
 %eng:	no
-*JAQ:	ella gei [//] # gewch chi gwisgo trousers@s:cym&eng # a wedyn # tua deg o gloch mae (y)r haul yn +/ . 1322207_1328682
+*JAQ:	ella gei [//] # gewch chi gwisgo trousers@s:cym&eng # a wedyn # tua deg o gloch mae (y)r haul yn +/. 1322207_1328682
 %gls:	perhaps get.2S.NONPAST get.2PL.NONPAST PRON.2PL wear.NONFIN trousers and then approximately ten of clock be.3S.PRES DET sun PRT
 %eng:	perhaps you'll wear trousers and then at about ten o'clock the sun...
 *CHR:	++ dod allan . 1328682_1329640
@@ -2159,7 +2160,7 @@
 *JAQ:	+, dod allan . 1329640_1330098
 %gls:	come.NONFIN out
 %eng:	comes out
-*JAQ:	a wedyn dach chi (y)n boeth wedyn yn dosbarth +/ . 1330098_1332333
+*JAQ:	a wedyn dach chi (y)n boeth wedyn yn dosbarth +/. 1330098_1332333
 %gls:	and then be.2PL.PRES PRON.2PL PRT hot then in class
 %eng:	and then you're hot then in class
 *CHR:	mmm@s:cym&eng . 1332333_1332930
@@ -2261,7 +2262,7 @@
 *JAQ:	dw i (we)di bod yma o blaen . 1391550_1393695
 %gls:	be.1S.PRES PRON.1S PRT.PAST be.NONFIN here of before
 %eng:	I've been here before
-*JAQ:	oedd um@s:cym&eng +// . 1393695_1396887
+*JAQ:	oedd um@s:cym&eng +//. 1393695_1396887
 %gls:	be.3S.IMP IM
 %eng:	um...
 *JAQ:	ti (y)n gwybod Auntie@s:cym&eng Doris@s:cym&eng ? 1396887_1398524
@@ -2357,11 +2358,11 @@
 *CHR:	dw i yn . 1448197_1449154
 %gls:	be.1S.PRES PRON.1S PRT
 %eng:	I do
-*JAQ:	medra i siarad i [//] am Cymru # a ennill +/ . 1449154_1453280
+*JAQ:	medra i siarad i [//] am Cymru # a ennill +/. 1449154_1453280
 %gls:	can.1S.NONPAST PRON.1S speak.NONFIN for for Wales and win.NONFIN
 %eng:	I can speak for Wales, and win
 *CHR:	&=laugh [?] . 1453280_1454041
-*JAQ:	+, a cael gwobr +/ . 1454041_1455433
+*JAQ:	+, a cael gwobr +/. 1454041_1455433
 %gls:	and get.NONFIN prize
 %eng:	and get a prize
 *CHR:	xx . 1455433_1456505
@@ -2372,7 +2373,7 @@
 *JAQ:	be ti am wneud ar_ôl mynd adre ? 1461818_1464699
 %gls:	what PRON.2S for do.NONFIN after go.NONFIN home
 %eng:	what are you going to do after going home?
-*CHR:	aros +/ . 1464699_1466820
+*CHR:	aros +/. 1464699_1466820
 %gls:	stay.NONFIN
 %eng:	stay...
 *JAQ:	+< ti mynd allan ? 1466181_1466820
@@ -2468,7 +2469,7 @@
 *CHR:	++ cuddio fo oddi_wrtho fo . 1514470_1516107
 %gls:	hide.NONFIN PRON.3SM from.3SM PRON.3SM
 %eng:	hide it from him
-*JAQ:	+< +, cuddio +// . 1515518_1515894
+*JAQ:	+< +, cuddio +//. 1515518_1515894
 %gls:	hide.NONFIN
 %eng:	hide...
 *JAQ:	oh@s:cym&eng right@s:cym&eng . 1515894_1516844
@@ -2634,7 +2635,7 @@
 *JAQ:	efo pwy ? 1627207_1627960
 %gls:	with who
 %eng:	who with?
-*CHR:	Sharon@s:cym&eng Ryan@s:cym&eng a Cecil@s:cym&eng +/ . 1627960_1631013
+*CHR:	Sharon@s:cym&eng Ryan@s:cym&eng a Cecil@s:cym&eng +/. 1627960_1631013
 %gls:	Sharon Rhan and Cecil
 %eng:	Sharon, Ryan and Cecil
 *JAQ:	yeah@s:cym&eng . 1631013_1631398
@@ -2749,13 +2750,13 @@
 %gls:	but be.3S.PRES there different IM trophies to win.NONFIN
 %eng:	but there are, um, different trophies to win
 *CHR:	xx . 1686588_1687685
-*JAQ:	a dan ni (y)n mynd # nos: [/] nos Mercher +/ . 1687046_1691033
+*JAQ:	a dan ni (y)n mynd # nos: [/] nos Mercher +/. 1687046_1691033
 %gls:	and be.1PL.PRES PRON.1PL PRT go.NONFIN night night Wednesday
 %eng:	and we're going on Wednesday night
 *CHR:	+< &=squeak xx # Mercher . 1690009_1691786
 %gls:	xx Wednesday
 %eng:	[...] Wednesday
-*JAQ:	+, ia +/ . 1691786_1692211
+*JAQ:	+, ia +/. 1691786_1692211
 %gls:	yes
 %eng:	yes
 *CHR:	hmm@s:cym&eng . 1692211_1693030
@@ -2773,7 +2774,7 @@
 *CHR:	dw i ddim yn mynd . 1698220_1699603
 %gls:	be.1S.PRES PRON.1S NEG PRT go.NONFIN
 %eng:	I'm not going
-*JAQ:	ti mynd i aros yn +// . 1699603_1700905
+*JAQ:	ti mynd i aros yn +//. 1699603_1700905
 %gls:	PRON.2S go.NONFIN to stay.NONFIN in
 %eng:	you're going to stay at...
 *CHR:	[- eng] +< no way . 1700324_1700995
@@ -2797,7 +2798,7 @@
 *CHR:	+< ++ gofyn . 1709361_1710090
 %gls:	ask.NONFIN
 %eng:	ask
-*CHR:	ond [?] dydy Luke@s:cym&eng ddim yn +// . 1710679_1711948
+*CHR:	ond [?] dydy Luke@s:cym&eng ddim yn +//. 1710679_1711948
 %gls:	but be.3S.PRES.NEG Luke NEG PRT
 %eng:	but Luke doesn't...
 *CHR:	wnei di gofyn i Luke@s:cym&eng +/? 1711948_1715574
@@ -2809,7 +2810,7 @@
 *CHR:	+, <iddi fi &mɪ> [//] # um@s:cym&eng # &=clicks_fingers # gofyn iddo fo # gei [//] geith [//] geitha fi # mynd arno fo ? 1716286_1724227
 %gls:	for.1S PRON.1S IM ask.NONFIN to.3SM PRON.3SM get.1S.NONPAST get.1S.NONPAST get.1S.NONPAST PRON.1S go.NONFIN on.3SM PRON.3SM
 %eng:	for me...um, ask him if I can go on it?
-*JAQ:	oh@s:cym&eng gei di gofyn wrth Luke@s:cym&eng # xx +/ . 1724120_1728459
+*JAQ:	oh@s:cym&eng gei di gofyn wrth Luke@s:cym&eng # xx +/. 1724120_1728459
 %gls:	IM get.2S.NONPAST PRON.2S ask.NONFIN to Luke xx
 %eng:	oh you can ask Luke [...] ...
 *CHR:	(dy)dy o ddim yn # gadael i fi . 1727952_1729172
@@ -2848,7 +2849,7 @@
 *JAQ:	oherwydd <dw i> [//] [?] dan ni ddim yn gwybod faint o gloch mae o (y)n gorffen . 1745453_1748449
 %gls:	because be.1S.PRES PRON.1S be.1PL.PRES PRON.1PL NEG PRT know.NONFIN how_much of time be.3S.PRES PRON.3SM PRT finish.NONFIN
 %eng:	because I...we don't know what time it finishes
-*JAQ:	a mae gen ti # ysgol # yeah@s:cym&eng +/ . 1748449_1752150
+*JAQ:	a mae gen ti # ysgol # yeah@s:cym&eng +/. 1748449_1752150
 %gls:	and be.3S.PRES with PRON.2S school yeah
 %eng:	and you've got school, yeah
 *CHR:	yeah@s:cym&eng . 1752150_1753451
@@ -2890,7 +2891,7 @@
 *CHR:	oes . 1776224_1777182
 %gls:	be.3S.PRES
 %eng:	yes
-*JAQ:	mae gynnoch chi +// . 1777035_1777935
+*JAQ:	mae gynnoch chi +//. 1777035_1777935
 %gls:	be.3S.PRES with.2PL PRON.2PL
 %eng:	you've got...
 *JAQ:	ooh@s:cym&eng dw i (ddi)m yn gwybod faint o timoedd sy (y)na # i ddeud y gwir . 1777935_1781054

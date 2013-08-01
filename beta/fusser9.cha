@@ -3,17 +3,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	BAG Baglan Adult, ABE Abel Adult
-@ID:	cy|siarad|BAG|57;|male|||Adult||
-@ID:	cy|siarad|ABE|58;|male|||Adult||
+@ID:	cym|siarad|BAG|57;|male|||Adult||
+@ID:	cym|siarad|ABE|58;|male|||Adult||
 @Situation:	informal conversation at researcher's house between long-time colleagues
 @Comment:	BAG was brought up in north-west Wales, where he is now living, but has also spent significant periods in England and south-east Wales
 @Comment:	ABE was brought up in north-west Wales, where he is now living, but has spent some years in south-west Wales
 @Date:	16-JAN-2006
 @Comment:	Researcher: Marika Fusser, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:46:22
-@Comment:	Filename: Fusser9.CHA; Soundfile: Fusser9.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English.
+@Media:	fusser9, audio
+@Comment:	Filename: Fusser9.cha; Soundfile: Fusser9.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *BAG:	er@s:cym&eng <oedd o (y)n er@s:cym&eng &g> [//] <oedd o (y)n> [//] # <(dy)na fo> [//] # dyna [//] # oedd o (we)di # dallt na # lloc # oedd yr [//] y wal o_gwmpas yr eglwys yn_de . 0_11981
 %gls:	IM be.3S.IMP PRON.3SM PRT IM be.3S.IMP PRON.3SM PRT there PRON.3SM there be.3S.IMP PRON.3SM PRT.PAST understand.NONFIN PRT enclosure be.3S.IMP DET DET wall around DET church TAG
 %eng:	he was...he was...that's it, he'd understood that the wall around the church was an enclosure, you know
@@ -21,7 +22,7 @@
 *ABE:	+< lloc . 9300_9810
 %gls:	enclosure
 %eng:	enclosure
-*BAG:	wrth_gwrs lloc ydy # corlan +/ . 11970_14269
+*BAG:	wrth_gwrs lloc ydy # corlan +/. 11970_14269
 %gls:	of course enclosure be.3S.PRES pen
 %eng:	of course, an enclosure is a pen
 *ABE:	ia corlan # (y)r [?] anifeiliaid <mwy neu lai yeah@s:cym&eng> [?] . 14369_16173
@@ -30,7 +31,7 @@
 *BAG:	+, <yn y> [/] <yn y> [/] <yn y> [/] <yn y> [/] # yn y # deheubarth neu yn y # canolbarth beth bynnag yn_de . 15650_20004
 %gls:	in DET in DET in DET in DET in DET southern_part or in DET mid_part what ever TAG
 %eng:	in the south or in mid Wales anyway, isn't it
-*BAG:	er@s:cym&eng ond um@s:cym&eng +/ . 20004_20805
+*BAG:	er@s:cym&eng ond um@s:cym&eng +/. 20004_20805
 %gls:	IM but IM
 %eng:	er but um...
 *ABE:	well@s:cym&eng yeah@s:cym&eng mae e ffordd (y)ma (he)fyd . 20225_21293
@@ -42,7 +43,7 @@
 *BAG:	+< ie ia . 22999_23742
 %gls:	yes yes
 %eng:	yes yes
-*ABE:	Pont_Lloc@s:cym&eng yn # Nebo@s:cym&eng (a)cw a # xx +/ . 23661_26924
+*ABE:	Pont_Lloc@s:cym&eng yn # Nebo@s:cym&eng (a)cw a # xx +/. 23661_26924
 %gls:	Pont_Lloc in Nebo there and xx
 %eng:	Pont_Lloc in Nebo and [...] ...
 *BAG:	+< ie yeah@s:cym&eng . 24543_25263
@@ -51,16 +52,16 @@
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng na oedden ni (y)n # adrodd a ryw gwahanol bobl yn cyfrannu # eu pwt felly # ac yn adrodd yr er@s:cym&eng # gwahanol enwau llefydd oedd [?] efo “lloc” yn_de . 26064_35283
 %gls:	yeah yeah no be.1PL.IMP PRON.1PL PRT report.NONFIN and some different people PRT contribute.NONFIN POSS.3PL bit thus and PRT report.NONFIN DET IM different names places be.3S.IMP with lloc TAG
 %eng:	yeah yeah, no, we were reporting and various people were contributing their bit, like, and reporting the er different place names that had "lloc" in, you know
-*BAG:	ond oedd # Gruff@s:cym&eng +// . 35283_36420
+*BAG:	ond oedd # Gruff@s:cym&eng +//. 35283_36420
 %gls:	but be.3S.IMP Gruff
 %eng:	but Gruff was...
 *BAG:	<os &ðɛɬ> [//] os ddalltais i o (y)n iawn felly <oedd yr> [//] oedd y wal o_gwmpas yr eglwys <yn ryw fath o> [//] # yn [/] yn [/] # yn # &de &n yn lloc go iawn yn_de wsti um@s:cym&eng # yn hytrach na bod o (y)n # gorlan # gadw defaid neu beth bynnag yn_de . 36420_52048
 %gls:	if if understand.1S.PAST PRON.1S PRON.3SM PRT right thus be.3S.IMP DET be.3S.IMP DET wall around DET church PRT some kind of PRT PRT PRT PRT enclosure rather right TAG know.2S IM PRT rather PRT be.NONFIN PRON.3SM PRT pen keep.NONFIN sheep or what ever TAG
 %eng:	if I understood him correctly, like, the wall around the church was some kind of...was a real enclosure, wasn't it you know, um, rather than being a pen to keep sheep or whatever, you know
-*BAG:	hwyrach bod (y)na +// . 52048_52570
+*BAG:	hwyrach bod (y)na +//. 52048_52570
 %gls:	perhaps be.NONFIN there
 %eng:	perhaps there's a...
-*BAG:	achos # xx +// . 52570_53801
+*BAG:	achos # xx +//. 52570_53801
 %gls:	because xx
 %eng:	because [...] ...
 *BAG:	ti nabod Huw@s:cym&eng # Huw_Watkin@s:cym&eng # Penrhyn@s:cym&eng ? 53801_56761
@@ -90,7 +91,7 @@
 *BAG:	ew wrth fy modd efo fo . 62798_63936
 %gls:	gosh by POSS.1S liking with PRON.3SM
 %eng:	gosh, I think he's great
-*BAG:	ac oedd Rhys_Parry@s:cym&eng yna hefyd yn_de wsti +/ . 63936_65480
+*BAG:	ac oedd Rhys_Parry@s:cym&eng yna hefyd yn_de wsti +/. 63936_65480
 %gls:	and be.3S.IMP Rhys_Parry there also TAG know.2S
 %eng:	and Rhys Parry was there too, you know
 *ABE:	+< &=laugh xx gymeriad . 63959_65039
@@ -118,7 +119,7 @@
 *BAG:	+< wrth (f)y modd efo fo de . 70217_71332
 %gls:	by POSS.1S liking with PRON.3SM TAG
 %eng:	he's great, you know
-*BAG:	ac er +// . 71332_72556
+*BAG:	ac er +//. 71332_72556
 %gls:	and IM
 %eng:	and er...
 *BAG:	oedd [?] o (y)n gweithio (y)n Greenwich@s:cym&eng doedd na [?] . 72568_73863
@@ -127,7 +128,7 @@
 *BAG:	oedd [?] ? 73851_74455
 %gls:	be.3S.IMP
 %eng:	was he
-*ABE:	oedd yn tad yn gynnar (fe)lly timod ac yn um@s:cym&eng # er@s:cym&eng # cymeryd mesuriadau ar leoliadau rei o (y)r sêr xx <ballu wedyn> [?] +.. . 74445_81885
+*ABE:	oedd yn tad yn gynnar (fe)lly timod ac yn um@s:cym&eng # er@s:cym&eng # cymeryd mesuriadau ar leoliadau rei o (y)r sêr xx <ballu wedyn> [?] +... 74445_81885
 %gls:	be.3S.IMP PRT father PRT early thus know.2S and PRT IM IM take.NONFIN measurements on locations some of DET stars xx suchlike then
 %eng:	yes definitely, early like you know, and um, taking measurements for the locations of some of the stars [..] and suchlike, then...
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng xx yeah@s:cym&eng . 75105_76742
@@ -152,7 +153,7 @@
 *BAG:	ond er@s:cym&eng oh@s:cym&eng (dy)na fo xx . 91359_92532
 %gls:	but IM IM there PRON.3SM xx
 %eng:	but er oh, there we are [...]
-*ABE:	+< ia ia yeah@s:cym&eng ond oh@s:cym&eng # os gei di gyfle ryw dro um@s:cym&eng [?] +.. . 91580_94830
+*ABE:	+< ia ia yeah@s:cym&eng ond oh@s:cym&eng # os gei di gyfle ryw dro um@s:cym&eng [?] +... 91580_94830
 %gls:	yes yes yeah but IM if get.2S.NONPAST PRON.2S chance some turn IM
 %eng:	yes yes yeah but oh, if you get a chance some time um...
 *BAG:	yeah@s:cym&eng . 94610_94888
@@ -167,7 +168,7 @@
 *ABE:	mae (y)n un o (y)r er@s:cym&eng er@s:cym&eng y traddodwyr mwya anhygoel dw i (we)di glywed erioed dw meddwl . 98847_102597
 %gls:	be.3S.PRES PRT one of DET IM IM DET speakers most incredible be.1S.PRES PRON.1S PRT.PAST hear.NONFIN ever be.1S.PRES think.NONFIN
 %eng:	he's one of the, er er, the most incredible speakers I've ever heard, I think
-*ABE:	oherwydd # fe wneith o ymdrin â pwnc seryddol de +/ . 102597_106243
+*ABE:	oherwydd # fe wneith o ymdrin â pwnc seryddol de +/. 102597_106243
 %gls:	because PRT do.3S.NONPAST PRON.3SM deal.NONFIN with subject astronomical TAG
 %eng:	because he'll deal with an astronomical subject, right
 *BAG:	mmm@s:cym&eng . 106243_106684
@@ -209,13 +210,13 @@
 *ABE:	+< oedd gynnyn nhw (ddi)m diddordeb o_gwbl (y)n y pwnc . 122787_124505
 %gls:	be.3S.IMP with.3PL PRON.3PL NEG interest at_all in DET subject
 %eng:	they had no interest at all in the subject
-*BAG:	yeah@s:cym&eng yeah@s:cym&eng ond just@s:cym&eng +/ . 124505_125481
+*BAG:	yeah@s:cym&eng yeah@s:cym&eng ond just@s:cym&eng +/. 124505_125481
 %gls:	yeah yeah but just
 %eng:	yeah yeah but just...
 *ABE:	<a (ddi)m cofio> [?] diawl o (ddi)m_byd am be oedd o (y)n draddodi de . 124997_127355
 %gls:	and NEG remember.NONFIN devil of nothing about what be.3S.IMP PRON.3SM PRT deliver.NONFIN TAG
 %eng:	and remembering nothing at all about what he was saying, you know
-*BAG:	+< <ond efô (y)n dod> [?] +/ . 126872_128045
+*BAG:	+< <ond efô (y)n dod> [?] +/. 126872_128045
 %gls:	but PRON.3SM PRT come.NONFIN
 %eng:	but him coming...
 *ABE:	ond [/] ond oh@s:cym&eng just@s:cym&eng watsied o . 127093_128823
@@ -251,7 +252,7 @@
 *BAG:	oedd o (y)n roid ei bwt i_fewn (fe)lly (y)n_de . 138112_139285
 %gls:	be.3S.IMP PRON.3SM PRT give.NONFIN POSS.3SM bit in thus TAG
 %eng:	he contributed his bit like, you know
-*BAG:	oedden ni (y)n sôn am y lloc (y)ma (fe)lly ac um@s:cym&eng +"/ . 139285_140934
+*BAG:	oedden ni (y)n sôn am y lloc (y)ma (fe)lly ac um@s:cym&eng +"/. 139285_140934
 %gls:	be.1PL.IMP PRON.1PL PRT mention.NONFIN about DET enclosure here thus and IM
 %eng:	we were talking about this enclosure, like, and um...
 *BAG:	+" o (y)r Lladin wyddost ti er@s:cym&eng er@s:cym&eng # “local@s:eng” yn_de . 140934_144962
@@ -278,10 +279,10 @@
 *ABE:	+< yeah@s:cym&eng cell mynach yeah@s:cym&eng . 174572_175501
 %gls:	yeah cell monk yeah
 %eng:	yeah a monk cell, yeah
-*BAG:	&=cough ond er@s:cym&eng wsti oedd y # drafodaeth yn # symud felly o +// . 175048_180203
+*BAG:	&=cough ond er@s:cym&eng wsti oedd y # drafodaeth yn # symud felly o +//. 175048_180203
 %gls:	but IM know.2S be.3S.IMP DET discussion PRT move.NONFIN thus from
 %eng:	but er, you know, the discussion moved, like, from...
-*BAG:	wsti <oedd o> [//] er@s:cym&eng yn yr un gwynt just@s:cym&eng # <oedd # um:@s:cym&eng rywun yn sôn am> [//] na na wnaeth Gruff@s:cym&eng sôn am # y gored yn_de +/ . 180203_189062
+*BAG:	wsti <oedd o> [//] er@s:cym&eng yn yr un gwynt just@s:cym&eng # <oedd # um:@s:cym&eng rywun yn sôn am> [//] na na wnaeth Gruff@s:cym&eng sôn am # y gored yn_de +/. 180203_189062
 %gls:	know.2S be.3S.IMP PRON.3SM IM PRT DET one wind just be.3S.IMP IM somebody PRT mention.NONFIN about no no do.3S.PAST Gruff mention.NONFIN about DET weir TAG
 %eng:	you know, he was...er in the same breath just. im someone was talking about...no no Gruff talked about the weir, right
 *ABE:	mmm@s:cym&eng . 189050_189677
@@ -290,7 +291,7 @@
 *BAG:	+, i_lawr # ar y traeth yn_de . 189665_191720
 %gls:	down on DET beach TAG
 %eng:	down on the beach, right
-*BAG:	<mae (y)na> [/] mae (y)na +// . 191720_192173
+*BAG:	<mae (y)na> [/] mae (y)na +//. 191720_192173
 %gls:	be.3S.PRES there be.3S.PRES there
 %eng:	there's...
 *BAG:	dwn i (ddi)m os ti (y)n gwybod yn fan (y)na (fe)lly <ar y fo(ryd)> [/] ar y foryd yn fan (y)na <mae (y)na> [/] # mae (y)na hen gored yn_does wsti . 192161_196028
@@ -302,7 +303,7 @@
 *ABE:	+< yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 195633_196155
 %gls:	yeah yeah yeah
 %eng:	yeah yeah yeah
-*BAG:	ac um@s:cym&eng # wedyn <oedd yr> [//] # oedd y drafodaeth um@s:cym&eng +// . 196120_199731
+*BAG:	ac um@s:cym&eng # wedyn <oedd yr> [//] # oedd y drafodaeth um@s:cym&eng +//. 196120_199731
 %gls:	and IM then be.3S.IMP DET be.3S.IMP DET discussion IM
 %eng:	and um then the discussion was um...
 *BAG:	er@s:cym&eng dw (ddi)m yn gwybod xx # faint o drafodaeth go iawn ta be oedd yn mynd ymlaen yn y mhen i (fe)lly . 199731_203864
@@ -348,7 +349,7 @@
 *ABE:	timod um@s:cym&eng cerrig crynion # a ballu (y)dyn nhw i_gyd . 243594_246241
 %gls:	know.2S IM stones round and such be.3PL.PRES PRON.3PL all
 %eng:	you know um, they're all round pebbles and things
-*ABE:	timod (d)oes (yn)a (ddi)m # ounce@s:cym&eng o dywod +/ . 246229_247692
+*ABE:	timod (d)oes (yn)a (ddi)m # ounce@s:cym&eng o dywod +/. 246229_247692
 %gls:	know.2S be.3S.PRES.NEG there NEG ounce of sand
 %eng:	you know, there's not an ounce of sand
 *BAG:	na . 247692_248180
@@ -383,7 +384,7 @@
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng # i gadw (y)r pysgod i_fewn . 290916_292379
 %gls:	yeah yeah to keep.NONFIN DET fish in
 %eng:	yeah yeah, to keep the fish in
-*ABE:	+< a (we)dyn +.. . 291636_292414
+*ABE:	+< a (we)dyn +... 291636_292414
 %gls:	and then
 %eng:	and then...
 *ABE:	(dy)na chdi de . 292402_293041
@@ -407,11 +408,11 @@
 *BAG:	oes (y)na un ? 301446_301934
 %gls:	be.3S.PRES there one
 %eng:	is there one?
-*ABE:	um@s:cym&eng +/ . 301922_303002
+*ABE:	um@s:cym&eng +/. 301922_303002
 *BAG:	sure@s:cym&eng bod (y)na ar y cyfandir yn rywle yn_does . 303002_304662
 %gls:	sure be.NONFIN there on DET continent in somewhere be.3S.PRES.NEG
 %eng:	there's probably one on the continent somewhere, isn't there
-*ABE:	well@s:cym&eng mae raid bod (y)na yn +/ . 304655_306455
+*ABE:	well@s:cym&eng mae raid bod (y)na yn +/. 304655_306455
 %gls:	well be.3S.PRES necessity be.NONFIN there in
 %eng:	well there must be in...
 *BAG:	+< neu yng ngwledydd # Asia@s:cym&eng . 305062_306432
@@ -444,7 +445,7 @@
 %gls:	because when be.3S.PRES DET IM DET DET water PRT empty.NONFIN some_amount know.2S IM possible go.NONFIN out close to DET head to.3SM PRON.3SM
 %eng:	because when the water empties a little, you know, it's possible to go out close to its top
 *BAG:	mmm@s:cym&eng . 329459_329958
-*ABE:	ac mi fysai (y)n bosib gosod rywbeth i_fewn xx bod (y)na gerrynt yn +/ . 329726_332954
+*ABE:	ac mi fysai (y)n bosib gosod rywbeth i_fewn xx bod (y)na gerrynt yn +/. 329726_332954
 %gls:	and PRT be.3S.CONDIT PRT possible place.NONFIN something in xx be.NONFIN there current PRT
 %eng:	and it would be possible to place something in it [...] that there's a current ...
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 332895_333604
@@ -452,7 +453,7 @@
 %gls:	PRT empty.NONFIN out TAG
 %eng:	emptying out, you know
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 334532_335937
-*ABE:	+< ond um@s:cym&eng +.. . 335252_336019
+*ABE:	+< ond um@s:cym&eng +... 335252_336019
 %gls:	but IM
 %eng:	but um...
 *BAG:	yeah@s:cym&eng . 336019_337365
@@ -462,7 +463,7 @@
 *BAG:	yeah@s:cym&eng # yeah@s:cym&eng xx mae (y)r pethau (y)ma (y)n # syml iawn . 338062_340082
 %gls:	yeah yeah xx be.3S.PRES DET things here PRT simple very
 %eng:	yeah, yeah, [...] these things are very simple
-*BAG:	achos mae +/ . 340082_340721
+*BAG:	achos mae +/. 340082_340721
 %gls:	because be.3S.PRES
 %eng:	because...
 *ABE:	+< <ond efallai> [/] ond efallai bysai (y)na er@s:cym&eng er@s:cym&eng timod um@s:cym&eng adeiladwaith dipyn # gwell na sydd (y)na rwan oherwydd timod just@s:cym&eng olion y peth sy (y)na wan wrth_gwrs de . 340279_347698
@@ -479,7 +480,7 @@
 %eng:	yes you know, sediment pebbles, um you know, er part of the um sediment of this moraine, as it were, you know
 *BAG:	+< yeah@s:cym&eng . 351785_352307
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 356092_356731
-*BAG:	fysai rhaid iddyn nhw +/ . 356731_357810
+*BAG:	fysai rhaid iddyn nhw +/. 356731_357810
 %gls:	be.3S.CONDIT necessity to.3PL PRON.3PL
 %eng:	they'd have to...
 *ABE:	+< xx <mae nhw> [/] mae nhw (y)n gerrig go fawr hefyd timod . 356951_358786
@@ -492,7 +493,7 @@
 *BAG:	<fysai (y)r &v> [//] # (fy)sai # rhaid iddyn nhw adnewyddu (y)r peth yn [/] # yn aml faswn i feddwl yn_bysai # yr [/] yr [/] # yr [//] # <mur y> [/] y wal y [/] # y peth ei hun felly (y)n_bysai ? 364908_374018
 %gls:	be.3S.CONDIT DET be.3S.CONDIT necessity to.3PL PRON.3PL renew.NONFIN DET thing PRT PRT often be.1S.CONDIT PRON.1S think.NONFIN be.3S.CONDIT DET DET DET wall DET DET wall DET DET thing POSS.3S self thus be.3S.CONDIT
 %eng:	they'd have to renew the thing often, I'd think, wouldn't they, the wall of the thing itself, like, wouldn't they?
-*ABE:	ia ond [/] ond [?] y peth ydy timod gyn ti fel bowlen # er@s:cym&eng i_fewn yn ei ganol o +/ . 374018_378592
+*ABE:	ia ond [/] ond [?] y peth ydy timod gyn ti fel bowlen # er@s:cym&eng i_fewn yn ei ganol o +/. 374018_378592
 %gls:	yes but but DET thing be.3S.PRES know.2S with PRON.2S like bowl IM in in POSS.3SM middle PRON.3SM
 %eng:	yes but the thing is, you know, you've got like a bowl in its centre
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 378569_379103
@@ -500,7 +501,7 @@
 %gls:	and of_course DET IM entrance small here TAG
 %eng:	and of course this little entrance, eh
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 381495_382168
-*ABE:	wedyn er@s:cym&eng dyna (y)dy (y)r [/] # y ffordd mae (y)n debyg ond +.. . 382040_384293
+*ABE:	wedyn er@s:cym&eng dyna (y)dy (y)r [/] # y ffordd mae (y)n debyg ond +... 382040_384293
 %gls:	then IM there be.3S.PRES DET DET way be.3S.PRES PRT likely but
 %eng:	then er that's the way, probably but...
 *BAG:	+< yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 382842_384339
@@ -544,7 +545,7 @@
 %gls:	be.3S.IMP there some kind of trap fish in place there be.3S.IMP.NEG
 %eng:	there was some kind of fish trap there, wasn't there
 *ABE:	+< oh@s:cym&eng yeah@s:cym&eng ? 408539_409224
-*BAG:	dyna lle mae +/ . 410408_411662
+*BAG:	dyna lle mae +/. 410408_411662
 %gls:	there where be.3S.PRES
 %eng:	that's where...
 *ABE:	+< yn lle fasai hwnnw dŵad ? 411163_411976
@@ -562,7 +563,7 @@
 *BAG:	dyna [?] pam dw i (y)n godi o just@s:cym&eng felly (y)n_de i weld os xx # ti (y)n gwybod . 416120_418919
 %gls:	there why be.1S.PRES PRON.1S PRT raise.NONFIN PRON.3SM just thus TAG to see.NONFIN if xx PRON.2S PRT know.NONFIN
 %eng:	that's why I'm raising it just, like you know, too see if [...] you know
-*BAG:	achos um@s:cym&eng +.. . 418907_420103
+*BAG:	achos um@s:cym&eng +... 418907_420103
 %gls:	because IM
 %eng:	because um...
 *ABE:	oherwydd timod mewn [//] um@s:cym&eng er@s:cym&eng llefydd fath â # um@s:cym&eng # afon Lledr@s:cym&eng yn dod i_lawr i Betws_(y)_Coed@s:cym&eng yn fan (y)no de gyn ti (y)r hen drap@s:cym&eng # eogiaid yn fan (y)no (y)n_does . 420091_429983
@@ -594,7 +595,7 @@
 *ABE:	um@s:cym&eng # ia i raddau . 454491_456314
 %gls:	IM yes to degrees
 %eng:	um yes to a certain extent
-*BAG:	+< <bod y> [//] bod [/] bod y +/ . 454933_455908
+*BAG:	+< <bod y> [//] bod [/] bod y +/. 454933_455908
 %gls:	be.NONFIN DET be.NONFIN be.NONFIN DET
 %eng:	that the...
 *ABE:	timod ond [/] ond be [/] be gyn ti <(y)n y> [/] yn y gored môr (y)ma ydy wrth_gwrs bod um@s:cym&eng # y darn o [/] o ddŵr yna yn [/] yn eitha # helaeth . 456303_463838
@@ -621,7 +622,7 @@
 *BAG:	yeah@s:cym&eng (dy)na fo . 480591_481229
 %gls:	yeah there PRON.3SM
 %eng:	yeah that's it
-*ABE:	um@s:cym&eng mae o tua ryw faint dŵad ryw +/ . 481218_482750
+*ABE:	um@s:cym&eng mae o tua ryw faint dŵad ryw +/. 481218_482750
 %gls:	IM be.3S.PRES PRON.3SM approximately some how_much say.2S.IMPER some
 %eng:	um it's about some, how much, about...
 *BAG:	yeah@s:cym&eng . 482680_483029
@@ -629,7 +630,7 @@
 %gls:	eight nine foot of length
 %eng:	eight or nine feet long
 *BAG:	mmm@s:cym&eng . 484631_485072
-*ABE:	um@s:cym&eng +/ . 485072_485722
+*ABE:	um@s:cym&eng +/. 485072_485722
 *BAG:	fath â cawell cimwch felly mewn ffordd . 485374_487034
 %gls:	kind with cage lobster thus in way
 %eng:	like a lobster cage then in a way
@@ -646,7 +647,7 @@
 *BAG:	+< ia (dy)na fo . 494708_495451
 %gls:	yes there PRON.3SM
 %eng:	yes that's it
-*BAG:	+< cofio cael +.. . 495753_496287
+*BAG:	+< cofio cael +... 495753_496287
 %gls:	remember.NONFIN get.NONFIN
 %eng:	I remember getting...
 *BAG:	cofio (y)n gweld lluniau ohonyn nhw yeah@s:cym&eng . 497117_498354
@@ -662,14 +663,14 @@
 %eng:	and that fits then into a special place in the rock more or less
 *BAG:	+< yeah@s:cym&eng . 507955_508292
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 509767_510219
-*ABE:	a (we)dyn mae (y)r um@s:cym&eng [/] # yr er@s:cym&eng [/] # y [/] y +// . 510196_513254
+*ABE:	a (we)dyn mae (y)r um@s:cym&eng [/] # yr er@s:cym&eng [/] # y [/] y +//. 510196_513254
 %gls:	and then be.3S.PRES DET IM DET IM DET DET
 %eng:	and then the...
 *ABE:	dim gwial ydyn nhw ond um@s:cym&eng # er@s:cym&eng # &k cyll de . 513231_517092
 %gls:	NEG wicker be.3PL.PRES PRON.3PL but IM IM hazel TAG
 %eng:	they're not wicker but um er, hazel, right
 *BAG:	yeah@s:cym&eng . 517081_517499
-*ABE:	timod +/ . 517487_517917
+*ABE:	timod +/. 517487_517917
 %gls:	know.2S
 %eng:	you know...
 *BAG:	yeah@s:cym&eng . 517882_518161
@@ -680,7 +681,7 @@
 *ABE:	wedyn mae (r)hein wan wrth_gwrs # lathen a &e &e efo # dwy a hanner ar_draws . 519582_524319
 %gls:	then be.3S.PRES these now of_course yard and with two.F and half across
 %eng:	then these now, of course, are a yard and have two and a half across
-*ABE:	a wedyn yn y pen draw mae (y)r cwbl (we)di cael eu clymu efo (e)i_gilydd de +/ . 524307_527709
+*ABE:	a wedyn yn y pen draw mae (y)r cwbl (we)di cael eu clymu efo (e)i_gilydd de +/. 524307_527709
 %gls:	and then in DET end over be.3S.PRES DET whole PRT.PAST get.NONFIN POSS.3PL tie.NONFIN with each_other TAG
 %eng:	and then in the end it's all tied together, right
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 527697_528069
@@ -717,11 +718,11 @@
 *BAG:	+< nage # na # na . 545193_546331
 %gls:	no no no
 %eng:	no, no, no
-*ABE:	a (we)dyn timod um@s:cym&eng # y peth oedd o't ti mynd yna wedyn a just@s:cym&eng codi (y)r +/ . 546296_550841
+*ABE:	a (we)dyn timod um@s:cym&eng # y peth oedd o't ti mynd yna wedyn a just@s:cym&eng codi (y)r +/. 546296_550841
 %gls:	and then know.2S IM DET thing be.3S.IMP be.2S.IMP PRON.2S go.NONFIN there then and just raise.NONFIN DET
 %eng:	and then you know, um the thing was, you'd just go there then and just raise the...
 *BAG:	yeah@s:cym&eng . 550836_551556
-*ABE:	+, peth i_fyny +/ . 551544_552275
+*ABE:	+, peth i_fyny +/. 551544_552275
 %gls:	thing up
 %eng:	thing up
 *BAG:	+< ++ a wedyn oedd y # pysgodyn # (y)n sownd felly . 552289_554753
@@ -741,7 +742,7 @@
 *BAG:	wsti achos # dw i gweld hynna (y)n odd@s:cym&eng wsti . 558757_560635
 %gls:	know.2S because be.1S.PRES PRON.1S see.NONFIN that PRT odd know.2S
 %eng:	you know, because I see that as being odd, you know
-*BAG:	um@s:cym&eng # wyt ti meddwl +// . 560635_562422
+*BAG:	um@s:cym&eng # wyt ti meddwl +//. 560635_562422
 %gls:	IM be.2S.PRES PRON.2S think.NONFIN
 %eng:	um you think...
 *BAG:	ti gwybod # ffordd dw i (y)n gwirioni efo enwau llefydd yn_de ? 562486_565046
@@ -776,20 +777,20 @@
 *BAG:	dw (ddi)m yn sure@s:cym&eng . 585834_586200
 %gls:	be.1S.PRES NEG PRT sure
 %eng:	I'm not sure
-*BAG:	um@s:cym&eng # a wedyn # newidiodd ei enw # yn_ôl be dw i (y)n ddallt felly # um@s:cym&eng # er@s:cym&eng i [/] &ʔ oherwydd bod yr # gawell (y)ma xx y defnydd <o (y)r> [//] # canoloesol (y)ma o (y)r +// . 586200_598558
+*BAG:	um@s:cym&eng # a wedyn # newidiodd ei enw # yn_ôl be dw i (y)n ddallt felly # um@s:cym&eng # er@s:cym&eng i [/] &ʔ oherwydd bod yr # gawell (y)ma xx y defnydd <o (y)r> [//] # canoloesol (y)ma o (y)r +//. 586200_598558
 %gls:	IM and then change.3S.PAST POSS.3S name according_to what be.1S.PRES PRON.1S PRT understand.NONFIN thus IM IM to because be.NONFIN DET cage here xx DET use of DET medieval here of DET
 %eng:	um and then it changed its name, according to what I understand like, um er because this cage [...] the medieval use of the...
 *BAG:	well@s:cym&eng &w os [/] os oedd o (y)n ganoloesol fysai fo (y)n fwy na dwy dair canrif wrth_gwrs yn_de . 598546_602796
 %gls:	well if if be.3S.IMP PRON.3SM PRT medieval be.3S.CONDIT PRON.3SM PRT more than two.F three.F century of_course TAG
 %eng:	well if it was medieval it would be more than two or three centuries of course, wouldn't it
-*BAG:	ond um@s:cym&eng # na wsti mae o (y)n +/ . 602796_605605
+*BAG:	ond um@s:cym&eng # na wsti mae o (y)n +/. 602796_605605
 %gls:	but IM no know.2S be.3S.PRES PRON.3SM PRT
 %eng:	but um no, you know, it's...
-*ABE:	mae (y)n debyg felly bod yr um@s:cym&eng &=clears_throat y defnydd o (y)r safle i ddal pysgod wedi dŵad yn bwysicach +/ . 605048_610795
+*ABE:	mae (y)n debyg felly bod yr um@s:cym&eng &=clears_throat y defnydd o (y)r safle i ddal pysgod wedi dŵad yn bwysicach +/. 605048_610795
 %gls:	be.3S.PRES PRT likely thus be.NONFIN DET IM DET use of DET site to catch.NONFIN fish PRT.PAST come.NONFIN PRT more_important
 %eng:	it's likely that the use of the site to catch fish had become more important
 *BAG:	yeah@s:cym&eng . 610795_611631
-*ABE:	+, yn y cyfnod yna fel bod o (y)n [/] yn [/] yn +/ . 611364_613616
+*ABE:	+, yn y cyfnod yna fel bod o (y)n [/] yn [/] yn +/. 611364_613616
 %gls:	in DET period there like be.NONFIN PRON.3SM PRT PRT PRT
 %eng:	in that period so that it...
 *BAG:	+< yeah@s:cym&eng . 612304_612769
@@ -801,7 +802,7 @@
 %eng:	justified and undermines the new names, like you know
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 615729_616368
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 616646_617180
-*BAG:	ac eto +// . 617680_618237
+*BAG:	ac eto +//. 617680_618237
 %gls:	and yet
 %eng:	and yet...
 *ABE:	xxx . 618269_619206
@@ -836,7 +837,7 @@
 *ABE:	ac oes (y)na ? 649287_649833
 %gls:	and be.3S.PRES there
 %eng:	and are there?
-*BAG:	+< ond +// . 649566_649891
+*BAG:	+< ond +//. 649566_649891
 %gls:	but
 %eng:	but...
 *BAG:	well@s:cym&eng # pump yn_de &=laugh . 649891_652724
@@ -891,7 +892,7 @@
 *ABE:	+< oedd xx yeah@s:cym&eng yeah@s:cym&eng . 687147_688192
 %gls:	be.3S.IMP xx yeah yeah
 %eng:	yes, [...] yeah yeah
-*BAG:	um@s:cym&eng # ond um@s:cym&eng +/ . 688320_690526
+*BAG:	um@s:cym&eng # ond um@s:cym&eng +/. 688320_690526
 %gls:	IM but IM
 %eng:	um, but um...
 *ABE:	ond just@s:cym&eng meddwl bod [//] mae hwnna (y)n un bach da iawn oherwydd bod [?] dangos y [/] # y [/] y cwm yn ei gyfanrwydd a (y)r pentre (y)n y canol ac wrth_gwrs # dim ruddydendrons@s:cym&eng de . 689667_697352
@@ -913,13 +914,13 @@
 *ABE:	um@s:cym&eng well@s:cym&eng dw (ddi)m yn gwybod . 703123_705061
 %gls:	IM well be.1S.PRES NEG PRT know.NONFIN
 %eng:	um well, I don't know
-*ABE:	hynny ydy +/ . 705050_705537
+*ABE:	hynny ydy +/. 705050_705537
 %gls:	that be.3S.PRES
 %eng:	that is...
 *BAG:	+< nag wyt mwn &=laugh . 705178_706675
 %gls:	NEG be.2S.PRES know.1S.NONPAST
 %eng:	no, probably not!
-*BAG:	na na +/ . 706652_707500
+*BAG:	na na +/. 706652_707500
 %gls:	no no
 %eng:	no, no...
 *ABE:	+< &ɔ &ɔ &ɔ <os &di> [//] os ti isio fo fe gei di o . 706907_708788
@@ -939,7 +940,7 @@
 *BAG:	ia <(dy)dy o (ddi)m> [//] <does (yn)a (ddi)m> [/] # does (yn)a (ddi)m enw &gweiθ gwneuthurwyr . 718842_722476
 %gls:	yes be.3S.PRES.NEG PRON.3SM NEG be.3S.PRES.NEG there NEG be.3S.PRES.NEG there NEG name manufacturer
 %eng:	yes, it's not...there's no manufacturer name
-*ABE:	+< mae (y)n edrych fel petai (y)n <dyddio at> [?] +.. . 721060_722674
+*ABE:	+< mae (y)n edrych fel petai (y)n <dyddio at> [?] +... 721060_722674
 %gls:	be.3S.PRES PRT look.NONFIN like if_be.3S.CONDIT PRT date.NONFIN to
 %eng:	it looks like it dates to...
 *BAG:	(ba)swn i feddwl na Valentines@s:cym&eng ydy o (fe)lly . 722476_724026
@@ -948,7 +949,7 @@
 *BAG:	ond dw (ddi)m yn gwybod chwaith . 724026_724787
 %gls:	but be.1S.PRES NEG PRT know.NONFIN either
 %eng:	but I don't know either
-*BAG:	um@s:cym&eng +/ . 724787_725704
+*BAG:	um@s:cym&eng +/. 724787_725704
 %gls:	IM
 %eng:	um...
 *ABE:	<tyrd â o (y)ma> [?] ! 725181_725674
@@ -957,7 +958,7 @@
 *ABE:	<wna i> [/] wna i # ddarllen o os lici di . 725674_727248
 %gls:	do.1S.NONPAST PRON.1S do.1S.NONPAST PRON.1S read.NONFIN PRON.3SM if like.NONFIN PRON.2S
 %eng:	I'll read it if you like
-*BAG:	<er@s:cym&eng mae (y)n> [?] +// . 726865_727283
+*BAG:	<er@s:cym&eng mae (y)n> [?] +//. 726865_727283
 %gls:	IM be.3S.PRES PRT
 %eng:	er it's...
 *ABE:	be sy arno fo dŵad ? 727341_729396
@@ -970,8 +971,8 @@
 %gls:	IM NEG be.3S.PRES
 %eng:	um no
 %com:	presumably he means, no there's no date on it
-*BAG:	+< yeah@s:cym&eng um@s:cym&eng +/ . 734017_734969
-*ABE:	faswn [?] i (y)n deud bod o +/ . 734551_735700
+*BAG:	+< yeah@s:cym&eng um@s:cym&eng +/. 734017_734969
+*ABE:	faswn [?] i (y)n deud bod o +/. 734551_735700
 %gls:	be.1S.CONDIT PRON.1S PRT say.NONFIN be.NONFIN PRON.3SM
 %eng:	I'd say it was...
 *BAG:	mae (y)na nifer ohonyn nhw felly (y)n_de . 735712_738022
@@ -980,7 +981,7 @@
 *BAG:	a <dw i> [//] fedra i (ddi)m deud # yn union os [/] # os ydy hwnna gynno fi felly (y)n_de wsti . 738022_741737
 %gls:	and be.1S.PRES PRON.1S can.1S.NONPAST PRON.1S NEG say.NONFIN PRT exact if if be.3S.PRES that with.1S PRON.1S thus TAG know.2S
 %eng:	and I can't say exactly if I have that one, like, right, you know
-*BAG:	<fyswn i> [//] <fysai (y)n> [/] <fysai (y)n er@s:cym&eng> [//] # fysai (y)n werth +// . 741737_745232
+*BAG:	<fyswn i> [//] <fysai (y)n> [/] <fysai (y)n er@s:cym&eng> [//] # fysai (y)n werth +//. 741737_745232
 %gls:	be.1S.CONDIT PRON.1S be.3S.CONDIT PRT be.3S.CONDIT PRT IM be.3S.CONDIT PRT worth
 %eng:	I'd...it'd er...it'd be worth...
 *BAG:	a <mae o (y)n> [//] mae o mewn cyflwr da iawn hefyd yn_de er@s:cym&eng xx . 745220_748471
@@ -997,7 +998,7 @@
 *ABE:	+< meddwl amdana chdi sti . 751838_753045
 %gls:	think.NONFIN about.2S PRON.2S know.2S
 %eng:	thinking about you, you know
-*BAG:	+< fysai (y)n nice@s:cym&eng +// . 752627_753034
+*BAG:	+< fysai (y)n nice@s:cym&eng +//. 752627_753034
 %gls:	be.3S.CONDIT PRT nice
 %eng:	it'd be nice...
 *BAG:	ia hollol . 753034_753591
@@ -1016,7 +1017,7 @@
 *BAG:	+< ia . 765155_765457
 %gls:	yes
 %eng:	yes
-*ABE:	os (y)dy o ddim gyn ti neu bod chdi isio (e)i gael o neu bod o well na un sy gyn ti +/ . 767500_771830
+*ABE:	os (y)dy o ddim gyn ti neu bod chdi isio (e)i gael o neu bod o well na un sy gyn ti +/. 767500_771830
 %gls:	if be.3S.PRES PRON.3SM NEG with PRON.2S or be.NONFIN PRON.2S want POSS.3SM get.NONFIN PRON.3SM or be.NONFIN PRON.3SM better PRT one be.PRES.REL with PRON.2S
 %eng:	if you don't have it, or you want it, or it's better than one that you have...
 *BAG:	+< well@s:cym&eng fedra i sganio fo ti gweld . 770658_771912
@@ -1026,7 +1027,7 @@
 %gls:	IM God IM right thus
 %eng:	oh God, oh fine then
 *BAG:	yeah@s:cym&eng # yeah@s:cym&eng . 773119_773804
-*ABE:	um@s:cym&eng neu +/ . 773804_774756
+*ABE:	um@s:cym&eng neu +/. 773804_774756
 %gls:	IM or
 %eng:	um or...
 *BAG:	na mi gei di o nôl . 774512_775087
@@ -1035,12 +1036,12 @@
 *BAG:	wna i barchu [=? (ddi)m bachu] o sti # yeah@s:cym&eng . 775137_776173
 %gls:	do.1S.NONPAST PRON.1S respect.NONFIN PRON.3SM know.2S yeah
 %eng:	I'll respect it you know, yeah
-*ABE:	peth ydy timod # um@s:cym&eng # fedra i roid o i rywun fath â Gethin_Evans@s:cym&eng # Crafwyn@s:cym&eng +/ . 775801_781188
+*ABE:	peth ydy timod # um@s:cym&eng # fedra i roid o i rywun fath â Gethin_Evans@s:cym&eng # Crafwyn@s:cym&eng +/. 775801_781188
 %gls:	thing be.3S.PRES know.2S IM can.1S.NONPAST PRON.1S give.NONFIN PRON.3SM to somebody kind with Gethin_Evans Crafwyn
 %eng:	the thing is, you know, um I can give it to somebody like Gethin Evans Crafwyn
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 780549_781095
 *BAG:	yeah@s:cym&eng . 781200_781710
-*ABE:	+, neu hyd_(y)n_oed i Paul_Cox@s:cym&eng +/ . 781710_783684
+*ABE:	+, neu hyd_(y)n_oed i Paul_Cox@s:cym&eng +/. 781710_783684
 %gls:	or even to Paul_Cox
 %eng:	or even to Paul Cox
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng . 783464_784613
@@ -1073,7 +1074,7 @@
 %gls:	but be.3S.PRES there so_many of.3PL PRON.3PL
 %eng:	but there are so many of them
 *ABE:	+< yeah@s:cym&eng . 793796_794249
-*BAG:	byse(t) [/] byset ti (y)n gallu +// . 794342_796223
+*BAG:	byse(t) [/] byset ti (y)n gallu +//. 794342_796223
 %gls:	be.2S.CONDIT be.2S.CONDIT PRT can.NONFIN
 %eng:	you could...
 *BAG:	(pe)tasai (y)na ddyddiad <ti gweld> [?] <fyset ti> [/] fyset ti (y)n gallu # hel nhw i_gyd at ei_gilydd a gweld yr um@s:cym&eng # y datblygiad o <(y)r un> [//] &m fwy neu lai yr un er@s:cym&eng olygfa (y)n_de . 796211_803769
@@ -1091,7 +1092,7 @@
 %eng:	but I was thinking, you know, it would be of great use to someone like Paul when he's giving some talks on um tackling ruddydendrons and so forth, you know
 *BAG:	+< mmm@s:cym&eng yeah@s:cym&eng . 807461_808216
 *BAG:	+< yeah@s:cym&eng . 809261_809574
-*BAG:	yeah@s:cym&eng # <wna i> [/] um@s:cym&eng # wna i un_ai sganio fo neu os (y)dy o gynno fi wna i just@s:cym&eng roid o nôl i chdi o_k@s:cym&eng # pan dan ni (y)n +// . 810503_815252
+*BAG:	yeah@s:cym&eng # <wna i> [/] um@s:cym&eng # wna i un_ai sganio fo neu os (y)dy o gynno fi wna i just@s:cym&eng roid o nôl i chdi o_k@s:cym&eng # pan dan ni (y)n +//. 810503_815252
 %gls:	yeah do.1S.NONPAST PRON.1S IM do.1S.NONPAST PRON.1S either scan.NONFIN PRON.3SM or if be.3S.PRES PRON.3SM with.1S PRON.1S do.1S.NONPAST PRON.1S just give.NONFIN PRON.3SM back to PRON.2S o_k when be.1PL.PRES PRON.1PL PRT
 %eng:	yeah, I'll...um I'll either scan it or if I have it I'll just give it back to you ok, when we're...
 *BAG:	dan ni (y)n cyfarfod ws(nos) [/] # wsnos yma ta wsnos nesa # efo (y)r gwyfynod ? 815240_818247
@@ -1110,14 +1111,14 @@
 %gls:	be.3S.PRES be.3S.PRES PRON.3SM here somewhere PRT safe be.3S.PRES.NEG know.2S
 %eng:	yes, it's here somewhere definitely, isn't it, you know
 *BAG:	+< yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 823495_824528
-*ABE:	xxx +// . 824900_825480
+*ABE:	xxx +//. 824900_825480
 *ABE:	oh@s:cym&eng ia # nos Fercher de ! 825468_827291
 %gls:	IM yes night Wednesday TAG
 %eng:	oh yes, Wednesday night isn't it
 *BAG:	nos Fercher yma yeah@s:cym&eng ? 827303_828278
 %gls:	night Wednesday here yeah
 %eng:	this Wednesday night, yeah?
-*ABE:	ia yn um@s:cym&eng +/ . 828266_829427
+*ABE:	ia yn um@s:cym&eng +/. 828266_829427
 %gls:	yes in IM
 %eng:	yes in um...
 *BAG:	+< ia ti (y)n dod heibio fi (y)n_dwyt # i ni gael mynd ymlaen i # lle Alun_Wyn_Owen@s:cym&eng . 828870_832609
@@ -1139,7 +1140,7 @@
 *BAG:	na sôn am y cardiau post@s:cym&eng (y)ma um@s:cym&eng # a (y)r &g gyfres yn_de xx wsti <fedri di> [//] mae (y)na rhei # golygfeydd sydd wedi cael eu # &ʔ &f &ʔʔ &ʔ tynnu lluniau ohonyn nhw felly wedi cael tynnu lluniau ohonyn nhw # um@s:cym&eng # gymaint o weithiau felly (y)n_de <fedri di> [/] fedri di gael cyfres felly de trwy amser felly (y)n_de . 836881_855329
 %gls:	no mention.NONFIN about DET cards post here IM and DET series TAG xx know.2S can.2S.NONPAST PRON.2S be.3S.PRES there some views be.PRES.REL PRT.PAST get.NONFIN POSS.3PL take.NONFIN pictures of.3PL PRON.3PL thus PRT.PAST get.NONFIN take.NONFIN pictures of.3PL PRON.3PL IM so_much of times thus TAG can.2S.NONPAST PRON.2S can.2S.NONPAST PRON.2S get.NONFIN series thus TAG through time thus TAG
 %eng:	no, speaking about these postcards, um and the series right xx you know, you can...there are some views that have been taken picture of, like, that have been photographed so often, like, right, you can get a series, like, you know, through time like you know
-*BAG:	um@s:cym&eng a mae (y)r Fawddach@s:cym&eng yn un ohonyn nhw de o [/] o (y)r um@s:cym&eng +/ . 855329_859126
+*BAG:	um@s:cym&eng a mae (y)r Fawddach@s:cym&eng yn un ohonyn nhw de o [/] o (y)r um@s:cym&eng +/. 855329_859126
 %gls:	IM and be.3S.PRES DET Mawddach PRT one of.3PL PRON.3PL TAG of of DET IM
 %eng:	and the river Mawddach is one of them you know, of the um...
 *ABE:	ia mae sure@s:cym&eng . 859056_859869
@@ -1149,7 +1150,7 @@
 %gls:	of of path DET panorama TAG
 %eng:	of the path of the panorama, right
 *ABE:	oh@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 861459_862435
-*BAG:	a mi ges i un o # ddechrau (y)r pumdegau diwrnod o_blaen # um@s:cym&eng # efo # just@s:cym&eng dangos y spartina@s:eng cordwellt +/ . 861843_868530
+*BAG:	a mi ges i un o # ddechrau (y)r pumdegau diwrnod o_blaen # um@s:cym&eng # efo # just@s:cym&eng dangos y spartina@s:eng cordwellt +/. 861843_868530
 %gls:	and PRT get.1S.NONPAST PRON.1S one of beginning DET fifties day before IM with just show.NONFIN DET spartina spartina
 %eng:	and I got one from the early fifties the other day, um with...just showing the spartina
 %com:	Baglan uses the English word 'spartina' first, then repeats with the (uncommon) Welsh equivalent
@@ -1160,10 +1161,10 @@
 %gls:	PRT start.NONFIN thus TAG on DET on DET on DET on DET Mawddach TAG
 %eng:	starting, you know, on the Mawddach, you know
 *ABE:	+< dear@s:cym&eng [?] . 871165_871990
-*BAG:	a wedyn +// . 872013_873127
+*BAG:	a wedyn +//. 872013_873127
 %gls:	and then
 %eng:	and then...
-*BAG:	ond drwg ydy <efo (y)r> [/] efo (y)r golygfeydd hynny felly xxx (doe)s gyn ti (ddi)m control@s:eng efo +// . 873127_876727
+*BAG:	ond drwg ydy <efo (y)r> [/] efo (y)r golygfeydd hynny felly xxx (doe)s gyn ti (ddi)m control@s:eng efo +//. 873127_876727
 %gls:	but bad be.3S.PRES with DET with DET views that thus xxx be.3S.PRES.NEG with PRON.2S NEG control with
 %eng:	but the problem is, with those views, then, [...] you don't have any control with...
 *BAG:	&ʔ wsti weithiau mae (y)r llanw # i_fyny a ti (ddi)m yn gweld os ydy (y)r &s cordwellt yna neu beidio yn_de wsti . 876703_882462
@@ -1178,7 +1179,7 @@
 *BAG:	a dwn i (ddi)m os ti (we)di sylwi ar hyn yn_de . 891796_893991
 %gls:	and know.1S.NONPAST.NEG PRON.1S NEG if PRON.2S PRT.PAST notice.NONFIN on this TAG
 %eng:	and I don't know if you've noticed this, right
-*BAG:	ond dw i (we)di sylwi yn [//] # dros y dwy flynedd tair blynedd dwytha (y)ma (y)n_de +// . 893979_898658
+*BAG:	ond dw i (we)di sylwi yn [//] # dros y dwy flynedd tair blynedd dwytha (y)ma (y)n_de +//. 893979_898658
 %gls:	but be.1S.PRES PRON.1S PRT.PAST notice.NONFIN in over DET two.F year three.F year previous here TAG
 %eng:	but I've noticed over the last two or three years, right...
 *BAG:	ti gwybod be dw i feddwl wrth y cordwellt yr # spartina@s:eng dwyt wrth_gwrs . 898658_902559
@@ -1195,7 +1196,7 @@
 %gls:	yes
 %eng:	yes
 *BAG:	yeah@s:cym&eng . 909815_910233
-*BAG:	well@s:cym&eng # mae spartina@s:eng +// . 910245_912323
+*BAG:	well@s:cym&eng # mae spartina@s:eng +//. 910245_912323
 %gls:	well be.3S.PRES spartina
 %eng:	well, spartina is...
 *ABE:	+< y mallryg . 911208_911882
@@ -1209,13 +1210,13 @@
 *BAG:	ia . 913809_914505
 %gls:	yes
 %eng:	yes
-*BAG:	a mae (y)r spartina@s:eng # erbyn hyn +// . 914494_917501
+*BAG:	a mae (y)r spartina@s:eng # erbyn hyn +//. 914494_917501
 %gls:	and be.3S.PRES DET spartina by this
 %eng:	and the spartina by now...
 *BAG:	a dw i (ddi)m yn gwybod os (y)dy (we)di bod erioed yn_de . 917501_919776
 %gls:	and be.1S.PRES PRON.1S NEG PRT know.NONFIN if be.3S.PRES PRT.PAST be.NONFIN ever TAG
 %eng:	and I don't know if it always has been
-*BAG:	ond yn sicr erbyn hyn yn_de mae (y)r ergot@s:cym&eng yn bob man # ar # yr um@s:cym&eng # ar y spartina@s:eng yn_de # pethau fath â +/ . 919765_928403
+*BAG:	ond yn sicr erbyn hyn yn_de mae (y)r ergot@s:cym&eng yn bob man # ar # yr um@s:cym&eng # ar y spartina@s:eng yn_de # pethau fath â +/. 919765_928403
 %gls:	but PRT certain by this TAG be.3S.PRES DET ergot in every place on DET IM on DET spartina TAG things kind with
 %eng:	but certainly by now, right, the ergot is all over the um the spartina, right
 *ABE:	Duw [?] ! 928077_928588
@@ -1256,14 +1257,14 @@
 *BAG:	dydy (y)r ergot@s:cym&eng ddim yn arbennig ar y rhyg nac (y)dy ? 977629_980694
 %gls:	be.3S.PRES.NEG DET ergot NEG PRT special on DET rye NEG be.3S.PRES
 %eng:	ergot isn't especially on rye, is it?
-*ABE:	um@s:cym&eng # dw meddwl ar un amser er@s:cym&eng # bod o (y)n fwy oherwydd mae +// . 980732_986522
+*ABE:	um@s:cym&eng # dw meddwl ar un amser er@s:cym&eng # bod o (y)n fwy oherwydd mae +//. 980732_986522
 %gls:	IM be.1S.PRES think.NONFIN on one time IM be.NONFIN PRON.3SM PRT more because be.3S.PRES
 %eng:	um I think at one time it was more, because...
 *ABE:	mi oedd rhyg yn rywbeth # oedd yn cael ei dyfu mewn llefydd um@s:cym&eng # uwch # a [?] mwy garw # o ran tywydd a thir felly . 986560_995589
 %gls:	PRT be.3S.IMP rye PRT something be.3S.IMP PRT get.NONFIN POSS.3SM grow.NONFIN in places IM higher and more rough of part weather and land thus
 %eng:	rye was something that was grown in um higher places and rougher, in terms of weather and land, like
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 995439_996089
-*ABE:	ac um@s:cym&eng # mi fysai fo mae (y)n debyg yn fwy tueddol o gael +/ . 996100_1000408
+*ABE:	ac um@s:cym&eng # mi fysai fo mae (y)n debyg yn fwy tueddol o gael +/. 996100_1000408
 %gls:	and IM PRT be.3S.CONDIT PRON.3SM be.3S.PRES PRT likely PRT more tending of get.NONFIN
 %eng:	and um it'd probably tend to get more of...
 *BAG:	right@s:cym&eng . 1000408_1001046
@@ -1271,10 +1272,10 @@
 %gls:	DET ergot here TAG
 %eng:	this ergot, you know
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 1002068_1002753
-*ABE:	um@s:cym&eng # ond wrth_gwrs um@s:cym&eng # timod # um@s:cym&eng fyswn i feddwl bod rei o (y)r ydau eraill (y)ma # er@s:cym&eng +/ . 1002753_1010973
+*ABE:	um@s:cym&eng # ond wrth_gwrs um@s:cym&eng # timod # um@s:cym&eng fyswn i feddwl bod rei o (y)r ydau eraill (y)ma # er@s:cym&eng +/. 1002753_1010973
 %gls:	IM but of_course IM know.2S IM be.1S.CONDIT PRON.1S think.NONFIN be.NONFIN some of DET cereals other here IM
 %eng:	um but of course, um you know, um I'd think that some of these other cereals er...
-*BAG:	ia ia # oh@s:cym&eng dw i (we)di weld o ar bob math o [/] o [/] o +/ . 1010404_1012819
+*BAG:	ia ia # oh@s:cym&eng dw i (we)di weld o ar bob math o [/] o [/] o +/. 1010404_1012819
 %gls:	yes yes IM be.1S.PRES PRON.1S PRT.PAST see.NONFIN PRON.3SM on every kinf of of of
 %eng:	yes yes, oh I've seen it on all kinds of...
 *ABE:	oh@s:cym&eng mae gweiriau gyd de timod yn ei gael o . 1012807_1014514
@@ -1299,13 +1300,13 @@
 *BAG:	hwyrach bod hynna (y)n &nɛ digon i (e)sbonio . 1022332_1023906
 %gls:	perhaps be.NONFIN that PRT enough to explain.NONFIN
 %eng:	perhaps that's enough to explain
-*BAG:	achos yn Aber@s:cym&eng yn_de ar traeth Lavan@s:cym&eng yn_de lle mae (y)r # cordwellt yn &ʔʔ wsti yn [/] # y:n # frith yna (fe)lly +/ . 1023906_1031302
+*BAG:	achos yn Aber@s:cym&eng yn_de ar traeth Lavan@s:cym&eng yn_de lle mae (y)r # cordwellt yn &ʔʔ wsti yn [/] # y:n # frith yna (fe)lly +/. 1023906_1031302
 %gls:	because in Aber TAG on beach Lavan TAG where be.3S.PRES DET spartina PRT know.2S PRT PRT abundant there thus
 %eng:	because in Aber, right, on Lavan Sands, right, where the spartina, you know, is abundant, like
 *ABE:	+< ++ blaster@s:cym&eng ym mhobman yeah@s:cym&eng . 1030454_1031522
 %gls:	plaster in everywhere yeah
 %eng:	plastered everywhere, yeah
-*BAG:	+, yn blaster@s:cym&eng ia # um@s:cym&eng # <mae (y)r> [/] # <mae (y)r um@s:cym&eng> [/] # mae (y)r ergot@s:cym&eng yn_de mallryg # yn [/] # yn blaster@s:cym&eng hefyd arnyn nhw felly (y)n_de i (y)r graddau (y)n_de # nes bod yr llanw yn # golchi drostyn nhw felly (y)n_de golchi nhw i_ffwrdd (y)n_de # a ti (y)n cael ryw fath o +/ . 1031476_1047358
+*BAG:	+, yn blaster@s:cym&eng ia # um@s:cym&eng # <mae (y)r> [/] # <mae (y)r um@s:cym&eng> [/] # mae (y)r ergot@s:cym&eng yn_de mallryg # yn [/] # yn blaster@s:cym&eng hefyd arnyn nhw felly (y)n_de i (y)r graddau (y)n_de # nes bod yr llanw yn # golchi drostyn nhw felly (y)n_de golchi nhw i_ffwrdd (y)n_de # a ti (y)n cael ryw fath o +/. 1031476_1047358
 %gls:	PRT plaster yes IM be.3S.PRES DET be.3S.PRES DET IM be.3S.PRES DET ergot TAG ergot PRT PRT plaster also on.3PL PRON.3PL thus TAG to DET degrees TAG until be.NONFIN DET tide PRT wash.NONFIN over.3PL PRON.3PL thus TAG wash.NONFIN PRON.3PL off TAG and PRON.2S PRT get.NONFIN some kind of
 %eng:	plastered, yes, um and the um the ergot, right, the "mallryg" is plastered also, on them like, right, to the extent that the tide washes over them, like, right, washes them away, right and you get some sort of
 *ABE:	oh@s:cym&eng yeah@s:cym&eng . 1047277_1048194
@@ -1324,7 +1325,7 @@
 *BAG:	dw (ddi)m yn gwybod . 1058748_1059224
 %gls:	be.1S.PRES NEG PRT know.NONFIN
 %eng:	I don't know
-*BAG:	ond um@s:cym&eng +.. . 1059224_1060698
+*BAG:	ond um@s:cym&eng +... 1059224_1060698
 %gls:	but IM
 %eng:	but um...
 *ABE:	(ba)sai (y)n ddifyr gweld os ydy o (y)n um@s:cym&eng # effeithio # adar a bob math o bethau felly hefyd de xx . 1060710_1065354
@@ -1333,29 +1334,29 @@
 *BAG:	+< well@s:cym&eng ia # ia oedd bobl yn gofyn hynna felly (y)n_de . 1064239_1066410
 %gls:	well yes yes be.3S.IMP people PRT ask.NONFIN that thus TAG
 %eng:	well yes, yes, people were asking that, like you know
-*BAG:	ond &də (dy)dyn nhw (ddi)m yn +// . 1066399_1067374
+*BAG:	ond &də (dy)dyn nhw (ddi)m yn +//. 1066399_1067374
 %gls:	but be.3PL.PRES.NEG PRON.3PL NEG PRT
 %eng:	but they don't...
 *ABE:	&=clears_throat . 1067362_1067745
 *BAG:	pan ti sbïo arno fo (dy)dy o (ddi)m yn beth um@s:cym&eng # sydd yn # codi # awch i fwyta nhw chwaith nac (y)dy . 1067722_1073358
 %gls:	when PRON.2S look.NONFIN on.3SM PRON.3SM be.3S.PRES.NEG PRON.3SM NEG PRT thing IM be.PRES.REL PRT rise.NONFIN eagerness to eat.NONFIN PRON.3SM either NEG be.3S.PRES
 %eng:	when you look at it, it's not something um which makes you want to eat it either, is it
-*BAG:	wsti faset ti (ddi)m +/ . 1073341_1074294
+*BAG:	wsti faset ti (ddi)m +/. 1073341_1074294
 %gls:	know.2S be.3S.CONDIT PRON.2S NEG
 %eng:	you know, you wouldn't...
 *ABE:	+< na ond er mae (y)n dibynnu ar er@s:cym&eng os oes (yn)a brotein@s:cym&eng a bob math o bethau eraill yno fo does timod [?] . 1073794_1077579
 %gls:	no but IM be.3S.PRES PRT depend.NONFIN on IM if be.3S.PRES there protein and every kind of things other in.3SM PRON.3SM be.3S.PRES.NEG know.2S
 %eng:	no, but er it depends er whether there's protein and all kinds of other things in it, doesn't it you know
-*BAG:	ydy wsti mae [?] +// . 1076987_1077695
+*BAG:	ydy wsti mae [?] +//. 1076987_1077695
 %gls:	be.3S.PRES know.2S be.3S.PRES
 %eng:	yes, you know...
 *BAG:	yeah@s:cym&eng hollol . 1077684_1078380
 %gls:	yeah exact
 %eng:	yeah exactly
-*ABE:	peth ydy wrth_gwrs mae mewn # timod &p +// . 1078380_1080969
+*ABE:	peth ydy wrth_gwrs mae mewn # timod &p +//. 1078380_1080969
 %gls:	thing be.3S.PRES of_course be.3S.PRES in know.2S
 %eng:	thing is you know, it's in...
-*ABE:	mae (y)na +/ . 1080958_1081805
+*ABE:	mae (y)na +/. 1080958_1081805
 %gls:	be.3S.PRES there
 %eng:	there's...
 *BAG:	+< os ydyn nhw (y)n wenwyn i adar wrth_gwrs yn_de . 1081225_1083198
@@ -1365,7 +1366,7 @@
 %gls:	well perhaps true yeah
 %eng:	well perhaps indeed, yeah
 *BAG:	+< xxx . 1083616_1084325
-*ABE:	<mae nhw> [?] right@s:cym&eng +// . 1084243_1084812
+*ABE:	<mae nhw> [?] right@s:cym&eng +//. 1084243_1084812
 %gls:	be.3PL.PRES PRON.3PL right
 %eng:	they're right...
 *BAG:	+< yeah@s:cym&eng mmm@s:cym&eng . 1084406_1085311
@@ -1380,7 +1381,7 @@
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 1094367_1094971
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 1097165_1097630
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 1097792_1098419
-*ABE:	um@s:cym&eng # mi oedd # cyfnodau timod yn y canoloesoedd ballu pan oedd um@s:cym&eng pobl yn cael eu cyhuddo o wrachyddiaeth yn_de +/ . 1098419_1105977
+*ABE:	um@s:cym&eng # mi oedd # cyfnodau timod yn y canoloesoedd ballu pan oedd um@s:cym&eng pobl yn cael eu cyhuddo o wrachyddiaeth yn_de +/. 1098419_1105977
 %gls:	IM PRT be.3S.IMP periods know.2S in DET middle_ages such when be.3S.IMP IM people PRT get.NONFIN POSS.3PL accuse.NONFIN of witchery TAG
 %eng:	um there were periods you know in the middle-ages and so forth when um people would be accused of witchery, you know
 *BAG:	yeah@s:cym&eng . 1105966_1106488
@@ -1395,10 +1396,10 @@
 *ABE:	ac oedd pobl yn cael eu cyhuddo o wrachyddiaeth a ballu <a (e)u> [/] a (e)u llosgi de . 1112432_1117297
 %gls:	and be.3S.IMP people PRT get.NONFIN POSS.3PL accuse.NONFIN of witchery and such and POSS.3PL and POSS.3PL burn.NONFIN TAG
 %eng:	and people were accused of witchery and so forth and were burnt, you know
-*ABE:	ac um@s:cym&eng mewn llefydd fath â # um@s:cym&eng Russia@s:cym&eng a # dwyrain Europe@s:cym&eng ac yn y blaen # lle wyt ti (y)n cael # cyfnodau mae (y)n debyg o (y)r ergot@s:cym&eng (y)ma # mae pobl wedi um@s:cym&eng # sbïo nôl yn hanesyddol # ac er@s:cym&eng wedi gweld &e timod er@s:cym&eng # bod (y)na rei blynyddoedd lle oedd (y)na # losgi gwrachod yn fwy nag arfer (fe)lly # a mae (r)heiny (y)n cyfateb hefo # blynyddoedd gwlyb yn_de # lle fysai (y)r ergot@s:cym&eng yn fwy er@s:cym&eng +/ . 1117297_1144720
+*ABE:	ac um@s:cym&eng mewn llefydd fath â # um@s:cym&eng Russia@s:cym&eng a # dwyrain Europe@s:cym&eng ac yn y blaen # lle wyt ti (y)n cael # cyfnodau mae (y)n debyg o (y)r ergot@s:cym&eng (y)ma # mae pobl wedi um@s:cym&eng # sbïo nôl yn hanesyddol # ac er@s:cym&eng wedi gweld &e timod er@s:cym&eng # bod (y)na rei blynyddoedd lle oedd (y)na # losgi gwrachod yn fwy nag arfer (fe)lly # a mae (r)heiny (y)n cyfateb hefo # blynyddoedd gwlyb yn_de # lle fysai (y)r ergot@s:cym&eng yn fwy er@s:cym&eng +/. 1117297_1144720
 %gls:	and IM in places kind with IM Russia and east Europe and in DET front where be.2S.PRES PRON.2S PRT get.NONFIN periods be.3S.PRES PRT likely from DET ergot here be.3S.PRES people PRT.PAST IM look.NONFIN back PRT historical and IM PRT.PAST see.NONFIN know.2S IM be.NONFIN there some years where be.3S.IMP there burn.NONFIN witches PRT more NEG habit thus and be.3S.PRES those PRT correspond.NONFIN with years wet TAG where be.3S.CONDIT DET ergot PRT more IM
 %eng:	and um in places like um Russia and eastern Europe and so forth, where you apparently get periods of this ergot, people have looked back historically and er have seen, you know, er that there were some years where there was more witch burning than usual, like, and those correspond to wet years, you know, where this ergot would be more er...
-*BAG:	+< ++ lle fysai (y)r ergot@s:cym&eng yn er@s:cym&eng +.. . 1143443_1144720
+*BAG:	+< ++ lle fysai (y)r ergot@s:cym&eng yn er@s:cym&eng +... 1143443_1144720
 %gls:	where be.3S.CONDIT DET ergot PRT IM
 %eng:	where the ergot was er...
 *BAG:	mae hynna (y)n ddifyr . 1144708_1146229
@@ -1408,7 +1409,7 @@
 *BAG:	mae hynna ddifyr . 1146473_1147216
 %gls:	be.3S.PRES that interesting
 %eng:	that's interesting
-*ABE:	ac um@s:cym&eng +/ . 1147216_1148772
+*ABE:	ac um@s:cym&eng +/. 1147216_1148772
 %gls:	and IM
 %eng:	and um...
 *BAG:	mae hynna ddifyr . 1148772_1149555
@@ -1426,7 +1427,7 @@
 *BAG:	ac um@s:cym&eng # (y)dy (we)di bod yn flwyddyn gwlyb # arbennig eleni ? 1161949_1164967
 %gls:	and IM be.3S.PRES PRT.PAST be.NONFIN PRT year wet special this_year
 %eng:	and um, has it been an especially wet year this year?
-*ABE:	um@s:cym&eng +/ . 1164967_1167289
+*ABE:	um@s:cym&eng +/. 1164967_1167289
 *BAG:	+< xx meddwl bod hi nag (y)dy . 1166337_1167313
 %gls:	xx think.NONFIN be.NONFIN PRON.3SF NEG be.3S.PRES
 %eng:	[...] think it's been, has it
@@ -1444,16 +1445,16 @@
 %gls:	no
 %eng:	no
 *ABE:	+< xxx . 1174499_1174940
-*BAG:	<ond &e> [//] ond anyway@s:eng wsti xx +/ . 1174917_1175997
+*BAG:	<ond &e> [//] ond anyway@s:eng wsti xx +/. 1174917_1175997
 %gls:	but but anyway know.2S xx
 %eng:	but anyway you know [...]
 *ABE:	ond &e &ɔ do mi oedd hi (y)n_doedd . 1175231_1176902
 %gls:	but yes PRT be.3S.IMP PRON.3SF be.3S.IMP.NEG
 %eng:	but, yes it was, wasn't it
-*ABE:	mi oedd hi yn [/] yn o wlyb # er@s:cym&eng +/ . 1176902_1179259
+*ABE:	mi oedd hi yn [/] yn o wlyb # er@s:cym&eng +/. 1176902_1179259
 %gls:	PRT be.3S.IMP PRON.3SF PRT PRT rather wet IM
 %eng:	it was quite wet er...
-*BAG:	+< er@s:cym&eng hwyrach bod hi (y)n xx +// . 1177646_1178563
+*BAG:	+< er@s:cym&eng hwyrach bod hi (y)n xx +//. 1177646_1178563
 %gls:	IM perhaps be.NONFIN PRON.3SF PRT xx
 %eng:	er perhaps it was [...]
 *BAG:	++ er@s:cym&eng ryw # gyfnod arbennig yn_de # yeah@s:cym&eng . 1178911_1180966
@@ -1472,10 +1473,10 @@
 *BAG:	yndy wyt ti isio gwres # i fungi@s:cym&eng . 1187351_1188965
 %gls:	be.3S.PRES be.2S.PRES PRON.2S want heat for fungi
 %eng:	yes, you need heat for fungi
-*BAG:	wyt ti isio gwres +/ . 1188942_1189882
+*BAG:	wyt ti isio gwres +/. 1188942_1189882
 %gls:	be.2S.PRES PRON.2S want heat
 %eng:	you need heat
-*ABE:	ti isio +// . 1189581_1189917
+*ABE:	ti isio +//. 1189581_1189917
 %gls:	PRON.2S want
 %eng:	you need...
 *ABE:	oh@s:cym&eng mae (we)di bod <yn &g> [//] yn ddigon # tyner . 1189906_1191659
@@ -1525,7 +1526,7 @@
 *ABE:	mae hynna (y)n gyffredinol timod xxx <hefyd de> [?] . 1210474_1212550
 %gls:	be.3S.PRES that PRT general know.2S xxx also TAG
 %eng:	that's general you know [...] too, you know
-*BAG:	yeah@s:cym&eng right@s:cym&eng [?] yeah@s:cym&eng oedden nhw (y)n deud um@s:cym&eng +/ . 1212552_1214071
+*BAG:	yeah@s:cym&eng right@s:cym&eng [?] yeah@s:cym&eng oedden nhw (y)n deud um@s:cym&eng +/. 1212552_1214071
 %gls:	yeah right yeah be.3PL.IMP PRON.3PL PRT say.NONFIN IM
 %eng:	yeah right, yeah they were saying um...
 *ABE:	+< pobl eraill yn reportio (y)r un peth hefyd . 1212854_1214233
@@ -1535,7 +1536,7 @@
 %gls:	Gordon_Fletcher PRT.PAST lead.NONFIN IM trip to Moel Moelyci or Moel_y_ci or what ever
 %eng:	Gordon Fletcher lead er a trip to Moelyci or Moel-y-ci or whatever
 %com:	not sure whether this is a complement of Baglan's previous utterance or a new clause. Also, Baglan varies his pronunciation, represented in orthography; in the first, the stress is on the penultimate syllable, in the second the stress is on the final syllable
-*BAG:	um@s:cym&eng # ac oedd er@s:cym&eng # Chris_Jenkins@s:cym&eng +// . 1218924_1222616
+*BAG:	um@s:cym&eng # ac oedd er@s:cym&eng # Chris_Jenkins@s:cym&eng +//. 1218924_1222616
 %gls:	IM and be.3S.IMP IM Chris_Jenkins
 %eng:	um and er Chris Jenkins had...
 *BAG:	ti nabod Chris_Jenkins@s:cym&eng ? 1222616_1223359
@@ -1549,7 +1550,7 @@
 %gls:	anyway be.3S.PRES PRON.3SM PRT run.NONFIN DET show Moel what be.3S.PRES PRON.3SM IM Cwmni_Moelyci or what ever TAG
 %eng:	anyway, he runs stuff, what is it, um Cwmni Moelyci or whatever, you know
 %com:	'cwmni' means company, but is part of the company name, so hasn't been translated
-*BAG:	a (we)dyn um@s:cym&eng # er@s:cym&eng oedd o (y)n poeni bod (y)na +// . 1231521_1234458
+*BAG:	a (we)dyn um@s:cym&eng # er@s:cym&eng oedd o (y)n poeni bod (y)na +//. 1231521_1234458
 %gls:	and then IM IM be.3S.IMP PRON.3SM PRT worry.NONFIN be.NONFIN there
 %eng:	and then um, er he was worried that there...
 *BAG:	&ðənʊ <oedden nhw (ddi)m> [//] [?] <oedd o> [/] oedd o (we)di trefnu (y)r # diwrnod um@s:cym&eng # fun(gi)@s:cym&eng [/] fungi@s:cym&eng (y)ma felly . 1234446_1240611
@@ -1570,7 +1571,7 @@
 *BAG:	ond oedd Gordon_Fletcher@s:cym&eng wedi # cael llwyth o bethau yn # diwedd de . 1251246_1254300
 %gls:	but be.3S.IMP Gordon_Fletcher PRT.PAST get.NONFIN load of things in end TAG
 %eng:	but Gordon Fletcher had gotten loads of stuff in the end, right
-*BAG:	ond # ti (ddi)m yn gwybod beth sydd yn # just@s:cym&eng skill@s:cym&eng y person@s:cym&eng yn ffeindio nhw ta [/] wsti er@s:cym&eng ta +// . 1254300_1259454
+*BAG:	ond # ti (ddi)m yn gwybod beth sydd yn # just@s:cym&eng skill@s:cym&eng y person@s:cym&eng yn ffeindio nhw ta [/] wsti er@s:cym&eng ta +//. 1254300_1259454
 %gls:	but PRON.2S NEG PRT know.NONFIN what be.PRES.REL PRT just skill DET person PRT find.NONFIN PRON.3PL PRT know.2S IM PRT
 %eng:	but you don't know what's...just the skill of the person who finds them or, you know er or...
 *BAG:	ai [/] ai hynny ta # blwyddyn dda ohonyn nhw felly (y)n_de ond [?] ti meddwl <yn y> [/] # yn y plas felly de . 1259466_1264377
@@ -1590,7 +1591,7 @@
 *ABE:	well@s:cym&eng [?] # do'n i (ddi)m (we)di bod allan ryw lawer yn craffu ar fawr ddim_byd de . 1273403_1277107
 %gls:	well be.1S.IMP.NEG PRON.1S NEG PRT.PAST be.NONFIN out some lot PRT inspect.NONFIN on big nothing TAG
 %eng:	well I hadn't been out much looking carefully at anything much, right
-*ABE:	xx course@s:cym&eng (y)ma dod i_fyny <(we)dyn meddwl> [?] +"/ . 1277095_1278581
+*ABE:	xx course@s:cym&eng (y)ma dod i_fyny <(we)dyn meddwl> [?] +"/. 1277095_1278581
 %gls:	xx course here come.NONFIN up then think.NONFIN
 %eng:	xx this course coming up, then thought:
 *ABE:	+" oh@s:cym&eng (y)r arglwydd dw (ddi)m (we)di gweld fawr ddim_byd o_gwmpas chwaith . 1278593_1281252
@@ -1599,20 +1600,20 @@
 *ABE:	+" oh@s:cym&eng (y)r arglwydd gobeithio bod (y)na rywbeth . 1281240_1282668
 %gls:	IM DET lord hope.NONFIN be.NONFIN there something
 %eng:	oh lord, I hope there is something
-*ABE:	de timod +" . 1282657_1283075
+*ABE:	de timod +". 1282657_1283075
 %gls:	TAG know.2S
 %eng:	right, you know
-*ABE:	ac eto pan ti mynd allan i chwilio +/ . 1283075_1285803
+*ABE:	ac eto pan ti mynd allan i chwilio +/. 1283075_1285803
 %gls:	and yet when PRON.2S go.NONFIN out to search.NONFIN
 %eng:	and yet, when you go out to look
 *BAG:	ia mmm@s:cym&eng . 1285780_1286499
 %gls:	yes IM
 %eng:	yes mm
-*ABE:	+, o ddifri de +/ . 1286499_1287254
+*ABE:	+, o ddifri de +/. 1286499_1287254
 %gls:	of earnest TAG
 %eng:	seriously, right
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 1287161_1287579
-*ABE:	+, <mae nhw yna de> [=! whispers] +/ . 1287591_1288520
+*ABE:	+, <mae nhw yna de> [=! whispers] +/. 1287591_1288520
 %gls:	be.3S.PRES PRON.3PL there TAG
 %eng:	they're there, right
 *BAG:	yndy yeah@s:cym&eng yeah@s:cym&eng . 1288520_1289321
@@ -1640,7 +1641,7 @@
 *ABE:	dim o (y)r Ffrangeg mae (y)n dŵad dŵad ? 1302974_1304321
 %gls:	NEG from DET French be.3S.PRES PRT come.NONFIN say.2S.IMPER
 %eng:	doesn't it come from the French?
-*BAG:	ia # hwyra(ch) +// . 1304321_1305935
+*BAG:	ia # hwyra(ch) +//. 1304321_1305935
 %gls:	yes perhaps
 %eng:	yes perhaps
 *BAG:	xx be o'n i mynd i ddeud oedd # dew_claw@s:eng # gewin [//] # y gewin spare@s:cym&eng (y)na # ar goes ci yn_de . 1305935_1312216
@@ -1665,7 +1666,7 @@
 *BAG:	+< <mae sure@s:cym&eng> [/] mae sure@s:cym&eng bod y [/] &f # <yr un> [//] y [/] y gair yn golygu (y)r ddau beth yn Ffrangeg . 1316523_1319692
 %gls:	be.3S.PRES sure be.3S.PRES sure be.NONFIN DET DET one DET DET word PRT mean.NONFIN DET two.M thing in French
 %eng:	the word probably means both things in French
-*BAG:	ond o'n i (ddi)m yn er@s:cym&eng +.. . 1319692_1320493
+*BAG:	ond o'n i (ddi)m yn er@s:cym&eng +... 1319692_1320493
 %gls:	but be.1S.IMP PRON.1S NEG PRT IM
 %eng:	but I wasn't er...
 *ABE:	yeah@s:cym&eng # yeah@s:cym&eng . 1320331_1321178
@@ -1689,7 +1690,7 @@
 *ABE:	yli wyt ti (y)n um@s:cym&eng # mynd i gael dipyn bach mwy o amser wan i ddilyn y diddordebau (y)ma dwyt xx . 1329816_1335134
 %gls:	see.2S.IMPER be.2S.PRES PRON.2S PRT IM go.NONFIN to get.NONFIN a_little small more of time now to follow.NONFIN DET interests here be.2S.PRES.NEG xx
 %eng:	listen, you're um going to have a little more time now to follow these interests, aren't you [...]
-*ABE:	sut mae (y)r er@s:cym&eng +/ . 1335134_1335981
+*ABE:	sut mae (y)r er@s:cym&eng +/. 1335134_1335981
 %gls:	how be.3S.PRES DET IM
 %eng:	how are the er...
 *BAG:	yndw . 1335784_1336329
@@ -1707,7 +1708,7 @@
 *ABE:	oh@s:cym&eng ia ? 1343946_1345060
 %gls:	IM yes
 %eng:	oh yes?
-*BAG:	um@s:cym&eng # ddim [/] ddim cwmni wneud pres felly ond er@s:cym&eng &g +// . 1344851_1348346
+*BAG:	um@s:cym&eng # ddim [/] ddim cwmni wneud pres felly ond er@s:cym&eng &g +//. 1344851_1348346
 %gls:	IM NEG NEG company do.NONFIN money thus but IM
 %eng:	not a company to make money, like, but er...
 *BAG:	well@s:cym&eng [/] well@s:cym&eng ia # mewn ffordd [=! laughs] . 1348346_1349774
@@ -1719,7 +1720,7 @@
 *ABE:	oh@s:cym&eng difyr . 1356345_1357773
 %gls:	IM interesting
 %eng:	oh interesting
-*BAG:	+< um@s:cym&eng # er_mwyn er@s:cym&eng denu pres yr H_L_F@s:cym&eng yn_de +/ . 1356891_1360943
+*BAG:	+< um@s:cym&eng # er_mwyn er@s:cym&eng denu pres yr H_L_F@s:cym&eng yn_de +/. 1356891_1360943
 %gls:	IM for IM attract.NONFIN money DET H_L_F TAG
 %eng:	um, to er attract HLF money, you know
 *ABE:	ia ia ia ia . 1360954_1361953
@@ -1732,7 +1733,7 @@
 *BAG:	um@s:cym&eng # dw (ddi)m yn gwybod &=exhales . 1365970_1368605
 %gls:	IM be.1S.PRES NEG PRT know.NONFIN
 %eng:	um, I don't know
-*BAG:	dan ni (we)di bod yn # trafod efo (y)r # &m bobl yr +// . 1368605_1372228
+*BAG:	dan ni (we)di bod yn # trafod efo (y)r # &m bobl yr +//. 1368605_1372228
 %gls:	be.1PL.PRES PRON.1PL PRT.PAST be.NONFIN PRT discuss.NONFIN with DET people DET
 %eng:	we've been discussing with the people of...
 *BAG:	dw i ddim felly (y)n_de . 1372216_1373063
@@ -1741,7 +1742,7 @@
 *BAG:	mae (y)na bobl sydd yn # ymhél â pethau (y)ma # &m &m well na dw i (fe)lly . 1373063_1376372
 %gls:	be.3S.PRES there people be.PRES.REL PRT deal.NONFIN with things here better PRT be.1S.PRES PRON.1S thus
 %eng:	there are people who deal with these things better than I do, like
-*BAG:	um@s:cym&eng # <yr &ɔ> [/] yr ochr # denu pres felly dw i (y)n +// . 1376372_1379124
+*BAG:	um@s:cym&eng # <yr &ɔ> [/] yr ochr # denu pres felly dw i (y)n +//. 1376372_1379124
 %gls:	IM DET DET side attract.NONFIN money thus be.1S.PRES PRON.1S PRT
 %eng:	um the side of attracting money, like, I...
 *BAG:	&=laugh . 1379124_1380029
@@ -1763,7 +1764,7 @@
 *ABE:	+< oh@s:cym&eng (y)r argian annwyl . 1385004_1386165
 %gls:	oh DET lord dear
 %eng:	oh dear lord
-*BAG:	ac er@s:cym&eng # dw i methu cael y mhen rowndyn nhw wsti yr um@s:cym&eng y &bi &gm # arian cyfatebol (y)ma ac +// . 1385898_1390960
+*BAG:	ac er@s:cym&eng # dw i methu cael y mhen rowndyn nhw wsti yr um@s:cym&eng y &bi &gm # arian cyfatebol (y)ma ac +//. 1385898_1390960
 %gls:	and IM be.1S.PRES PRON.1S fail.NONFIN get.NONFIN POSS.1S head round.3PL PRON.3PL know.2S DET IM DET money corresponding here and
 %eng:	and er, I can't get my head round them, you know, this match-funding and...
 *BAG:	esgob dw i (y)n chael hi (y)n anodd . 1390971_1392480
@@ -1772,7 +1773,7 @@
 *BAG:	ond anyway@s:eng diolch fyth mae (y)na bobl eraill i wneud hynny (fe)lly . 1392480_1394919
 %gls:	but anyway thank.NONFIN ever be.3S.PRES there people other to do.NONFIN that thus
 %eng:	but anyway, thank God, there are other people to do that, like
-*BAG:	um@s:cym&eng # ac um@s:cym&eng +/ . 1394919_1397380
+*BAG:	um@s:cym&eng # ac um@s:cym&eng +/. 1394919_1397380
 %gls:	IM and IM
 %eng:	um, and um...
 *ABE:	+< yeah@s:cym&eng yeah@s:cym&eng # oh@s:cym&eng mae (y)r brocess@s:cym&eng ddigon syml mewn gwirionedd timod . 1396277_1399806
@@ -1807,11 +1808,11 @@
 *ABE:	<timod oh@s:cym&eng na> [?] dw i (y)n trio gwneud ryw amcan gweddol gall de . 1423851_1426196
 %gls:	know.2S IM no be.1S.PRES PRON.1S PRT try.NONFIN do.NONFIN some estimate quite sensible TAG
 %eng:	you know, oh no, I try to make quite a sensible estimate, you know
-*BAG:	+< yeah@s:cym&eng yeah@s:cym&eng <fedra i edrych yn> [?] +// . 1424919_1426038
+*BAG:	+< yeah@s:cym&eng yeah@s:cym&eng <fedra i edrych yn> [?] +//. 1424919_1426038
 %gls:	yeah yeah can.1S.NONPAST PRON.1S look.NONFIN PRT
 %eng:	yeah yeah, I can look...
 *BAG:	&=laugh yeah@s:cym&eng [=! laughs] . 1426027_1426858
-*ABE:	ac ar_ôl ti wneud o +/ . 1426614_1427670
+*ABE:	ac ar_ôl ti wneud o +/. 1426614_1427670
 %gls:	and after PRON.2S do.NONFIN PRON.3SM
 %eng:	and after you do it...
 *BAG:	mmm@s:cym&eng . 1427601_1428170
@@ -1852,7 +1853,7 @@
 *BAG:	+< ia wedyn # &p dyna [/] # dyna lle dan ni arni felly . 1456393_1459331
 %gls:	yes then there there where be.1PL.PRES PRON.1PL on.3SF thus
 %eng:	yes so, that's where we're at, then
-*BAG:	oedden ni am fynd ar # &aʔ i [/] i er@s:cym&eng +/ . 1459331_1461560
+*BAG:	oedden ni am fynd ar # &aʔ i [/] i er@s:cym&eng +/. 1459331_1461560
 %gls:	be.1PL.IMP PRON.1PL for go.NONFIN on to to IM
 %eng:	we were going to go on...to, er...
 *ABE:	<sti fechan> [?] [=? timod achan] <dw i> [/] dw i (y)n falch gythreulig # bod gyn ti grew@s:cym&eng o bobl sydd yn mynd i gario (y)mlaen efo (y)r project@s:cym&eng mwy neu lai . 1461051_1466633
@@ -1861,17 +1862,17 @@
 *BAG:	mmm@s:cym&eng # oh@s:cym&eng <dw &m> [/] dw mynd i fod yna dal i fod sti . 1466622_1468758
 %gls:	IM be.1S.PRES be.1S.PRES go.NONFIN to be.NONFIN there still to be.NONFIN know.2S
 %eng:	mmm, oh I'm still going to be there, you know
-*ABE:	+< xx +/ . 1467202_1467760
-*ABE:	oh@s:cym&eng grea(t)@s:cym&eng [//] oh@s:cym&eng ia fel +/ . 1468665_1470383
+*ABE:	+< xx +/. 1467202_1467760
+*ABE:	oh@s:cym&eng grea(t)@s:cym&eng [//] oh@s:cym&eng ia fel +/. 1468665_1470383
 %gls:	IM great IM yes like
 %eng:	oh great, oh yes as...
-*BAG:	<dw i (y)n> [/] <dw i (y)n> [/] er@s:cym&eng er@s:cym&eng # <dw i (y)n> [/] # dw i (y)n mynd i olchi nwylo yn llwyr o (y)r gwaith cadwraeth yn Aber@s:cym&eng yn_de ar_ôl i mi # &drɔs [//] ddeud wrth pwy bynnag sy (y)n y nilyn i +// . 1469443_1478771
+*BAG:	<dw i (y)n> [/] <dw i (y)n> [/] er@s:cym&eng er@s:cym&eng # <dw i (y)n> [/] # dw i (y)n mynd i olchi nwylo yn llwyr o (y)r gwaith cadwraeth yn Aber@s:cym&eng yn_de ar_ôl i mi # &drɔs [//] ddeud wrth pwy bynnag sy (y)n y nilyn i +//. 1469443_1478771
 %gls:	be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT IM IM be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT go.NONFIN to wash.NONFIN hands.POSSD.1S PRT complete of DET work conservation in Aber TAG after to PRON.1S say.NONFIN to who ever be.PRES.REL PRT POSS.1S follow.1S PRON.1S
 %eng:	I'm...I'm...er er I'm...I'm going to wash my hands completely of the conservation work at Aber, you know, after I tell whoever follows me...
 *BAG:	a dan ni (ddi)m yn gwybod hynny eto (fe)lly . 1478771_1480106
 %gls:	and be.1PL.PRES PRON.1PL NEG PRT know.NONFIN that yet thus
 %eng:	and we don't know that yet, like
-*BAG:	um@s:cym&eng yeah@s:cym&eng &ɔ +/ . 1480094_1482161
+*BAG:	um@s:cym&eng yeah@s:cym&eng &ɔ +/. 1480094_1482161
 *ABE:	oh@s:cym&eng just@s:cym&eng gobeithio gei di rywun call . 1481801_1483299
 %gls:	IM just hope.NONFIN get.2S.NONPAST PRON.2S somebody sensible
 %eng:	oh I just hope you get somebody sensible
@@ -1884,7 +1885,7 @@
 *ABE:	+< oh@s:cym&eng ia ? 1487281_1488047
 %gls:	IM yes
 %eng:	oh yes?
-*BAG:	a wedyn # um@s:cym&eng +/ . 1488825_1491611
+*BAG:	a wedyn # um@s:cym&eng +/. 1488825_1491611
 %gls:	and then IM
 %eng:	and then um...
 *ABE:	oh@s:cym&eng Duw iawn <mae o> [/] mae o ddigon call dydy . 1491625_1493864
@@ -1896,7 +1897,7 @@
 *ABE:	+< bydd # yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1495094_1496058
 %gls:	be.3S.FUT yeah yeah yeah
 %eng:	yes, yeah yeah yeah
-*BAG:	<ond um@s:cym&eng> [/] # ond <mae isio> [/] # mae isio rywun i gadw (y)r um@s:cym&eng # momentum@s:cym&eng hefyd yn_de wsti # um@s:cym&eng +/ . 1497358_1503929
+*BAG:	<ond um@s:cym&eng> [/] # ond <mae isio> [/] # mae isio rywun i gadw (y)r um@s:cym&eng # momentum@s:cym&eng hefyd yn_de wsti # um@s:cym&eng +/. 1497358_1503929
 %gls:	but IM but be.3S.PRES want be.3S.PRES want somebody to keep.NONFIN DET IM momentum also TAG know.2S IM
 %eng:	but um, but you need somebody to keep the um momentum too, don't you, you know, um...
 *ABE:	oes hollol . 1503500_1504359
@@ -1905,14 +1906,14 @@
 *ABE:	dyma [/] dyma xx trouble@s:cym&eng timod . 1504347_1505450
 %gls:	here here xx trouble know.2S
 %eng:	that's [...] the trouble, you know
-*ABE:	mae [/] [?] <mae gyn ti> [///] # timod # <dw i (we)di gweld> [?] # cychwyn # a bod [/] bod yn er@s:cym&eng [?] rhan o gymaint <ar y> [?] projectau wedyn +/ . 1505439_1511267
+*ABE:	mae [/] [?] <mae gyn ti> [///] # timod # <dw i (we)di gweld> [?] # cychwyn # a bod [/] bod yn er@s:cym&eng [?] rhan o gymaint <ar y> [?] projectau wedyn +/. 1505439_1511267
 %gls:	be.3S.PRES be.3S.PRES with PRON.2S know.2S be.1S.PRES PRON.1S PRT.PAST see.NONFIN start.NONFIN and be.NONFIN be.NONFIN PRT IM part of so_much of DET projects then
 %eng:	you've got...you know, I've seen the start and been part of so much on the projects and then...
 *BAG:	mmm@s:cym&eng . 1511139_1511546
 *ABE:	+, hand_io@s:eng+cym drosodd i ryw [/] # rywun sydd yn gyflogedig i wneud y peth <de timod> [?] a (r)heiny mynd off@s:cym&eng i ryw gyfeiriad hollol bloody@s:cym&eng wahanol de . 1511476_1517234
 %gls:	hand.NONFIN over to some somebody be.PRES.REL PRT employed to do.NONFIN DET thing TAG know.2S and those go.NONFIN off to some direction complete bloody different TAG
 %eng:	hand over to somebody who's employed to do the thing, right you know, and those go off to some completely bloody different direction, right
-*BAG:	yeah@s:cym&eng yeah@s:cym&eng # ond [/] ond # rhai(d) +/ . 1517002_1519080
+*BAG:	yeah@s:cym&eng yeah@s:cym&eng # ond [/] ond # rhai(d) +/. 1517002_1519080
 %gls:	yeah yeah but but necessity
 %eng:	yeah yeah, but [you] have to...
 *ABE:	+< a timod xx (doe)s gyn ti (ddi)m rheolaeth xx timod . 1517873_1519243
@@ -1933,13 +1934,13 @@
 *ABE:	na na na na na na . 1523376_1524398
 %gls:	no no no no no no
 %eng:	no no no no no no
-*BAG:	+< dan ni (y)n roid ein stamp@s:cym&eng tra &da +// . 1523515_1524851
+*BAG:	+< dan ni (y)n roid ein stamp@s:cym&eng tra &da +//. 1523515_1524851
 %gls:	be.1PL.PRES PRON.1PL PRT give.NONFIN POSS.1PL stamp while
 %eng:	we make our mark while...
 *BAG:	tra dan ni yma dan ni roid ein stamp@s:cym&eng ni felly (y)n_de . 1524839_1527718
 %gls:	while be.1PL.PRES PRON.1PL here be.1PL.PRES PRON.1PL give.NONFIN POSS.1PL stamp PRON.1PL thus TAG
 %eng:	while we're here, we make our mark, like, you know
-*BAG:	ond # mae [/] mae (y)na amser yn dod pan ti (y)n gorod # gollwng dy afael +/ . 1527718_1530644
+*BAG:	ond # mae [/] mae (y)na amser yn dod pan ti (y)n gorod # gollwng dy afael +/. 1527718_1530644
 %gls:	but be.3S.PRES be.3S.PRES there time PRT come.NONFIN when PRON.2S PRT must.NONFIN drop.NONFIN drop.NONFIN POSS.2S hold
 %eng:	but a time comes when you have to let go
 *ABE:	yeah@s:cym&eng dw i gwybod xxx # ia hollol . 1530669_1533117
@@ -1951,7 +1952,7 @@
 *BAG:	ti (y)n gorod derbyn hynna i ryw raddau . 1537471_1538748
 %gls:	PRON.2S PRT must.NONFIN accept.NONFIN that to some degrees
 %eng:	you have to accept that to some extent
-*BAG:	ond um@s:cym&eng +/ . 1538759_1539619
+*BAG:	ond um@s:cym&eng +/. 1538759_1539619
 %gls:	but IM
 %eng:	but um...
 *ABE:	ia yeah@s:cym&eng . 1539259_1539874
@@ -1960,7 +1961,7 @@
 *BAG:	+, I'm@s:eng not@s:eng done@s:eng yet@s:eng felly efo (y)r ochr hanesyddol yn_de wsti . 1539862_1542893
 %gls:	I'm not done yet thus with DET side historical TAG know.2S
 %eng:	I'm not done yet, like, with the historical side, you know
-*BAG:	ond mae [//] o ran yr # cadwraeth yn_de na [?] +/ . 1542904_1545052
+*BAG:	ond mae [//] o ran yr # cadwraeth yn_de na [?] +/. 1542904_1545052
 %gls:	but be.3S.PRES of part DET conservation TAG no
 %eng:	but in terms of conservation, you know, no...
 *ABE:	+< na mae (y)na lot@s:cym&eng [/] lot@s:cym&eng o waith i wneud eto does . 1543194_1545412
@@ -1972,7 +1973,7 @@
 *BAG:	um@s:cym&eng # a wedyn dw i right@s:cym&eng excited@s:eng am hynna yn_de . 1545737_1549232
 %gls:	IM and then be.1S.PRES PRON.1S right excited about that TAG
 %eng:	um, and then I'm quite excited about that, you know
-*BAG:	ac um@s:cym&eng +.. . 1549232_1550543
+*BAG:	ac um@s:cym&eng +... 1549232_1550543
 %gls:	and IM
 %eng:	and um...
 *ABE:	oh@s:cym&eng gwych de . 1550358_1551600
@@ -2005,13 +2006,13 @@
 *ABE:	+< yeah@s:cym&eng well@s:cym&eng xx de . 1565799_1567030
 %gls:	yeah well xx TAG
 %eng:	yeah well [...] right
-*BAG:	um@s:cym&eng # a wedyn er@s:cym&eng +/ . 1567169_1569990
+*BAG:	um@s:cym&eng # a wedyn er@s:cym&eng +/. 1567169_1569990
 %gls:	IM and then IM
 %eng:	um and then er...
 *ABE:	(oe)s gyn ti syniadau i cyfeiriad yna ? 1569619_1570931
 %gls:	be.3S.PRES with PRON.2S ideas to direction there
 %eng:	have you got ideas in that direction?
-*ABE:	rywbeth gwreiddiol rywbeth newydd ta +.. . 1570931_1573578
+*ABE:	rywbeth gwreiddiol rywbeth newydd ta +... 1570931_1573578
 %gls:	something original something new PRT
 %eng:	something original, something new, or..?
 *BAG:	well@s:cym&eng &=exhales # well@s:cym&eng y peth mwya # gwreiddiol ond (dy)dy o (ddi)m_byd i wneud efo ymddeol chwaith <ydy (y)r> [/] # ydy (y)r peth um@s:cym&eng dan ni trio wneud efo Llên_y_Llysiau@s:cym&eng (y)n_de efo (y)r [//] # cael <yr er@s:cym&eng> [/] # yr er@s:cym&eng peth cwcio . 1573578_1586383
@@ -2044,11 +2045,11 @@
 *ABE:	na: just@s:cym&eng defnyddio ni i gael syniadau oedd o timod . 1597367_1600281
 %gls:	no just use.NONFIN PRON.1PL to get.NONFIN ideas be.3S.IMP PRON.3SM know.2S
 %eng:	no, he was just using us to get ideas, you know
-*BAG:	+< ond um@s:cym&eng ond +.. . 1597541_1598562
+*BAG:	+< ond um@s:cym&eng ond +... 1597541_1598562
 %gls:	but IM but
 %eng:	but um but...
 *BAG:	+< mmm@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng . 1598667_1601465
-*BAG:	na o ran um@s:cym&eng # darlledu na <dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di meddwl am +// . 1601465_1604901
+*BAG:	na o ran um@s:cym&eng # darlledu na <dw i (ddi)m (we)di> [/] dw i (ddi)m (we)di meddwl am +//. 1601465_1604901
 %gls:	no of part IM broadcast.NONFIN no be.1S.PRES PRON.1S NEG PRT.PAST be.1S.PRES PRON.1S NEG PRT.PAST think.NONFIN about
 %eng:	no, in terms of broadcasting, no I haven't thought about...
 *BAG:	wsti mae gynna i # ddigon ar y [?] plate@s:cym&eng . 1604913_1607386
@@ -2064,7 +2065,7 @@
 *BAG:	dw (ddi)m yn wrandawr da (y)n arbennig (y)n_de . 1618044_1620006
 %gls:	be.1S.PRES NEG PRT listener good PRT special TAG
 %eng:	I'm not an especially good listener, you know
-*BAG:	wedyn &n o'n i meddwl # datblygu # sgiliau felly dipyn bach felly (y)n_de wsti a # trio cael +/ . 1620006_1625312
+*BAG:	wedyn &n o'n i meddwl # datblygu # sgiliau felly dipyn bach felly (y)n_de wsti a # trio cael +/. 1620006_1625312
 %gls:	then be.1S.IMP PRON.1S think.NONFIN develop.NONFIN skills thus a_little small thus TAG know.2S and try.NONFIN get.NONFIN
 %eng:	so I was thinking of developing skills like that a little, like right you know, and try to get...
 *ABE:	ella fedr o dy gael di ar ryw # gyrsiau ballu timod . 1624766_1627123
@@ -2082,20 +2083,20 @@
 *ABE:	+< pam lai de ? 1630344_1630908
 %gls:	why less TAG
 %eng:	why not, you know?
-*ABE:	+< timod oherwydd mae gyn ti hyfforddiant +// . 1630908_1632510
+*ABE:	+< timod oherwydd mae gyn ti hyfforddiant +//. 1630908_1632510
 %gls:	know.2S because be.3S.PRES with PRON.2S training
 %eng:	you know, because you've got training...
 *ABE:	mae gyn ti system@s:cym&eng hyfforddiant does . 1632510_1634135
 %gls:	be.3S.PRES with PRON.2S system training be.3S.PRES.NEG
 %eng:	you've got a training system, haven't you
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 1633717_1634437
-*BAG:	dw i (we)di bod um@s:cym&eng +// . 1634437_1635865
+*BAG:	dw i (we)di bod um@s:cym&eng +//. 1634437_1635865
 %gls:	be.1S.PRES PRON.1S PRT.PAST be.NONFIN IM
 %eng:	I've been um...
 *BAG:	o'n i deud wrth Marika@s:cym&eng just@s:cym&eng um@s:cym&eng # <cyn i ni um@s:cym&eng> [//] # cyn i chdi ddod . 1635870_1639237
 %gls:	be.1S.IMP PRON.1S say.NONFIN to Marika just um before to PRON.1PL IM before to PRON.2S come.NONFIN
 %eng:	I was telling Marika just um before we um...before you came
-*BAG:	um@s:cym&eng # dan ni (we)di bod # efo (y)r # business@s:cym&eng tirlun hanesyddol Aber@s:cym&eng yn_de +// . 1639225_1643962
+*BAG:	um@s:cym&eng # dan ni (we)di bod # efo (y)r # business@s:cym&eng tirlun hanesyddol Aber@s:cym&eng yn_de +//. 1639225_1643962
 %gls:	IM be.1PL.PRES PRON.1PL PRT.PAST be.NONFIN with DET business landscape historical Aber TAG
 %eng:	um we've been with this Aber historical landscape business, right...
 *BAG:	mae [//] un elfen ydy hanes llafar yn_de wsti . 1643962_1645947
@@ -2129,22 +2130,22 @@
 *ABE:	+< oh@s:cym&eng arglwydd xx . 1681043_1682413
 %gls:	IM lord xx
 %eng:	oh God [...]
-*BAG:	dw i (y)n dueddol o +// . 1683214_1683980
+*BAG:	dw i (y)n dueddol o +//. 1683214_1683980
 %gls:	be.1S.PRES PRON.1S PRT tending of
 %eng:	I tend to...
 *ABE:	ia hollol de . 1683667_1684375
 %gls:	yes exact TAG
 %eng:	yes exactly, isn't it
-*BAG:	fel dw i (y)n wneud rwan hwyrach yn_de wsti xx mae (y)n &di xx +// . 1684363_1686771
+*BAG:	fel dw i (y)n wneud rwan hwyrach yn_de wsti xx mae (y)n &di xx +//. 1684363_1686771
 %gls:	like be.1S.PRES PRON.1S PRT do.NONFIN now perhaps TAG know.2S be.3S.PRES PRT xx...
 %eng:	like I'm doing now perhaps, isn't it you know xx it's...
-*ABE:	<a be sy> [/] a be sy isio ydy timod bod gyn ti # <be o> [?] chdi (we)di paratoi o_flaen llaw # a hynny (y)dy bod gynno chdi # o leia ryw hanner dwsin o gwestiynau # neu hanner dwsin o [/] o [/] o feysydd gwybodaeth ti isio <mwy o xx> [//] mwy yn eu cylch nhw de # a (we)dyn bod chdi # timod yn mynd i bob cyfeiriad ond # <bod chdi> [//] # bod (r)hein gyn ti bod chdi medru mwy neu lai ticio nhw # nes wyt ti (we)di cael digon de +/ . 1685443_1707077
+*ABE:	<a be sy> [/] a be sy isio ydy timod bod gyn ti # <be o> [?] chdi (we)di paratoi o_flaen llaw # a hynny (y)dy bod gynno chdi # o leia ryw hanner dwsin o gwestiynau # neu hanner dwsin o [/] o [/] o feysydd gwybodaeth ti isio <mwy o xx> [//] mwy yn eu cylch nhw de # a (we)dyn bod chdi # timod yn mynd i bob cyfeiriad ond # <bod chdi> [//] # bod (r)hein gyn ti bod chdi medru mwy neu lai ticio nhw # nes wyt ti (we)di cael digon de +/. 1685443_1707077
 %gls:	and what be.PRES.REL and what be.PRES.REL want be.3S.PRES know.2S be.NONFIN with PRON.2S what be.2S.IMP PRON.2S PRT.PAST prepare.NONFIN before hand and that be.3S.PRES be.NONFIN with.2S PRON.2S of least some half dozen of questions or half dozen of of of areas knowledge PRON.2S want more of xx more in POSS.3PL circle PRON.3PL TAG and then be.NONFIN PRON.2S know.2S PRT go.NONFIN to every direction but be.NONFIN PRON.2S be.NONFIN these with PRON.2S be.NONFIN PRON.2S can.NONFIN more or less tick.NONFIN PRON.3PL until be.2S.PRES PRON.2S PRT.PAST get.NONFIN enough TAG
-%eng:	and what you need is, you know, that you have what you'd prepared beforehand, and that is that you have at least about half a dozen questions or half a dozen knowledge areas you want more [...] .. . more about them, right, and then that you, you know, go in all directions but that you...that you've got these, that you can more or less tick them until you've got enough, you know
+%eng:	and what you need is, you know, that you have what you'd prepared beforehand, and that is that you have at least about half a dozen questions or half a dozen knowledge areas you want more [...] ... more about them, right, and then that you, you know, go in all directions but that you...that you've got these, that you can more or less tick them until you've got enough, you know
 *BAG:	+< mmm@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 1698224_1699814
 *BAG:	+< mmm@s:cym&eng . 1703367_1703634
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng . 1704864_1706629
-*BAG:	ond weithiau sti # er@s:cym&eng ti just@s:cym&eng gorod derbyn # &mi &mə ia +/ . 1706920_1709985
+*BAG:	ond weithiau sti # er@s:cym&eng ti just@s:cym&eng gorod derbyn # &mi &mə ia +/. 1706920_1709985
 %gls:	but sometimes know.2S IM PRON.2S just must.NONFIN accept.NONFIN yes
 %eng:	but sometimes you know, er you just have to accept...yes...
 *ABE:	+, a (we)dyn bod gynno chdi gynnyrch # penodol # o (y)r peth de . 1708104_1712226
@@ -2168,7 +2169,7 @@
 *BAG:	ond um@s:cym&eng [/] # ond weithiau ti gorod derbyn &s mae gyn y bob(l) [//] person@s:cym&eng # dim ond # be s(y) gyn y person@s:cym&eng i ddeud yn diwedd yn_de . 1729304_1736572
 %gls:	but IM but sometimes PRON.2S must.NONFIN accept.NONFIN be.3S.PRES with DET people person NEG but what be.PRES.REL with DET person to say.NONFIN in end TAG
 %eng:	but um, but sometimes you have to accept, the person only has what the person has to say in the end, you know
-*BAG:	<wnes i> [/] wnes i wneud cyfweliad efo Elfyn@s:cym&eng [//] &də R_Elfyn_Hughes@s:cym&eng wsti cyn y &gə +/ . 1736572_1740287
+*BAG:	<wnes i> [/] wnes i wneud cyfweliad efo Elfyn@s:cym&eng [//] &də R_Elfyn_Hughes@s:cym&eng wsti cyn y &gə +/. 1736572_1740287
 %gls:	do.1S.PAST PRON.1S do.1S.PAST PRON.1S do.NONFIN interview with Elfyn R_Elfyn_Hughes know.2S before DET
 %eng:	I did an interview with R. Elfyn Hughes, you know, before the...
 *ABE:	+< oh@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1737094_1737745
@@ -2176,7 +2177,7 @@
 *BAG:	ia es i lawr [=! laughs] yn un swydd yn_de . 1740276_1741762
 %gls:	yes go.1S.PAST PRON.1S down PRT one job TAG
 %eng:	yes, I went down especially, you know
-*BAG:	um:@s:cym&eng # ac um@s:cym&eng # &ʔʔʔʔ &a # oherwydd # bod Dafydd_Bevan@s:cym&eng # yr dyn # enwau llefydd yn_de # wedi er@s:cym&eng +// . 1741762_1753186
+*BAG:	um:@s:cym&eng # ac um@s:cym&eng # &ʔʔʔʔ &a # oherwydd # bod Dafydd_Bevan@s:cym&eng # yr dyn # enwau llefydd yn_de # wedi er@s:cym&eng +//. 1741762_1753186
 %gls:	IM and IM because be.NONFIN Dafydd_Bevan DET man names places TAG PRT.PAST IM
 %eng:	um, and um, because Dafydd Bevan, the place names man, you know, had er...
 *ABE:	+< yeah@s:cym&eng . 1750923_1751399
@@ -2187,19 +2188,19 @@
 *ABE:	(dy)na chdi . 1760477_1761208
 %gls:	there PRON.2S
 %eng:	there you are
-*BAG:	ac um@s:cym&eng # ac er@s:cym&eng wsti mae [/] mae Dafydd@s:cym&eng yn un sydd yn # &p wsti er@s:cym&eng +"/ . 1761185_1766967
+*BAG:	ac um@s:cym&eng # ac er@s:cym&eng wsti mae [/] mae Dafydd@s:cym&eng yn un sydd yn # &p wsti er@s:cym&eng +"/. 1761185_1766967
 %gls:	and IM and IM know.2S be.3S.PRES be.3S.PRES Dafydd PRT one be.PRES.REL PRT know.2S IM
 %eng:	and um, and er, you know, Dafydd is someone who's, you know, er:
 *BAG:	+" Duw rhaid i chdi fod yn ofalus yn fan (y)na . 1766955_1768489
 %gls:	God necessity to PRON.2S be.NONFIN PRT careful in place there
 %eng:	God, you have to be careful there
-*BAG:	felly (y)n_de +" . 1768477_1768848
+*BAG:	felly (y)n_de +". 1768477_1768848
 %gls:	thus TAG
 %eng:	like, right
 *BAG:	+" Duw watsia di fan (y)na . 1768848_1769789
 %gls:	God watch.2S.IMPER PRON.2S place there
 %eng:	God, watch out there
-*BAG:	felly (y)n_de +" . 1769778_1770020
+*BAG:	felly (y)n_de +". 1769778_1770020
 %gls:	thus TAG
 %eng:	like, right
 *BAG:	<mae o> [//] [?] mae [/] mae [/] # mae (y)na fwgan tu ôl i bob coeden efo [/] # efo # astudiaeth enwau llefydd yn_does wsti . 1770020_1776069
@@ -2208,16 +2209,16 @@
 *ABE:	+< oes duwcs . 1775893_1777112
 %gls:	be.3S.PRES gosh
 %eng:	yes, gosh
-*BAG:	ti (y)n gorfod [?] ia +.. . 1776057_1776859
+*BAG:	ti (y)n gorfod [?] ia +... 1776057_1776859
 %gls:	PRON.2S PRT must.NONFIN yes
 %eng:	you have to yes...
 *BAG:	ac um@s:cym&eng mae o (y)n dda iawn am [/] er@s:cym&eng am # &ʔʔ gorfodi fi i &v # fod yn ofalus yn_de . 1776859_1782350
 %gls:	and IM be.3S.PRES PRON.3SM PRT good very for IM for force.NONFIN PRON.1S to be.NONFIN PRT careful TAG
 %eng:	and um, he's very good at er at forcing me to be careful, you know
-*BAG:	+" ond os wyt ti +// . 1782338_1783279
+*BAG:	+" ond os wyt ti +//. 1782338_1783279
 %gls:	but if be.2S.PRES PRON.2S
 %eng:	but if you...
-*BAG:	meddai fo +" . 1783279_1783674
+*BAG:	meddai fo +". 1783279_1783674
 %gls:	say.3S.PAST PRON.3SM
 %eng:	he said...
 *BAG:	+" os wyt ti isio mynd ar_ôl y # “gwern” (y)ma &ʔ xx wna i ddeud (wr)tha chdi pwy sy (we)di # <bod ynglŷn â> [//] mae wedi astudio hynny felly . 1783674_1790071
@@ -2294,7 +2295,7 @@
 %eng:	but gosh, going off on some other tangent, right
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 1854715_1855249
 *BAG:	xxx . 1855752_1856155
-*ABE:	a timod ond pan ti +/ . 1856191_1857304
+*ABE:	a timod ond pan ti +/. 1856191_1857304
 %gls:	and know.2S but when PRON.2S
 %eng:	and you know, but when you...
 *BAG:	oh@s:cym&eng [?] ti (y)n cael stuff@s:cym&eng wedyn dwyt wsti sy o werth felly (y)n_de # &hɛ yn annisgwyl de yeah@s:cym&eng . 1856689_1860973
@@ -2307,7 +2308,7 @@
 %gls:	and know.2S be.1S.IMP PRON.1S PRT.PAST do.NONFIN every kind of some notes
 %eng:	and you know, I'd made all kinds of notes
 *BAG:	+< yeah@s:cym&eng . 1861716_1862029
-*ABE:	<oedd gyn i blooming@s:eng> [//] # &tsg argoel oedd gyn i lond nodlyfr o # bloody@s:cym&eng +/ . 1862610_1866685
+*ABE:	<oedd gyn i blooming@s:eng> [//] # &tsg argoel oedd gyn i lond nodlyfr o # bloody@s:cym&eng +/. 1862610_1866685
 %gls:	be.3S.IMP with PRON.1S blooming gosh be.3S.IMP with PRON.1S full notebook of bloody
 %eng:	I had blooming...lord I had a notebook-full of bloody...
 *BAG:	yeah@s:cym&eng [=! laughs] . 1866476_1867161
@@ -2325,13 +2326,13 @@
 *ABE:	+< timod [?] . 1873930_1874429
 %gls:	know.2S
 %eng:	you know
-*BAG:	well@s:cym&eng # yr un peth # &ɛ &ɛ xxx +/ . 1874476_1876728
+*BAG:	well@s:cym&eng # yr un peth # &ɛ &ɛ xxx +/. 1874476_1876728
 %gls:	well DET one thing xxx
 %eng:	well the one thing [...] ...
 *ABE:	+< eto fyth os byswn i mynd yn_ôl ryw dro arall a bod o # mewn # temper@s:cym&eng dipyn bach yn wahanol # neu bod chdi (we)di procio rywbeth ryw trigger@s:cym&eng arbennig timod (ba)set ti gael fflydlif [?] de . 1876043_1885645
 %gls:	yet ever if be.1S.CONDIT PRON.1S go.NONFIN back some turn other and be.NONFIN PRON.3SM in temper a_little small PRT different or be.NONFIN PRON.2S PRT.PAST prod.NONFIN something some trigger special know.2S be.2S.CONDIT PRON.2S get.NONFIN flood TAG
 %eng:	yet again, if I went back some other time and he was in a slightly different mood or that you'd probed something, some special trigger, you know, you'd get a flood, you know
-*BAG:	+< yeah@s:cym&eng fasa ti [//] fys(ai) +// . 1878133_1879027
+*BAG:	+< yeah@s:cym&eng fasa ti [//] fys(ai) +//. 1878133_1879027
 %gls:	yeah be.2S.CONDIT PRON.2S be.3S.CONDIT
 %eng:	yeah you would...you'd...
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # mmm@s:cym&eng . 1879491_1881686
@@ -2383,13 +2384,13 @@
 *BAG:	(r)hein oedd yn cynrychioli # yr [/] # yr elfennau # gwahanol felly (y)n_de . 1948444_1952299
 %gls:	these be.3S.IMP PRT represent.NONFIN DET DET elements different thus TAG
 %eng:	it was these that represented the, the different elements, like, wasn't it
-*BAG:	wsti yr um@s:cym&eng # <dyffryn Maentwrog@s:cym&eng> [//] Coedydd_Dyffryn_Maentwrog@s:cym&eng yn cynrychioli (y)r # coedwigoedd mwya gwlyb mwya acid@s:cym&eng yn_de &gorɬe +// . 1952299_1959903
+*BAG:	wsti yr um@s:cym&eng # <dyffryn Maentwrog@s:cym&eng> [//] Coedydd_Dyffryn_Maentwrog@s:cym&eng yn cynrychioli (y)r # coedwigoedd mwya gwlyb mwya acid@s:cym&eng yn_de &gorɬe +//. 1952299_1959903
 %gls:	know.2S DET IM valley Maentwrog Coedydd_Dyffryn_Maentwrog PRT represent.NONFIN DET woods most wet most acid DAT
 %eng:	you know, Coedydd Dyffryn Maentwrog representing the wettest, most acidic woods, you know...
 *ABE:	+< gorllewinol acid@s:cym&eng # yeah@s:cym&eng . 1958429_1960867
 %gls:	westerly acid yeah
 %eng:	westerly, acid, yeah
-*BAG:	ac wedyn dyffryn Conwy@s:cym&eng # yng nghysgod yr [//] er@s:cym&eng Eryri xx sych a xx +/ . 1959892_1964501
+*BAG:	ac wedyn dyffryn Conwy@s:cym&eng # yng nghysgod yr [//] er@s:cym&eng Eryri xx sych a xx +/. 1959892_1964501
 %gls:	and then valley Conwy in shadow DET IM Snowdonia xx dry and xx
 %eng:	and then the Conwy valley, in the shadow of er Snowdonia [...] dry and [...] ...
 *ABE:	+< yeah@s:cym&eng xx sych [//] sychach a mwy [/] mwy # mely(s) [/] melys hefyd o ran pridd (fe)lly . 1961761_1966927
@@ -2408,10 +2409,10 @@
 *BAG:	+" oh@s:cym&eng xxx mynd i gael dim nonsense@s:cym&eng gynnyn nhw . 1983808_1985597
 %gls:	IM xxx go.NONFIN to get.NONFIN NEG nonsense from.3PL PRON.3PL
 %eng:	oh [...] going to have any nonsense from them
-*BAG:	felly (y)n_de +" . 1985597_1985956
+*BAG:	felly (y)n_de +". 1985597_1985956
 %gls:	thus TAG
 %eng:	like, you know
-*BAG:	ges i &dla ddigon o hanes hynny felly xx ei gymeriad o felly (y)n_de +/ . 1985944_1989056
+*BAG:	ges i &dla ddigon o hanes hynny felly xx ei gymeriad o felly (y)n_de +/. 1985944_1989056
 %gls:	get.1S.PAST PRON.1S enough of history that thus xx POSS.3SM character PRON.3SM thus TAG
 %eng:	I got enough of that history, like [...] his character, like, you know
 *ABE:	+< ie yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1987883_1989044
@@ -2421,7 +2422,7 @@
 *BAG:	+, um@s:cym&eng # a (y)r [//] &ʔʔ wsti yr # agwedd # dim nonsense@s:cym&eng oedd <gynno fo> [/] [?] gynno fo ers talwm felly (y)n_de wsti . 1989497_1994814
 %gls:	IM and DET know.2S DET attitude NEG nonsense be.3S.IMP with.3SM PRON.3SM with.3SM PRON.3SM since while thus TAG know.2S
 %eng:	um and the...you know the no nonsense attitude he had in the past, like right, you know
-*BAG:	ond ges i <affliw o ddim_byd ar> [=! laughs] [/] # ar # wsti # ei [/] <ei &v> [/] ei: [/] # ei syniadaeth o felly (y)n_de <wrth &s> [//] wrth sefy(dlu) +// . 1994803_2002454
+*BAG:	ond ges i <affliw o ddim_byd ar> [=! laughs] [/] # ar # wsti # ei [/] <ei &v> [/] ei: [/] # ei syniadaeth o felly (y)n_de <wrth &s> [//] wrth sefy(dlu) +//. 1994803_2002454
 %gls:	but get.1S.PAST PRON.1S trace of nothing on on know.2S POSS.3S POSS.3S POSS.3S POSS.3SM ideology PRON.3SM thus TAG by by establish.NONFIN
 %eng:	but I didn't get anything at all aboout his ideology, like, in establishing...
 *BAG:	<er@s:cym&eng ac mae o> [//] ac # mewn difri <mae o (y)n> [///] # wsti dan ni (y)n dal i warchod y llefydd (y)ma heddiw . 2002454_2007051
@@ -2452,12 +2453,12 @@
 *ABE:	+< yeah@s:cym&eng . 2036157_2036622
 *ABE:	ydy (y)r un un # weledigaeth oedd gynno fo neu (y)dy [/] (y)dy (y)r <athroniaeth tu ôl i (y)r peth> [//] sail y peth ydy honno (y)r un peth deuda mewn llefydd eraill hefyd # oedd ddim dan ei # arolygaeth o <fel yn> [/] fel yng gogledd Lloegr neu (y)r Alban neu beth bynnag (fe)lly ? 2039083_2051680
 %gls:	be.3S.PRES DET one one vision be.3S.IMP with.3SM PRON.3SM or be.3S.PRES be.3S.PRES DET philosophy side back to DET thing foundation DET thing be.3S.PRES that DET one thing say.2S.IMPER in places other also be.3S.IMP NEG under POSS.3SM supervision PRON.3SM like in like in north England or DET Scotland or what ever thus
-%eng:	is the same vision he had, or is the philosophy behind the thing.. . it's foundation, is that the same, say, in other places too, which weren't under his supervision, like in northern England or Scotland or whatever, like?
+%eng:	is the same vision he had, or is the philosophy behind the thing... it's foundation, is that the same, say, in other places too, which weren't under his supervision, like in northern England or Scotland or whatever, like?
 *BAG:	+< &=sigh yeah@s:cym&eng yeah@s:cym&eng &=sigh . 2048360_2049939
 *BAG:	yeah@s:cym&eng dw i (ddi)m yn gwybod . 2051123_2051959
 %gls:	yeah be.1S.PRES PRON.1S NEG PRT know.NONFIN
 %eng:	yeah I don't know
-*BAG:	(dy)na chdi rywbeth arall <fysai (we)di> [//] fys(ai) +// . 2051947_2053642
+*BAG:	(dy)na chdi rywbeth arall <fysai (we)di> [//] fys(ai) +//. 2051947_2053642
 %gls:	there PRON.2S something other be.3S.CONDIT PRT.PAST be.3S.CONDIT
 %eng:	that's another thing for you that would have...
 *BAG:	(pe)tasai fo (we)di # bachu ar y peth yn_de wsti fysw(n) [/] fyswn i (we)di gallu mynd ar_ôl hynna felly . 2053642_2058065
@@ -2470,7 +2471,7 @@
 *BAG:	yndy # yndy . 2060748_2061944
 %gls:	be.3S.PRES be.3S.PRES
 %eng:	yes, yes
-*ABE:	felly xx timod # ai # um@s:cym&eng (we)di # cymeryd y syniad a (e)i addasu o i (y)r # sefyllfa Gymreig oedd o o ran # ecoleg felly yntau # &og oedd o (y)n gwthio (y)r peth +// . 2061340_2072358
+*ABE:	felly xx timod # ai # um@s:cym&eng (we)di # cymeryd y syniad a (e)i addasu o i (y)r # sefyllfa Gymreig oedd o o ran # ecoleg felly yntau # &og oedd o (y)n gwthio (y)r peth +//. 2061340_2072358
 %gls:	thus xx know.2S PRT.INT IM PRT.PAST take.NONFIN DET idea and POSS.3SM modify.NONFIN PRON.3SM to DET situation Welsh be.3S.IMP PRON.3SM of part ecology thus or be.3S.IMP PRON.3SM PRT push.NONFIN DET thing
 %eng:	so [...] you know, did he um take the idea and modify it to the Welsh situation in terms of ecology, like, or did he push the thing...
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 2065230_2066647
@@ -2495,16 +2496,16 @@
 *BAG:	ond <mae N@s:cym&eng> [//] mae (y)r N_V_C@s:cym&eng yn [/] yn weledigaeth tra gwahanol yn_dydy . 2087942_2091574
 %gls:	but be.3S.PRES N be.3S.PRES DET N_V_C PRT PRT vision very different be.3S.PRES.NEG
 %eng:	but the NVC is a very different vision, isn't it
-*BAG:	mae [//] [?] mewn ffordd mae o (y)n sbïo ar safle +/ . 2091562_2093629
+*BAG:	mae [//] [?] mewn ffordd mae o (y)n sbïo ar safle +/. 2091562_2093629
 %gls:	be.3S.PRES in way be.3S.PRES PRON.3SM PRT look.NONFIN on site
 %eng:	in a way, it looks at a site...
-*ABE:	yndy (dy)dy o (ddi)m yn sbïo ar +/ . 2093629_2094813
+*ABE:	yndy (dy)dy o (ddi)m yn sbïo ar +/. 2093629_2094813
 %gls:	be.3S.PRES be.3S.PRES.NEG PRON.3SM NEG PRT look.NONFIN on
 %eng:	yes, it doesn't look at...
 *BAG:	+, mewn [/] mewn [//] fel ynys nac (y)dy . 2094047_2095243
 %gls:	in in like island NEG be.3S.PRES
 %eng:	in...as an island, does it
-*BAG:	<(dy)dy o (ddi)m (y)n> [/] <(dy)dy o (ddi)m (y)n> [/] (dy)dy o (ddi)m (y)n +// . 2095231_2096450
+*BAG:	<(dy)dy o (ddi)m (y)n> [/] <(dy)dy o (ddi)m (y)n> [/] (dy)dy o (ddi)m (y)n +//. 2095231_2096450
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT be.3S.PRES.NEG PRON.3SM NEG PRT be.3S.PRES.NEG PRON.3SM NEG PRT
 %eng:	it doesn't...it doesn't...it doesn't...
 *BAG:	o_k@s:cym&eng mae o (y)n gyfansawdd yn yr ystyr bod chdi (y)n gallu gweld tebygrwydd rhwng safleoedd yn_de . 2096439_2100885
@@ -2513,10 +2514,10 @@
 *ABE:	+< ia . 2097414_2097704
 %gls:	yes
 %eng:	yes
-*BAG:	ond [?] mae o (y)n dal i roid gwerth +// . 2100874_2102185
+*BAG:	ond [?] mae o (y)n dal i roid gwerth +//. 2100874_2102185
 %gls:	but be.3S.PRES PRON.3SM PRT still to put.NONFIN worth
 %eng:	but it still places value...
-*BAG:	wsti # <(dy)dy o (ddi)m yn> [/] (dy)dy o (ddi)m yn # &ddd # &d +// . 2102174_2106365
+*BAG:	wsti # <(dy)dy o (ddi)m yn> [/] (dy)dy o (ddi)m yn # &ddd # &d +//. 2102174_2106365
 %gls:	know.2S be.3S.PRES.NEG PRON.3SM NEG PRT be.3S.PRES.NEG PRON.3SM NEG PRT
 %eng:	you know, it's not...it's not...
 *BAG:	<mae o (y)n> [/] mae o (y)n edrych ar safleoedd unigol yn_dydy i ddeud y gwir felly wsti [?] . 2106377_2110092
@@ -2529,7 +2530,7 @@
 *ABE:	<hynny (y)dy> [?] xx fedri di (ddi)m rhoid ffin # ar y peth timod . 2113134_2116454
 %gls:	that be.3S.PRES xx can.2S.NONPAST PRON.2S NEG put.NONFIN boundary on DET thing know.2S
 %eng:	that is, [...] you can't put a boundary on it, you know
-*ABE:	xx mae [/] mae o (y)n ffin ecolegol yn hytrach na ffin: # gloddiau neu ffin ddaearyddol # berchnogaeth de timod +/ . 2116431_2122480
+*ABE:	xx mae [/] mae o (y)n ffin ecolegol yn hytrach na ffin: # gloddiau neu ffin ddaearyddol # berchnogaeth de timod +/. 2116431_2122480
 %gls:	xx be.3S.PRES be.3S.PRES PRON.3SM PRT boundary ecological PRT rather PRT boundary hedges or boundary geographical ownership TAG know.2S
 %eng:	[...] it's an ecological boundary rather than a boundary of hedges or a geographical boundary of ownership, isn't it, you know
 *BAG:	+< mmm@s:cym&eng # mmm@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 2118056_2120541
@@ -2563,13 +2564,13 @@
 *BAG:	ia ia . 2140313_2141543
 %gls:	yes yes
 %eng:	yes yes
-*ABE:	na xxx right@s:cym&eng xx +/ . 2141520_2142890
+*ABE:	na xxx right@s:cym&eng xx +/. 2141520_2142890
 %gls:	no xxx right xx
 %eng:	no [...] quite [...] ...
 *BAG:	felly dyna (y)dy (y)n er@s:cym&eng # mhrofiad i o [/] # o holi ychyd(ig) [//] yr ychydig dw i (we)di gwneud . 2141915_2146396
 %gls:	thus there be.3S.PRES POSS.1S IM experience PRON.1S of of ask.NONFIN a_little DET a_little be.1S.PRES PRON.1S PRT.PAST do.NONFIN
 %eng:	so that's my er experience of questioning a little...the little I've done
-*BAG:	na [?] dw i isio gwneud mwy o hynny (y)n_de wsti neu [/] # neu [/] neu sefydlu &m # &ʔʔ ddim i mi wneud o (y)n gymaint ag # trefnu um@s:cym&eng # gwirfoddolwyr i [/] # i wneud o felly (y)n_de wsti a cael +/ . 2146396_2157519
+*BAG:	na [?] dw i isio gwneud mwy o hynny (y)n_de wsti neu [/] # neu [/] neu sefydlu &m # &ʔʔ ddim i mi wneud o (y)n gymaint ag # trefnu um@s:cym&eng # gwirfoddolwyr i [/] # i wneud o felly (y)n_de wsti a cael +/. 2146396_2157519
 %gls:	no be.1S.PRES PRON.1S want do.NONFIN more of that TAG know.2S or or or establish.NONFIN NEG for PRON.1S do.NONFIN PRON.3SM PRT so_much PRT arrange.NONFIN IM volunteers to to do.NONFIN PRON.3SM thus TAG know.2S and get.NONFIN
 %eng:	no, I want to do more of that, right you know, or establish...not for me to do it as much as arrange um for volunteers to do it, like, isn't it, you know, and get...
 *ABE:	yeah@s:cym&eng (fe)lly ti mynd i fod yn brysur uffernol achan . 2157008_2159028
@@ -2602,7 +2603,7 @@
 *ABE:	(dy)na chdi yeah@s:cym&eng . 2172983_2173598
 %gls:	there PRON.2S yeah
 %eng:	that's it, yeah
-*BAG:	ac er@s:cym&eng wsti # dw i (y)n dal i allu +// . 2173865_2175630
+*BAG:	ac er@s:cym&eng wsti # dw i (y)n dal i allu +//. 2173865_2175630
 %gls:	and IM know.2S be.1S.PRES PRON.1S PRT still to can.NONFIN
 %eng:	and er, you know, I can still...
 *BAG:	wsti dw i (y)n gwybod # enw pob un bryn a pant yn [//] ar y Rhinogydd@s:cym&eng neu dw i (y)n teimlo mod i felly (y)n_de ac <ar y> [//] # ar yr arfordir yn fan (y)na felly . 2175619_2183386
@@ -2615,7 +2616,7 @@
 *BAG:	dw i (we)di # mynd yn blwyfol i Aber@s:cym&eng ers i mi symud i_fyny (fe)lly # o Dyffryn yn_de . 2189562_2193637
 %gls:	be.1S.PRES PRON.1S PRT.PAST go.NONFIN PRT parochial to Aber since to PRON.1S move.NONFIN up thus from Dyffryn TAG
 %eng:	I've become parochial to Aber since I moved up, like, from Dyffryn, isn't it
-*BAG:	wedyn er@s:cym&eng # xxx +// . 2193637_2194914
+*BAG:	wedyn er@s:cym&eng # xxx +//. 2193637_2194914
 %gls:	then IM xxx
 %eng:	then er [...] ...
 *ABE:	+< yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 2193904_2194821
@@ -2637,7 +2638,7 @@
 %gls:	and yet be.1S.PRES PRON.1S NEG quite PRT know.NONFIN DET place of part names DET homesteads and every kind of things here know.2S TAG
 %eng:	and yet I don't quite know the place, in terms of the names of the homesteads and all kinds of things, you know, isn't it
 *BAG:	+< yeah@s:cym&eng # yeah@s:cym&eng # yeah@s:cym&eng . 2220340_2222198
-*ABE:	um@s:cym&eng dw i (we)di ryw # ddod i_mewn +// . 2222186_2224578
+*ABE:	um@s:cym&eng dw i (we)di ryw # ddod i_mewn +//. 2222186_2224578
 %gls:	IM be.1S.PRES PRON.1S PRT.PAST some come.NONFIN in
 %eng:	um, I've kind of come in...
 *ABE:	mae gynnon ni (ei)n ynys bach yn fan (y)na timod . 2224578_2226760
@@ -2652,7 +2653,7 @@
 %gls:	and be.1S.PRES PRON.1S PRT.PAST ask.NONFIN this and other some_amount thus TAG
 %eng:	and I've asked this and that a little, like, isn't it
 *BAG:	yeah@s:cym&eng . 2235062_2235503
-*ABE:	ond diawl dydw i ddim wedi boddran +/ . 2235503_2237233
+*ABE:	ond diawl dydw i ddim wedi boddran +/. 2235503_2237233
 %gls:	but devil be.1S.PRES.NEG PRON.1S NEG PRT.PAST bother.NONFIN
 %eng:	but hell, I haven't bothered...
 *BAG:	yeah@s:cym&eng . 2237244_2238080
@@ -2669,7 +2670,7 @@
 %gls:	no
 %eng:	no
 *BAG:	yeah@s:cym&eng . 2248541_2249040
-*ABE:	ond timod pan o'n i fwy yn # &d [//] er@s:cym&eng yn Betws@s:cym&eng cyn symud i Nebo@s:cym&eng (fe)lly timod duwcs <oedd (y)na> [//] [?] oedd gyn i (y)chydig bach mwy o ddiddordeb yn yr um@s:cym&eng +/ . 2248622_2255576
+*ABE:	ond timod pan o'n i fwy yn # &d [//] er@s:cym&eng yn Betws@s:cym&eng cyn symud i Nebo@s:cym&eng (fe)lly timod duwcs <oedd (y)na> [//] [?] oedd gyn i (y)chydig bach mwy o ddiddordeb yn yr um@s:cym&eng +/. 2248622_2255576
 %gls:	but know.2S when be.1S.IMP PRON.1S more in IM in Betws before move.NONFIN to Nebo thus know.2S gosh be.3S.IMP there be.3S.IMP with PRON.1S a_little small more of interest in DET IM
 %eng:	but you know, when I was in er in Betws more, before moving to Nebo, like, you know, gosh there was...I had a little more interest in the um...
 *BAG:	+< mmm@s:cym&eng . 2249272_2249922
@@ -2679,13 +2680,13 @@
 %gls:	IM know.2S places individual and in DET front and know.2S IM and such know.2S
 %eng:	er, you know individual places and so forth and, you know, er and stuff, you know
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng . 2259373_2260035
-*BAG:	hwyrach bod o rywbeth i wneud efo # dy oed ti felly (y)n_de wsti # wsti +.. . 2260476_2266002
+*BAG:	hwyrach bod o rywbeth i wneud efo # dy oed ti felly (y)n_de wsti # wsti +... 2260476_2266002
 %gls:	perhaps be.NONFIN PRON.3SM something to do.NONFIN with POSS.2S age PRON.2S thus TAG know.2S know.2S
 %eng:	perhaps it's something to do with your age, like, isn't it, you know, you know...
 *ABE:	+< ella bod o sti . 2264760_2265875
 %gls:	perhaps be.NONFIN PRON.3SM know.2S
 %eng:	perhaps it is you know...
-*BAG:	pan o'n i (y)n +/ . 2265863_2266699
+*BAG:	pan o'n i (y)n +/. 2265863_2266699
 %gls:	when be.1S.IMP PRON.1S PRT
 %eng:	when I was...
 *ABE:	+< synnwn i ddim de . 2266292_2267221
@@ -2717,7 +2718,7 @@
 %gls:	xx be.1S.PRES PRON.1S PRT remember.NONFIN go.NONFIN back there PRT rather recent go.NONFIN lead.NONFIN trip Edward_Llwyd and such know.2S go.NONFIN through DET area TAG know.2S TAG
 %eng:	[...] I remember going back there quite recently, leading an Edward Llwyd trip and so forth, going through the area, isn't it, you know, isn't it
 *BAG:	mmm@s:cym&eng . 2287910_2288293
-*ABE:	Iesu mawr oedd bob_dim yn llifo nôl timod ac atgofion a &d +// . 2288271_2292915
+*ABE:	Iesu mawr oedd bob_dim yn llifo nôl timod ac atgofion a &d +//. 2288271_2292915
 %gls:	Jesus big be.3S.IMP everything PRT flow.NONFIN back know.2S and memories and
 %eng:	Jesus, everything flooded back, you know, and memories and...
 *ABE:	mwy neu lai yn gweld yn hun <pan o'n i efo> [//] [?] efo llaw fechan timod yn # gwneud hyn a llall a cofio # xx ryw gloddiau a <bob diawl o bob_dim> [?] de timod . 2292904_2300973
@@ -2766,14 +2767,14 @@
 %gls:	because be.1S.PRES NEG be.1S.PRES NEG want disturb.NONFIN on DET image comfortable nice where be.1S.PRES PRON.1S PRT know.NONFIN know.2S what be.3S.PRES what thus
 %eng:	because I don't want to disturb the comfortable, lovely image where I know, you know, what's what, like
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng . 2341991_2343953
-*BAG:	+< dw i (we)di darganfod hyn felly xx +// . 2344220_2345776
+*BAG:	+< dw i (we)di darganfod hyn felly xx +//. 2344220_2345776
 %gls:	be.1S.PRES PRON.1S PRT.PAST discover.NONFIN this thus xx
 %eng:	I've discovered this, like [...] ...
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng dw gwybod # mmm@s:cym&eng . 2345950_2348585
 %gls:	yeah yeah yeah be.1S.PRES know.NONFIN IM
 %eng:	yeah yeah, yeah I know, mmm
 *BAG:	mmm@s:cym&eng mmm@s:cym&eng . 2348957_2350060
-*ABE:	a timod er@s:cym&eng dydw i (ddi)m isio &n +// . 2349537_2351662
+*ABE:	a timod er@s:cym&eng dydw i (ddi)m isio &n +//. 2349537_2351662
 %gls:	and know.2S IM be.1S.PRES.NEG PRON.1S NEG want
 %eng:	and you know, I don't want...
 *BAG:	+< &=laugh . 2350571_2350919
@@ -2789,10 +2790,10 @@
 %gls:	IM disappointment TAG know.2S TAG
 %eng:	oh a disappointment, isn't it, you know!
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 2364085_2364758
-*ABE:	well gyn i # xx byw # <yn y gorffennol rywsut> [=! laughs] pan oeddwn i (y)n gyffyrddus xx +/ . 2364735_2371503
+*ABE:	well gyn i # xx byw # <yn y gorffennol rywsut> [=! laughs] pan oeddwn i (y)n gyffyrddus xx +/. 2364735_2371503
 %gls:	better with PRON.1S xx live.NONFIN in DET past somehow when be.1S.IMP PRON.1S PRT comfortable xx
 %eng:	I prefer [...] living in the past somehow, when I was comfortable [...]
-*BAG:	+< byw efo dy +// . 2366221_2367103
+*BAG:	+< byw efo dy +//. 2366221_2367103
 %gls:	live.NONFIN with POSS.2S
 %eng:	living with your...
 *BAG:	+< mmm@s:cym&eng hmm@s:cym&eng . 2369297_2370133
@@ -2830,7 +2831,7 @@
 *ABE:	+< a timod un llygad oedd gynno fo timod . 2395850_2397208
 %gls:	and know.2S one eye be.3S.IMP with.3SM PRON.3SM know.2S
 %eng:	and you know, he only had one eye, you know
-*ABE:	oedd o (y)n byw +/ . 2397197_2398149
+*ABE:	oedd o (y)n byw +/. 2397197_2398149
 %gls:	be.3S.IMP PRON.3SM PRT live.NONFIN
 %eng:	he lived...
 *BAG:	+< ew ia &=laugh ? 2397487_2399170
@@ -2945,7 +2946,7 @@
 %gls:	DET gosh IM some images incredible TAG know.2S
 %eng:	gosh, oh some incredible images, right, you know
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 2515446_2517489
-*BAG:	xx +/ . 2517919_2518592
+*BAG:	xx +/. 2517919_2518592
 *ABE:	+< hollol hollol ddychmygus de . 2518000_2520171
 %gls:	complete complete imaginary TAG
 %eng:	completely, completely imaginary, yeah
@@ -2958,7 +2959,7 @@
 %gls:	and xx be.3S.IMP that PRT create.NONFIN so_much of impression be.3S.PRES PRT.PAST effect.NONFIN on know.2S POSS.1S imagination creative PRON.1S ever since that TAG
 %eng:	and [...] that created such an impression, it's effected, you know, my creative imagination ever since then, right
 *BAG:	+< yeah@s:cym&eng . 2529296_2529737
-*BAG:	yeah@s:cym&eng # yndy <mae (y)n> [?] # gweld hynna felly efo [?] +// . 2529865_2531769
+*BAG:	yeah@s:cym&eng # yndy <mae (y)n> [?] # gweld hynna felly efo [?] +//. 2529865_2531769
 %gls:	yeah be.3S.PRES be.3S.PRES PRT see.NONFIN that thus with
 %eng:	yeah, yes, you can see that, like with...
 *BAG:	bron # faswn i (y)n # taeru bod chdi (y)n # sôn amdana chdi dy hun yn fan (y)na Abel@s:cym&eng &=laugh . 2531769_2536750
@@ -3007,7 +3008,7 @@
 *ABE:	ah@s:cym&eng # &me [//] <mae o (y)n> [?] ffordd gyn i weithiau timod o just@s:cym&eng cadw (y)n [/] # er@s:cym&eng yn hun yn # gall hefyd de . 2583980_2588949
 %gls:	IM be.3S.PRES PRON.3SM PRT way with PRON.1S sometimes know.2S of just keep.NONFIN POSS.1S IM POSS.1S self PRT sane also TAG
 %eng:	ah, it's a way for me sometimes, you know, of just keeping, er, myself sane, too, right
-*ABE:	pan ti (y)n mynd allan efo ryw grew@s:cym&eng o (r)heiny xx bloody@s:cym&eng diawlaid mwya di_ddim weli di ar &ð wyneb daear # wyt ti isio ryw (y)chydig bach o +/ . 2588949_2596728
+*ABE:	pan ti (y)n mynd allan efo ryw grew@s:cym&eng o (r)heiny xx bloody@s:cym&eng diawlaid mwya di_ddim weli di ar &ð wyneb daear # wyt ti isio ryw (y)chydig bach o +/. 2588949_2596728
 %gls:	when PRON.2S PRT go.NONFIN out with some crew of those xx bloody devils most insignificant see.2S.NONPAST PRON.2S on face earth be.2S.PRES PRON.2S want some a_little small of
 %eng:	when you're going out with a crew of those [...] most dull bloody devils you'll see on the face of the earth, you need a little bit of...
 *BAG:	+< mmm@s:cym&eng . 2591469_2591945
@@ -3027,7 +3028,7 @@
 *BAG:	+< yeah@s:cym&eng yeah@s:cym&eng # dw i gwybod # yeah@s:cym&eng . 2601395_2602777
 %gls:	yeah yeah be.1S.PRES PRON.1S know.NONFIN yeah
 %eng:	yeah yeah, I know, yeah
-*ABE:	xx (y)n enwedig os ti mynd # ddiwrnod ar_ôl diwrnod ar_ôl diwrnod xx a ryw grew@s:cym&eng o ryw bethau sydd mwya # bloody@s:cym&eng +/ . 2602138_2608117
+*ABE:	xx (y)n enwedig os ti mynd # ddiwrnod ar_ôl diwrnod ar_ôl diwrnod xx a ryw grew@s:cym&eng o ryw bethau sydd mwya # bloody@s:cym&eng +/. 2602138_2608117
 %gls:	xx PRT particular if PRON.2S go.NONFIN day after day after day xx and some crew of some things be.PRES.REL most bloody
 %eng:	[...] especially if you're going day after day after day [...] and a group of some things who are the most bloody...
 *BAG:	+< yeah@s:cym&eng # yeah@s:cym&eng # yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng hollol &=laugh . 2603520_2607850
@@ -3036,7 +3037,7 @@
 *BAG:	++ sych felly . 2607850_2608675
 %gls:	dry thus
 %eng:	dry, like
-*ABE:	+, pedantic@s:cym&eng a sych +/ . 2608326_2609650
+*ABE:	+, pedantic@s:cym&eng a sych +/. 2608326_2609650
 %gls:	pedantic and dry
 %eng:	pedantic and dry...
 *BAG:	xx ia yeah@s:cym&eng # yeah@s:cym&eng . 2609336_2610428
@@ -3055,10 +3056,10 @@
 *BAG:	mmm@s:cym&eng # ia dw i gwybod . 2613098_2614410
 %gls:	IM yes be.1S.PRES PRON.1S know.NONFIN
 %eng:	mm, yes I know
-*BAG:	pigo dy frain@s:eng +/ . 2614410_2615350
+*BAG:	pigo dy frain@s:eng +/. 2614410_2615350
 %gls:	pick.NONFIN POSS.2S brain
 %eng:	picking your brain...
-*ABE:	<dw i (y)n cofio un> [?] +/ . 2614572_2615269
+*ABE:	<dw i (y)n cofio un> [?] +/. 2614572_2615269
 %gls:	be.1S.PRES PRON.1S PRT remember.NONFIN one
 %eng:	I remember one...
 *BAG:	[- eng] go on . 2615339_2615757
@@ -3070,14 +3071,14 @@
 %gls:	and be.3S.IMP there some crew of of some xx English_people xx
 %eng:	and there was a group of some [...] English people [...]
 *BAG:	+< mmm@s:cym&eng . 2617904_2618137
-*ABE:	<ond arglwydd mawr> [=! laughs] # ar # ryw +// . 2621237_2624905
+*ABE:	<ond arglwydd mawr> [=! laughs] # ar # ryw +//. 2621237_2624905
 %gls:	but gosh big on some
 %eng:	but good lord, on some...
 *ABE:	well@s:cym&eng timod y ddelwedd y ramblwr go iawn sti timod de . 2624894_2628156
 %gls:	well know.2S DET image DET rambler rather right know.2S know.2S TAG
 %eng:	well you know, the true image of the rambler, you know, right
 *BAG:	yeah@s:cym&eng hmm@s:cym&eng . 2627738_2628551
-*ABE:	ac er@s:cym&eng # isio gwybod bob_dim am # timod # pethau xxx +// . 2628330_2634263
+*ABE:	ac er@s:cym&eng # isio gwybod bob_dim am # timod # pethau xxx +//. 2628330_2634263
 %gls:	and IM want know.2S everything about know.2S things xxx
 %eng:	and er, wanted to know everything about, you know, things [...]
 *ABE:	a timod # &i &iʃ timod oedden nhw isio # view@s:eng de . 2634263_2639046
@@ -3099,13 +3100,13 @@
 %gls:	yes and be.3S.PRES view PRT different to view be.3S.PRES.NEG know.2S know.2S
 %eng:	yes and view is different to "golygfa", isn't it, you know, you know
 %com:	Baglan claims that the Welsh word for 'view' is a little different to it's English equivalent
-*ABE:	+< a finnau (y)n cyrraedd top@s:cym&eng y myn(ydd) +/ . 2645362_2646477
+*ABE:	+< a finnau (y)n cyrraedd top@s:cym&eng y myn(ydd) +/. 2645362_2646477
 %gls:	and PRON.1S PRT arrive.NONFIN top DET mountain
 %eng:	and I got to the top of the mountain...
 *ABE:	+< oh@s:cym&eng yndy tad . 2647568_2648183
 %gls:	oh be.3S.PRES father
 %eng:	oh gosh yes
-*ABE:	+< yeah@s:cym&eng xx fedri di fesur a [/] a [/] a [/] a +// . 2648404_2650459
+*ABE:	+< yeah@s:cym&eng xx fedri di fesur a [/] a [/] a [/] a +//. 2648404_2650459
 %gls:	yeah xx can.2S.NONPAST PRON.2S measure.NONFIN and and and and
 %eng:	yeah [...] you can measure and...
 *BAG:	+< &=laugh ia [=! laughs] . 2649809_2650912
@@ -3121,14 +3122,14 @@
 %gls:	exact DET way be.3PL.IMP PRON.3PL want PRON.3SM
 %eng:	exactly, the way they wanted it
 *BAG:	yeah@s:cym&eng yeah@s:cym&eng . 2654685_2655161
-*ABE:	a cyrraedd y top@s:cym&eng de a deud xx +"/ . 2655149_2657088
+*ABE:	a cyrraedd y top@s:cym&eng de a deud xx +"/. 2655149_2657088
 %gls:	and arrive.NONFIN DET top TAG and say.NONFIN xx
 %eng:	and arrived at the top, right, and said [...]
 *ABE:	+" dyma ni ta . 2657088_2657820
 %gls:	here PRON.1PL then
 %eng:	here we are then
 *ABE:	[- eng] +" this is your view of the day . 2657820_2659886
-*ABE:	de +" . 2659886_2660002
+*ABE:	de +". 2659886_2660002
 %gls:	TAG
 %eng:	right
 *BAG:	yeah@s:cym&eng . 2660002_2660304
@@ -3136,14 +3137,14 @@
 %gls:	IM be.3PL.IMP PRON.3PL PRT happy TAG happy TAG get.NONFIN DET view of the day TAG know.2S
 %eng:	oh they were happy, weren't they, happy, weren't they, getting the view of the day, right, you know yeah
 *BAG:	+< &=laugh . 2661186_2665029
-*ABE:	a dyma (y)r bloody@s:cym&eng boy@s:cym&eng (y)ma +// . 2664344_2665459
+*ABE:	a dyma (y)r bloody@s:cym&eng boy@s:cym&eng (y)ma +//. 2664344_2665459
 %gls:	and here DET bloody boy here
 %eng:	and this bloody guy...
 *ABE:	real@s:cym&eng pedant@s:cym&eng de timod . 2665459_2667084
 %gls:	real pedant TAG know.2S
 %eng:	a real pedant, right, you know
 *BAG:	yeah@s:cym&eng . 2666829_2667282
-*ABE:	xx +// . 2667073_2667607
+*ABE:	xx +//. 2667073_2667607
 *ABE:	oh@s:cym&eng (y)r arglwydd mawr oedd o ramblwr go iawn de # efo (e)i fap@s:cym&eng bach mewn ryw # beth bach plastic@s:cym&eng a rei [?] hongian ar ei frest o timod de . 2667607_2674190
 %gls:	IM DET lord big be.3S.IMP PRON.3SM rambler rather right TAG with POSS.3SM map small in some thing small plastic and some hang.NONFIN on POSS.3SM chest PRON.3SM know.2S TAG
 %eng:	oh dear lord, he was a real rambler, right, with his little map in some little plastic thing and hanging on his chest, you know, right
@@ -3161,13 +3162,13 @@
 *ABE:	o'n i (ddi)m yn gyfarwydd efo Eryri beth bynnag de timod . 2684058_2686252
 %gls:	be.1S.IMP PRON.1S NEG PRT familiar with Snowdonia what ever TAG know.2S
 %eng:	I wasn't familiar with Snowdonia anyway, right, you know
-*ABE:	ac um@s:cym&eng (y)n dechrau deud +"/ . 2686252_2688087
+*ABE:	ac um@s:cym&eng (y)n dechrau deud +"/. 2686252_2688087
 %gls:	and IM PRT start.NONFIN say.NONFIN
 %eng:	and um, started to say...
 *ABE:	+" oh@s:cym&eng <dacw hi> [?] um@s:cym&eng &d um@s:cym&eng # Cader_Idris@s:cym&eng lawr yn fan (a)cw # y Rhinogydd@s:cym&eng yn fan (y)na Aran_Fawddwy@s:cym&eng fan (y)na . 2688087_2695030
 %gls:	IM there PRON.3SF IM IM Cader_Idris down in place there DET Rhinogydd in place there Aran_Fawddwy place there
 %eng:	oh that's um Cader Idris down there, the Rhinogydd there, Aran Fawddwy there
-*ABE:	de timod a hyn a llall +" . 2695030_2695831
+*ABE:	de timod a hyn a llall +". 2695030_2695831
 %gls:	TAG know.2S and this and other
 %eng:	right, you know, and this and that
 *ABE:	a diawl # o'n i (ddi)m yn gwybod be oedd rei o (y)r lleill (y)ma de timod . 2695831_2699290
@@ -3192,7 +3193,7 @@
 *ABE:	+" oh@s:cym&eng er@s:cym&eng # cachu iâr mountain@s:eng yn fan (a)cw . 2718958_2721164
 %gls:	IM IM shit hen mountain in place there
 %eng:	oh er, chicken shit mountain over there
-*ABE:	timod de +" . 2721140_2721477
+*ABE:	timod de +". 2721140_2721477
 %gls:	know.2S TAG
 %eng:	you know, right
 *BAG:	&=laugh . 2721152_2723474
@@ -3200,12 +3201,12 @@
 %gls:	and PRON.1S PRT use.NONFIN DET one one kind TAG know.2S TAG
 %eng:	and me using the same kind, right, you know yeah
 *BAG:	yeah@s:cym&eng . 2724159_2724380
-*ABE:	&=laugh +"/ . 2724368_2725227
+*ABE:	&=laugh +"/. 2724368_2725227
 *ABE:	+" <fan (a)cw> [//] er@s:cym&eng &v over@s:eng there@s:eng now@s:eng we@s:eng got@s:eng # um@s:cym&eng # mynydd cachu iâr # um@s:cym&eng # cwd maharan hill@s:eng over@s:eng there@s:eng . 2725227_2733424
 %gls:	place there IM over there now we got IM mountain shit hen IM scrotum ram hill over there
 %eng:	over there...er over there now we got um chicken shit mountain, um, ram scrotum hill over there
 *BAG:	+< &=laugh . 2730115_2734271
-*ABE:	timod &=laugh +/ . 2733935_2735432
+*ABE:	timod &=laugh +/. 2733935_2735432
 %gls:	know.2S
 %eng:	you know...
 *BAG:	mae isio gwyneb i wneud hynny does Abel@s:cym&eng &=laugh . 2735119_2738323
@@ -3223,17 +3224,17 @@
 %gls:	and those PRT know.2S xx xx
 %eng:	and them, you know [...]
 *BAG:	mmm@s:cym&eng # &=laugh . 2746183_2747716
-*ABE:	a dyma (y)r bloody@s:cym&eng boy@s:cym&eng (y)ma ar y diwedd # er@s:cym&eng er@s:cym&eng &a ryw bum munud wedyn +// . 2747286_2750723
+*ABE:	a dyma (y)r bloody@s:cym&eng boy@s:cym&eng (y)ma ar y diwedd # er@s:cym&eng er@s:cym&eng &a ryw bum munud wedyn +//. 2747286_2750723
 %gls:	and here DET bloody boy here on DET end IM IM some five minute after
 %eng:	and this bloody guy at the end, er, er, about five minutes later...
-*ABE:	er@s:cym&eng timod oedd o (y)n sbïo drwy ei fap@s:cym&eng bob_dim yeah@s:cym&eng timod ac yn +// . 2750723_2753230
+*ABE:	er@s:cym&eng timod oedd o (y)n sbïo drwy ei fap@s:cym&eng bob_dim yeah@s:cym&eng timod ac yn +//. 2750723_2753230
 %gls:	IM know.2S be.3S.IMP PRON.3SM PRT look.NONFIN through POSS.3SM map everything yeah know.2S and PRT
 %eng:	er, you know, he was looking through his map and everything, yeah you know, and...
 *BAG:	+< yeah@s:cym&eng . 2750966_2751292
-*ABE:	a mae (y)n dod ato fi yn diwedd # ac yn gofyn de # ac yn deud timod de +"/ . 2753219_2756586
+*ABE:	a mae (y)n dod ato fi yn diwedd # ac yn gofyn de # ac yn deud timod de +"/. 2753219_2756586
 %gls:	and be.3S.PRES PRT come.NONFIN to.1S PRON.1S PRT end and PRT ask.NONFIN TAG and PRT say.NONFIN know.2S TAG
 %eng:	and he comes to me at the end, and asks, right, and says, you know, right:
-*ABE:	+" um@s:cym&eng # you@s:eng know@s:eng you@s:eng said@s:eng that@s:eng # mountain@s:eng +.. . 2756574_2760684
+*ABE:	+" um@s:cym&eng # you@s:eng know@s:eng you@s:eng said@s:eng that@s:eng # mountain@s:eng +... 2756574_2760684
 *BAG:	+< &=laugh . 2759523_2761636
 *ABE:	+" &=hesitation <that's@s:eng not@s:eng> [//] # not@s:eng what@s:eng it@s:eng says@s:eng here@s:eng on@s:eng the@s:eng map@s:cym&eng yeah@s:cym&eng . 2760696_2764864
 *BAG:	+< &=laugh . 2764016_2765990
@@ -3245,7 +3246,7 @@
 %gls:	IM devil I was using the vernacular
 %eng:	oh hell, I was using the vernacular
 *BAG:	+< &=laugh . 2770146_2772863
-*ABE:	meddai fi de timod de +" . 2770576_2771400
+*ABE:	meddai fi de timod de +". 2770576_2771400
 %gls:	say.1S.PAST PRON.1S TAG know.2S TAG
 %eng:	I said, right, you know yeah
 *ABE:	<oh@s:cym&eng (y)r> [=! sighs] arglwydd mawr de [?] . 2771400_2773606
@@ -3259,7 +3260,7 @@
 *ABE:	ond timod (dy)na o de . 2775696_2776601
 %gls:	but know.2S there PRON.3SM TAG
 %eng:	but you know, that's it, isn't it
-*ABE:	dw i (y)n mwynhau just@s:cym&eng # rhefru weithiau a rhaffu nhw de timod ond [?] +.. . 2776590_2779976
+*ABE:	dw i (y)n mwynhau just@s:cym&eng # rhefru weithiau a rhaffu nhw de timod ond [?] +... 2776590_2779976
 %gls:	be.1S.PRES PRON.1S PRT enjoy.NONFIN just rant.NONFIN sometimes and string.NONFIN PRON.3PL TAG know.2S but
 %eng:	I enjoy just ranting sometimes, and stringing lies, right, you know, but...
 *BAG:	+< mmm@s:cym&eng . 2776888_2777271

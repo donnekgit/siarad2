@@ -2,17 +2,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	KAT Kath Adult, KIM Kim Adult
-@ID:	cy|siarad|KAT|24;|female|||Adult||
-@ID:	cy|siarad|KIM|25;|female|||Adult||
+@ID:	cym|siarad|KAT|24;|female|||Adult||
+@ID:	cym|siarad|KIM|25;|female|||Adult||
 @Situation:	informal conversation at the university between friends who are studying on the same course
 @Comment:	KAT was brought up in north-west Wales and has lived there ever since
 @Comment:	KIM was brought up in north-west Wales, where she is living now, after spending a few years in Cardiff
 @Date:	06-NOV-2006
 @Comment:	Researcher: Elen Robert, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:32:42
-@Comment:	Filename: Robert4.CHA; Robert4.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	robert4, audio
+@Comment:	Filename: Robert4.cha; Robert4.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *KAT:	faint o gloch wnest ti ddod i Gaerdydd ? 70_3135
 %gls:	how_much of clock do.2S.PAST PRON.2S come.NONFIN to Cardiff
 %eng:	what time did you come to Cardiff?
@@ -45,10 +46,10 @@
 %gls:	do.1S.PAST PRON.1S NEG see.NONFIN NEG at_all
 %eng:	I didn't see any at all
 *KAT:	&=sigh . 26733_27952
-*KIM:	achos o'n i (y)n siarad efo Ian@s:cym&eng neithiwr deud +"/ . 27952_29751
+*KIM:	achos o'n i (y)n siarad efo Ian@s:cym&eng neithiwr deud +"/. 27952_29751
 %gls:	because be.1S.IMP PRON.1S PRT speak.NONFIN with Ian last_night say.NONFIN
 %eng:	because I was talking to Ian last night, and said:
-*KIM:	+" oh@s:cym&eng dw i am trio cael ticedi <i un o (y)r> [?] games@s:cym&eng eraill de # Canada@s:cym&eng neu +.. . 29740_33315
+*KIM:	+" oh@s:cym&eng dw i am trio cael ticedi <i un o (y)r> [?] games@s:cym&eng eraill de # Canada@s:cym&eng neu +... 29740_33315
 %gls:	IM be.1S.PRES PRON.1S for try.NONFIN get.NONFIN tickets to one of DET games other TAG Canada or
 %eng:	oh, I'm going to try to get tickets to one of the other games, right, Canada or...
 *KIM:	+" oh@s:cym&eng ti (ddi)m isio &ts [//] gwatsiad team@s:cym&eng gwael yn chwarae Gymru . 33304_36079
@@ -57,7 +58,7 @@
 *KIM:	+" well nag oes o'n i isio gwatsiad team@s:cym&eng da . 36067_37797
 %gls:	well NEG be.3S.PRES be.1S.IMP PRON.1S want watch.NONFIN team good
 %eng:	well no, I wanted to watch a good team
-*KIM:	meddai fi de +" . 37797_38366
+*KIM:	meddai fi de +". 37797_38366
 %gls:	say.1S.PAST PRON.1S TAG
 %eng:	I said, you know
 *KIM:	+" ond o chdi [?] (y)n cau gadael fi ddod efo chdi nag oeddet . 38354_40572
@@ -106,7 +107,7 @@
 *KAT:	+< aethon ni adre . 77956_78768
 %gls:	do.1PL.PAST PRON.1PL home
 %eng:	we went home
-*KAT:	&tn +/ . 78734_80429
+*KAT:	&tn +/. 78734_80429
 *KIM:	+< erbyn faint o gloch o chdi adre ? 79929_81334
 %gls:	by how_much of clock be.2S.IMP PRON.2S home
 %eng:	by what time were you home?
@@ -116,7 +117,7 @@
 *KAT:	um@s:cym&eng pump . 83981_86315
 %gls:	IM five
 %eng:	um, five
-*KIM:	yeah@s:cym&eng o'n i adre +// . 86307_87444
+*KIM:	yeah@s:cym&eng o'n i adre +//. 86307_87444
 %gls:	yeah be.1S.IMP PRON.1S home
 %eng:	yeah I was home...
 *KIM:	pedwar o'n i adre . 87444_88663
@@ -136,7 +137,7 @@
 %gls:	worse PRON.1S do.NONFIN NEG while be.1S.PRES PRON.1S sides there TAG
 %eng:	I might as well while I'm in those parts, isn't it
 *KAT:	yeah@s:cym&eng . 99844_100506
-*KIM:	so@s:cym&eng +.. . 100482_101841
+*KIM:	so@s:cym&eng +... 100482_101841
 *KAT:	oh@s:cym&eng oedd [?] hynna (y)n nice@s:cym&eng . 101829_103710
 %gls:	IM be.3S.IMP that PRT nice
 %eng:	oh that was nice
@@ -153,7 +154,7 @@
 %eng:	right at the front, like
 *KAT:	+< mmm@s:cym&eng . 108644_109178
 *KAT:	fifth@s:eng row@s:cym&eng . 109782_110885
-*KIM:	na +! ? 110885_111512
+*KIM:	na +!? 110885_111512
 %gls:	no
 %eng:	no!?
 *KAT:	yeah@s:cym&eng . 111500_112278
@@ -189,13 +190,13 @@
 *KIM:	+< a so@s:cym&eng wnes i text_io@s:eng+cym Ian@s:cym&eng . 139457_140827
 %gls:	and so do.1S.PAST PRON.1S text.NONFIN Ian
 %eng:	and so I texted Ian
-*KIM:	+< wnes i deud +"/ . 140804_141152
+*KIM:	+< wnes i deud +"/. 140804_141152
 %gls:	do.1S.PAST PRON.1S say.NONFIN
 %eng:	I said:
 *KIM:	+" Ian@s:cym&eng ti isio mynd ? 141140_142093
 %gls:	Ian PRON.2S want go.NONFIN
 %eng:	Ian, do you want to go?
-*KIM:	meddai fi +" . 142081_142940
+*KIM:	meddai fi +". 142081_142940
 %gls:	say.1S.PAST PRON.1S
 %eng:	I said
 *KIM:	<am bod> [//] # dw (ddi)m yn gwybod os geith o amser i_ffwrdd o gwaith am <bod fo (we)di> [?] newydd ddechrau yn Pentraeth@s:cym&eng de . 142928_147166
@@ -205,7 +206,7 @@
 *KIM:	a (dy)dy o (ddi)m (we)di ateb fi . 147146_149131
 %gls:	and be.3S.PRES.NEG PRON.3SM NEG PRT.PAST answer.NONFIN PRON.1S
 %eng:	and he hasn't answered me
-*KIM:	o'n i (fa)th â +"/ . 149120_149363
+*KIM:	o'n i (fa)th â +"/. 149120_149363
 %gls:	be.1S.IMP PRON.1S kind with
 %eng:	I was like:
 *KIM:	+" oh@s:cym&eng God@s:eng . 149352_150060
@@ -218,10 +219,10 @@
 *KAT:	+< ah@s:cym&eng ti gorod ail_wneud o <wedyn dwyt> [?] . 152429_155076
 %gls:	IM PRON.2S must.NONFIN redo.NONFIN PRON.3SM then be.2S.PRES.NEG
 %eng:	ah, you have to do it again, don't you
-*KIM:	so@s:cym&eng dw (ddi)m +// . 154669_155389
+*KIM:	so@s:cym&eng dw (ddi)m +//. 154669_155389
 %gls:	so be.1S.PRES NEG
 %eng:	so I dont...
-*KIM:	<ond dw feddwl> [?] +"/ . 155377_156295
+*KIM:	<ond dw feddwl> [?] +"/. 155377_156295
 %gls:	but be.1S.PRES think.NONFIN
 %eng:	but I'm thinking
 *KIM:	+" deg a un_ar_ddeg <mae (y)n> [?] # right@s:cym&eng yn blaen (dy)dy [?] . 156283_159998
@@ -236,7 +237,7 @@
 *KAT:	(be)cause@s:eng oedden ni (y)n # l@s:cym&eng # seventeen@s:eng # row@s:cym&eng five@s:eng . 160428_167440
 %gls:	because be.1PL.IMP PRON.1PL in l seventeen row five
 %eng:	because we were in L17, row 5
-*KIM:	<ochr ara(ll)> [//] ochr +// . 167405_168717
+*KIM:	<ochr ara(ll)> [//] ochr +//. 167405_168717
 %gls:	side side
 %eng:	side...
 *KIM:	ochr oedd <nhw (y)n> [?] dod i_fewn (y)dy hwnna ? 168706_170308
@@ -273,7 +274,7 @@
 *KIM:	fantastic@s:cym&eng de . 191833_193133
 %gls:	fantastic TAG
 %eng:	how fantastic
-*KAT:	ond # dw (ddi)m yn deud de oedd y game@s:cym&eng # &f first@s:eng half@s:eng ochr arall +.. . 193098_198683
+*KAT:	ond # dw (ddi)m yn deud de oedd y game@s:cym&eng # &f first@s:eng half@s:eng ochr arall +... 193098_198683
 %gls:	but be.1S.PRES NEG PRT say.NONFIN TAG be.3S.IMP DET game first half side other
 %eng:	but I'm not saying, you know, the game was, first half the other side...
 *KIM:	mmm@s:cym&eng . 198323_198996
@@ -298,7 +299,7 @@
 %gls:	xx if PRON.2S in middle of least PRON.2S can.NONFIN see.NONFIN PRT enough good be.2S.PRES.NEG
 %eng:	[...] if you're in the centre, at least you can see well enough, can't you
 *KAT:	+< mmm@s:cym&eng . 217656_218074
-*KAT:	+< yeah@s:cym&eng ond # wnes i +// . 219050_220663
+*KAT:	+< yeah@s:cym&eng ond # wnes i +//. 219050_220663
 %gls:	yeah but do.1S.PAST PRON.1S
 %eng:	yes but I did...
 *KAT:	timod ti (y)n cael gweld y screen@s:cym&eng hefyd . 220663_223020
@@ -308,20 +309,20 @@
 *KAT:	so@s:cym&eng ti (y)n gweld os mae o (y)n bell . 223009_224246
 %gls:	so PRON.2S PRT see.NONFIN if be.3S.PRES PRON.3SM PRT fat
 %eng:	so you see if it's far
-*KAT:	os mae nhw (y)n agos mae nhw +.. . 224239_225609
+*KAT:	os mae nhw (y)n agos mae nhw +... 224239_225609
 %gls:	if be.3PL PRON.3PL PRT close be.3PL PRON.3PL
 %eng:	if they're close, they're...
 *KIM:	yeah@s:cym&eng . 225574_226352
 *KAT:	<na oedd o> [?] [//] <oedd o y(n) really@s:eng da> [?] . 226352_228105
 %gls:	no be.3S.IMP PRON.3SM be.3S.IMP PRON.3SM PRT really good
 %eng:	no, it was really good
-*KIM:	oedd Ian@s:cym&eng (we)di prynu un o (y)r um@s:cym&eng +/ . 228105_230602
+*KIM:	oedd Ian@s:cym&eng (we)di prynu un o (y)r um@s:cym&eng +/. 228105_230602
 %gls:	be.3S.IMP Ian PRT.PAST buy.NONFIN one of DET IM
 %eng:	Ian had bought one of those...
 *KAT:	oh@s:cym&eng y ref@s:cym&eng thing@s:eng . 230602_232134
 %gls:	IM DET ref thing
 %eng:	oh, the ref thing
-*KIM:	+, &ə &pɪ +// . 231287_231635
+*KIM:	+, &ə &pɪ +//. 231287_231635
 *KIM:	ia ear_pieces@s:eng ref@s:cym&eng de . 231635_233202
 %gls:	yes ear_pieces ref TAG
 %eng:	yes, ref ear-pieces, isn't it
@@ -336,19 +337,19 @@
 *KIM:	wedyn wnaeth o um@s:cym&eng roid o (y)n_dôl ar [?] . 237626_239448
 %gls:	then do.3S.PAST PRON.3SM IM put.NONFIN PRON.3SM back on
 %eng:	then he put it back on
-*KIM:	<es i> [?] +"/ . 239448_239681
+*KIM:	<es i> [?] +"/. 239448_239681
 %gls:	go.1S.PAST PRON.1S
 %eng:	I went:
 *KIM:	+" hwnna (y)n tsitio . 239669_240853
 %gls:	that PRT cheat.NONFIN
 %eng:	that's cheating
-*KIM:	meddai fi de +" . 240842_241550
+*KIM:	meddai fi de +". 240842_241550
 %gls:	say.1S.PAST PRON.1S TAG
 %eng:	I said, isn't it
-*KIM:	xx oedd o (y)n deud +"/ . 241538_242502
+*KIM:	xx oedd o (y)n deud +"/. 241538_242502
 %gls:	xx be.3S.IMP PRON.3SM PRT say.NONFIN
 %eng:	[...] he said
-*KIM:	+" oh@s:cym&eng yeah@s:cym&eng oedd John@s:cym&eng yn deud +"/ . 242502_243477
+*KIM:	+" oh@s:cym&eng yeah@s:cym&eng oedd John@s:cym&eng yn deud +"/. 242502_243477
 %gls:	IM yeah be.3S.IMP John PRT say.NONFIN
 %eng:	oh yeah, John was saying:
 *KIM:	+" oh@s:cym&eng # &p pam [/] pam mae nhw (we)di cael hwnna ? 243469_245512
@@ -371,7 +372,7 @@
 *KAT:	mmm@s:cym&eng mae [/] mae o dda cael o . 253291_255311
 %gls:	IM be.3S.PRES be.3S.PRES PRON.3SM good get.NONFIN PRON.3SM
 %eng:	mmm, it's good to have it
-*KAT:	(be)cause@s:eng oedden ni fath â +"/ . 255311_256309
+*KAT:	(be)cause@s:eng oedden ni fath â +"/. 255311_256309
 %gls:	because be.1PL.IMP PRON.1PL kind with
 %eng:	because we were like:
 *KAT:	+" be sy (y)n digwydd rwan ? 256298_257842
@@ -447,7 +448,7 @@
 %gls:	yeah change.NONFIN shirt PRON.1S
 %eng:	yeah, changed my shirt
 *KIM:	+< ah@s:cym&eng . 300056_300636
-*KAT:	so@s:cym&eng +.. . 301402_302993
+*KAT:	so@s:cym&eng +... 301402_302993
 *KIM:	+< mmm@s:cym&eng . 302842_303666
 *KAT:	ond oedd o yn dda . 303666_305141
 %gls:	but be.3S.IMP PRON.3SM PRT good
@@ -455,7 +456,7 @@
 *KAT:	&ɔ oedd hi (y)n really@s:eng prysur allan though@s:eng de . 305129_307428
 %gls:	be.3S.IMP PRON.3SM PRT really busy out though TAG
 %eng:	it was really busy out though, you know
-*KIM:	oedd <oedden ni> [?] [//] wnes i gerdded +// . 307428_309390
+*KIM:	oedd <oedden ni> [?] [//] wnes i gerdded +//. 307428_309390
 %gls:	be.3S.IMP be.1PL.IMP PRON.1PL do.1S.PAST PRON.1S walk.NONFIN
 %eng:	yes, I walked...
 *KIM:	<mae Ar(wel)@s:cym&eng> [/] mae Arwel@s:cym&eng yn byw um@s:cym&eng # wrth y jail@s:cym&eng . 309367_313721
@@ -464,9 +465,9 @@
 *KAT:	oh@s:cym&eng . 313709_314742
 *KIM:	<ryw fath o> [?] [//] dros lôn i (y)r jail@s:cym&eng mae o (y)n byw (fe)lly Adams(down)@s:cym&eng [//] &da Adamsdown_Square@s:cym&eng . 314243_318574
 %gls:	some kind of over road to DET jail be.3S.PRES PRON.3SM PRT live.NONFIN thus Adams(down) Adamsdown_Square
-%eng:	some kind of...over the road to the jail he lives, like, Adams.. . Adamsdown Square
+%eng:	some kind of...over the road to the jail he lives, like, Adams... Adamsdown Square
 *KAT:	+< ah@s:cym&eng . 316658_317087
-*KIM:	a wedyn um@s:cym&eng # <o'n i> [?] cerdded i_fewn (fe)lly # a # bypass_io@s:eng+cym stryd am bod +// . 318574_325702
+*KIM:	a wedyn um@s:cym&eng # <o'n i> [?] cerdded i_fewn (fe)lly # a # bypass_io@s:eng+cym stryd am bod +//. 318574_325702
 %gls:	and then IM be.1S.IMP PRON.1S walk.NONFIN in thus and bypass.NONFIN street for be.NONFIN
 %eng:	and then um, I walked in, like, and bypassed the steet because...
 *KIM:	ti gwybod mae manic@s:cym&eng yna anyway@s:eng dydy . 325679_327966
@@ -496,13 +497,13 @@
 *KAT:	yndy mae o ddrud . 342850_344127
 %gls:	be.3S.PRES be.3S.PRES PRON.3SM expensive
 %eng:	yes, it's expensive
-*KIM:	four@s:eng quid@s:eng efo N_U_S@s:cym&eng ond +.. . 343860_345474
+*KIM:	four@s:eng quid@s:eng efo N_U_S@s:cym&eng ond +... 343860_345474
 %gls:	four quid with N_U_S but
 %eng:	four quid with NUS but...
 *KAT:	yr [/] yr un mawr yeah@s:cym&eng ? 345474_346923
 %gls:	DET DET one big yeah
 %eng:	the big one, yeah?
-*KAT:	yr Cine@s:cym&eng +/ . 346913_348051
+*KAT:	yr Cine@s:cym&eng +/. 346913_348051
 %gls:	DET Cine
 %eng:	the Cine...
 *KIM:	+< yeah@s:cym&eng # yeah@s:cym&eng # Cineworld@s:cym&eng de . 347633_349874
@@ -523,7 +524,7 @@
 *KIM:	ond o'n i yn cringe_o@s:eng+cym # lot@s:cym&eng [//] drwyddo fo lot@s:cym&eng . 356190_360300
 %gls:	but be.1S.IMP PRON.1S PRT cringe.NONFIN lot through.3SM PRON.3SM lot
 %eng:	but I was cringing a lot through it
-*KAT:	+< oh@s:cym&eng &dɪmɔ +/ . 359197_359766
+*KAT:	+< oh@s:cym&eng &dɪmɔ +/. 359197_359766
 *KAT:	be oedd de pan o'n i (y)n Caerdydd a mynd i (y)r un yna de o'n i (y)n ofn wedyn # cerdded o (y)na . 360385_366259
 %gls:	what be.3S.IMP TAG when be.1S.IMP PRON.1S in Cardiff and go.NONFIN to DET one there TAG be.1S.IMP PRON.1S PRT scared then walk.NONFIN from there
 %eng:	what it was, right, when I was in Cardiff and went to that one, right, I was scared then of walking from there
@@ -611,7 +612,7 @@
 *KIM:	fath â # <deud (ba)sai rywun> [?] (we)di cael affair@s:eng neu rywun (we)di # twyllo # neu <dim (we)di> [//] # (dy)dyn nhw (ddi)m (we)di um@s:cym&eng # wneud digon o (y)r opportunities@s:eng mae nhw (we)di gael mewn bywyd . 426849_437866
 %gls:	kind with say.2S.IMPER someone PRT.PAST get.NONFIN affair or someone PRT.PAST cheat.NONFIN or NEG PRT.PAST be.3S.PRES.NEG PRON.3PL NEG PRT.PAST IM do.NONFIN enough of DET opportunities be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN in life
 %eng:	like, say that someone had had an affair, or someone had cheated, or they hadn't made enough of the opportunities they'd had in life
-*KIM:	a mae o (y)n # wneud games@s:cym&eng lle # mae nhw (y)n gorod +/ . 437855_441837
+*KIM:	a mae o (y)n # wneud games@s:cym&eng lle # mae nhw (y)n gorod +/. 437855_441837
 %gls:	and be.3S.PRES PRON.3SM PRT do.NONFIN games where be.3PL PRON.3PL PRT must.NONFIN
 %eng:	and he does games where they have to...
 *KAT:	prwfio eu hunain . 441837_444554
@@ -674,7 +675,7 @@
 *KIM:	ond yn yr ail un mae o (y)n recriwtio hi i helpu fo wneud pethau (y)ma . 498508_502003
 %gls:	but in DET second one be.3S.PRES PRON.3SM PRT recruit.NONFIN PRON.3SF for help.NONFIN PRON.3SM do.NONFIN things here
 %eng:	but in the second one, he recruits her to help him do these things
-*KIM:	a mae (y)na lot@s:cym&eng o twists@s:cym&eng yn yr ail un lle ti fath â +"/ . 502003_505344
+*KIM:	a mae (y)na lot@s:cym&eng o twists@s:cym&eng yn yr ail un lle ti fath â +"/. 502003_505344
 %gls:	and be.3S.PRES there lot of twists in DET second one where PRON.2S kind with
 %eng:	and there are a lot of twists in the second one, where you're like:
 *KIM:	+" oh@s:cym&eng # pam mae hynna (we)di digwydd am bod o'n i meddwl bod o (we)di # llwyddo de . 505323_509143
@@ -691,7 +692,7 @@
 *KIM:	<mae (y)r> [/] mae (y)r boy@s:cym&eng (y)ma um@s:cym&eng # yn marw o cancer@s:cym&eng neu ryw fath o tumour@s:cym&eng . 521287_526523
 %gls:	be.3S.PRES be.3S.PRES DET boy here IM PRT die.NONFIN from cancer or some kind of tumour
 %eng:	this guy's dying of cancer or some kind of tumour
-*KIM:	wedyn mae o (y)n ## cael doc(tor)@s:cym&eng +// . 526511_530250
+*KIM:	wedyn mae o (y)n ## cael doc(tor)@s:cym&eng +//. 526511_530250
 %gls:	then be.3S.PRES PRON.3SM PRT get.NONFIN doctor
 %eng:	then he gets a doctor
 *KIM:	<mae hi> [/] mae hi (y)n cidnapio doctor@s:cym&eng i gadw fo (y)n fyw . 530250_532607
@@ -711,7 +712,7 @@
 %gls:	and then PRON.2S PRT find.NONFIN out then be.3S.PRES DET boy be.PRES.REL PRT do.NONFIN DET game PRT husband to this be.PRES.REL with DET bomb
 %eng:	and then you find out then that the guy who's doing the game is the husband of this woman who's got the bomb
 *KAT:	ah@s:cym&eng . 550501_551337
-*KIM:	mae o (y)n # just@s:cym&eng really@s:eng twis(ted)@s:eng +// . 551302_552985
+*KIM:	mae o (y)n # just@s:cym&eng really@s:eng twis(ted)@s:eng +//. 551302_552985
 %gls:	be.3S.PRES PRON.3SM PRT just really twisted
 %eng:	it's just really twisted...
 *KIM:	<ti gwybod> [?] <mae (y)n> [/] # mae (y)n anodd cadw track@s:cym&eng arno fo . 552974_555249
@@ -739,10 +740,10 @@
 *KAT:	yndy ? 582443_583152
 %gls:	be.3S.PRES
 %eng:	do they?
-*KIM:	+< mae just@s:cym&eng yn +.. . 582838_583442
+*KIM:	+< mae just@s:cym&eng yn +... 582838_583442
 %gls:	be.3S.PRES just PRT
 %eng:	it's just...
-*KIM:	mae fath â +"/ . 583453_584812
+*KIM:	mae fath â +"/. 583453_584812
 %gls:	be.3S.PRES kind with
 %eng:	it's like:
 *KIM:	+" oh@s:cym&eng God@s:eng (peta)sen nhw just@s:cym&eng (we)di # maddau . 584812_587250
@@ -756,7 +757,7 @@
 *KIM:	(peta)sen nhw (we)di maddau (ba)sai pawb (we)di byw . 591905_593531
 %gls:	if_be.3S.CONDIT PRON.3PL PRT.PAST forgive.NONFIN be.3S.CONDIT everyone PRT.PAST live.NONFIN
 %eng:	had they forgiven, everyone would have lived
-*KIM:	ond am bod ## wnaeth +/ . 593519_596085
+*KIM:	ond am bod ## wnaeth +/. 593519_596085
 %gls:	but for be.NONFIN do.3S.PAST
 %eng:	but because...
 *KAT:	+< so@s:cym&eng dyn nhw (ddi)m yn wneud un arall ar_ôl hon wan [?] ? 595806_598047
@@ -771,7 +772,7 @@
 *KIM:	<mae o (y)n # &rɔi> [/] mae o (y)n right@s:cym&eng interesting@s:eng . 598558_602167
 %gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT right interesting
 %eng:	it's quite interesting
-*KIM:	mae # oh@s:cym&eng bobl yn deud +"/ . 602157_603534
+*KIM:	mae # oh@s:cym&eng bobl yn deud +"/. 602157_603534
 %gls:	be.3S.PRES IM people PRT say.NONFIN
 %eng:	oh, people say:
 *KIM:	+" oh@s:cym&eng <ti (ddi)m yn> [//] ti (ddi)m ofn bod mae bobl yn medru meddwl am pethau (y)ma ? 603515_606464
@@ -780,7 +781,7 @@
 *KIM:	well@s:cym&eng ## mae (y)na bobl sick@s:eng yn y byd does . 606464_610679
 %gls:	well be.3S.PRES there people sick in DET world be.3S.PRES.NEG
 %eng:	well there are sick people in the world, aren't there
-*KIM:	mewn [?] +/ . 610667_611875
+*KIM:	mewn [?] +/. 610667_611875
 %gls:	in
 %eng:	in...
 *KAT:	+< xx (ba)sai hwnna (y)n gallu bod yn wir though@s:eng . 611108_613210
@@ -792,7 +793,7 @@
 *KIM:	ond # mae (y)chydig bach yn far_fetched@s:eng . 615950_618562
 %gls:	but be.3S.PRES a_little small PRT far_fetched
 %eng:	but it's a little bit far-fetched
-*KIM:	oh@s:cym&eng guaranteed@s:eng <mae (y)na> [//] mae +// . 618562_619920
+*KIM:	oh@s:cym&eng guaranteed@s:eng <mae (y)na> [//] mae +//. 618562_619920
 %gls:	IM guaranteed be.3S.PRES there be.3S.PRES
 %eng:	oh guaranteed there are...
 *KIM:	ond [?] bound@s:cym&eng o fod rywun ## odd@s:cym&eng does yn mynd i wneud rywbeth . 619920_624355
@@ -816,7 +817,7 @@
 *KIM:	<o'n i> [/] o'n i deud wrth mam@s:cym&eng . 635536_636622
 %gls:	be.1S.IMP PRON.1S be.1S.IMP PRON.1S say.NONFIN to mum
 %eng:	I was telling mum
-*KIM:	ac oedd hi fath â +"/ . 636654_637242
+*KIM:	ac oedd hi fath â +"/. 636654_637242
 %gls:	and be.3S.IMP PRON.3SF kind with
 %eng:	and she was like:
 *KIM:	+" dw i (we)di colli chdi ryw awr yn_dôl [?] . 637219_638763
@@ -838,14 +839,14 @@
 %gls:	IM be.1S.IMP PRON.1S kind with IM no
 %eng:	oh, I was like "oh no"
 *KIM:	mmm@s:cym&eng . 652757_653976
-*KIM:	xxx +/ . 653953_656670
+*KIM:	xxx +/. 653953_656670
 *KAT:	+< dw meddwl na Munich@s:cym&eng oedd yr un yna . 656043_658225
 %gls:	be.1S.PRES think.NONFIN PRT Munich be.3S.IMP DET one there
 %eng:	I think that one was Munich
 *KAT:	dw sure@s:cym&eng . 658225_661116
 %gls:	be.1S.PRES sure
 %eng:	I'm sure
-*KAT:	ond [?] +.. . 661105_662289
+*KAT:	ond [?] +... 661105_662289
 %gls:	but
 %eng:	but
 *KIM:	mae Ian@s:cym&eng isio [?] gwatsiad um@s:cym&eng # Borat@s:cym&eng . 662277_665621
@@ -867,7 +868,7 @@
 *KIM:	na . 677300_677858
 %gls:	no
 %eng:	no
-*KIM:	oh@s:cym&eng &d +// . 677835_678171
+*KIM:	oh@s:cym&eng &d +//. 677835_678171
 *KIM:	well@s:cym&eng clips@s:cym&eng ar y teledu . 678171_679495
 %gls:	well clips on DET television
 %eng:	well clips on the television
@@ -908,7 +909,7 @@
 *KIM:	(we)dyn # wna i gynnig mynd (fe)lly . 697258_699267
 %gls:	then do.1S.NONPAST PRON.1S offer.NONFIN go.NONFIN thus
 %eng:	so I'll offer to go, like
-*KAT:	ella +/ . 697839_698315
+*KAT:	ella +/. 697839_698315
 %gls:	perhaps
 %eng:	perhaps...
 *KAT:	ella gei di hwyl . 698941_700172
@@ -923,7 +924,7 @@
 *KAT:	(di)m ond os ti (y)n cael bwyd yeah@s:cym&eng [?] . 705269_706558
 %gls:	nothing but if PRON.2S PRT get.NONFIN food yeah
 %eng:	only if you have food yeah
-*KIM:	ond oedd +/ . 706569_707870
+*KIM:	ond oedd +/. 706569_707870
 %gls:	but be.3S.IMP
 %eng:	but...
 *KAT:	+< pa bryd dach chi (y)n mynd ? 707335_708357
@@ -950,7 +951,7 @@
 *KIM:	mae isio wneud brechdanau ac # sausage@s:cym&eng rolls@s:cym&eng a pethau . 723198_728365
 %gls:	be.3S.PRES want do.NONFIN sandwiches and sausage rolls and things
 %eng:	she wants to do sandwiches and sausage rolls and things
-*KAT:	+< mmm@s:cym&eng lle dach chi (y)n cael y +.. . 727169_729027
+*KAT:	+< mmm@s:cym&eng lle dach chi (y)n cael y +... 727169_729027
 %gls:	IM where be.2PL.PRES PRON.3PL PRT get.NONFIN DET
 %eng:	mmm where are you having the..?
 *KIM:	mewn pub@s:cym&eng . 729015_729874
@@ -1017,7 +1018,7 @@
 *KAT:	+< na . 774287_774990
 %gls:	no
 %eng:	no
-*KAT:	&tkd cael rywbeth mae o yn cadw # fath â +/ . 776639_780517
+*KAT:	&tkd cael rywbeth mae o yn cadw # fath â +/. 776639_780517
 %gls:	get.2S.IMPER something be.3S.PRES PRON.3SM PRT keep.NONFIN kind with
 %eng:	get something he keeps, like...
 *KIM:	+< yeah@s:cym&eng rywbeth silver@s:eng yeah@s:cym&eng . 779449_781376
@@ -1053,7 +1054,7 @@
 %gls:	then do.1S.NONPAST PRON.1S get.NONFIN look
 %eng:	then I'll have a look
 *KAT:	hmm@s:cym&eng . 803586_804549
-*KAT:	felly +/ . 804526_805455
+*KAT:	felly +/. 804526_805455
 %gls:	thus
 %eng:	so...
 *KIM:	gweld be sy (y)na . 805165_806012
@@ -1065,10 +1066,10 @@
 *KAT:	dw (ddi)m yn cofio . 807278_808404
 %gls:	be.1S.PRES NEG PRT remember.NONFIN
 %eng:	I can't remember
-*KAT:	ella yn yr +// . 808404_810192
+*KAT:	ella yn yr +//. 808404_810192
 %gls:	perhaps in DET
 %eng:	perhaps in the...
-*KAT:	mae (y)na shop@s:cym&eng # um@s:cym&eng # lawr stryd does wrth ymyl # um@s:cym&eng +.. . 810176_816120
+*KAT:	mae (y)na shop@s:cym&eng # um@s:cym&eng # lawr stryd does wrth ymyl # um@s:cym&eng +... 810176_816120
 %gls:	be.3S.PRES there shop IM down street be.3S.PRES.NEG by side IM
 %eng:	there's a shop, um, down the street, isn't there, by um...
 *KAT:	be sydd o_gwmpas o dŵad ? 816097_819220
@@ -1081,7 +1082,7 @@
 %gls:	dishes
 %eng:	dishes
 *KIM:	er@s:cym&eng . 824927_826424
-*KIM:	xxx +/ . 826424_827957
+*KIM:	xxx +/. 826424_827957
 *KAT:	(wr)th ymyl yr um@s:cym&eng pound@s:eng shop@s:cym&eng yn # gwaelod [?] . 827121_831034
 %gls:	by side DET IM pound shop in bottom
 %eng:	by the, um, pound shop, at the bottom
@@ -1192,7 +1193,7 @@
 *KIM:	achos [?] dyna ddeudais i right@s:cym&eng [?] yn dechrau (y)li . 915302_917375
 %gls:	because there say.1S.PAST PRON.1S right in beginning see.2S.IMPER
 %eng:	because that's what I said right at the beginning, you see
-*KIM:	ond +.. . 917367_917680
+*KIM:	ond +... 917367_917680
 %gls:	but
 %eng:	but
 *KAT:	wnest ti enjoio wneud Ysbyty_Gwynedd@s:cym&eng chdi do . 917680_920141
@@ -1201,10 +1202,10 @@
 *KIM:	+< do # do . 918562_920130
 %gls:	yes yes
 %eng:	yes, yes
-*KIM:	ond God@s:eng <o'n i (y)n> [?] +/ . 920141_922626
+*KIM:	ond God@s:eng <o'n i (y)n> [?] +/. 920141_922626
 %gls:	but God be.1S.IMP PRON.1S PRT
 %eng:	but God I was...
-*KAT:	yeah@s:cym&eng ond dw i (ddi)m yn gweld dim um@s:cym&eng +// . 922614_924298
+*KAT:	yeah@s:cym&eng ond dw i (ddi)m yn gweld dim um@s:cym&eng +//. 922614_924298
 %gls:	yeah but be.1S.PRES PRON.1S NEG PRT see.NONFIN NEG IM
 %eng:	yeah but I don't see any um...
 *KAT:	dw i licio pethau sy (y)n symud yn right@s:cym&eng sudden@s:cym&eng . 924298_927398
@@ -1221,7 +1222,7 @@
 %gls:	but be.3S.PRES there lot of things be.PRES.REL PRT can.NONFIN kind with change.NONFIN PRT sudden TAG kind with health mind PRON.3PL or sickness or kind with things family TAG
 %eng:	but there are a lot of things that can, like, change suddenly you know, like their mental health or sickness or, like, family things, you know
 *KAT:	+< mmm@s:cym&eng . 940369_941089
-*KAT:	yeah@s:cym&eng &tt xx +/ . 944723_946638
+*KAT:	yeah@s:cym&eng &tt xx +/. 944723_946638
 *KIM:	+< ond <(dy)dy o (ddi)m (y)r un> [/] (dy)dy o (ddi)m (y)r un fath o beth â plant . 946116_948299
 %gls:	but be.3S.PRES.NEG PRON.3SM NEG DET one be.3S.PRES.NEG PRON.3SM NEG DET one kind of thing as children
 %eng:	but it's not the same kind of thing as children
@@ -1238,13 +1239,13 @@
 %eng:	but I like the idea of trying to intervene quite soon with teenagers, and trying to change their life course, you know
 *KIM:	+< yeah@s:cym&eng . 965632_966224
 *KIM:	+< mmm@s:cym&eng # yeah@s:cym&eng . 969069_970706
-*KIM:	mmm@s:cym&eng yn anffodus does (yn)a (ddi)m llawer +// . 970694_974642
+*KIM:	mmm@s:cym&eng yn anffodus does (yn)a (ddi)m llawer +//. 970694_974642
 %gls:	IM PRT unfortunate be.3S.PRES.NEG there NEG much
 %eng:	mmm, unfortunately, there isn't much...
 *KIM:	ti gwybod fath â team@s:cym&eng plant ? 974642_976139
 %gls:	PRON.2S know.NONFIN kind with team children
 %eng:	you know, like, the children team?
-*KIM:	does (yn)a (ddi)m # lot@s:cym&eng mae +// . 976128_980586
+*KIM:	does (yn)a (ddi)m # lot@s:cym&eng mae +//. 976128_980586
 %gls:	be.3S.PRES.NEG there NEG lot be.3S.PRES
 %eng:	there isn't much...
 *KIM:	dyn nhw (ddi)m yn gwneud llawer efo # teenagers@s:eng nac (y)dyn . 980586_983047
@@ -1262,7 +1263,7 @@
 *KAT:	+< mae cross_over@s:eng . 986496_987784
 %gls:	be.3S.PRES cross_over
 %eng:	there's a cross-over
-*KAT:	ond xx +/ . 987773_989050
+*KAT:	ond xx +/. 987773_989050
 %gls:	but xx
 %eng:	but [...] ...
 *KIM:	+< mae (y)na fath â gap@s:eng does o [?] bod nhw (y)n # methu de . 988446_991279
@@ -1288,14 +1289,14 @@
 *KIM:	ond gawn ni weld de . 1004421_1007219
 %gls:	but get.1PL.NONPAST PRON.1PL see.NONFIN TAG
 %eng:	but we'll see, you know
-*KAT:	neu fath â Barnardo's@s:cym&eng neu +/ . 1007196_1009623
+*KAT:	neu fath â Barnardo's@s:cym&eng neu +/. 1007196_1009623
 %gls:	or kind with Barnardo's or
 %eng:	or, like, Barnardo's or...
 *KIM:	+< yeah@s:cym&eng (ba)swn i (ddi)m (we)di meindio mynd atyn nhw sti . 1009228_1011051
 %gls:	yeah be.1S.CONDIT PRON.1S NEG PRT.PAST mind.NONFIN go.NONFIN to.3PL PRON.3PL know.2S
 %eng:	yeah, I wouldn't have minded going to them, you know
 *KAT:	mmm@s:cym&eng . 1011027_1012026
-*KIM:	ond ges i rhif y ddynes (y)na i wneud gwaith xx volunteer_io@s:eng+cym do (we)dyn +.. . 1012026_1016658
+*KIM:	ond ges i rhif y ddynes (y)na i wneud gwaith xx volunteer_io@s:eng+cym do (we)dyn +... 1012026_1016658
 %gls:	but get.1S.PAST PRON.1S number DET woman there for do.NONFIN work xx volunteer.NONFIN yes then
 %eng:	but I got that woman's number to do [...] volunteering work, didn't I, then...
 *KIM:	ac &ɛ [/] efo (y)r um@s:cym&eng &lɛk [/] lecture@s:cym&eng dydd Llun # mae hwnna (y)n darfod ar_ôl Dolig . 1016623_1021999
@@ -1330,7 +1331,7 @@
 *KIM:	o'n i (we)di meddwl sôn . 1041875_1043460
 %gls:	be.1S.IMP PRON.1S PRT.PAST think.NONFIN mention.NONFIN
 %eng:	I'd thought to mention it
-*KIM:	ond xx +"/ . 1043454_1043977
+*KIM:	ond xx +"/. 1043454_1043977
 %gls:	but xx
 %eng:	but [...]
 *KIM:	+" God@s:eng na mae hynna (y)n bod yn cheeky@s:eng . 1043953_1045484
@@ -1339,7 +1340,7 @@
 *KIM:	+" <a wneith nhw just@s:cym&eng> [//] wneith nhw (ddi)m cynsidro fo (fe)lly . 1045497_1048481
 %gls:	and do.3PL.NONPAST PRON.3PL just do.3PL.NONPAST PRON.3PL NEG consider.NONFIN PRON.3SM thus
 %eng:	and they just...they won't consider it, like
-*KAT:	+< wnaeth Pete@s:cym&eng ddeud diwrnod o_blaen +"/ . 1047378_1049491
+*KAT:	+< wnaeth Pete@s:cym&eng ddeud diwrnod o_blaen +"/. 1047378_1049491
 %gls:	do.3S.PAST Pete say.NONFIN day before
 %eng:	Pete said the other day:
 *KAT:	+" fedrwch chi (ddi)m newid yr amserlen de . 1049491_1052324
@@ -1381,7 +1382,7 @@
 *KAT:	yndy . 1084774_1085471
 %gls:	be.3S.PRES
 %eng:	yes
-*KIM:	a dyna pam wnes i ofyn i Dafydd (peta)swn i (y)n cael (ry)wbeth de am bod # (dy)dy o (ddi)m tan ti (y)n wneud y darllen # ti ffeindio +"/ . 1085447_1091717
+*KIM:	a dyna pam wnes i ofyn i Dafydd (peta)swn i (y)n cael (ry)wbeth de am bod # (dy)dy o (ddi)m tan ti (y)n wneud y darllen # ti ffeindio +"/. 1085447_1091717
 %gls:	and there why do.1S.PAST PRON.1S ask.NONFIN to Dafydd if_be.1S.CONDIT PRON.1S PRT get.NONFIN something TAG for be.NONFIN be.3S.PRES.NEG PRON.3SM NEG until PRON.2S PRT do.NONFIN DET read.NONFIN PRON.2S find.NONFIN
 %eng:	and that's why I asked Dafydd if I could have something, you know, because it's not until you do the reading you find:
 *KIM:	+" oh@s:cym&eng dw (ddi)m quite@s:cym&eng yn dallt hwnna . 1091705_1093075
@@ -1394,7 +1395,7 @@
 *KIM:	(we)dyn (peta)swn i (y)n cael wneud hwnna cynt (ba)swn i medru gofyn yn y wers de . 1093981_1097278
 %gls:	then if_be.1S.CONDIT PRON.1S PRT get.NONFIN do.NONFIN that before be.1S.CONDIT PRON.1S can.NONFIN ask.NONFIN in DET lesson TAG
 %eng:	then if I got to do that before, I could ask in the lesson, you know
-*KAT:	xx Rachel@s:cym&eng ddeud +"/ . 1097266_1098404
+*KAT:	xx Rachel@s:cym&eng ddeud +"/. 1097266_1098404
 %gls:	xx Rachel say.NONFIN
 %eng:	[...] Rachel said:
 *KAT:	+" dydy o (ddi)m yn gwrando ar # cwestiynau chdi xx de . 1098392_1100831
@@ -1406,14 +1407,14 @@
 *KIM:	na # rhaid ni just@s:cym&eng sefyll fyny a chwifio breichiau . 1100819_1104476
 %gls:	no necessity PRON.1PL just stand.NONFIN up and wave.NONFIN arms
 %eng:	no, we have to just stand up and wave our arms
-*KAT:	o'n i chwerthin pan wnaeth hi ddeud +"/ . 1104244_1105567
+*KAT:	o'n i chwerthin pan wnaeth hi ddeud +"/. 1104244_1105567
 %gls:	be.1S.IMP PRON.1S laugh.NONFIN when do.3S.PAST PRON.3SM say.NONFIN
 %eng:	I laughed when she said:
 *KAT:	+" I@s:eng don't@s:eng know@s:eng if@s:eng he's@s:eng a@s:eng bit@s:cym&eng hard@s:eng of@s:eng hearing@s:eng or@s:eng something@s:eng . 1105567_1108528
 *KIM:	oh@s:cym&eng bechod mae o dw meddwl yndy [?] . 1108516_1110188
 %gls:	IM pity be.3S.PRES PRON.3SM be.1S.PRES think.NONFIN be.3S.PRES
 %eng:	oh bless, he is I think, isn't he
-*KAT:	o'ch chi meddwl bod Ruth@s:cym&eng (y)n bod (y)chydig bach yn +.. . 1110177_1113811
+*KAT:	o'ch chi meddwl bod Ruth@s:cym&eng (y)n bod (y)chydig bach yn +... 1110177_1113811
 %gls:	be.2PL.IMP PRON.2PL think be.NONFIN Ruth PRT be.NONFIN a_little small PRT
 %eng:	did you think Ruth was being a little bit...
 *KIM:	ah@s:cym&eng doedd gynni hi (ddi)m_byd i ddeud nag oedd . 1113811_1115666
@@ -1440,7 +1441,7 @@
 *KAT:	yeah@s:cym&eng wnes i sbïo ar e_mails@s:eng . 1132491_1133687
 %gls:	yeah, do.1S.PAST PRON.1S look.NONFIN on e_mails
 %eng:	yeah, I looked at my e-mails
-*KAT:	a wnes i fynd +"/ . 1133698_1134241
+*KAT:	a wnes i fynd +"/. 1133698_1134241
 %gls:	and do.1S.PAST PRON.1S go.NONFIN
 %eng:	and I went:
 *KAT:	+" oh@s:cym&eng God@s:eng heddiw mae o yeah@s:cym&eng . 1134232_1135602
@@ -1463,7 +1464,7 @@
 %gls:	do.1S.PAST PRON.1S just look.NONFIN at e_mails PRON.1S morning here
 %eng:	I just looked at my e-mails this morning
 *KIM:	mmm@s:cym&eng . 1151427_1152437
-*KIM:	ond eto # mae sure@s:cym&eng bod o well cael group@s:cym&eng llai # os mae (y)na bobl eraill <i (y)r> [?] # <deud (wr)th> [//] ti gwybod deud (wr)th y group@s:cym&eng +"/ . 1152394_1161508
+*KIM:	ond eto # mae sure@s:cym&eng bod o well cael group@s:cym&eng llai # os mae (y)na bobl eraill <i (y)r> [?] # <deud (wr)th> [//] ti gwybod deud (wr)th y group@s:cym&eng +"/. 1152394_1161508
 %gls:	but again be.3S.PRES sure be.NONFIN PRON.3SM better get.NONFIN group smaller if be.3S.PRES there people other to DET say.NONFIN to PRON.2S know.NONFIN say.NONFIN to DET group
 %eng:	yet, it's probably better to have a smaller group if there are other people to, you know, tell the group:
 *KIM:	+" well@s:cym&eng dw i isio de(ud) [//] trafod hyn . 1161496_1162839
@@ -1473,7 +1474,7 @@
 %gls:	be.1S.PRES PRON.1S want discuss other
 %eng:	I want to discuss that
 *KAT:	+< mmm@s:cym&eng . 1163191_1163714
-*KIM:	(fe)lly +" . 1163621_1164004
+*KIM:	(fe)lly +". 1163621_1164004
 %gls:	thus
 %eng:	so...
 *KAT:	ond doedd (y)na ddim . 1163992_1165699
@@ -1522,7 +1523,7 @@
 *KIM:	na . 1202839_1205498
 %gls:	no
 %eng:	no
-*KAT:	xx bod o (y)n deud +"/ . 1205486_1206984
+*KAT:	xx bod o (y)n deud +"/. 1205486_1206984
 %gls:	xx be.NONFIN PRON.3SM PRT say.NONFIN
 %eng:	[...] that he'd say:
 *KAT:	+" mae (y)n cael # operation@s:cym&eng . 1206984_1208913
@@ -1541,7 +1542,7 @@
 *KIM:	oh@s:cym&eng bechod &=laugh . 1215749_1218164
 %gls:	IM pity
 %eng:	oh bless
-*KAT:	deg munud fath â +.. . 1216434_1217944
+*KAT:	deg munud fath â +... 1216434_1217944
 %gls:	ten minute kind with
 %eng:	ten minutes, like...
 *KIM:	yeah@s:cym&eng . 1218153_1219732
@@ -1564,7 +1565,7 @@
 *KIM:	mae (y)n wneud fi chwerthin &=laugh . 1232735_1234848
 %gls:	be.3S.PRES PRT do.NONFIN PRON.1S laugh.NONFIN
 %eng:	she makes me laugh
-*KIM:	fi dw i just@s:cym&eng yn # deud y pethau drwg a wedyn meddwl +"/ . 1234825_1238273
+*KIM:	fi dw i just@s:cym&eng yn # deud y pethau drwg a wedyn meddwl +"/. 1234825_1238273
 %gls:	PRON.1S be.1S.PRES PRON.1S just PRT say.NONFIN DET things bad and then think.NONFIN
 %eng:	me, I just say the bad things and then think:
 *KAT:	+< deud y pethau drwg i_gyd yeah@s:cym&eng . 1237170_1238737
@@ -1631,14 +1632,14 @@
 *KAT:	mae raid fi ddechrau fo wsnos yma de . 1291388_1293002
 %gls:	be.3S.PRES necessity PRON.1S start PRON.3SM week here TAG
 %eng:	I have to start it this week, you know
-*KIM:	+< oh@s:cym&eng dw i (we)di bod yn # cael llyfrau allan # a gwneud copies@s:cym&eng a ballu a +.. . 1292480_1298923
+*KIM:	+< oh@s:cym&eng dw i (we)di bod yn # cael llyfrau allan # a gwneud copies@s:cym&eng a ballu a +... 1292480_1298923
 %gls:	IM be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT get.NONFIN books out and do.NONFIN copies and such and
 %eng:	oh, I've been getting books out and making copies and things and...
 *KIM:	a just@s:cym&eng avoid_io@s:eng+cym darllen ydy o . 1298889_1302058
 %gls:	and just avoid.NONFIN read.NONFIN be.3S.PRES PRON.3SM
 %eng:	and it's just avoiding reading
 *KAT:	hmm@s:cym&eng . 1302035_1302871
-*KIM:	+< xxx +// . 1302197_1302848
+*KIM:	+< xxx +//. 1302197_1302848
 *KIM:	dan ni off@s:cym&eng wsnos nesa . 1302848_1304032
 %gls:	be.1PL.PRES PRON.1PL off week next
 %eng:	we're off next week
@@ -1667,7 +1668,7 @@
 *KIM:	timod [?] (ba)sen ni medru wneud lot@s:cym&eng o (y)r darllen a dechrau sgwennu fo wsnos nesa xx . 1319302_1324712
 %gls:	know.2S be.1PL.CONDIT PRON.1PL can.NONFIN do.NONFIN lot of DET read.NONFIN and start.NONFIN write.NONFIN PRON.3SM week next xx
 %eng:	you know, we could do a lot of the reading and start writing it next week [...]
-*KAT:	dw (ddi)m yn gwybod be i ddarllen <though@s:eng timod> [?] um@s:cym&eng +.. . 1324704_1328036
+*KAT:	dw (ddi)m yn gwybod be i ddarllen <though@s:eng timod> [?] um@s:cym&eng +... 1324704_1328036
 %gls:	be.1S.PRES NEG PRT know.NONFIN what to read.NONFIN though know.2S IM
 %eng:	I don't know what to read though, you know um...
 *KIM:	dw i (y)n [?] sbïo ar # gwaith cymdeithasol um@s:cym&eng # hefo # iechyd . 1328036_1335663
@@ -1708,7 +1709,7 @@
 *KAT:	+< mae right@s:cym&eng dda efo chdi (be)cause@s:eng fedri di ddeud well@s:cym&eng [?] # social@s:eng work@s:eng [=? worker@s:eng] <anyway@s:eng dydy> [?] . 1367211_1370931
 %gls:	be.3S.PRES right good with PRON.2S because can.2S.NONPAST PRON.2S say.NONFIN well social work anyway be.3S.PRES.NEG
 %eng:	it's quite good with you, because you can say well, social work anyway, isn't it
-*KIM:	dw i (we)di +// . 1367373_1367896
+*KIM:	dw i (we)di +//. 1367373_1367896
 %gls:	be.1S.PRES PRON.1S PRT.PAST
 %eng:	I've...
 *KIM:	mmm@s:cym&eng . 1370891_1371600
@@ -1727,7 +1728,7 @@
 *KAT:	dw i (ddi)m yn gwybod be i ddisgwyl yn iawn . 1386170_1390686
 %gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN what to expect.NONFIN PRT right
 %eng:	I don't know what to expect exactly
-*KIM:	+< xx ella wna i sôn heddiw xx +"/ . 1389665_1391348
+*KIM:	+< xx ella wna i sôn heddiw xx +"/. 1389665_1391348
 %gls:	xx perhaps do.1S.NONPAST PRON.1S mention.NONFIN today xx
 %eng:	[...] perhaps I'll mention today [...]
 *KIM:	+" gawn ni (y)chydig bach o [/] # o fath â +/? 1391325_1393763
@@ -1761,7 +1762,7 @@
 %gls:	what can.1S.NONPAST PRON.1S do.NONFIN kind with learning disability with IM links with social workers case managers psychiatrists
 %eng:	what I can do, like learning disability with, um, links with social workers, case managers, psychiatrists
 *KIM:	+< mmm@s:cym&eng . 1424660_1425159
-*KAT:	fedra i +// . 1426568_1427612
+*KAT:	fedra i +//. 1426568_1427612
 %gls:	can.1S.NONPAST PRON.1S
 %eng:	I can...
 *KAT:	be (ba)sa chdi (y)n wneud ? 1427612_1431630
@@ -1773,7 +1774,7 @@
 *KIM:	+< yeah@s:cym&eng . 1430747_1431235
 *KIM:	+< yeah@s:cym&eng . 1431618_1431966
 *KAT:	&=sniff . 1431955_1432791
-*KIM:	ond o'n i +// . 1432791_1433731
+*KIM:	ond o'n i +//. 1432791_1433731
 %gls:	but be.1S.IMP PRON.1S
 %eng:	but I was...
 *KIM:	dw i (ddi)m yn hollol glear@s:cym&eng de . 1433719_1435635
@@ -1788,7 +1789,7 @@
 *KIM:	ond dw i (ddi)m yn sure@s:cym&eng os <mae (y)n feddwl> [?] just@s:cym&eng efo (y)r um@s:cym&eng professionals@s:eng ta (y)dy o (y)n meddwl yr # ti gwybod # yr unigolion hefyd de . 1440291_1448963
 %gls:	but be.1S.PRES PRON.1S NEG PRT sure if be.3S.PRES PRT think.NONFIN just with DET IM professionals PRT be.3S.PRES PRON.3SM PRT think.NONFIN DET PRON.2S know.NONFIN DET individuals also TAG
 %eng:	but I'm not sure if it means just with the, um, professionals or does it mean the, you know, the individuals too, you know
-*KAT:	+< yeah@s:cym&eng dw (ddi)m +.. . 1446560_1447907
+*KAT:	+< yeah@s:cym&eng dw (ddi)m +... 1446560_1447907
 %gls:	yeah be.1S.PRES NEG
 %eng:	yeah, I don't...
 *KIM:	am bod # essentially@s:eng dan ni fod i weithio mewn partnership@s:eng hefo [/] # hefo (y)r unigolion # yndan . 1448932_1457245
@@ -1796,7 +1797,7 @@
 %eng:	because, essentially, we're supposed to work in partnership with the individuals, aren't we
 *KAT:	+< mmm@s:cym&eng . 1455573_1456374
 *KAT:	+< mmm@s:cym&eng . 1456711_1457198
-*KIM:	ond +/ . 1457198_1457721
+*KIM:	ond +/. 1457198_1457721
 %gls:	but
 %eng:	but...
 *KAT:	ond dw meddwl bod oes (y)na question@s:cym&eng cynt # yn deud rywbeth fel um@s:cym&eng # um@s:cym&eng service@s:eng user@s:eng involvement@s:eng . 1457732_1464617
@@ -1830,7 +1831,7 @@
 *KIM:	mae (y)na lot@s:cym&eng o rei general@s:cym&eng . 1496258_1498928
 %gls:	be.3S.PRES there lot of some general
 %eng:	there are a lot of general ones
-*KIM:	ond # ti gwybod am bod fod o mor fach yr ti gwybod +// . 1498917_1502876
+*KIM:	ond # ti gwybod am bod fod o mor fach yr ti gwybod +//. 1498917_1502876
 %gls:	but PRON.2S know.NONFIN for be.NONFIN be.NONFIN PRON.3SM so small DET PRON.2S know.NONFIN
 %eng:	but, you know, because it's so small, the you know...
 *KIM:	faint (y)dy o ? 1502876_1503584
@@ -1847,7 +1848,7 @@
 *KIM:	ti isio fwy o rei specific@s:cym&eng na rei general@s:cym&eng really@s:eng dwyt . 1509435_1513557
 %gls:	PRON.2S want more of some specific than some general really be.2S.PRES.NEG
 %eng:	you want more specific ones than general really, don't you
-*KIM:	ond dw i am &ʤ +// . 1513557_1514335
+*KIM:	ond dw i am &ʤ +//. 1513557_1514335
 %gls:	but be.1S.PRES PRON.1S for
 %eng:	but I'm going too...
 *KIM:	&d fydd raid i fi wneud lot@s:cym&eng o # bethau ar yr um@s:cym&eng # internet@s:eng journals@s:eng a ballu . 1514335_1519989
@@ -1913,7 +1914,7 @@
 *KIM:	(be)cause@s:eng wnaeth dad@s:cym&eng brynu un . 1570554_1571715
 %gls:	because do.3S.PAST dad buy.NONFIN one
 %eng:	because dad bought one
-*KIM:	dw (ddi)m yn rhy [?] &k +// . 1571703_1572841
+*KIM:	dw (ddi)m yn rhy [?] &k +//. 1571703_1572841
 %gls:	be.1S.PRES NEG PRT too
 %eng:	I'm not too...
 *KIM:	xx bod nhw right@s:cym&eng blain@s:cym&eng tro (y)ma (y)dyn . 1572841_1574420
@@ -1922,7 +1923,7 @@
 *KAT:	mmm@s:cym&eng mae nhw . 1574408_1575581
 %gls:	IM be.3PL.PRES PRON.3PL
 %eng:	mmm, they are
-*KIM:	+< (dy)dyn nhw (ddi)m yn +.. . 1574675_1575848
+*KIM:	+< (dy)dyn nhw (ddi)m yn +... 1574675_1575848
 %gls:	be.3PL.PRES.NEG PRON.3PL NEG PRT
 %eng:	they're not...
 *KIM:	wnes i weld o . 1575848_1577038
@@ -1931,13 +1932,13 @@
 *KIM:	<es i> [?] “oh@s:cym&eng # hmm@s:cym&eng” . 1577032_1578506
 %gls:	go.1S.PAST PRON.1S IM IM
 %eng:	I went "oh, hm"
-*KIM:	<ond bod> [?] o (we)di deud (wr)tha fi +"/ . 1578483_1580766
+*KIM:	<ond bod> [?] o (we)di deud (wr)tha fi +"/. 1578483_1580766
 %gls:	but be.NONFIN PRON.3SM PRT.PAST say.NONFIN to.1S PRON.1S
 %eng:	but he'd told me:
 *KIM:	+" oh@s:cym&eng sbia # xxx a mae nhw right@s:cym&eng blain@s:cym&eng (y)dyn . 1580770_1584195
 %gls:	IM look.2S.IMPER xxx and be.3PL PRON.3PL right plain be.3PL.PRES
 %eng:	oh look, [...] and they're quite plain, aren't they
-*KIM:	ac yn lle gofyn +"/ . 1584184_1585531
+*KIM:	ac yn lle gofyn +"/. 1584184_1585531
 %gls:	and in place ask
 %eng:	and instead of asking:
 *KIM:	+" ti isio fi ordro un i chdi ? 1585531_1586575
@@ -1952,13 +1953,13 @@
 *KIM:	(we)dyn wnaeth o gael o . 1588596_1589412
 %gls:	then do.3S.PAST PRON.3SM get.NONFIN PRON.3SM
 %eng:	then he got it
-*KIM:	aeth o +"/ . 1589408_1589652
+*KIM:	aeth o +"/. 1589408_1589652
 %gls:	go.3S.PAST PRON.3SM
 %eng:	he went:
 *KIM:	+" oh@s:cym&eng sbia . 1589652_1590186
 %gls:	IM look.2S.IMPER
 %eng:	oh look
-*KIM:	es i +"/ . 1590175_1590349
+*KIM:	es i +"/. 1590175_1590349
 %gls:	go.1S.PAST PRON.1S
 %eng:	I went:
 *KIM:	+" &=gasp oh@s:cym&eng my@s:eng God@s:eng xx pam wnest ti (ddi)m deud bod chdi (y)n prynu un ? 1590337_1592891
@@ -1973,7 +1974,7 @@
 *KIM:	+" (ba)swn i dal (we)di cael un . 1594807_1596231
 %gls:	be.1S.CONDIT PRON.1S still PRT.PAST get.NONFIN one
 %eng:	I still would have gotten one
-*KIM:	meddai fi +" . 1596212_1596804
+*KIM:	meddai fi +". 1596212_1596804
 %gls:	say.1S.PAST PRON.1S
 %eng:	I said
 *KIM:	i [?] gwisgo fo de . 1596804_1597860
@@ -2018,7 +2019,7 @@
 *KIM:	wedyn ## ti gwybod yn [?] justified@s:eng really@s:eng i gael un newydd dw meddwl . 1630630_1636179
 %gls:	then PRON.2S know.NONFIN PRT justified really to get.NONFIN one new be.1S.PRES think.NONFIN
 %eng:	then, you know, I'm justified really to get a new one, I think
-*KIM:	so@s:cym&eng +/ . 1636168_1639198
+*KIM:	so@s:cym&eng +/. 1636168_1639198
 *KAT:	mmm@s:cym&eng dw i (y)n cael un . 1638733_1639987
 %gls:	IM be.1S.PRES PRON.1S PRT get.NONFIN one
 %eng:	mmm, I get one
@@ -2028,13 +2029,13 @@
 *KIM:	na . 1641601_1642182
 %gls:	no
 %eng:	no
-*KAT:	&=sniff # mae (y)n +/ . 1642170_1644364
+*KAT:	&=sniff # mae (y)n +/. 1642170_1644364
 %gls:	be.3S.PRES PRT
 %eng:	it's...
 *KIM:	+< so@s:cym&eng [?] dydy dad@s:cym&eng byth yn fath â prynu dillad na (di)m_byd i fi de . 1643981_1647487
 %gls:	so be.3S.PRES.NEG dad never PRT kind with buy.NONFIN clothes not nothing for PRON.1S TAG
 %eng:	dad never, like, buys me clothes or anything, you know
-*KIM:	ond # crys rugby@s:cym&eng (ba)sai fo (y)n prynu un # ti gwybod +.. . 1647476_1650831
+*KIM:	ond # crys rugby@s:cym&eng (ba)sai fo (y)n prynu un # ti gwybod +... 1647476_1650831
 %gls:	but shirt rugby be.3S.CONDIT PRON.3SM PRT buy.NONFIN one PRON.2S know.NONFIN
 %eng:	but a rugby shirt, he'd buy one, you know
 *KAT:	hintio de . 1650819_1652271
@@ -2136,7 +2137,7 @@
 *KAT:	os ti really@s:eng (ddi)m isio rhannu xx wnei di (ddi)m bwyta fo tan [=! emphasis] mae pawb (we)di mynd . 1732867_1737070
 %gls:	if PRON.2S really NEG want share.NONFIN xx do.2S.NONPAST PRON.2S NEG eat.NONFIN PRON.3SM until be.3S.PRES everybody PRT.PAST go.NONFIN
 %eng:	if you really don't want to share [...] you won't eat it until everybody's gone
-*KIM:	+< yeah@s:cym&eng na just@s:cym&eng +.. . 1734249_1735282
+*KIM:	+< yeah@s:cym&eng na just@s:cym&eng +... 1734249_1735282
 %gls:	yeah no just
 %eng:	yeah no just...
 *KIM:	+< na . 1735712_1736362
@@ -2145,10 +2146,10 @@
 *KIM:	ond dw i (y)n corddi sti . 1736768_1738231
 %gls:	but be.1S.PRES PRON.1S PRT churn.NONFIN know.2S
 %eng:	but I seethe you know
-*KIM:	dw i (y)n really@s:eng fath a +// . 1738208_1739195
+*KIM:	dw i (y)n really@s:eng fath a +//. 1738208_1739195
 %gls:	be.1S.PRES PRT really kind with
 %eng:	I'm really like...
-*KIM:	am bod dw i methu &g +// . 1739218_1740332
+*KIM:	am bod dw i methu &g +//. 1739218_1740332
 %gls:	for be.NONFIN be.1S.PRES PRON.1S fail.NONFIN
 %eng:	because I can't...
 *KIM:	neu am bod <wna i> [/] wna i (ddi)m bwyta o_flaen neb <dw i> [/] dw i really@s:eng isio fo fwy (fe)lly [=! laughs] . 1740321_1745928
@@ -2164,7 +2165,7 @@
 %gls:	and every turn be.1S.PRES PRON.1S want kind with be.1S.PRES PRON.1S want go.NONFIN to toilet and do.1S.NONPAST PRON.1S go.NONFIN to bedroom and scoff.NONFIN PRON.3SM
 %eng:	and every time I want...like, I want to go to the toilet, and I'll go to my bedroom and scoff it
 *KAT:	+< &=laugh . 1754671_1757643
-*KIM:	&=laugh mae dad@s:cym&eng <fel (yn)a> [?] +"/ . 1757004_1757968
+*KIM:	&=laugh mae dad@s:cym&eng <fel (yn)a> [?] +"/. 1757004_1757968
 %gls:	be.3S.PRES dad like there
 %eng:	dad's like that:
 *KIM:	+" be s(y) gen ti (y)n dy geg ? 1757956_1758699
@@ -2220,7 +2221,7 @@
 *KIM:	a wedyn bob peth <oedd o> [/] oedd o (y)n ddal # oedd [/] oedd o (y)n er@s:cym&eng roid i (y)r genod oedd yn gweithio <yn yr> [/] er@s:cym&eng # yn yr hotel@s:cym&eng # yn y complex@s:eng lle bynnag (fe)lly # am bod um@s:cym&eng # ti gwybod dyn nhw cael &ð [//] dim cyflog yna de . 1802936_1818308
 %gls:	and then every thing be.3S.IMP PRON.3SM be.3S.IMP PRON.3SM PRT catch.NONFIN be.3S.IMP be.3S.IMP PRON.3SM PRT IM give.NONFIN to DET girls be.3S.IMP PRT work.NONFIN in DET IM in DET hotel in DET complex where ever thus for be.NONFIN IM PRON.2S know.NONFIN be.3PL.PRES PRON.3PL get.NONFIN no salary there TAG
 %eng:	and then everything he caught, he'd, er, give it to the girls who worked at the, er, at the hotel, at the complex wherever like, because, um, you know, they hardly get any salary there, you know
-*KIM:	dyn nhw (ddi)m yn cael +// . 1818331_1818865
+*KIM:	dyn nhw (ddi)m yn cael +//. 1818331_1818865
 %gls:	be.3PL.PRES PRON.3PL NEG PRT get.NONFIN
 %eng:	they don't get...
 *KAT:	+< mmm@s:cym&eng . 1818331_1818865
@@ -2231,7 +2232,7 @@
 %gls:	and be.3PL.PRES PRON.3PL PRT work.NONFIN kind with through DET day TAG
 %eng:	and they work, like, all day, you know
 *KAT:	oh@s:cym&eng . 1824264_1825135
-*KIM:	wedyn oedden nhw (y)n dod yn_dôl gyda (y)r nos <hefo (y)r> [/] # hefo (y)r pysgod (fe)lly ac yn deud (wr)thyn nhw +"/ . 1825146_1830754
+*KIM:	wedyn oedden nhw (y)n dod yn_dôl gyda (y)r nos <hefo (y)r> [/] # hefo (y)r pysgod (fe)lly ac yn deud (wr)thyn nhw +"/. 1825146_1830754
 %gls:	then be.3PL.IMP PRON.3PL PRT come.NONFIN back with DET night with DET with DET fish thus and PRT say.NONFIN to.3PL PRON.3PL
 %eng:	then they'd come back in the evening with the fish, like, and would tell them:
 *KIM:	+" bwytwch o rwan de . 1830742_1832298
@@ -2247,11 +2248,11 @@
 %eng:	and one girl had taken it, taken the fish home to cook, and had invited dad and Tom, like, there
 *KAT:	oh@s:cym&eng nice@s:cym&eng . 1845603_1847159
 *KIM:	yeah@s:cym&eng . 1846752_1847263
-*KIM:	ac oedd dad@s:cym&eng (fa)th â +"/ . 1847240_1847902
+*KIM:	ac oedd dad@s:cym&eng (fa)th â +"/. 1847240_1847902
 %gls:	and be.3S.IMP dad kind with
 %eng:	and dad was like:
 *KIM:	[- eng] +" no it's for you . 1847902_1848831
-*KIM:	de +" . 1848819_1849086
+*KIM:	de +". 1848819_1849086
 *KIM:	“ooh@s:cym&eng” . 1849086_1849643
 *KIM:	ac oedden nhw just@s:cym&eng (fa)th â “wow@s:cym&eng” . 1849643_1851362
 %gls:	and be.3PL.IMP PRON.3PL just kind with wow
@@ -2275,7 +2276,7 @@
 *KIM:	+< <yndy (y)dy> [?] ? 1865990_1866675
 %gls:	be.3S.PRES be .3S.PRES
 %eng:	it is, yes?
-*KIM:	ond mae (y)n deud yn yr +// . 1866977_1868486
+*KIM:	ond mae (y)n deud yn yr +//. 1866977_1868486
 %gls:	but be.3S.PRES PRT say.NONFIN in DET
 %eng:	but it says in the
 *KIM:	ti (y)n cael fath â &b um@s:cym&eng # tourist@s:cym&eng information@s:cym&eng (fe)lly . 1868498_1872024
@@ -2287,7 +2288,7 @@
 *KAT:	custom@s:cym&eng nhw yeah@s:cym&eng . 1873827_1875603
 %gls:	custom PRON.3PL yeah
 %eng:	their custom, yeah
-*KIM:	yeah@s:cym&eng &k +// . 1874535_1875185
+*KIM:	yeah@s:cym&eng &k +//. 1874535_1875185
 *KIM:	ti gwybod mae fiver@s:eng i nhw mae o (y)n lot@s:cym&eng o bres de . 1875592_1879643
 %gls:	PRON.2S know.NONFIN be.3S.PRES fiver to PRON.3PL be.3S.PRES PRON.3SM PRT lot of money TAG
 %eng:	you know, a fiver for them, it's a lot of money, isn't it
@@ -2319,7 +2320,7 @@
 %gls:	be.3S.PRES PRON.3SM PRT dangerous there TAG
 %eng:	it's dangerous there, you know
 *KAT:	mmm@s:cym&eng . 1904419_1905325
-*KIM:	oedd [/] o'n i (fa)th â +"/ . 1905340_1906559
+*KIM:	oedd [/] o'n i (fa)th â +"/. 1905340_1906559
 %gls:	be.3S.IMP be.1S.IMP PRON.1S kind with
 %eng:	I was like:
 *KIM:	+" dad@s:cym&eng paid â deud (wr)tha fi de . 1906547_1907731
@@ -2342,7 +2343,7 @@
 *KAT:	ti mynd yna efo digon o bres ti (y)n iawn . 1918791_1920997
 %gls:	PRON.2S go.NONFIN there with enough of money PRON.2S PRT right
 %eng:	you go there with enough money, you're ok
-*KIM:	ond [?] # mae nhw (y)n mynd +// . 1920968_1923825
+*KIM:	ond [?] # mae nhw (y)n mynd +//. 1920968_1923825
 %gls:	but be.3PL.PRES PRON.3PL PRT go.NONFIN
 %eng:	but they go...
 *KIM:	ti gwybod dyn nhw (ddi)m yn licio nhw yn # just@s:cym&eng rhoid a rhoid a rhoid de . 1923801_1927787
@@ -2351,10 +2352,10 @@
 *KIM:	+< na . 1927555_1928379
 %gls:	no
 %eng:	no
-*KIM:	wneith [//] dyn nhw (fa)th â +// . 1927764_1928425
+*KIM:	wneith [//] dyn nhw (fa)th â +//. 1927764_1928425
 %gls:	do.3S.NONPAST be.3PL.PRES PRON.3PL kind with
 %eng:	they don't like...
-*KIM:	oedd dad@s:cym&eng yn deud +"/ . 1928414_1929006
+*KIM:	oedd dad@s:cym&eng yn deud +"/. 1928414_1929006
 %gls:	be.3S.IMP dad PRT say.NONFIN
 %eng:	dad was saying:
 *KIM:	<dan ni (ddi)m> [/] dan ni (ddi)m yn gwneud hynna . 1928994_1930062
@@ -2372,8 +2373,8 @@
 %gls:	be.3S.PRES some other PRT do.NONFIN PRON.3SM for be.NONFIN be.3PL.PRES PRON.3PL want help.NONFIN also TAG
 %eng:	some others do it because they want to help too, you know
 *KAT:	+< mmm@s:cym&eng . 1950368_1950984
-*KIM:	wedyn +.. . 1950508_1951320
-*KIM:	so@s:cym&eng [?] +.. . 1951309_1954176
+*KIM:	wedyn +... 1950508_1951320
+*KIM:	so@s:cym&eng [?] +... 1951309_1954176
 *KIM:	unig beth # mae [/] &ʔ mae dad@s:cym&eng fath â fi siarad lot@s:cym&eng de . 1954173_1957911
 %gls:	only thing be.3S.PRES be.3S.PRES dad kind with PRON.1S speak.NONFIN lot TAG
 %eng:	the only thing is, dad is like me, he talks a lot, you know

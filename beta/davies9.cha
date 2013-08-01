@@ -3,17 +3,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	MOS Mostyn Adult, LLE Llewelyn Adult, RES Researcher Adult
-@ID:	cy|siarad|MOS|19;|male|||Adult||
-@ID:	cy|siarad|LLE|22;|male|||Adult||
+@ID:	cym|siarad|MOS|19;|male|||Adult||
+@ID:	cym|siarad|LLE|22;|male|||Adult||
 @Situation:	informal conversation between friends at the university tent at the National Eisteddfod
 @Comment:	MOS was brought up in south-east and south-west Wales, but is now living in north-west Wales
 @Comment:	LLE was brought up in north-east Wales, but is now living in north-west Wales
 @Date:	10-AUG-2006
 @Comment:	Researcher:	Peredur Davies, University of Wales Bangor
-@Coder:	Elen Robert, University of Wales Bangor
+@Transcriber:	Elen Robert, University of Wales Bangor
 @Time Duration:	00:18:19
-@Comment:	Filename: Davies9.CHA; Soundfile: Davies9.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	davies9, audio
+@Comment:	Filename: Davies9.cha; Soundfile: Davies9.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	much background noise, particularly music being performed at the location of recording. Technical difficulties from approximately 00:13:23 to 00:15:22 due to speakers walking away from radio transmitter. Some parts of recording bleeped out because of consent issues.
 *MOS:	edrych ar gwallt (y)na ! 12_1950
 %gls:	look.2S.IMPER on hair there
@@ -33,13 +34,13 @@
 *LLE:	na . 5457_6444
 %gls:	no
 %eng:	no
-*LLE:	dyna (y)dy xxx +/ . 6444_7697
+*LLE:	dyna (y)dy xxx +/. 6444_7697
 %gls:	there be.3S.PRES xxx
 %eng:	that's [...] ...
 *MOS:	just@s:cym&eng [?] put@s:eng a@s:eng bowl@s:cym&eng on@s:eng his@s:eng head@s:eng and@s:eng just@s:cym&eng cut@s:eng around@s:eng it@s:eng . 7036_9311
 %gls:	just put a bowl on his head and just cut around it
 %eng:	just put a bowl on his head and just cut around it
-*LLE:	+< na dyna # xx +// . 7860_8638
+*LLE:	+< na dyna # xx +//. 7860_8638
 %gls:	no there xx
 %eng:	no that's [...] ...
 *LLE:	well@s:cym&eng style@s:cym&eng Bala@s:cym&eng timod . 8998_10577
@@ -48,13 +49,13 @@
 *MOS:	Bala@s:cym&eng ! 10577_11819
 %gls:	Bala
 %eng:	Bala!
-*LLE:	dyna ydy +/ . 11749_12458
+*LLE:	dyna ydy +/. 11749_12458
 %gls:	there be.3S.PRES
 %eng:	that's...
 *MOS:	+< mae just@s:cym&eng yn style@s:cym&eng like@s:eng thirties@s:eng . 11819_13851
 %gls:	be.3S.PRES just PRT style like thirties
 %eng:	it's just like, thirties style
-*LLE:	well@s:cym&eng <dyna xxx> [//] <dyna xxx> [//] dyna +// . 13851_15325
+*LLE:	well@s:cym&eng <dyna xxx> [//] <dyna xxx> [//] dyna +//. 13851_15325
 %gls:	well there xxx there xxx there
 %eng:	well that's [...] ...that's [...] ...that's...
 *MOS:	xxx . 15093_16242
@@ -70,7 +71,7 @@
 *LLE:	timod dw (dd)im yn meindio fo . 19900_20828
 %gls:	know.2S be.1S.PRES NEG PRT mind.NONFIN PRON.3SM
 %eng:	you know, I don't mind him
-*LLE:	Drum(bago)@s:cym&eng [/] Drum(bago)@s:cym&eng +// . 20828_21641
+*LLE:	Drum(bago)@s:cym&eng [/] Drum(bago)@s:cym&eng +//. 20828_21641
 %gls:	Drumbago Drumbago
 %eng:	Drum...Drum...
 *MOS:	xxx . 21293_22071
@@ -80,26 +81,26 @@
 *MOS:	+< Drumbago@s:cym&eng xxx . 22094_22976
 %gls:	Drumbago xxx
 %eng:	Drumbago [...]
-*LLE:	Drumbago@s:cym&eng a +.. . 22941_23893
+*LLE:	Drumbago@s:cym&eng a +... 22941_23893
 %gls:	Drumbago and
 %eng:	Drumbago and...
 *LLE:	timod mae wahanol . 23893_25437
 %gls:	know.2S be.3S.PRES different
 %eng:	you know, it's different
-*MOS:	+< fi +// . 24927_25252
+*MOS:	+< fi +//. 24927_25252
 %gls:	PRON.1S
 %eng:	I...
-*LLE:	a mae (y)n +/ . 25437_25925
+*LLE:	a mae (y)n +/. 25437_25925
 %gls:	and be.3S.PRES PRT
 %eng:	and it's...
 *MOS:	fi ffindo fe (y)n eitha suicidal@s:eng . 25658_27910
 %gls:	PRON.1S find.NONFIN PRON.3SM PRT quite suicidal
 %eng:	I find it quite suicidal
-*LLE:	xxx +// . 27910_28212
+*LLE:	xxx +//. 27910_28212
 *LLE:	ie ! 28212_28549
 %gls:	yes
 %eng:	yes!
-*LLE:	[- eng] basically &s +// . 28549_29764
+*LLE:	[- eng] basically &s +//. 28549_29764
 %gls:	basically
 %eng:	basically...
 *LLE:	xxx <wnes i> [/] # <wnes i> [///] dw i (we)di prynu (y)r um@s:cym&eng # Traffig@s:cym&eng . 29764_32387
@@ -123,13 +124,13 @@
 *LLE:	achos mae mor hunanladdiol . 40944_43405
 %gls:	because be.3S.PRES so suicidal
 %eng:	because it's so suicidal
-*MOS:	+< dylai fod xx +// . 41942_42836
+*MOS:	+< dylai fod xx +//. 41942_42836
 %gls:	should.3S.CONDIT be.NONFIN xx
 %eng:	there should be [...] ...
 *LLE:	mae mor just@s:cym&eng # drist . 43405_44938
 %gls:	be.3S.PRES so just sad
 %eng:	it's so just sad
-*MOS:	+< xx unrhy(w) [/] unrh(yw) +// . 44009_44857
+*MOS:	+< xx unrhy(w) [/] unrh(yw) +//. 44009_44857
 %gls:	xx any any
 %eng:	[...] any...any...
 *MOS:	sorry@s:cym&eng . 44857_45182
@@ -157,7 +158,7 @@
 *LLE:	+< yeah@s:cym&eng . 60948_61320
 %gls:	yeah
 %eng:	yeah
-*LLE:	<yeah@s:cym&eng # so@s:cym&eng> [=! yawns] +.. . 61505_63746
+*LLE:	<yeah@s:cym&eng # so@s:cym&eng> [=! yawns] +... 61505_63746
 %gls:	yeah so
 %eng:	yeah, so...
 *MOS:	oddeutu . 63746_64988
@@ -185,7 +186,7 @@
 *MOS:	&=laugh oh@s:cym&eng mae mynd i gael hwyl yn sgwennu hwn lawr &=laugh . 72495_78579
 %gls:	IM be.3S.PRES go.NONFIN to get.NONFIN fun PRT write.NONFIN this down
 %eng:	oh, he's going to have fun writing this down
-*LLE:	+< oddeutu oddeutu +// . 74214_74910
+*LLE:	+< oddeutu oddeutu +//. 74214_74910
 %gls:	approximately approximately
 %eng:	approximately approximately
 *LLE:	&=laugh . 75305_78173
@@ -205,7 +206,7 @@
 *LLE:	+" dewisiadau choices@s:eng . 85150_86288
 %gls:	choices choices
 %eng:	dewisiadau choices
-*MOS:	dyw e ddim yn xx +/ . 86288_87066
+*MOS:	dyw e ddim yn xx +/. 86288_87066
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT xxx
 %eng:	he's not [...] ...
 *LLE:	+< +" dysgu gydol oes . 86532_88134
@@ -220,7 +221,7 @@
 *LLE:	+" xxx slaves@s:eng # eighteen_twelve@s:eng owned@s:eng by@s:eng George@s:cym&eng xxx [=! laughs] . 90735_95959
 %gls:	xxx slaves eighteen_twelve owned by George xxx
 %eng:	 [...] slaves, eighteen-twelve, owned by George [...] 
-*MOS:	+< xxx +// . 91675_93103
+*MOS:	+< xxx +//. 91675_93103
 *MOS:	+< <just@s:cym&eng shut@s:eng up@s:eng> [?] [=! laughs] . 94879_95971
 %gls:	just shut up
 %eng:	just shut up
@@ -232,10 +233,10 @@
 %gls:	wait wait
 %eng:	wait, wait
 *LLE:	o_k@s:cym&eng &=laugh . 101218_107372
-*LLE:	xxx <ti gorod> [//] ti +/ . 107372_109701
+*LLE:	xxx <ti gorod> [//] ti +/. 107372_109701
 %gls:	xxx PRON.2S must.NONFIN PRON.2S
 %eng:	[...] you have to...you...
-*MOS:	+< xxx +/ . 108807_109701
+*MOS:	+< xxx +/. 108807_109701
 *LLE:	ti gorod deud brawddeg fan (y)na up@s:eng to@s:eng the@s:eng full@s:eng stop@s:cym&eng . 109701_111733
 %gls:	PRON.2S must.NONFIN say.NONFIN sentence place there up to the full stop
 %eng:	you have to say a sentence there, up to the full stop
@@ -250,7 +251,7 @@
 *MOS:	xxx ei sefydlu ym mil wyth wyth pedwar . 114206_116632
 %gls:	xxx POSS.3S establish.NONFIN in thousand eight eight four
 %eng:	[...] established in eighteen-eighty-four
-*LLE:	+< <a gei> [/] a gei di nudge_o@s:eng+cym fi pan [/] pan &t +/ . 115460_117422
+*LLE:	+< <a gei> [/] a gei di nudge_o@s:eng+cym fi pan [/] pan &t +/. 115460_117422
 %gls:	and get.2S.NONPAST and get.2S.NONPAST PRON.2S nudge.NONFIN PRON.1S when when
 %eng:	and you can...and you can nudge me when...when...
 *MOS:	+" bu Prifysgol_Cymru_Bangor yn wreiddiol # Prifysgol_Cymru_Gogledd_Cymru # yn un o geidwad <pwysicaf diwylliant Cymru> [=! laughs] yn yr amrywiol xxx [=! laughs] # iaith a (e)i llenyddiaeth . 116888_131064
@@ -268,7 +269,7 @@
 *LLE:	+" ond nid oes raid i chi newid eich bywyd i wneud hynny . 134256_137101
 %gls:	but NEG be.3S.PRES necessity for PRON.2PL change.NONFIN POSS.2PL life to do.NONFIN that
 %eng:	but you don't have to change your life to do that
-*LLE:	+" drwy ddysgu hyblyg +/ . 137101_138401
+*LLE:	+" drwy ddysgu hyblyg +/. 137101_138401
 %gls:	through learn.NONFIN flexible
 %eng:	with flexible learning...
 *MOS:	[- eng] +< xxx bored [?] . 137762_138854
@@ -309,7 +310,7 @@
 *MOS:	a:h@s:cym&eng [=! laughs] . 153900_155607
 %gls:	IM
 %eng:	ah
-*LLE:	+< oddeutu +// . 154667_155119
+*LLE:	+< oddeutu +//. 154667_155119
 %gls:	approximately
 %eng:	approximately...
 *LLE:	yeah@s:cym&eng +... 155119_155630
@@ -336,10 +337,10 @@
 *LLE:	um@s:cym&eng # do apparently@s:eng mae nhw (we)di methu dau gig@s:cym&eng . 168993_173637
 %gls:	IM yes apparently be.3PL.PRES PRON.3PL PRT.PAST miss.NONFIN two.M gig
 %eng:	um, yes, apparently they've missed two gigs
-*MOS:	+< oh@s:cym&eng +// . 172116_172465
+*MOS:	+< oh@s:cym&eng +//. 172116_172465
 %gls:	IM
 %eng:	oh...
-*LLE:	achos um@s:cym&eng # oedd y pian(ist)@s:eng [?] [/] pianist@s:eng # heb droi fyny neu [?] rywbeth fel (y)na # keyboards@s:eng ddim (we)di troi fyny # y boy@s:cym&eng sy chwarae +/ . 173637_179860
+*LLE:	achos um@s:cym&eng # oedd y pian(ist)@s:eng [?] [/] pianist@s:eng # heb droi fyny neu [?] rywbeth fel (y)na # keyboards@s:eng ddim (we)di troi fyny # y boy@s:cym&eng sy chwarae +/. 173637_179860
 %gls:	because IM be.3S.IMP DET pianist pianist without turn.NONFIN up or something like there keyboards NEG PRT.PAST turn.NONFIN up DET boy be.PRES.REL play.NONFIN
 %eng:	because, um, the pian...pianist didn't turn up or something like that, keyboards didn't turn up, the guy who plays...
 *MOS:	+< pa [/] pa ig@s:cym&eng ? 178328_179570
@@ -392,7 +393,7 @@
 *LLE:	yn lle ? 199163_200382
 %gls:	in where
 %eng:	where?
-*MOS:	y:n um@s:cym&eng +// . 200382_203168
+*MOS:	y:n um@s:cym&eng +//. 200382_203168
 %gls:	in IM
 %eng:	at, um...
 *MOS:	oh@s:cym&eng beth yw enw fe ? 203168_204492
@@ -401,7 +402,7 @@
 *MOS:	thing@s:eng yna yn Aberystwyth@s:cym&eng . 204492_205653
 %gls:	thing there in Aberystwyth
 %eng:	that thing in Aberystwyth
-*LLE:	<timod unig> [?] reswm dw i siarad efo chdi ydy +// . 205560_207638
+*LLE:	<timod unig> [?] reswm dw i siarad efo chdi ydy +//. 205560_207638
 %gls:	know.2S only reason be.1S.PRES PRON.1S speak.NONFIN with PRON.2S be.3S.PRES
 %eng:	you know, the only reason I'm talking to you is...
 *LLE:	dyma Dafydd_Iwan@s:cym&eng . 207638_208416
@@ -413,7 +414,7 @@
 *MOS:	+< xxx Dafydd_Iwan@s:cym&eng . 210134_210831
 %gls:	xxx Dafydd_Iwan
 %eng:	[...] Dafydd Iwan
-*MOS:	ti cael tenner@s:eng +/ . 213316_214279
+*MOS:	ti cael tenner@s:eng +/. 213316_214279
 %gls:	PRON.2S get.NONFIN tenner
 %eng:	you're getting a tenner...
 *LLE:	<fel arall> [/] # fel arall (ba)swn i (dd)im yn siarad efo chdi . 213675_216009
@@ -427,7 +428,7 @@
 %eng:	yes, that's stupid, isn't it
 %com:	talking on walky-talky, not sure whether or not this is one of the speakers . %snd:"davies9"_223138_228699
 *LLE:	&=laugh . 227480_229256
-*MOS:	well@s:cym&eng +.. . 229256_234864
+*MOS:	well@s:cym&eng +... 229256_234864
 %gls:	well
 %eng:	well...
 *LLE:	er@s:cym&eng shall@s:eng we@s:eng go@s:eng and@s:eng ming(le)@s:eng [?] ? 234864_236837
@@ -443,7 +444,7 @@
 %gls:	mingle
 %eng:	(min)gle
 *LLE:	&=laugh . 239229_242921
-*LLE:	xxx +/ . 242921_243544
+*LLE:	xxx +/. 242921_243544
 *MOS:	+< xxx wna fe (e)to . 242963_243679
 %gls:	xxx do.2S.IMPER PRON.3SM again
 %eng:	[...] do it again
@@ -463,70 +464,70 @@
 %gls:	and then do.1S.NONPAST PRON.1S say.NONFIN word
 %eng:	and then I'll say a word
 %com:	both start a sentence string to which each speaker in turn adds one word
-*MOS:	rydw +.. . 246922_247665
+*MOS:	rydw +... 246922_247665
 %gls:	be.1S.PRES
 %eng:	I...
-*LLE:	++ i +.. . 247665_248176
+*LLE:	++ i +... 247665_248176
 %gls:	PRON.1S
-*MOS:	++ wedi +.. . 248176_249244
+*MOS:	++ wedi +... 248176_249244
 %gls:	PRT.PAST
 %eng:	have...
-*LLE:	++ &=laugh cael +.. . 249244_250150
+*LLE:	++ &=laugh cael +... 249244_250150
 %gls:	get.NONFIN
 %eng:	had...
-*MOS:	++ dump@s:cym&eng +.. . 250150_250823
+*MOS:	++ dump@s:cym&eng +... 250150_250823
 %gls:	dump
 %eng:	a dump...
-*LLE:	++ &=laugh efo +.. . 250823_253122
+*LLE:	++ &=laugh efo +... 250823_253122
 %gls:	with
 %eng:	with...
 *MOS:	+< &=laugh . 251322_251763
-*MOS:	++ John@s:cym&eng +.. . 253122_255537
+*MOS:	++ John@s:cym&eng +... 253122_255537
 %gls:	John
 %eng:	John...
-*LLE:	++ ac &=laugh +.. . 255537_258451
+*LLE:	++ ac &=laugh +... 255537_258451
 %gls:	and
 %eng:	and...
-*MOS:	+< ++ Alun@s:cym&eng [=! laughs] +.. . 256535_257743
+*MOS:	+< ++ Alun@s:cym&eng [=! laughs] +... 256535_257743
 %gls:	Alun
 %eng:	Alun...
-*LLE:	++ yn +.. . 258451_258950
+*LLE:	++ yn +... 258451_258950
 %gls:	in
 %eng:	in...
-*MOS:	++ y +.. . 258950_259472
+*MOS:	++ y +... 258950_259472
 %gls:	DET
 %eng:	the...
-*LLE:	++ tŷ +.. . 259472_260587
+*LLE:	++ tŷ +... 259472_260587
 %gls:	house
 %eng:	house...
-*MOS:	++ mawr +.. . 260587_261864
+*MOS:	++ mawr +... 260587_261864
 %gls:	big
 %eng:	big...
-*LLE:	++ &=laugh efo &=laugh +.. . 261864_264534
+*LLE:	++ &=laugh efo &=laugh +... 261864_264534
 %gls:	with
 %eng:	with...
-*MOS:	++ &=laugh oddeutu &=laugh +.. . 263942_267483
+*MOS:	++ &=laugh oddeutu &=laugh +... 263942_267483
 %gls:	approximately
 %eng:	approximately
 *LLE:	oh@s:cym&eng yeah@s:cym&eng I@s:eng knew@s:eng that@s:eng was@s:eng gonna@s:eng xxx &=laugh ! 266589_268853
 %gls:	IM yeah I knew that was gonna xxx
 %eng:	oh yeah I knew that was gonna [...]
-*LLE:	++ &=laugh pump +.. . 268853_270154
+*LLE:	++ &=laugh pump +... 268853_270154
 %gls:	five
 %eng:	five...
-*MOS:	++ deg +.. . 270154_271280
+*MOS:	++ deg +... 270154_271280
 %gls:	ten
 %eng:	ten...
-*LLE:	++ saith +.. . 271280_272255
+*LLE:	++ saith +... 271280_272255
 %gls:	seven
 %eng:	seven
-*MOS:	++ mil +.. . 272255_273172
+*MOS:	++ mil +... 272255_273172
 %gls:	thousand
 %eng:	thousand
-*LLE:	++ &=laugh o +.. . 273172_276226
+*LLE:	++ &=laugh o +... 273172_276226
 %gls:	of
 %eng:	of...
-*MOS:	++ ronynnau +.. . 276226_277700
+*MOS:	++ ronynnau +... 276226_277700
 %gls:	grains
 %eng:	grains...
 %com:	end of string. Whole string translates as "I've had a dump with John and Alun in the big house with approximately fifty-seven thousand grains
@@ -539,13 +540,13 @@
 *LLE:	faint o “r_s@s:cym&eng” sy (y)na yn “gr:@s:cym&eng” ? 282936_287731
 %gls:	how_mcuh of r_s be.PRES.REL there in IM
 %eng:	how many "r's" are there in grrrrrrrrrrrr?
-*LLE:	oddeutu +.. . 287731_289066
+*LLE:	oddeutu +... 287731_289066
 %gls:	approximately
 %eng:	approximately..?
 *MOS:	un . 289066_289798
 %gls:	one
 %eng:	one
-*LLE:	[- eng] ++ ten +.. . 289798_290982
+*LLE:	[- eng] ++ ten +... 289798_290982
 %gls:	ten
 %eng:	ten...
 %com:	Llewelyn tries to start a new sentence string whereas Mostyn's answer is a straight "one"
@@ -564,10 +565,10 @@
 %gls:	be.3S.PRES.NEG that NEG PRT word
 %eng:	that's not a word!
 *LLE:	&=laugh . 298482_299446
-*LLE:	thing@s:eng is@s:eng pan mae trio sillafu fo allan de ar y transcript@s:cym&eng yma de [?] +.. . 299446_302499
+*LLE:	thing@s:eng is@s:eng pan mae trio sillafu fo allan de ar y transcript@s:cym&eng yma de [?] +... 299446_302499
 %gls:	thing is when be.3S.PRES try.NONFIN spell.NONFIN PRON.3SM out TAG on DET transcript here TAG
 %eng:	thing is, when he tries to spell it out, right, on this transcript, right...
-*MOS:	+< xxx +// . 299805_300212
+*MOS:	+< xxx +//. 299805_300212
 *MOS:	&=laugh <ti meddwl dylen ni wneud> [=! laughs] helicopter@s:cym&eng sounds@s:eng &=imit:helicopter &=laugh ? 302499_309407
 %gls:	PRON.2S think.NONFIN should.1PL.CONDIT PRON.1PL do.NONFIN helicopter sounds
 %eng:	you think we should make helicopter sounds?
@@ -683,7 +684,7 @@
 *MOS:	oh@s:cym&eng mae hwnna (y)n ofnadwy . 396543_400386
 %gls:	IM be.3S.PRES that PRT terrible
 %eng:	oh that's terrible
-*MOS:	yeah@s:cym&eng +/ . 400386_404925
+*MOS:	yeah@s:cym&eng +/. 400386_404925
 %gls:	yeah
 %eng:	yeah...
 *MOS:	ody ody ody . 404925_406620
@@ -729,7 +730,7 @@
 *MOS:	so@s:cym&eng fi actually@s:eng gorfod cerdded gyda ti ? 489024_490928
 %gls:	so PRON.1S actually must.NONFIN walk.NONFIN with PRON.2S
 %eng:	so I actually have to walk with you?
-*LLE:	ti actually@s:eng gorod xxx +/ . 490382_491647
+*LLE:	ti actually@s:eng gorod xxx +/. 490382_491647
 %gls:	PRON.2S actually must.NONFIN xxx
 %eng:	you actually have to [...] ...
 *MOS:	+< just@s:cym&eng mor weird@s:eng . 490928_492123
@@ -754,7 +755,7 @@
 *MOS:	mae (y)na bobl tu ôl i ti . 501330_502514
 %gls:	be.3S.PRES there people side back to PRON.2S
 %eng:	there are people behind you
-*MOS:	timod +.. . 502514_503594
+*MOS:	timod +... 502514_503594
 %gls:	know.2S
 %eng:	you know...
 *LLE:	<be mae> [/] # be mae nhw edrych fel ? 503594_505359
@@ -769,10 +770,10 @@
 *MOS:	ti gweld hwn just@s:cym&eng yn wneud fi # xxx <lladd fy hun> [?] . 510978_515808
 %gls:	PRON.2S see.NONFIN this just PRT do.NONFIN PRON.1S xxx kill.NONFIN POSS.1S self
 %eng:	you see this just makes me [...] kill myself
-*LLE:	+< llais +// . 514449_514833
+*LLE:	+< llais +//. 514449_514833
 %gls:	voice
 %eng:	voice...
-*LLE:	+< llais +// . 514983_515552
+*LLE:	+< llais +//. 514983_515552
 %gls:	voice
 %eng:	voice...
 *LLE:	+< llais nice@s:cym&eng gyda [=? gynno] fo # xxx . 515738_517352
@@ -806,7 +807,7 @@
 *RES:	pam be ti isio xxx ? 530042_531737
 %gls:	why what PRON.2S want xxx
 %eng:	why, what do you want to [...] ?
-*MOS:	oddeutu [=! laughs] +.. . 531249_532143
+*MOS:	oddeutu [=! laughs] +... 531249_532143
 %gls:	approximately
 %eng:	approximately...
 *LLE:	oddeutu [=! laughs] ? 532143_533258
@@ -843,10 +844,10 @@
 *MOS:	<beth yw> [?] ampersand@s:cym&eng ? 545367_546767
 %gls:	what be.3S.PRES ampersand
 %eng:	what's an ampersand?
-*RES:	ampersand@s:cym&eng ydy sort@s:cym&eng of@s:eng fath â +// . 546767_548126
+*RES:	ampersand@s:cym&eng ydy sort@s:cym&eng of@s:eng fath â +//. 546767_548126
 %gls:	ampersand be.3S.PRES sort of kind with
 %eng:	ampersand is a sort of, like...
-*RES:	mae o # ar # sort@s:cym&eng of@s:eng +// . 548126_549589
+*RES:	mae o # ar # sort@s:cym&eng of@s:eng +//. 548126_549589
 %gls:	be.3S.PRES PRON.3SM on sort of
 %eng:	it's on, sort of...
 *RES:	<alt@s:eng five@s:eng> [//] shift@s:cym&eng five@s:eng rywbeth (y)dy o . 549589_551539
@@ -895,7 +896,7 @@
 *MOS:	be ? 573482_574132
 %gls:	what
 %eng:	what?
-*LLE:	blwyddyn nesa de +.. . 573888_574736
+*LLE:	blwyddyn nesa de +... 573888_574736
 %gls:	year next TAG
 %eng:	next year, right
 *MOS:	yeah@s:cym&eng . 574736_575943
@@ -905,7 +906,7 @@
 *LLE:	yeah@s:cym&eng gwych oh@s:cym&eng yeah@s:cym&eng good@s:eng conversation@s:eng [=! laughs] great@s:cym&eng . 577650_579693
 %gls:	yeah brilliant IM yeah good conversation great
 %eng:	yeah, brilliant, oh yeah, good conversation, great
-*LLE:	ti (y)n byw # yn +.. . 579693_582665
+*LLE:	ti (y)n byw # yn +... 579693_582665
 %gls:	PRON.2S PRT live.NONFIN in
 %eng:	you're living in...
 *MOS:	[- eng] ++ Albert_Street . 582665_584001
@@ -926,7 +927,7 @@
 *LLE:	pam ? 592023_592882
 %gls:	why
 %eng:	why?
-*MOS:	dyw e ddim # achos +/ . 592824_594619
+*MOS:	dyw e ddim # achos +/. 592824_594619
 %gls:	be.3S.PRES.NEG PRON.3SM NEG because
 %eng:	it's not because...
 *LLE:	(y)dy [//] # ydy hwnna [?] mynd i ychwanegu at dy astudiaethoedd [?] # at dy brofiadau ## yn y brifysgol ? 593818_600296
@@ -950,13 +951,13 @@
 *LLE:	spot@s:cym&eng on@s:eng . 608802_610450
 %gls:	spot on
 %eng:	spot on
-*MOS:	felly fi methu dweud +"/ . 610450_611646
+*MOS:	felly fi methu dweud +"/. 610450_611646
 %gls:	thus PRON.1S fail.NONFIN say.NONFIN
 %eng:	so I can't say:
 *MOS:	+" oh@s:cym&eng bydda i (y)na mewn # chwarter awr . 611646_613713
 %gls:	IM be.1S.FUT PRON.1S there in quarter hour
 %eng:	oh, I'll be there in fifteen minutes
-*MOS:	bydda i gweud +"/ . 613713_614108
+*MOS:	bydda i gweud +"/. 613713_614108
 %gls:	be.1S.FUT PRON.1S say.NONFIN
 %eng:	I'll say:
 *MOS:	+" oh@s:cym&eng o_k@s:cym&eng ffono [?] nôl mewn deg munud . 614108_615698
@@ -985,7 +986,7 @@
 %gls:	be.3S.PRES take.NONFIN approximately thirty_five minute from place this
 %eng:	it takes approximately thirty-five minutes from here
 *LLE:	+< &=laugh . 632029_633991
-*LLE:	na o: +// . 633991_635230
+*LLE:	na o: +//. 633991_635230
 %gls:	no from
 %eng:	no, from...
 *LLE:	deuda wan <bod ti yn brifysgol Bang(or)@s:cym&eng> [//] bod ti yn Bangor@s:cym&eng de yn &s [//] J_M_J@s:cym&eng faint o amser mae (y)n cymryd # i fynd adre ? 635230_640923
@@ -1024,13 +1025,13 @@
 *MOS:	ond peth yw elli di wneud e mewn tair a hanner os ti mynd i # er@s:cym&eng # Caer a wedyn xxx . 652358_658059
 %gls:	but thing be.3S.PRES can.2S.NONPAST PRON.2S do.NONFIN PRON.3SM in three.F and half if PRON.2S go.NONFIN to IM Chester and then xxx
 %eng:	but  the thing is you can do it in three and a half if you go to, er, Chester and then [...]
-*LLE:	ti (we)di cael three@s:eng points@s:cym&eng eto neu +.. . 657722_659011
+*LLE:	ti (we)di cael three@s:eng points@s:cym&eng eto neu +... 657722_659011
 %gls:	PRON.2S PRT.PAST get.NONFIN three points yet or
 %eng:	have you had three points yet, or..?
 *LLE:	ti (we)di cael three@s:eng points@s:cym&eng ? 659011_662738
 %gls:	PRON.2S PRT.PAST get.NONFIN three point
 %eng:	have you had three points?
-*MOS:	dal i aros am yn er@s:cym&eng dri pwynt # achos # fi wedi +/ . 662738_668090
+*MOS:	dal i aros am yn er@s:cym&eng dri pwynt # achos # fi wedi +/. 662738_668090
 %gls:	still to wait.NONFIN for POSS.1S IM three.M point because PRON.1S PRT.PAST
 %eng:	still waiting for my, er, three points, because I've...
 *LLE:	+< wyt ? 666546_666999
@@ -1045,7 +1046,7 @@
 *LLE:	<be as@s:eng in@s:eng> [//] # be oedd y # flash@s:eng flash_o@s:eng+cym chdi ? 670644_673837
 %gls:	what as in what be.3S.IMP DET flash flash.NONFIN PRON.2S
 %eng:	what, as in...what did the flash flash you? [?]
-*MOS:	+< achos +// . 671329_671910
+*MOS:	+< achos +//. 671329_671910
 %gls:	because
 %eng:	because...
 *MOS:	oh@s:cym&eng na nage flash@s:eng . 673802_674917
@@ -1180,19 +1181,19 @@
 *LLE:	do dw meddwl de . 743760_744851
 %gls:	yes be.1S.PRES think.NONFIN TAG
 %eng:	yes, I think so, you know
-*MOS:	[- eng] +< (be)cause +/ . 744549_744921
+*MOS:	[- eng] +< (be)cause +/. 744549_744921
 %gls:	because
 %eng:	because
 *LLE:	<dw i (we)di &k> [//] dw i (we)di (ga)laru ar hyn de . 744851_746326
 %gls:	be.1S.PRES PRON.1S PRT.PAST be.1S.PRES PRON.1S PRT.PAST grow_tired.NONFIN on this TAG
 %eng:	I've...I've had enough of this, you know
-*MOS:	+< xx just@s:cym&eng mor bored@s:eng &i +// . 745281_746546
+*MOS:	+< xx just@s:cym&eng mor bored@s:eng &i +//. 745281_746546
 %gls:	xx just so bored
 %eng:	[...] just so bored...
-*MOS:	“(ga)laru” +! ? 746546_747324
+*MOS:	“(ga)laru” +!? 746546_747324
 %gls:	grow_tired.NONFIN
 %eng:	"laru"!?
-*LLE:	+< dw i (we)di +// . 746569_746941
+*LLE:	+< dw i (we)di +//. 746569_746941
 %gls:	be.1S.PRES PRON.1S PRT.PAST
 %eng:	I've...
 *MOS:	&=laugh “laru” . 747324_748369
@@ -1254,7 +1255,7 @@
 *MOS:	oh@s:cym&eng . 769476_770254
 %gls:	IM
 %eng:	oh
-*LLE:	gawn ni just@s:cym&eng <mynd round@s:cym&eng y mouse@s:eng [*] [//] mae(s) [//] mouse@s:eng [*]> [///] # xxx cerdded o_gwmpas y maes a wedyn +/ . 770254_773667
+*LLE:	gawn ni just@s:cym&eng <mynd round@s:cym&eng y mouse@s:eng [*] [//] mae(s) [//] mouse@s:eng [*]> [///] # xxx cerdded o_gwmpas y maes a wedyn +/. 770254_773667
 %gls:	get.1PL.NONPAST PRON.1PL just go.NONFIN round DET mouse field mouse xxx walk.NONFIN around DET field and then
 %eng:	can we just go round the mouse...field...mouse [...] walk around the field, and then...
 *RES:	+< just@s:cym&eng cerdded o_gwmpas xxx . 771659_772854
@@ -1263,16 +1264,16 @@
 *MOS:	ti actually@s:eng <mynd i> [//] dal mynd i <bigo ti lan> [//] bigo ni lan ? 773238_775258
 %gls:	PRON.2S actually go.NONFIN to still go.NONFIN to pick.NONFIN PRON.2S up pick.NONFIN PRON.1PL up
 %eng:	you actually going to...still going to pick you up...pick us up?
-*LLE:	+< pan dan ni dod nôl +// . 774027_774770
+*LLE:	+< pan dan ni dod nôl +//. 774027_774770
 %gls:	when be.1PL.PRES PRON.1PL come.NONFIN back
 %eng:	when we come back...
 *LLE:	<faint mor &b> [//] <faint o> [/] faint o bell [/] bell i_ffwrdd dan ni gallu mynd ? 775200_777673
 %gls:	how_much so how_much of how_much of far far away be.1PL.PRES PRON.1PL can.NONFIN go.NONFIN
 %eng:	how...how...how far...far away can we go?
-*RES:	just@s:cym&eng cerdded o_gwmpas +// . 777673_779797
+*RES:	just@s:cym&eng cerdded o_gwmpas +//. 777673_779797
 %gls:	just walk.NONFIN around
 %eng:	just walk around...
-*RES:	paid â mynd yn bellach +/ . 779797_781399
+*RES:	paid â mynd yn bellach +/. 779797_781399
 %gls:	desist.2S.IMPER PRT go.NONFIN PRT further
 %eng:	don't go further...
 *LLE:	gawn ni mynd am bint@s:cym&eng ? 781179_782038
@@ -1332,7 +1333,7 @@
 *MOS:	lle <mae o> [?] ? 812108_812735
 %gls:	where be.3S.PRES PRON.3SM
 %eng:	where is he?
-*LLE:	yn siarad ar y telly@s:cym&eng box@s:cym&eng # well@s:cym&eng +.. . 814975_816763
+*LLE:	yn siarad ar y telly@s:cym&eng box@s:cym&eng # well@s:cym&eng +... 814975_816763
 %gls:	PRT speak.NONFIN on DET telly box well
 %eng:	talking on the telly box, well...
 *MOS:	na Hywel_Gwynfryn@s:cym&eng yw hwnna (y)r cock@s:cym&eng . 816763_819445
@@ -1376,7 +1377,7 @@
 %gls:	hiya PRON.2S right
 %eng:	hiya, you alright?
 %com:	addresses a passer-by
-*MOS:	felly er@s:cym&eng +.. . 922588_923180
+*MOS:	felly er@s:cym&eng +... 922588_923180
 %gls:	so IM
 %eng:	so er...
 *MOS:	su(t) mae . 923180_924492

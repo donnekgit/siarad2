@@ -3,10 +3,10 @@
 @Begin
 @Languages:	cy, en
 @Participants:	JEA Jean Adult, GRG George Adult, SAN Sandra Adult, ART Arthur Adult, RES Researcher Adult
-@ID:	cy|siarad|JEA|53;|female|||Adult||
-@ID:	cy|siarad|GRG|53;|male|||Adult||
-@ID:	cy|siarad|SAN|22;|female|||Adult||
-@ID:	cy|siarad|ART|26;|male|||Adult||
+@ID:	cym|siarad|JEA|53;|female|||Adult||
+@ID:	cym|siarad|GRG|53;|male|||Adult||
+@ID:	cym|siarad|SAN|22;|female|||Adult||
+@ID:	cym|siarad|ART|26;|male|||Adult||
 @Situation:	Familial conversation at speakers' home. George and Jean are husband and wife and Sandra and Arthur are their daughter and son respectively
 @Comment:	JEA was brought up in north-west Wales and has lived there all her life
 @Comment:	GRG was brought up in England but moved to north-west Wales as a teenager, where he has lived since
@@ -14,10 +14,11 @@
 @Comment:	ART was brought up in north-west Wales but has been living in England for a number of years
 @Date:	24-MAR-2008
 @Comment:	Researcher:	Siân Wynn Lloyd, Bangor University
-@Coder:	Siân Wynn Lloyd, Bangor University
+@Transcriber:	Siân Wynn Lloyd, Bangor University
 @Time Duration:	00:34:56
-@Comment:	Filename:	Lloyd1.CHA; Soundfile:	Lloyd1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	lloyd1, audio
+@Comment:	Filename:	Lloyd1.cha; Soundfile:	Lloyd1.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *ART:	eh@s:cym&eng ? 0_1068
 %gls:	IM
 %eng:	eh
@@ -46,7 +47,7 @@
 *JEA:	mae o allan a finnau mewn . 11428_13193
 %gls:	be.3S.PRES PRON.3SM out and PRON.1S in
 %eng:	he's out and I'm inside
-*RES:	oh@s:cym&eng na ti [//] chimod +/ . 13193_14222
+*RES:	oh@s:cym&eng na ti [//] chimod +/. 13193_14222
 %gls:	IM no PRON.2S know.2PL
 %eng:	oh no you know...
 *JEA:	+< ti (y)n aros i_mewn wan ? 13588_14889
@@ -222,7 +223,7 @@
 *ART:	yeah@s:cym&eng dw i (y)n nabod y gwyneb (he)fyd . 208306_210407
 %gls:	yeah be.1S.PRES PRON.1S PRT recognise.NONFIN DET face also
 %eng:	yeah I recognise the face as well
-*GRG:	I'm@s:eng sure@s:cym&eng she@s:eng used@s:eng to@s:eng work@s:eng where@s:eng um@s:cym&eng +/ . 210407_212637
+*GRG:	I'm@s:eng sure@s:cym&eng she@s:eng used@s:eng to@s:eng work@s:eng where@s:eng um@s:cym&eng +/. 210407_212637
 %gls:	I'm sure she used to work where IM
 %eng:	I'm sure she used to work where IM
 *JEA:	+< be (y)dy enw hi ? 211928_212741
@@ -263,7 +264,7 @@
 *JEA:	&t ti (ddi)m (y)n rhoid o . 244859_246659
 %gls:	PRON.2S NEG PRT put.NONFIN PRON.3SM
 %eng:	your not putting it
-*GRG:	&=coughs be (y)dy (y)r date@s:eng heddiw um@s:cym&eng tenth@s:eng um@s:cym&eng +.. . 246612_249166
+*GRG:	&=coughs be (y)dy (y)r date@s:eng heddiw um@s:cym&eng tenth@s:eng um@s:cym&eng +... 246612_249166
 %gls:	what be.3S.PRES DET date today IM tenth IM
 %eng:	what's the date today um tenth um...
 *JEA:	+< ro i o (y)n fa(n) (y)ma # ti a Siân@s:cym&eng . 248389_249840
@@ -302,7 +303,7 @@
 *JEA:	dach chi (we)di bwcio rywle i gael swper heno ? 284579_286332
 %gls:	be.2PL.PRES PRON.2PL PRT.PAST book.NONFIN somewhere to get.NONFIN supper tonight
 %eng:	have you booked anywhere to have supper tonight ?
-*JEA:	neu dach chi (y)n mynd i gael +.. . 286379_287319
+*JEA:	neu dach chi (y)n mynd i gael +... 286379_287319
 %gls:	or be.2PL.PRES PRON.2PL PRT go.NONFIN to get.NONFIN
 %eng:	or are you going to have..?
 *ART:	na gawn ni rywbeth yna . 287273_288318
@@ -377,7 +378,7 @@
 *GRG:	go@s:eng to@s:eng Twm@s:cym&eng . 333955_334512
 %gls:	go to Tom
 %eng:	go to Tom
-*GRG:	you@s:eng going@s:eng to@s:eng um@s:cym&eng +/ . 334524_335488
+*GRG:	you@s:eng going@s:eng to@s:eng um@s:cym&eng +/. 334524_335488
 %gls:	you going to IM
 %eng:	you going to um
 *JEA:	Nia's@s:cym&eng . 335442_336255
@@ -392,7 +393,7 @@
 *GRG:	[- eng] +< what's for tea ? 337010_337707
 %gls:	what's for tea
 %eng:	what's for tea?
-*GRG:	+< oh@s:cym&eng we@s:eng got@s:eng +// . 337772_338178
+*GRG:	+< oh@s:cym&eng we@s:eng got@s:eng +//. 337772_338178
 %gls:	IM we got
 %eng:	oh we got...
 *GRG:	um@s:cym&eng do@s:eng we@s:eng eat@s:eng the@s:eng aubergine@s:cym&eng that's@s:eng in@s:eng the@s:eng middle@s:eng ? 338171_340017
@@ -661,7 +662,7 @@
 *GRG:	and@s:eng you@s:eng can@s:eng stop@s:eng farting@s:eng Arthur_Llywelyn@s:cym&eng . 475977_477691
 %gls:	and you can stop farting Arthur_Llywelyn
 %eng:	and you can stop farting Arthur Llywelyn
-*JEA:	mae (y)r te (y)ma (y)n stiw(io) [?] &=laughs +// . 476360_479204
+*JEA:	mae (y)r te (y)ma (y)n stiw(io) [?] &=laughs +//. 476360_479204
 %gls:	be.3S.PRES DET tea here PRT stew.NONFIN
 %eng:	this tea is stewing
 *JEA:	mae (y)r te (y)ma (y)n stiwio Siân@s:cym&eng . 479211_481545
@@ -902,7 +903,7 @@
 *ART:	wnawn ni adael half@s:eng past@s:eng Siân@s:cym&eng ? 642930_644474
 %gls:	do.1PL.NONPAST PRON.1PL leave.NONFIN half past Siân
 %eng:	we'll leave half past Siân?
-*RES:	[- eng] half past +.. . 644352_645664
+*RES:	[- eng] half past +... 644352_645664
 %gls:	half past
 %eng:	half past ?
 *ART:	[- eng] ++ eleven . 645653_646431
@@ -986,7 +987,7 @@
 %gls:	number what
 %eng:	number for what?
 *ART:	xxx . 712017_715104
-*JEA:	mae hwn fel cael yr um@s:cym&eng # machine@s:cym&eng (y)na pan [?] +// . 715023_719370
+*JEA:	mae hwn fel cael yr um@s:cym&eng # machine@s:cym&eng (y)na pan [?] +//. 715023_719370
 %gls:	be.3S.PRES this like get.NONFIN DET IM machine there when
 %eng:	this is like having that um machine when...
 *JEA:	ti cofio (y)r machine@s:cym&eng (y)na o (y)r surgery@s:cym&eng ? 719370_721232
@@ -1054,7 +1055,7 @@
 *ART:	pardon@s:cym&eng ? 756560_757164
 %gls:	pardon
 %eng:	pardon?
-*GRG:	Eiriome@s:cym&eng who@s:eng told@s:eng her@s:eng so@s:cym&eng Eir(iome)@s:cym&eng &=laughs +.. . 757245_759637
+*GRG:	Eiriome@s:cym&eng who@s:eng told@s:eng her@s:eng so@s:cym&eng Eir(iome)@s:cym&eng &=laughs +... 757245_759637
 %gls:	Eirimoe who told her so Eiriome
 %eng:	Eirimoe who told her so Eiriome...
 *GRG:	see@s:eng you're@s:eng not@s:eng natural@s:eng Jean@s:cym&eng . 759681_760830
@@ -1109,10 +1110,10 @@
 *JEA:	gobeithio bod neb arall (we)di cael bronchitis@s:cym&eng . 799873_803565
 %gls:	hope.NONFIN be.NONFIN nobody else PRT.PAST get.NONFIN bronchitis
 %eng:	I hope nobody else has got bronchitis
-*JEA:	ond oedd hi (y)n +// . 804803_805344
+*JEA:	ond oedd hi (y)n +//. 804803_805344
 %gls:	but be.3S.IMP PRON.3SF PRT
 %eng:	but she/it was...
-*GRG:	you@s:eng don't@s:eng catch@s:eng bronchitis@s:cym&eng from@s:eng people@s:eng you@s:eng catch@s:eng it@s:eng through@s:eng [?] +/ . 804984_808042
+*GRG:	you@s:eng don't@s:eng catch@s:eng bronchitis@s:cym&eng from@s:eng people@s:eng you@s:eng catch@s:eng it@s:eng through@s:eng [?] +/. 804984_808042
 %gls:	you don't catch Bronchitis from people you catch it through
 %eng:	you don't catch Bronchitis from people you catch it through...
 *JEA:	I@s:eng know@s:eng but@s:eng gob(eithio) [?] neb arall (we)di bod yn sâl ta # cael ffliw . 806867_811093
@@ -1125,7 +1126,7 @@
 *JEA:	oh@s:cym&eng ia . 827763_828576
 %gls:	IM yes
 %eng:	oh yes
-*GRG:	I@s:eng think@s:eng my@s:eng bloody@s:cym&eng Tilhill@s:cym&eng thing@s:eng +/ . 828588_830770
+*GRG:	I@s:eng think@s:eng my@s:eng bloody@s:cym&eng Tilhill@s:cym&eng thing@s:eng +/. 828588_830770
 %gls:	I think my bloody Tilhill thing
 %eng:	I think my bloody Tilhill thing...
 *JEA:	coat@s:cym&eng felyn . 830759_831839
@@ -1279,7 +1280,7 @@
 *JEA:	paid ti â dare_io@s:eng+cym . 982935_985164
 %gls:	desist.NONFIN PRON.2S PRT dare.NONFIN
 %eng:	don't you dare
-*JEA:	gei di iwsio clwt arall George@s:cym&eng ti (ddi)m (y)n +.. . 985084_991165
+*JEA:	gei di iwsio clwt arall George@s:cym&eng ti (ddi)m (y)n +... 985084_991165
 %gls:	get.2S.NONPAST PRON.2S use.NONFIN cloth other George PRON.2S NEG PRT
 %eng:	you can use another cloth George, you're not...
 *GRG:	[- eng] this one ? 991130_992541
@@ -1344,7 +1345,7 @@
 *ART:	na dw i (y)n iawn thank@s:eng you@s:eng . 1056510_1059482
 %gls:	no be.1S.PRES PRON.1S PRT right thank you
 %eng:	no I'm fine thank you
-*JEA:	oh@s:cym&eng Gel@s:cym&eng bydd ddis(taw) +/ . 1059491_1061837
+*JEA:	oh@s:cym&eng Gel@s:cym&eng bydd ddis(taw) +/. 1059491_1061837
 %gls:	IM Gel be.2S.IMPER quiet
 %eng:	oh Gel be quiet...
 *ART:	+< xxx . 1060989_1061883
@@ -1514,7 +1515,7 @@
 %eng:	ding ding
 *JEA:	&=sighs . 1215290_1219372
 %com:	breathing and newspaper rustling .
-*JEA:	Duw mae hwnna +.. . 1230937_1233734
+*JEA:	Duw mae hwnna +... 1230937_1233734
 %gls:	lord be.3S.PRES that
 %eng:	lord that's
 *GRG:	be ? 1236630_1237733
@@ -1581,7 +1582,7 @@
 *GRG:	Arthur@s:cym&eng could@s:eng have@s:eng gone@s:eng there@s:eng . 1278139_1279265
 %gls:	Arthur could have gone there
 %eng:	Arthur could have gone there
-*JEA:	[- eng] hundred pound a night +! ? 1279216_1281418
+*JEA:	[- eng] hundred pound a night +!? 1279216_1281418
 %gls:	hundred pound a night
 %eng:	hundred pound a night!?
 *GRG:	[- eng] each ? 1281418_1282590
@@ -1606,7 +1607,7 @@
 *GRG:	na # that's@s:eng the@s:eng trouble@s:eng . 1308277_1310076
 %gls:	no that's the trouble
 %eng:	no that's the trouble
-*JEA:	Dyw sgwn i os dw i (we)di enill yr um@s:cym&eng +/ . 1310076_1313336
+*JEA:	Dyw sgwn i os dw i (we)di enill yr um@s:cym&eng +/. 1310076_1313336
 %gls:	lord if_know.1S.NONPAST PRON.1S if be.1S.PRES PRON.1S PRT.PAST win DET IM
 %eng:	lord I wonder if I've won the um...
 *JEA:	easter@s:eng egg@s:eng mawr fel hyn yn London_House@s:cym&eng . 1313290_1315832
@@ -1964,7 +1965,7 @@
 *SAN:	ah@s:cym&eng . 1558028_1558725
 %gls:	IM
 %eng:	ah
-*JEA:	o'n i +/ . 1558690_1559189
+*JEA:	o'n i +/. 1558690_1559189
 %gls:	be.1S.IMP PRON.1S
 %eng:	I had...
 *SAN:	wnest di ffindio fo ? 1559027_1559549
@@ -2099,7 +2100,7 @@
 %gls:	yes it has
 %eng:	yes it has
 *JEA:	&=yawns xxx [=! yawns] &=yawn . 1672979_1678377
-*JEA:	rho hwnna yn y +/ . 1678355_1681466
+*JEA:	rho hwnna yn y +/. 1678355_1681466
 %gls:	put.2S.IMPER that IN DET
 %eng:	put that in the...
 *GRG:	ah@s:cym&eng recycling@s:eng . 1681455_1682848
@@ -2163,7 +2164,7 @@
 *JEA:	papur ? 1709886_1710803
 %gls:	paper
 %eng:	paper ?
-*ART:	<papur a> [//] ### caniau xxx papur a +// . 1710676_1714370
+*ART:	<papur a> [//] ### caniau xxx papur a +//. 1710676_1714370
 %gls:	paper and cans xxx paper and
 %eng:	paper and...cans [...] paper and
 *GRG:	+< are@s:eng you@s:eng taking@s:eng your@s:eng books@s:cym&eng with@s:eng you@s:eng ? 1714056_1715717
@@ -2252,7 +2253,7 @@
 %gls:	I won't have to pay him
 %eng:	I won't have to pay him ?
 *ART:	[- eng] no . 1765746_1766837
-*GRG:	[- eng] give him a tip if he's got to +.. . 1766681_1768713
+*GRG:	[- eng] give him a tip if he's got to +... 1766681_1768713
 %gls:	give him a tip if he's got to
 %eng:	give him a tip if he's got to...
 *GRG:	[- eng] wh(ere) [/] where is the # wood going to ? 1768736_1770628
@@ -2295,7 +2296,7 @@
 *ART:	[- eng] there's nothing on there apparently . 1783378_1786048
 %gls:	there's nothing on there apparently
 %eng:	there's nothing on there apparently
-*GRG:	xxx +/ . 1785987_1787357
+*GRG:	xxx +/. 1785987_1787357
 *JEA:	+< lle (dd)aru ni basio llwyth o goed ? 1786811_1788495
 %gls:	where happen.PAST PRON.1PL pass.NONFIN load of trees
 %eng:	where did we pass a load of trees ?
@@ -2451,7 +2452,7 @@
 *GRG:	no@s:eng that's@s:eng what@s:eng [/] what@s:eng I@s:eng can't@s:eng understand@s:eng with@s:eng Jane@s:cym&eng um@s:cym&eng they@s:eng got@s:eng a@s:eng fortnight@s:eng off@s:cym&eng . 1916033_1919110
 %gls:	no that's what what I can't understand with Jane IM they got a fortnight off
 %eng:	no that's what what I can't understand with Jane um they got a fortnight off
-*GRG:	she@s:eng could@s:eng have@s:eng um@s:cym&eng you@s:eng know@s:eng +// . 1919122_1920515
+*GRG:	she@s:eng could@s:eng have@s:eng um@s:cym&eng you@s:eng know@s:eng +//. 1919122_1920515
 %gls:	she could have IM you know
 %eng:	she could have um you know...
 *JEA:	[- eng] no I don't think . 1920512_1923740
@@ -2508,7 +2509,7 @@
 *GRG:	[- eng] the other one does . 1972729_1973518
 %gls:	the other one does
 %eng:	the other one does
-*GRG:	the@s:eng other@s:eng one@s:eng is@s:eng um@s:cym&eng +/ . 1973437_1974760
+*GRG:	the@s:eng other@s:eng one@s:eng is@s:eng um@s:cym&eng +/. 1973437_1974760
 %gls:	the other one is IM
 %eng:	the other one is um
 *JEA:	+, o Blaenau@s:cym&eng . 1974702_1976107
@@ -2557,7 +2558,7 @@
 *JEA:	oeddech chi (y)n cael pythefnos ? 2003599_2004725
 %gls:	be.2PL.IMP PRON.2PL PRT get.NONFIN fortnight
 %eng:	did you get a fortnight?
-*GRG:	yeah@s:cym&eng but@s:eng um@s:cym&eng xxx [//] I@s:eng don't@s:eng think@s:eng they@s:eng ever@s:eng finished@s:eng <sort@s:cym&eng of@s:eng this@s:eng> [?] +/ . 2004725_2007848
+*GRG:	yeah@s:cym&eng but@s:eng um@s:cym&eng xxx [//] I@s:eng don't@s:eng think@s:eng they@s:eng ever@s:eng finished@s:eng <sort@s:cym&eng of@s:eng this@s:eng> [?] +/. 2004725_2007848
 %gls:	yeah but IM xxx I don't think they ever finished sort of this
 %eng:	yeah but um [...] ...I don't think they ever finished sort of this...
 *GRG:	[- eng] &=breathes_in it's because Easter's early . 2007825_2009857

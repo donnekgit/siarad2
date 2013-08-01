@@ -3,17 +3,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	CEI Ceiriog Adult, DEW Dewi Adult,  RES Researcher Adult
-@ID:	cy|siarad|CEI|17;|male|||Teenager||
-@ID:	cy|siarad|DEW|45;|male|||Adult||
+@ID:	cym|siarad|CEI|17;|male|||Teenager||
+@ID:	cym|siarad|DEW|45;|male|||Adult||
 @Situation:	informal conversation at the Anglesey show between father and son
 @Comment:	CEI was brought up in north-west Wales and has lived there all his life
 @Comment:	DEW was brought up in north-west Wales and has lived there all his life
 @Date:	16-AUG-2006
 @Comment:	Researcher:	Gary Smith, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:24:30
-@Comment:	Filename: Smith1.CHA; Soundfile: Smith1.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	smith1, audio
+@Comment:	Filename: Smith1.cha; Soundfile: Smith1.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	a lot of background noise and some interference from the recording equipment. Some parts have been bleeped out for consent reasons
 *CEI:	dw i (ddi)m isio paned . 0_1184
 %gls:	be.1S.PRES PRON.1S NEG want cuppa
@@ -96,7 +97,7 @@
 %gls:	no
 %eng:	no
 *DEW:	xxx . 32516_33085
-*DEW:	dan ni dal isio siarad am: +.. . 33085_35511
+*DEW:	dan ni dal isio siarad am: +... 33085_35511
 %gls:	be.1PL.PRES PRON.1PL still want speak.NONFIN for
 %eng:	we still need to talk for...
 *CEI:	++ oes dau_deg_pum munud arall &=laugh . 34919_36939
@@ -111,7 +112,7 @@
 *DEW:	faint o gloch fyddan ni adre ? 39842_41758
 %gls:	how_much of time be.1PL.FUT PRON.1PL home
 %eng:	what time will we be home?
-*CEI:	awn ni tua ryw # xxx +/ . 41758_44497
+*CEI:	awn ni tua ryw # xxx +/. 41758_44497
 %gls:	go.1PL.NONPAST PRON.1PL approximately some xxx
 %eng:	we'll go at about [...] ...
 *DEW:	++ han(ner) (we)di tri . 43812_44497
@@ -126,7 +127,7 @@
 *DEW:	xxx (we)di blino yeah@s:cym&eng ? 47179_48410
 %gls:	xxx PRT.PAST tire.NONFIN yeah
 %eng:	[...] tired, yeah?
-*DEW:	so@s:cym&eng +.. . 48410_50465
+*DEW:	so@s:cym&eng +... 48410_50465
 %gls:	so
 %eng:	so...
 *CEI:	<dw i (we)di> [?] gael top@s:cym&eng Cymru a xxx mam@s:cym&eng . 49954_52346
@@ -156,7 +157,7 @@
 *CEI:	(ba)sai nice@s:cym&eng cael o heddiw xxx gwario fo . 61204_65651
 %gls:	be.3S.CONDIT nice get.NONFIN PRON.3SM today xxx spend.NONFIN PRON.3SM
 %eng:	it'd be nice to get it today [...] spend it
-*DEW:	+< so@s:cym&eng +.. . 64246_64745
+*DEW:	+< so@s:cym&eng +... 64246_64745
 %gls:	so
 %eng:	so...
 *DEW:	bysai . 65651_66347
@@ -454,7 +455,7 @@
 *CEI:	mae (y)n twenty_five@s:eng past@s:eng ten@s:eng wan . 230945_232745
 %gls:	be.3S.PRES PRT twenty_five past ten now
 %eng:	it's twenty-five past ten now
-*DEW:	yndy +! ? 232745_234428
+*DEW:	yndy +!? 232745_234428
 %gls:	be.3S.PRES
 %eng:	is it!?
 *DEW:	ugain <munud arall felly> [=! laughs] . 234428_235798
@@ -580,7 +581,7 @@
 *CEI:	ia ond ti (ddi)m isio siarad <fel (yn)a nag oes> [?] . 395721_397195
 %gls:	yes but PRON.2S NEG want speak.NONFIN like there NEG be.3S.PRES
 %eng:	yes but you don't want to talk like that, do you
-*DEW:	+< xxx +// . 397091_397613
+*DEW:	+< xxx +//. 397091_397613
 *CEI:	ti isio siarad fath â ti siarad fel arfer . 397195_398542
 %gls:	PRON.2S want speak.NONFIN kind with PRON.2S speak.NONFIN like habit
 %eng:	you want to speak like you usually speak
@@ -596,7 +597,7 @@
 *CEI:	Man_U@s:cym&eng . 405938_407006
 %gls:	Man_U
 %eng:	Man U
-*DEW:	Man_U@s:cym&eng +! ? 407006_407842
+*DEW:	Man_U@s:cym&eng +!? 407006_407842
 %gls:	Man_U
 %eng:	Man U!?
 *DEW:	o'n i meddwl Lerpwl oedda chdi syportio . 407842_409362
@@ -614,7 +615,7 @@
 *CEI:	[- eng] Liverpool . 413182_414564
 %gls:	Liverpool
 %eng:	Liverpool
-*DEW:	eh@s:cym&eng +! ? 414564_415040
+*DEW:	eh@s:cym&eng +!? 414564_415040
 %gls:	IM
 %eng:	eh!?
 *CEI:	[- eng] Liverpool . 415040_415876
@@ -788,7 +789,7 @@
 *DEW:	sut dach chi &=laugh ? 536228_537899
 %gls:	how be.2PL.PRES PRON.2PL
 %eng:	how are you?
-*CEI:	+< Seiriol@s:cym&eng +// . 536715_537330
+*CEI:	+< Seiriol@s:cym&eng +//. 536715_537330
 %gls:	Seiriol
 %eng:	Seiriol...
 *CEI:	Seiriol@s:cym&eng o fire_brigade@s:eng Caernarfon@s:cym&eng # trio sgorio ticedi am ddim heddiw i ddod yma . 537690_541557
@@ -807,7 +808,7 @@
 *DEW:	oh@s:cym&eng (ba)sai taid wrth ei fodd yma . 548650_550206
 %gls:	IM be.3S.CONDIT grandfather by POSS.3SM likin here
 %eng:	oh, grandad would love it here
-*DEW:	(ba)sai hwnna siarad am +// . 550206_552969
+*DEW:	(ba)sai hwnna siarad am +//. 550206_552969
 %gls:	be.3S.CONDIT that speak.NONFIN for
 %eng:	he'd talk for...
 *DEW:	(ba)sai hwnna (ddi)m cau geg am &t dau ddiwrnod . 552969_555059
@@ -849,7 +850,7 @@
 *CEI:	mmm@s:cym&eng . 573182_573507
 %gls:	IM
 %eng:	mmm
-*DEW:	isio wneud &=laugh +.. . 573507_575945
+*DEW:	isio wneud &=laugh +... 573507_575945
 %gls:	want do.NONFIN
 %eng:	want to do...
 *CEI:	+< na . 574355_574761
@@ -961,7 +962,7 @@
 *CEI:	ti (e)rioed (we)di gael (r)hein o blaen naddo ? 624730_625915
 %gls:	PRON.2S never PRT.PAST get.NONFIN these of before no
 %eng:	you've never had these before, have you?
-*DEW:	(r)hein mae nhw (y)n iwsio +.. . 625915_627099
+*DEW:	(r)hein mae nhw (y)n iwsio +... 625915_627099
 %gls:	these be.3PL.PRES PRON.3PL PRT use.NONFIN
 %eng:	they use these...
 *CEI:	o'n i gael (r)hein yn Uned_pump@s:cym&eng bob tro . 626251_627610
@@ -1003,17 +1004,17 @@
 *DEW:	(doe)s (yn)a (ddi)m rhaglen arall i chdi nag oes ? 645779_650690
 %gls:	be.3S.PRES.NEG there NEG programme other for PRON.2S NEG be.3S.PRES
 %eng:	there's no other programme for you, is there?
-*DEW:	xxx +/ . 650690_653286
-*CEI:	wnes i ennill holiday@s:cym&eng o blaen do ar # um@s:cym&eng +/ . 652857_655597
+*DEW:	xxx +/. 650690_653286
+*CEI:	wnes i ennill holiday@s:cym&eng o blaen do ar # um@s:cym&eng +/. 652857_655597
 %gls:	do.1S.PAST PRON.1S win.NONFIN holiday of before yes on IM
 %eng:	I won a holiday before, didn't I, on, um...
 *DEW:	+< do . 654575_655028
 %gls:	yes
 %eng:	yes
-*DEW:	a toys@s:cym&eng +.. . 655597_656676
+*DEW:	a toys@s:cym&eng +... 655597_656676
 %gls:	and toys
 %eng:	and toys...
-*CEI:	do um@s:cym&eng ennill werth +.. . 656676_659463
+*CEI:	do um@s:cym&eng ennill werth +... 656676_659463
 %gls:	yes IM win.NONFIN worth
 %eng:	yes um, won worth...
 *DEW:	++ mil o bunnau . 658847_659672
@@ -1043,7 +1044,7 @@
 *CEI:	dw gwybod . 672396_673012
 %gls:	be.1S.PRES know.NONFIN
 %eng:	I know
-*CEI:	xxx +/ . 673012_673697
+*CEI:	xxx +/. 673012_673697
 *DEW:	oedd o (y)n glear@s:cym&eng wsnos yma . 673093_674161
 %gls:	be.3S.IMP PRON.3SM PRT clear week here
 %eng:	he was clear this week
@@ -1120,7 +1121,7 @@
 %gls:	and be.3S.PRES sin over.3SM PRON.3SM be.3S.PRES
 %eng:	and it's unfortunate for him, isn't it
 *DEW:	xxx . 715760_717304
-*CEI:	oh@s:cym&eng yeah@s:cym&eng ond +/ . 716607_717373
+*CEI:	oh@s:cym&eng yeah@s:cym&eng ond +/. 716607_717373
 %gls:	IM yeah but
 %eng:	oh yeah but...
 *DEW:	ella geith o help@s:cym&eng wan . 717373_718441
@@ -1135,7 +1136,7 @@
 *DEW:	(dy)dy o (ddi)m yn deg bod hi (we)di gael dod yn_ôl i_mewn pan mae rywun (we)di ## hel hi o (y)na chwaith na(g) (y)dy . 723979_729761
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT fair be.NONFIN PRON.3SF PRT.PAST get.NONFIN come.NONFIN back in when be.3S.PRES somebody PRT.PAST chase.NONFIN PRON.3SF from there either NEG be.3S.PRES
 %eng:	it's not fair that she's been allowed back in when somebody's driven her out either, is it
-*CEI:	+< oh@s:cym&eng yeah@s:cym&eng ond mae (y)n cool@s:cym&eng though@s:eng yndy xxx +.. . 727845_729250
+*CEI:	+< oh@s:cym&eng yeah@s:cym&eng ond mae (y)n cool@s:cym&eng though@s:eng yndy xxx +... 727845_729250
 %gls:	IM yeah but be.3S.PRES PRT cool though be.3S.PRES xxx
 %eng:	oh yeah, but it's cool though, isn't it, [...] ...
 *CEI:	mae (y)n cool@s:cym&eng bod mae nôl i_mewn though@s:eng (y)ndy . 729761_732060
@@ -1170,7 +1171,7 @@
 *CEI:	pam ti (y)n trio siarad o wan ta ? 757288_759657
 %gls:	why PRON.2S PRT try.NONFIN speak.NONFIN PRON.3SM now then
 %eng:	why are you trying to speak it now then?
-*DEW:	+< xxx +// . 758357_758624
+*DEW:	+< xxx +//. 758357_758624
 *DEW:	xxx raid chdi . 759657_760899
 %gls:	xxx necessity PRON.2S
 %eng:	[...] you have to
@@ -1192,7 +1193,7 @@
 *CEI:	ia ond # Bangor@s:cym&eng &m (y)dy (r)heina . 766576_769305
 %gls:	yes but Bangor be.3S.PRES those
 %eng:	yes but they're Bangor
-*DEW:	+< just@s:cym&eng +// . 768132_768562
+*DEW:	+< just@s:cym&eng +//. 768132_768562
 %gls:	just
 %eng:	just...
 *CEI:	mae nhw dallt iaith ni (y)dyn . 769305_770570
@@ -1206,7 +1207,7 @@
 %gls:	be.3S.PRES.NEG there nothing xx be.3S.PRES.NEG there nothing PRT wrong on language gogs NEG be.3S.PRES IM
 %eng:	there's nothing wrong with the language of northerners, is there, eh
 %com:	"gogs" pronounced /gɔ:gs/
-*CEI:	dan ni well sti [?] siarad fo na +.. . 778372_779939
+*CEI:	dan ni well sti [?] siarad fo na +... 778372_779939
 %gls:	be.1PL.PRES PRON.1PL better know.2S speak.NONFIN PRON.3SM PRT
 %eng:	we're better, you know, at speaking it than...
 *DEW:	watsia eh@s:cym&eng dyro hwnna (y)n dy boced xxx chdi anghofio fo . 779533_781890
@@ -1251,7 +1252,7 @@
 *CEI:	dim_byd . 802184_803055
 %gls:	nothing
 %eng:	nothing
-*DEW:	(ba)sai nice@s:cym&eng i ennill <yr er@s:cym&eng> [/] # y dafad (y)na +/ . 803055_805423
+*DEW:	(ba)sai nice@s:cym&eng i ennill <yr er@s:cym&eng> [/] # y dafad (y)na +/. 803055_805423
 %gls:	be.3S.CONDIT nice to win.NONFIN DET IM DET sheep there
 %eng:	it'd be nice to win the, er...that sheep
 *CEI:	bysai . 805423_806306
@@ -1375,7 +1376,7 @@
 *DEW:	do . 872675_873511
 %gls:	yes
 %eng:	yes
-*CEI:	just@s:cym&eng efo fi (y)n gweithio bob nos Wener a pethau +.. . 873511_875729
+*CEI:	just@s:cym&eng efo fi (y)n gweithio bob nos Wener a pethau +... 873511_875729
 %gls:	just with PRON.1S PRT work.NONFIN every night Friday and things
 %eng:	just, with me working every Friday night and so on...
 *DEW:	ia . 875729_876240
@@ -1393,13 +1394,13 @@
 *CEI:	yn mynd at Glanaethwy@s:cym&eng . 884425_886027
 %gls:	PRT go.NONFIN to Glanaethwy
 %eng:	going to Glanaethwy
-*DEW:	lle mae +.. . 886027_887408
+*DEW:	lle mae +... 886027_887408
 %gls:	where be.3S.PRES
 %eng:	where is..?
 *DEW:	ym Menai_Bridge@s:eng ? 887408_888175
 %gls:	in Menai_Bridge
 %eng:	in Menai Bridge?
-*CEI:	(ba)sa chdi gael bus:@s:cym&eng # &m um@s:cym&eng [=? yn] +/ . 888175_890264
+*CEI:	(ba)sa chdi gael bus:@s:cym&eng # &m um@s:cym&eng [=? yn] +/. 888175_890264
 %gls:	be.2S.CONDIT PRON.2S get.NONFIN bus IM
 %eng:	you'd get a bus, um...
 *DEW:	++ i Bangor@s:cym&eng a wedyn i # Menai_Bridge@s:eng . 889963_892343
@@ -1503,7 +1504,7 @@
 *CEI:	ia . 954881_955392
 %gls:	yes
 %eng:	yes
-*DEW:	yeah@s:cym&eng [?] so@s:cym&eng +/ . 955392_957111
+*DEW:	yeah@s:cym&eng [?] so@s:cym&eng +/. 955392_957111
 %gls:	yeah so
 %eng:	yeah, so...
 *CEI:	awn ni round@s:cym&eng wan trio sgorio bach o freebies@s:eng . 957111_959038
@@ -1587,7 +1588,7 @@
 *CEI:	ti deud hynna (y)n barod . 1003887_1005385
 %gls:	PRON.2S say.NONFIN that PRT ready
 %eng:	you've said that already
-*CEI:	a wnes i ddeud +"/ . 1005385_1007080
+*CEI:	a wnes i ddeud +"/. 1005385_1007080
 %gls:	and do.1S.PAST PRON.1S say.NONFIN
 %eng:	and I said:
 *CEI:	+" gei di dalu amdano fo . 1007080_1007823
@@ -1626,10 +1627,10 @@
 *CEI:	ond [?] mae dda . 1028338_1029545
 %gls:	but be.3S.PRES good
 %eng:	but it's good
-*CEI:	just@s:cym&eng (dy)dy o (ddi)m yn +// . 1029545_1030822
+*CEI:	just@s:cym&eng (dy)dy o (ddi)m yn +//. 1029545_1030822
 %gls:	just be.3S.PRES.NEG PRON.3SM NEG PRT
 %eng:	just it isn't...
-*CEI:	mae well i # gael mwy o le just@s:cym&eng +.. . 1030822_1033179
+*CEI:	mae well i # gael mwy o le just@s:cym&eng +... 1030822_1033179
 %gls:	be.3S.PRES better to get.NONFIN more of place just
 %eng:	it's better to have more space, just...
 *DEW:	yeah@s:cym&eng . 1033179_1034015
@@ -1686,10 +1687,10 @@
 *DEW:	xxx ceffylau mawr (y)na dw isio weld shire@s:eng horses@s:cym&eng (y)na . 1064433_1067998
 %gls:	xxx horses big there be.1S.PRES want see.NONFIN shire horses there
 %eng:	[...] it's those big horses I want to see, those shire horses
-*CEI:	ie efo (y)r +// . 1067998_1069100
+*CEI:	ie efo (y)r +//. 1067998_1069100
 %gls:	yes with DET
 %eng:	yes, with the...
-*CEI:	ti cofio (y)r rei Foel_Farm@s:eng (y)na rei gwyn mawr (y)na efo &hu [//] fath â +.. . 1069100_1072456
+*CEI:	ti cofio (y)r rei Foel_Farm@s:eng (y)na rei gwyn mawr (y)na efo &hu [//] fath â +... 1069100_1072456
 %gls:	PRON.2S remember.NONFIN DET some Foel_Farm there some white big there with kind with
 %eng:	you remember those Foel Farm ones, those big white ones with, like..?
 *DEW:	+< yeah@s:cym&eng . 1071260_1071655
@@ -1801,7 +1802,7 @@
 *CEI:	ia ond ar # pethau [?] dw i feddwl . 1129496_1130900
 %gls:	yes but on things be.1S.PRES PRON.1S think.NONFIN
 %eng:	yes but on thingys, I mean
-*CEI:	xxx +/ . 1130866_1131272
+*CEI:	xxx +/. 1130866_1131272
 *DEW:	oh@s:cym&eng (ba)sai (we)di gallu bod xxx . 1130924_1132119
 %gls:	IM be.3S.CONDIT PRT.PAST can.NONFIN be.NONFIN xxx
 %eng:	oh, he could have been [...]
@@ -1893,22 +1894,22 @@
 *DEW:	xxx mae [?] (we)di costio digon . 1191040_1192329
 %gls:	xxx be.3S.PRES PRT.PAST cost.NONFIN enough
 %eng:	[...] it cost enough
-*CEI:	ia wnaeth hi wario # xxx +/ . 1192329_1194546
+*CEI:	ia wnaeth hi wario # xxx +/. 1192329_1194546
 %gls:	yes do.3S.PAST PRON.3SF spend.NONFIN xxx
 %eng:	yes, she spent [...] ...
 *DEW:	lle oedd hi mynd heddiw ta ? 1194221_1195394
 %gls:	where be.3S.IMP PRON.3SF go.NONFIN today then
 %eng:	where was she going today, then?
-*CEI:	dw i (ddi)m yn xxx +/ . 1195394_1196439
+*CEI:	dw i (ddi)m yn xxx +/. 1195394_1196439
 %gls:	be.1S.PRES PRON.1S NEG PRT xxx
 %eng:	I don't...
 *DEW:	rhyfedd [?] (ba)sai Emily@s:cym&eng (we)di dod yma . 1196125_1197518
 %gls:	strange be.3S.CONDIT Emily PRT.PAST come.NONFIN here
 %eng:	strange that Emily didn't come here
-*CEI:	na ddoe oedd [//] um@s:cym&eng oedd hi &m +// . 1197518_1199441
+*CEI:	na ddoe oedd [//] um@s:cym&eng oedd hi &m +//. 1197518_1199441
 %gls:	no yesterday be.3S.IMP IM be.3S.IMP PRON.3SF
 %eng:	no, it was yesterday she was...
-*CEI:	doedd hi (ddi)m isio myn(d) +// . 1199441_1200370
+*CEI:	doedd hi (ddi)m isio myn(d) +//. 1199441_1200370
 %gls:	be.3S.IMP.NEG PRON.3SF NEG want go.NONFIN
 %eng:	she didn't want to go...
 *CEI:	doedd xxx (ddi)m isio mynd chwaith nag oedd . 1200370_1202169
@@ -1932,7 +1933,7 @@
 *DEW:	hanner awr ? 1210029_1211179
 %gls:	half hour
 %eng:	half an hour?
-*CEI:	(ba)sai siarad lot@s:cym&eng mwy na +.. . 1211179_1213675
+*CEI:	(ba)sai siarad lot@s:cym&eng mwy na +... 1211179_1213675
 %gls:	be.3S.CONDIT speak.NONFIN lot more PRT
 %eng:	she'd talk a lot more than...
 *DEW:	bysai . 1213675_1214151
@@ -1974,7 +1975,7 @@
 *DEW:	dau . 1239357_1239961
 %gls:	two.M
 %eng:	two
-*DEW:	ac +/ . 1239961_1241911
+*DEW:	ac +/. 1239961_1241911
 %gls:	and
 %eng:	and...
 *CEI:	a dan ni (y)n fflio chwarter wedi wyth . 1241331_1243107
@@ -2139,7 +2140,7 @@
 *DEW:	+< gaethoch chi (ddi)m barty@s:cym&eng Dolig chwaith . 1355777_1357170
 %gls:	get.2PL.PAST PRON.2PL NEG party Christmas either
 %eng:	you didn't have a Christmas party either
-*CEI:	na ond +/ . 1357170_1358447
+*CEI:	na ond +/. 1357170_1358447
 %gls:	no but
 %eng:	no but...
 *DEW:	am [=? ond] be ? 1358447_1358993
@@ -2160,10 +2161,10 @@
 *CEI:	+< wnes i weithio diwrnod Dolig do . 1368304_1369430
 %gls:	do.1S.PAST PRON.1S work.NONFIN day Christmas yes
 %eng:	I worked on Christmas day, didn't I
-*CEI:	so@s:cym&eng ges i +/ . 1369430_1370138
+*CEI:	so@s:cym&eng ges i +/. 1369430_1370138
 %gls:	so get.1S.PAST PRON.1S
 %eng:	so I got...
-*DEW:	++ &ɪk [//] ugain bunt do +/ . 1370138_1371299
+*DEW:	++ &ɪk [//] ugain bunt do +/. 1370138_1371299
 %gls:	twenty pound yes
 %eng:	twenty pounds, didn't you...
 *CEI:	do . 1371299_1371787
@@ -2272,7 +2273,7 @@
 *DEW:	eh@s:cym&eng ? 1419748_1422894
 %gls:	IM
 %eng:	eh?
-*DEW:	xxx +/ . 1422894_1423544
+*DEW:	xxx +/. 1422894_1423544
 *RES:	couple@s:cym&eng more@s:eng minutes@s:eng . 1423312_1424043
 %gls:	couple more minutes
 %eng:	couple more minutes
@@ -2302,11 +2303,11 @@
 *CEI:	<alla i (ddi)m> [?] coelio bod mae [?] pobl cerdded round@s:cym&eng (y)ma efo shorts@s:cym&eng yeah@s:cym&eng . 1437418_1439694
 %gls:	can.1S.NONPAST PRON.1S NEG believe.NONFIN be.NONFIN be.3S.PRES people walk.NONFIN around here with shorts yeah
 %eng:	I can't believe that people are walking around this place with shorts, yeah
-*DEW:	+< xxx +.. . 1437627_1438057
+*DEW:	+< xxx +... 1437627_1438057
 *DEW:	xxx (ba)swn i (we)di gwisgo nhw heddiw . 1439694_1441180
 %gls:	xxx be.1S.CONDIT PRON.1S PRT.PAST wear.NONFIN PRON.3PL today
 %eng:	[...] I'd have worn them today
-*DEW:	o'n i meddwl bod ti +/ . 1441180_1441853
+*DEW:	o'n i meddwl bod ti +/. 1441180_1441853
 %gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.2S
 %eng:	I thought you...
 *CEI:	na (ba)sa chdi (ddi)m yn gael . 1441505_1442596
@@ -2357,7 +2358,7 @@
 *CEI:	+< yeah@s:cym&eng dyla [/] <dyla chdi> [/] dyla chdi (we)di gwisgo fath â gym@s:eng bag@s:cym&eng xxx . 1456679_1459036
 %gls:	yeah should.2S.CONDIT should.2S.CONDIT PRON.2S should.2S.CONDIT PRON.2S PRT.PAST wear.NONFIN kind with gym bag xxx
 %eng:	you you should have worn a gym bag [...]
-*DEW:	+< mae dy +// . 1457666_1457979
+*DEW:	+< mae dy +//. 1457666_1457979
 %gls:	be.3S.PRES POSS.2S
 %eng:	your...
 *DEW:	mae dy bethau di gyd yn y bag@s:cym&eng yna iawn . 1458722_1460673
@@ -2387,7 +2388,7 @@
 *DEW:	ti (ddi)m i fod i nad wyt . 1477531_1478935
 %gls:	PRON.2S NEG to be.NONFIN to NEG be.2S.PRES
 %eng:	you're not supposed to, are you
-*DEW:	ti isio mynd i &x er@s:cym&eng +// . 1478935_1480201
+*DEW:	ti isio mynd i &x er@s:cym&eng +//. 1478935_1480201
 %gls:	PRON.2S want go.NONFIN to IM
 %eng:	you want to go to, er...
 *DEW:	ella mae (y)na bethau (y)n hwn . 1480201_1481223

@@ -3,16 +3,17 @@
 @Begin
 @Languages:	cy, en
 @Participants:	ISL Islwyn Adult, CAR Carys Adult
-@ID:	cy|siarad|ISL|66;|male|||Adult||
-@ID:	cy|siarad|CAR|67;|female|||Adult||
+@ID:	cym|siarad|ISL|66;|male|||Adult||
+@ID:	cym|siarad|CAR|67;|female|||Adult||
 @Situation:	Informal discussion between a brother and sister at his house
 @Comment:	ISL was brought up and lives in a rural part of north-east Wales
 @Comment:	CAR was brought up and lives in a rural part of north-east Wales, and has also spent many years in the Middle East and Africa
 @Date:	09-MAR-2007
 @Comment:	Researcher:	Jonathan Stammers, Bangor University
-@Coder:	Jonathan Stammers, Bangor University
+@Transcriber:	Jonathan Stammers, Bangor University
 @Time Duration:	00:30:31
-@Comment:	Filename: Stammers8.CHA; Soundfile: Stammers8.WAV
+@Media:	stammers8, audio
+@Comment:	Filename: Stammers8.cha; Soundfile: Stammers8.wav
 @Comment:	Language Markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
 @Warning:	CAR seems to have a slight speech impediment, does not roll her r's, pronounces several words in an unusual way, and also seems to use some idiosyncratic forms (e.g. "heblaw" in a different sense from the usual "except"). Both speakers have features such as use of imperfect tense in a past tense-type setting. To what extent these are part of her dialect is unclear.
 *ISL:	Ann_Andrews@s:cym&eng sy (y)n sefyll ## i (y)r Cynulliad yn yr ardal yma . 313_5074
@@ -106,7 +107,7 @@
 *ISL:	+< oedd ? 55219_55718
 %gls:	be.3S.IMP
 %eng:	did he?
-*ISL:	<oh@s:cym&eng dw i gyn &s> [?] +.. . 56252_57622
+*ISL:	<oh@s:cym&eng dw i gyn &s> [?] +... 56252_57622
 %gls:	IM be.1S.PRES PRON.1S with
 %eng:	oh, I've got...
 *ISL:	oh@s:cym&eng [=! laughs] # mae yn y pocket@s:cym&eng (y)na ! 57878_59770
@@ -116,9 +117,9 @@
 *ISL:	“Cymex@s:cym&eng” (y)dy enw fo . 59932_61395
 %gls:	Cymex be.3S.PRES name PRON.3SM
 %eng:	"Cymex", it's called.
-*CAR:	xxx +/ . 62127_62905
+*CAR:	xxx +/. 62127_62905
 *ISL:	C_Y_M_E_X@s:cym&eng . 62614_65575
-*CAR:	+< mmm@s:cym&eng # yeah@s:cym&eng dan +// . 64936_67045
+*CAR:	+< mmm@s:cym&eng # yeah@s:cym&eng dan +//. 64936_67045
 %gls:	IM yeah be.1PL.PRES
 %eng:	mmm, yeah we...
 *CAR:	<peth bychan> [?] ? 67061_68001
@@ -136,7 +137,7 @@
 *CAR:	mae (y)n un da yndy ? 69720_70916
 %gls:	be.3S.PRES PRT one good be.3S.PRES
 %eng:	it's a good one, isn't it?
-*CAR:	mae [/] mae Adam@s:cym&eng +/ . 71612_72687
+*CAR:	mae [/] mae Adam@s:cym&eng +/. 71612_72687
 %gls:	be.3S.PRES be.3S.PRES Adam
 %eng:	Adam is...
 *ISL:	p(a) (y)r un (y)dy (y)r gorau Cymex@s:cym&eng neu Germolene@s:cym&eng ? 72262_74654
@@ -182,7 +183,7 @@
 *ISL:	nos Wener oedd hi bynnag . 103127_104996
 %gls:	night Friday be.3S.IMP PRON.3SF ever
 %eng:	it was a Friday night, anyway.
-*ISL:	ew oedd o (y)n y # stafell ## gwrando ar +// . 105023_110154
+*ISL:	ew oedd o (y)n y # stafell ## gwrando ar +//. 105023_110154
 %gls:	IM be.3S.IMP PRON.3SM in DET room listen.NONFIN on
 %eng:	ooh, he was in the room listening to...
 *ISL:	well@s:cym&eng oedd hi (y)n forum@s:cym&eng . 110768_112092
@@ -191,7 +192,7 @@
 *ISL:	oedd (y)na bedwar o bobl yna ## o bob plaid &we wleidyddol . 112231_117305
 %gls:	be.3S.IMP there four of people there from every party political
 %eng:	there were four people there, from each political party.
-*ISL:	Colin_Collins@s:cym&eng Dickie_Dixon@s:cym&eng Cilcain@s:cym&eng ## Eddie_Evans@s:cym&eng ## dros y blaid +.. . 117387_123901
+*ISL:	Colin_Collins@s:cym&eng Dickie_Dixon@s:cym&eng Cilcain@s:cym&eng ## Eddie_Evans@s:cym&eng ## dros y blaid +... 117387_123901
 %gls:	Colin_Collins Dickie_Dixon Cilcain Eddie_Evans over DET party
 %eng:	Colin Collins, Dickie Dixon from Cilcain, Eddie Evans for the party...
 *CAR:	+< mmm@s:cym&eng . 117527_117910
@@ -205,14 +206,14 @@
 %gls:	IM IM be.3S.PRES
 %eng:	oh, has he?
 *CAR:	oh@s:cym&eng . 136511_136963
-*ISL:	xxx +// . 137338_138093
+*ISL:	xxx +//. 137338_138093
 *ISL:	oh@s:cym&eng ## Francis@s:cym&eng ! 138174_140194
 *ISL:	Frankie_Francis@s:cym&eng ! 140844_142168
 *CAR:	oh@s:cym&eng yeah@s:cym&eng ! 142342_143468
 *ISL:	fo (y)dy prifathro Llysfasi@s:cym&eng . 142551_144583
 %gls:	PRON.3SM be.3S.PRES headmaster Llysfasi
 %eng:	he's the headmaster of Llysfasi.
-*CAR:	wyt ti (y)n +/ . 146185_146750
+*CAR:	wyt ti (y)n +/. 146185_146750
 %gls:	be.2S.PRES PRON.2S PRT
 %eng:	are you...
 *ISL:	a mae (y)n dod o Gogledd_Iwerddon . 146251_147787
@@ -242,10 +243,10 @@
 *CAR:	<(dd)aru o (ddi)m> [?] cael &kumn paned o de na ddim_byd efo fo ! 159139_162715
 %gls:	happen.PAST PRON.3SM NEG get.NONFIN hot_drink of tea nor nothing with PRON.3SM
 %eng:	he didn't get a cup of tea or anything with it!
-*ISL:	+< a mae (y)n +/ . 160451_161043
+*ISL:	+< a mae (y)n +/. 160451_161043
 %gls:	and be.3S.PRES PRT
 %eng:	and he's...
-*ISL:	&=laugh <am anrhyd(edd)> [?] +/ . 162715_165555
+*ISL:	&=laugh <am anrhyd(edd)> [?] +/. 162715_165555
 %gls:	for honour
 %eng:	what an honour...
 *CAR:	hynny [?] just@s:cym&eng roi iddo fo ! 165176_166604
@@ -264,7 +265,7 @@
 *ISL:	yeah@s:cym&eng ond oedd o (y)n meddwl fasen nhw (we)di cael llymaid o rywbeth ! 171202_174023
 %gls:	yeah but be.3S.IMP PRON.3SM PRT think.NONFIN be.3PL.CONDIT PRON.3PL PRT.PAST get.NONFIN sip of something
 %eng:	yeah, but he'd thought they'd get a sip of something!
-*ISL:	+< mae Chris@s:cym&eng yn &ge +/ . 171852_173013
+*ISL:	+< mae Chris@s:cym&eng yn &ge +/. 171852_173013
 %gls:	be.3S.PRES Chris PRT
 %eng:	Chris is...
 *ISL:	mae Chris@s:cym&eng yn gefnder gynta i ni yndy ? 174290_176577
@@ -281,10 +282,10 @@
 *CAR:	+< yeah@s:cym&eng sure@s:cym&eng ia . 181798_183226
 %gls:	yeah sure yes
 %eng:	yeah, sure, yes.
-*CAR:	+< well@s:cym&eng &bə &bə lle mae +.. . 183749_186349
+*CAR:	+< well@s:cym&eng &bə &bə lle mae +... 183749_186349
 %gls:	well where be.3S.PRES
-%eng:	well.. . where's...
-*CAR:	&=sigh &bə hwnnw sy (y)n byw yn Sir_Fôn be +// . 187650_190153
+%eng:	well... where's...
+*CAR:	&=sigh &bə hwnnw sy (y)n byw yn Sir_Fôn be +//. 187650_190153
 %gls:	that be.PRES.REL PRT live in Anglesey what
 %eng:	oh, the one who lives on Anglesey, what...
 *CAR:	Gary@s:cym&eng ! 190146_190924
@@ -301,7 +302,7 @@
 *ISL:	rywle felly . 196253_197449
 %gls:	somewhere thus
 %eng:	somewhere like that.
-*CAR:	so@s:cym&eng oedd o gyn um@s:cym&eng +/ . 198830_200583
+*CAR:	so@s:cym&eng oedd o gyn um@s:cym&eng +/. 198830_200583
 %gls:	so be.3S.IMP PRON.3SM with IM
 %eng:	so he had, er...
 *ISL:	+, a ei wraig Em(ma)@s:cym&eng [/] Emma@s:cym&eng . 200049_202139
@@ -354,11 +355,11 @@
 *CAR:	oeddet ti (y)n siarad am Zimbabwe@s:cym&eng yn_de ? 232112_234016
 %gls:	be.2S.IMP PRON.2S PRT talk.NONFIN about Zimbabwe TAG
 %eng:	you were talking about Zimbabwe, right?
-*ISL:	+< a mae hi +/ . 232785_233633
+*ISL:	+< a mae hi +/. 232785_233633
 %gls:	and be.3S.PRES PRON.3SF
 %eng:	and she...
 *ISL:	yeah@s:cym&eng . 233935_234330
-*CAR:	ddaru # Frank@s:cym&eng mynd yna efo ryw +.. . 234063_237274
+*CAR:	ddaru # Frank@s:cym&eng mynd yna efo ryw +... 234063_237274
 %gls:	happen.PAST Frank go.NONFIN there with some
 %eng:	Frank went there with some...
 *CAR:	o (y)r fyddin (y)n_de [?] ? 237204_239426
@@ -368,7 +369,7 @@
 *ISL:	soldier@s:cym&eng ydy o . 240332_241447
 %gls:	soldier be.3S.PRES PRON.3SM
 %eng:	he's a soldier.
-*CAR:	ia ac oedd o (y)n mynd +/ . 241158_243131
+*CAR:	ia ac oedd o (y)n mynd +/. 241158_243131
 %gls:	yes and be.3S.IMP PRON.3SM PRT go.NONFIN
 %eng:	yes, and he was going...
 *ISL:	+< mae (y)n ## uwch_ringyll . 242853_245117
@@ -391,14 +392,14 @@
 *CAR:	ac er@s:cym&eng pan oedd o (y)n # dechrau oedd hwn yn_de [?] . 250805_253360
 %gls:	and IM when be.3S.IMP PRON.3SM PRT start.NONFIN be.3S.IMP this TAG
 %eng:	and this was when he was starting, right.
-*CAR:	ac o'n nhw gorfod +// . 253348_254149
+*CAR:	ac o'n nhw gorfod +//. 253348_254149
 %gls:	and be.3PL.IMP PRON.3PL must.NONFIN
 %eng:	and they had to...
 *CAR:	oedd (y)na naw ohonyn nhw yn mynd ar sleeper@s:eng # ar y train@s:cym&eng yn_de . 254103_257980
 %gls:	be.3S.IMP there nine of.3PL PRON.3PL PRT go.NONFIN on sleeper on DET train TAG
 %eng:	there were nine of them going on a sleeper on the train, right.
 *ISL:	oh@s:cym&eng yeah@s:cym&eng ? 257853_258329
-*CAR:	ac <oedd (y)na (he)blaw> [?] ## le i um@s:cym&eng +// . 258375_261672
+*CAR:	ac <oedd (y)na (he)blaw> [?] ## le i um@s:cym&eng +//. 258375_261672
 %gls:	and be.3S.IMP there except  place for IM
 %eng:	and [?that was quite apart from any] space for, um...
 %com:	CAR here and later uses "heblaw" in an unusual way
@@ -411,12 +412,12 @@
 *ISL:	+< yeah@s:cym&eng # yeah@s:cym&eng . 263031_264239
 *CAR:	ac <o'n nhw> [///] oedd y dynion ar y railway@s:cym&eng methu dallt sut i roi nhw i_mewn yn_de . 264262_269533
 %gls:	and be.3PL.IMP PRON.3PL be.3S.IMP DET men on DET railway fail.NONFIN understand.NONFIN how to put.NONFIN PRON.3PL in TAG
-%eng:	and they.. . the men on the railway couldn't see how to get them in, right.
+%eng:	and they... the men on the railway couldn't see how to get them in, right.
 *ISL:	yeah@s:cym&eng . 269463_269788
 *CAR:	ac o'n nhw yna am hydoedd [?] . 270114_272192
 %gls:	and be.3PL.IMP PRON.3PL there for ages
 %eng:	and they were there for ages.
-*CAR:	sut i roi nhw mewn lle (he)blaw xxx +.. . 272935_276743
+*CAR:	sut i roi nhw mewn lle (he)blaw xxx +... 272935_276743
 %gls:	how to put.NONFIN PRON.3PL in place besides xxx
 %eng:	how to put them in place ?besides [...] ...
 *CAR:	naw oedden nhw yeah@s:cym&eng naw . 276929_278403
@@ -424,7 +425,7 @@
 %eng:	there were nine of them, yeah, nine.
 *CAR:	ac <o'n nhw &me> [///] na (he)blaw # dau wely neu rywbeth xxx nhw (ddi)m yn gwybod be i wneud . 278391_282792
 %gls:	and be.3PL.IMP PRON.3PL  no besides two.M bed or something xxx PRON.3PL NEG PRT know.NONFIN what to do.NONFIN
-%eng:	and they.. . no, apart from two beds or something, they didn't know what to do.
+%eng:	and they... no, apart from two beds or something, they didn't know what to do.
 *CAR:	neu pedwar . 282884_283941
 %gls:	or four
 %eng:	or four.
@@ -441,11 +442,11 @@
 *CAR:	ac o'n nhw methu deu(d) (wr)thyn nhw sut i # &s roi nhw mewn . 289742_293720
 %gls:	and be.3PL.IMP PRON.3PL fail.NONFIN say.NONFIN to.3PL PRON.3PL how to put.NONFIN PRON.3PL in
 %eng:	and they couldn't tell them how to get them in.
-*CAR:	ac yn y diwedd ddaru # Frank@s:cym&eng siarad fel nhw yn_de <yn ddeud> [//] daru [?] ddeud +"/ . 293720_298810
+*CAR:	ac yn y diwedd ddaru # Frank@s:cym&eng siarad fel nhw yn_de <yn ddeud> [//] daru [?] ddeud +"/. 293720_298810
 %gls:	and in DET end happen.PAST Frank talk.NONFIN like PRON.3PL TAG PRT say.NONFIN happen.PAST say.NONFIN
 %eng:	and in the end Frank spoke ?like them, right, and said:
 *CAR:	[- eng] +" we are three # and three # and three ! 298892_302108
-*CAR:	<oedden nhw (y)n deud> [?] +"/ . 302084_302642
+*CAR:	<oedden nhw (y)n deud> [?] +"/. 302084_302642
 %gls:	be.3PL.IMP PRON.3PL PRT say.NONFIN
 %eng:	they said:
 *CAR:	+" oh@s:cym&eng fine@s:eng ! 302642_304046
@@ -477,13 +478,13 @@
 %gls:	one on top DET other
 %eng:	one on top of the other.
 *CAR:	&=laugh ! 323380_325149
-*ISL:	&=sigh ## well@s:cym&eng &ɔ +/ . 324894_327959
-*CAR:	mae nhw gyn +/ . 327959_328876
+*ISL:	&=sigh ## well@s:cym&eng &ɔ +/. 324894_327959
+*CAR:	mae nhw gyn +/. 327959_328876
 %gls:	be.3PL.PRES PRON.3PL with
 %eng:	they've got...
 *ISL:	y wraig wnaeth hwnnw ## y ddraig goch (y)na . 328795_331930
 %gls:	DET wife do.3S.PAST that DET dragon red there
-%eng:	the wife did that.. . that red dragon.
+%eng:	the wife did that... that red dragon.
 *CAR:	+< dw i (y)n gwybod do . 330931_332092
 %gls:	be.1S.PRES PRON.1S PRT know.NONFIN yes
 %eng:	yes, I know.
@@ -517,10 +518,10 @@
 *ISL:	yndach . 347011_348114
 %gls:	be.2PL.PRES
 %eng:	you have.
-*ISL:	(dy)dyn [=? (we)dyn] +/ . 349124_349716
+*ISL:	(dy)dyn [=? (we)dyn] +/. 349124_349716
 %gls:	be.3PL.PRES
 %eng:	they...
-*CAR:	oedd (y)na dyn newydd fod i &we +// . 349681_351504
+*CAR:	oedd (y)na dyn newydd fod i &we +//. 349681_351504
 %gls:	be.3S.IMP there man new be.NONFIN to
 %eng:	there's was a man who just came to...
 *CAR:	mae (y)n gwerthu # pethau (we)di rhewi yndy ? 351516_354232
@@ -532,12 +533,12 @@
 *ISL:	naddo . 355928_356764
 %gls:	no
 %eng:	no.
-*CAR:	xxx +/ . 356822_357565
+*CAR:	xxx +/. 356822_357565
 *ISL:	+< Iceland@s:cym&eng ? 356938_357797
 *CAR:	naci dyn ar ben ei hun ydy o yn_de ? 357855_360874
 %gls:	no man on head POSS.3S self be.3S.PRES PRON.3SM TAG
 %eng:	no, he's a man on his own, right?
-*CAR:	mae gyn # +// . 360839_361849
+*CAR:	mae gyn # +//. 360839_361849
 %gls:	be.3S.PRES with
 %eng:	he's got...
 *CAR:	wnes i (dd)im weld o blaen . 362011_363323
@@ -578,7 +579,7 @@
 %eng:	and there are the names of myself and the wife and kids.
 *CAR:	+< o:h@s:cym&eng yeah@s:cym&eng <pwy (y)dy hwnna [?]> [//] ddaru [?] # Gladys@s:cym&eng wneud hwnna hefyd ? 389145_392674
 %gls:	IM yeah who be.3S.PRES that happen.PAST Gladys make.NONFIN that too
-%eng:	oh, yeah, who.. . did Gladys make that too?
+%eng:	oh, yeah, who... did Gladys make that too?
 *ISL:	do . 392732_393208
 %gls:	yes
 %eng:	yes.
@@ -606,7 +607,7 @@
 *CAR:	mae hwn yn un da hefyd . 405279_407508
 %gls:	be.3S.PRES this PRT one good too
 %eng:	this is a good one too.
-*ISL:	ac wedyn +.. . 408054_409273
+*ISL:	ac wedyn +... 408054_409273
 %gls:	and then
 %eng:	and so...
 *ISL:	oh@s:cym&eng mae gynna i bennill i (y)r gweinidog . 410248_412512
@@ -656,7 +657,7 @@
 %eng:	like Bethesda in Mold, right
 *CAR:	yeah@s:cym&eng . 462390_463029
 *ISL:	+" Queen@s:cym&eng Anne@s:cym&eng front@s:cym&eng . 463354_464875
-*ISL:	meddai fo +" . 464887_465467
+*ISL:	meddai fo +". 464887_465467
 %gls:	say.3S.PAST PRON.3SM
 %eng:	he said.
 *ISL:	+" Mary_Anne@s:cym&eng back@s:eng ! 465827_467441
@@ -701,7 +702,7 @@
 %eng:	not like here!
 *ISL:	oh@s:cym&eng &=laugh ! 489093_490997
 *CAR:	&=laugh . 491055_492553
-*ISL:	ac wedyn +.. . 492329_493513
+*ISL:	ac wedyn +... 492329_493513
 %gls:	and then
 %eng:	and so...
 *ISL:	well@s:cym&eng er@s:cym&eng wyt ti ar dy golled yn fawr bore Sul . 493919_497193
@@ -789,10 +790,10 @@
 *ISL:	ond fasai dy draed ti (we)di twtsio (y)r llawr ynddo fo . 568723_571637
 %gls:	but be.3S.CONDIT POSS.2S feet PRON.2S PRT.PAST touch.NONFIN DET floor in.3SM PRON.3SM
 %eng:	but your feet would have touched the floor in it.
-*CAR:	ond dw i (dd)im isio bod +/ . 572137_573263
+*CAR:	ond dw i (dd)im isio bod +/. 572137_573263
 %gls:	but be.1S.PRES PRON.1S NEG want be.NONFIN
 %eng:	but I don't want to be...
-*ISL:	ond (dd)a(ru) mi symud wedyn # a [?] gadair oedd ddim +// . 572775_575887
+*ISL:	ond (dd)a(ru) mi symud wedyn # a [?] gadair oedd ddim +//. 572775_575887
 %gls:	but happen.PAST PRON.1S move.NONFIN then and chair be.3S.IMP NEG
 %eng:	but then I moved, and a chair that wasn't...
 *CAR:	+< yeah@s:cym&eng . 574261_574702
@@ -894,7 +895,7 @@
 %gls:	because be.1S.PRES PRON.1S be.1PL.PRES PRON.1PL buy.NONFIN one for Harry TAG
 %eng:	cause we're buying one for Harry, right.
 *ISL:	yeah@s:cym&eng . 667353_667643
-*CAR:	mae (y)n saethu <missiles@s:eng neu (ry)wbeth a> [?] +.. . 667469_669396
+*CAR:	mae (y)n saethu <missiles@s:eng neu (ry)wbeth a> [?] +... 667469_669396
 %gls:	be.3S.PRES PRT shoot.NONFIN missiles or something and
 %eng:	it shoots missiles or something, and...
 *ISL:	oh@s:cym&eng yeah@s:cym&eng . 669454_670139
@@ -936,7 +937,7 @@
 %gls:	and be.3S.PRES door next to warehouse toys
 %eng:	and it's next door to a toy factory.
 *ISL:	oh@s:cym&eng yeah@s:cym&eng . 694227_694924
-*CAR:	ddaru nhw ddeud +"/ . 694645_695283
+*CAR:	ddaru nhw ddeud +"/. 694645_695283
 %gls:	happen.PAST PRON.3PL say.NONFIN
 %eng:	they said:
 *CAR:	+" well@s:cym&eng dw i (dd)im gynno fo . 695272_696375
@@ -967,10 +968,10 @@
 *CAR:	na o'n i ry hwyr wedyn yn_de . 707528_709606
 %gls:	no be.1S.IMP PRON.1S too late after be.3S.PRES
 %eng:	no, I was too late afterwards, you know.
-*CAR:	o'n i (y)n meddwl mynd +// . 709630_710710
+*CAR:	o'n i (y)n meddwl mynd +//. 709630_710710
 %gls:	be.1S.IMP PRON.1S PRT think.NONFIN go.NONFIN
 %eng:	I was thinking of going...
-*ISL:	+< (dd)a(ru) mi ro i galwad i +/ . 710222_711453
+*ISL:	+< (dd)a(ru) mi ro i galwad i +/. 710222_711453
 %gls:	happen.PAST give.1S.NONPAST PRON.1S call to
 %eng:	I gave a call to...
 %com:	Islwyn may also sometimes pronounce "rhaid" as [a] or [ai]
@@ -999,10 +1000,10 @@
 *ISL:	seithfed . 726066_726797
 %gls:	seventh
 %eng:	the seventh.
-*ISL:	ac er@s:cym&eng mae braich hi +// . 728295_730327
+*ISL:	ac er@s:cym&eng mae braich hi +//. 728295_730327
 %gls:	and IM be.3S.PRES arm PRON.3SF
 %eng:	and, er, her arm...
-*ISL:	mae (y)n gwaetiad i gael o (we)di +.. . 730338_732231
+*ISL:	mae (y)n gwaetiad i gael o (we)di +... 730338_732231
 %gls:	be.3S.PRES PRT wait.NONFIN to get.NONFIN PRON.3SM PRT.PAST
 %eng:	she's watching it to have it ...
 *CAR:	oedd [/] oedd hi (y)n mynd i (y)r ysbyty dydd Llun yma ? 732660_735261
@@ -1027,7 +1028,7 @@
 *CAR:	dw i (dd)im yn sure@s:cym&eng . 744109_745142
 %gls:	be.1S.PRES PRON.1S NEG PRT sure
 %eng:	I'm not sure.
-*ISL:	well@s:cym&eng +.. . 745502_745967
+*ISL:	well@s:cym&eng +... 745502_745967
 *CAR:	ond am bod hi dydd Sul o'n nhw (he)blaw [?] (we)di X_ray@s:eng # &ʔə ochr yma a ddim yr ochr arall . 745905_752000
 %gls:	but for be.NONFIN PRON.3SF day Sunday be.3PL.IMP PRON.3PL besides PRT.PAST X_ray side here and NEG DET side other
 %eng:	but because it was Sunday, they'd X-rayed this side, and not the other side.
@@ -1043,7 +1044,7 @@
 %gls:	be.3PL.IMP PRON.3PL NEG PRT.PAST set.NONFIN PRON.3SM PRT right
 %eng:	they hadn't set it right.
 *ISL:	&as:kw ! 756446_757468
-*CAR:	dyna pam oedd hi (y)n mynd +// . 757921_759337
+*CAR:	dyna pam oedd hi (y)n mynd +//. 757921_759337
 %gls:	there why be.3S.IMP PRON.3SF PRT go.NONFIN
 %eng:	that's why she was going...
 *ISL:	+< xxx . 758083_758699
@@ -1054,13 +1055,13 @@
 %gls:	pain
 %eng:	...pain.
 *ISL:	oh@s:cym&eng yeah@s:cym&eng . 761892_762646
-*CAR:	yeah@s:cym&eng oh@s:cym&eng &w oh@s:cym&eng well@s:cym&eng wna i &fɔ +// . 762797_764945
+*CAR:	yeah@s:cym&eng oh@s:cym&eng &w oh@s:cym&eng well@s:cym&eng wna i &fɔ +//. 762797_764945
 %gls:	yeah IM IM well do.1S.NONPAST PRON.1S
 %eng:	yeah, oh well, I'll...
 *CAR:	o'n i am ffonio i weld os oedd o (y)n iawn i xxx fynd heno [=? yna] . 764910_768370
 %gls:	be.1S.IMP PRON.1S for phone.NONFIN to see.NONFIN if be.3S.IMP PRON.3SM PRT right to xxx go.NONFIN tonight
 %eng:	I was going to phone to see if it was alright to [...] go tonight.
-*CAR:	ew gest ti andros o golled ## <pan y> [?] +// . 768440_772399
+*CAR:	ew gest ti andros o golled ## <pan y> [?] +//. 768440_772399
 %gls:	IM have.2S.PAST PRON.2S devil of loss when PRT
 %eng:	oh, you really missed out when...
 *ISL:	oh@s:cym&eng o't ti (dd)im (we)di dod adre o cynhebrwng dy fam_yng_nghyfraith nag oedd ? 772411_775465
@@ -1087,7 +1088,7 @@
 *ISL:	oedd ei thad a ei mam@s:cym&eng yn cadw (y)r swyddfa post@s:cym&eng yn Cilcain@s:cym&eng . 792985_796782
 %gls:	be.3S.IMP POSS.3SF father and POSS.3SF mother PRT keep.NONFIN DET office post in Cilcain
 %eng:	her father and her mother used to run the post office in Cilcain.
-*ISL:	ac o'n i (y)n deud +"/ . 796848_797475
+*ISL:	ac o'n i (y)n deud +"/. 796848_797475
 %gls:	and be.1S.IMP PRON.1S PRT say.NONFIN
 %eng:	and I was saying:
 *ISL:	dw i (y)n cofio hi (y)n dod i Ysgol_Llan@s:cym&eng (y)ma ### efo ## be o'n i (y)n gael i ginio . 797463_804034
@@ -1111,7 +1112,7 @@
 %gls:	well be.3S.PRES PRT a_little now
 %eng:	well, it's quite a while now!
 *ISL:	+< &=laugh ! 813125_814995
-*ISL:	ond er@s:cym&eng +.. . 816272_818489
+*ISL:	ond er@s:cym&eng +... 816272_818489
 %gls:	but IM
 %eng:	but, er...
 *ISL:	oh@s:cym&eng ac o'n i (y)n meddwl mai Ford_Popular@s:cym&eng oedd gynni . 819395_822007
@@ -1134,7 +1135,7 @@
 *ISL:	mae (y)r phone@s:cym&eng yn canu ym ben draw . 829762_831411
 %gls:	be.3S.PRES DET phone PRT sing.NONFIN in end beyond
 %eng:	the phone's ringing through there.
-*CAR:	xxx +/ . 831063_831992
+*CAR:	xxx +/. 831063_831992
 *ISL:	ond geith o ei ateb ei hun . 831399_832955
 %gls:	but get.3S.NONPAST PRON.3SM POSS.3S answer.NONFIN POSS.3S self
 %eng:	but it'll get answered itself.
@@ -1175,7 +1176,7 @@
 *CAR:	oh@s:cym&eng wna i ofyn iddo fo ta . 852367_854492
 %gls:	IM do.1S.NONPAST PRON.1S ask.NONFIN to.3SM PRON.3SM then
 %eng:	oh, I'll ask him then.
-*ISL:	+< xxx ry falch xx +/ . 852727_853772
+*ISL:	+< xxx ry falch xx +/. 852727_853772
 %gls:	xxx too proud xx
 %eng:	[...] only too glad [..]...
 *ISL:	xxx mae (y)n ateb ei hun wan . 854596_856500
@@ -1240,9 +1241,9 @@
 %gls:	be.3S.IMP
 %eng:	yes.
 *CAR:	oh@s:cym&eng ! 894381_895461
-*CAR:	well@s:cym&eng ## oh@s:cym&eng hwyrach mai dyna be oedd ## +// . 895948_899606
+*CAR:	well@s:cym&eng ## oh@s:cym&eng hwyrach mai dyna be oedd ## +//. 895948_899606
 %gls:	well IM perhaps PRT there what be.3S.IMP
-%eng:	well.. . oh, maybe that was what...
+%eng:	well... oh, maybe that was what...
 *CAR:	oedd Keith@s:cym&eng yn mynd yno ? 899896_901521
 %gls:	be.3S.IMP Keith PRT go.NONFIN there
 %eng:	was Keith going there?
@@ -1262,7 +1263,7 @@
 %gls:	IM be.3S.PRES PRT sure
 %eng:	oh, I'm sure!
 *ISL:	&=belch &=clears_throat . 908696_910298
-*CAR:	xxx ond (dy)dy o (ddi)m (we)di bod ti (y)n gweld yn y +.. . 909288_912017
+*CAR:	xxx ond (dy)dy o (ddi)m (we)di bod ti (y)n gweld yn y +... 909288_912017
 %gls:	xxx but be.3S.PRES.NEG PRON.3SM NEG PRT.PAST be.NONFIN PRON.2S PRT see.NONFIN in DET
 %eng:	[...] but he/it hasn't been, you see, in the...
 *ISL:	ti (y)n cofio (y)r rhaglen (y)na ar y teledu ? 912655_914664
@@ -1313,7 +1314,7 @@
 *ISL:	S_pedwar_C . 934714_935666
 %gls:	S_Four_C
 %eng:	S4C.
-*CAR:	&=stutter # <oeddwn i (y)n> [?] &=stutter +// . 935852_937802
+*CAR:	&=stutter # <oeddwn i (y)n> [?] &=stutter +//. 935852_937802
 %gls:	be.1S.IMP PRON.1S PRT
 %eng:	I was...
 *CAR:	nos Llun ? 937791_938882
@@ -1421,11 +1422,11 @@
 %eng:	it's cheap, isn't it?
 *ISL:	+< <oedd o fath â> [///] # oedd o ratach na cerdyn Dolig . 1001625_1004341
 %gls:	be.3S.IMP PRON.3SM kind with be.3S.IMP PRON.3SM cheaper than card Christmas
-%eng:	it was like.. . it was cheaper than a Christmas card.
+%eng:	it was like... it was cheaper than a Christmas card.
 *CAR:	yndy . 1004364_1004922
 %gls:	be.3S.PRES
 %eng:	it is.
-*ISL:	es i +// . 1004933_1005514
+*ISL:	es i +//. 1004933_1005514
 %gls:	go.1S.PAST PRON.1S
 %eng:	I went...
 *ISL:	oh@s:cym&eng o'n i mynd i lle Pauline@s:cym&eng i nôl un do ? 1005514_1007766
@@ -1459,7 +1460,7 @@
 *ISL:	a rhifau bob siâp . 1026669_1028539
 %gls:	and numbers every shape
 %eng:	and numbers of all shapes.
-*CAR:	a un ochr <yn un le> [/] &en &ne yn un +/ . 1027459_1030152
+*CAR:	a un ochr <yn un le> [/] &en &ne yn un +/. 1027459_1030152
 %gls:	and one side PRT one place PRT one
 %eng:	and one side is one place...
 *ISL:	++ un enw . 1029827_1030605
@@ -1471,7 +1472,7 @@
 *ISL:	+< ++ enw arall . 1031534_1032451
 %gls:	name other
 %eng:	...another name.
-*CAR:	ochr arall +/ . 1033078_1033937
+*CAR:	ochr arall +/. 1033078_1033937
 %gls:	side other
 %eng:	the other side...
 *ISL:	yeah@s:cym&eng well@s:cym&eng wrth bod nhw (we)di dal i adeiladu (y)dy o (y)n_de ? 1033252_1035911
@@ -1486,14 +1487,14 @@
 %eng:	it's not very warm today, is it?
 *CAR:	well@s:cym&eng dim yn # &ða [///] mae (y)n go_lew yndy ? 1045814_1048717
 %gls:	well NEG PRT be.3S.PRES PRT alright be.3S.PRES
-%eng:	well, not.. . it's alright, isn't it?
+%eng:	well, not... it's alright, isn't it?
 *ISL:	yndy . 1049169_1049831
 %gls:	be.3S.PRES
 %eng:	yes.
 *CAR:	mae (ddi)m yn glawio . 1049959_1050923
 %gls:	be.3S.PRES NEG PRT rain.NONFIN
 %eng:	it's not raining.
-*CAR:	dyna (y)r peth +.. . 1050899_1051573
+*CAR:	dyna (y)r peth +... 1050899_1051573
 %gls:	there DET thing
 %eng:	that's the thing.
 *ISL:	yeah@s:cym&eng (dy)na peth mawr yn_de ? 1051886_1053686
@@ -1532,7 +1533,7 @@
 *CAR:	a mae nhw am aros am [//] # yn er@s:cym&eng rhieni # Imogen@s:cym&eng ar y ffordd yn_de ? 1077137_1083442
 %gls:	and be.3PL.PRES PRON.3PL for stay.NONFIN for in IM parents Imogen on DET way TAG
 %eng:	and they're going to stay with Imogen's parents on the way, right.
-*CAR:	mae nhw (y)n +// . 1083442_1083860
+*CAR:	mae nhw (y)n +//. 1083442_1083860
 %gls:	be.3PL.PRES PRON.3PL PRT
 %eng:	they're...
 *ISL:	oh@s:cym&eng yeah@s:cym&eng . 1083709_1084347
@@ -1568,7 +1569,7 @@
 %eng:	they're that wide
 *ISL:	<yn lle # bod # fath â> [///] # lorries@s:cym&eng ers_talwm gyn twin@s:eng wheels@s:eng yn_doedd ? 1117228_1121501
 %gls:	in place be.NONFIN kind with lorries in_the_past with twin wheels be.3S.IMP.NEG
-%eng:	instead of being like.. . lorries used to have twin wheels, didn't they?
+%eng:	instead of being like... lorries used to have twin wheels, didn't they?
 *CAR:	oh@s:cym&eng yeah@s:cym&eng mae nhw wneud un mawr ? 1120944_1122824
 %gls:	IM yeah be.3PL.PRES PRON.3PL make.NONFIN one big
 %eng:	oh, yeah, they make one big one?
@@ -1589,7 +1590,7 @@
 *ISL:	(we)dyn mae (we)di newid o . 1133308_1134469
 %gls:	then be.3S.PRES PRT.PAST change.NONFIN PRON.3SM
 %eng:	so he's changed it.
-*CAR:	ew mae (y)na +// . 1134434_1135270
+*CAR:	ew mae (y)na +//. 1134434_1135270
 %gls:	IM be.3S.PRES there
 %eng:	oh, there's...
 *ISL:	+< a rywbeth felly mae (y)n gwneud wan o_hyd . 1134504_1136571
@@ -1610,7 +1611,7 @@
 *ISL:	yndy . 1146091_1146706
 %gls:	be.3S.PRES
 %eng:	yes.
-*ISL:	a mae nhw # +// . 1146660_1147565
+*ISL:	a mae nhw # +//. 1146660_1147565
 %gls:	and be.3PL.PRES PRON.3PL
 %eng:	and they...
 *ISL:	mae gynna i rei hen olwynion yma . 1147844_1149969
@@ -1645,14 +1646,14 @@
 *CAR:	dyn nhw (ddi)m yn wneud nhw +/? 1189106_1190267
 %gls:	be.3PL.PRES.NEG PRON.3PL NEG PRT make.NONFIN PRON.3PL
 %eng:	do they not make them...
-*ISL:	+< a mae (y)r +// . 1189632_1190329
+*ISL:	+< a mae (y)r +//. 1189632_1190329
 %gls:	and be.3S.PRES DET
 %eng:	and the...
 *ISL:	os wnei di sylwi wan # rims@s:cym&eng ## whiliau lorries@s:cym&eng # mae nhw (we)di plygu right@s:cym&eng [?] drosodd fel bod o (y)n hawddach ## cael y tyre@s:cym&eng dros yr ymyl ## heb y knock_off@s:eng rims@s:cym&eng (y)ma . 1190244_1205460
 %gls:	if do.2S.NONPAST PRON.2S notice.NONFIN now rims wheels lorries be.3PL.PRES PRON.3PL PRT.PAST fold.NONFIN right over like be.NONFIN PRON.3SM PRT easier get.NONFIN DET tyre over DET side without DET knock_off rims here
 %eng:	if you notice now, the rims of lorry wheels, they're folded right over so that it's easier to get the tyre over the edge, without these knock-off rims.
 *CAR:	+< oh@s:cym&eng . 1199098_1199980
-*CAR:	+< yeah@s:cym&eng well@s:cym&eng mae (y)n +/ . 1202314_1203505
+*CAR:	+< yeah@s:cym&eng well@s:cym&eng mae (y)n +/. 1202314_1203505
 %gls:	yeah well be.3S.PRES PRT
 %eng:	yeah, well, it's...
 *CAR:	oh@s:cym&eng . 1205414_1206064
@@ -1665,7 +1666,7 @@
 *CAR:	y ffordd hen ffasiwn yn well . 1211161_1213262
 %gls:	DET way old fashion PRT better
 %eng:	the old-fashioned way's best.
-*ISL:	&j well@s:cym&eng oedd y # knock_off@s:eng rims@s:cym&eng (y)ma (y)n <ryw bethau go> [?] +.. . 1214702_1218522
+*ISL:	&j well@s:cym&eng oedd y # knock_off@s:eng rims@s:cym&eng (y)ma (y)n <ryw bethau go> [?] +... 1214702_1218522
 %gls:	well be.3S.IMP DET knock_off rims here PRT some things rather
 %eng:	well, these knock-off rims were quite...
 *ISL:	o'n nhw (y)n beryg . 1219532_1220983
@@ -1717,7 +1718,7 @@
 *ISL:	gwyn (y)dy rei ni hefyd . 1252629_1254091
 %gls:	white be.3S.PRES some PRON.1PL too
 %eng:	ours are white too.
-*CAR:	xxx +/ . 1256158_1256808
+*CAR:	xxx +/. 1256158_1256808
 *ISL:	powlen ail law o Flint@s:cym&eng xx ni gael . 1256588_1258736
 %gls:	bowl second hand from Flint xx PRON.1PL get.NONFIN
 %eng:	a second-hand basin from Flint, we got.
@@ -1737,7 +1738,7 @@
 %gls:	be.3S.PRES xxx
 %eng:	it's [...].
 *ISL:	&=laugh . 1265094_1266894
-*CAR:	well@s:cym&eng dach chi (dd)im yn # ffwndro p(a) (y)r un (y)dy (y)r &k # &kɔ &=laugh +.. . 1266851_1271333
+*CAR:	well@s:cym&eng dach chi (dd)im yn # ffwndro p(a) (y)r un (y)dy (y)r &k # &kɔ &=laugh +... 1266851_1271333
 %gls:	well be.2PL.PRES PRON.2PL NEG PRT confuse.NONFIN which DET one be.3S.PRES DET
 %eng:	well, you don't get confused about which one's the...
 *ISL:	++ poeth ac oer . 1271356_1272320
@@ -1788,12 +1789,12 @@
 *CAR:	ia . 1297045_1297556
 %gls:	yes
 %eng:	yes.
-*ISL:	well@s:cym&eng fyswn i (y)n hoffi llond +/ . 1298694_1300458
+*ISL:	well@s:cym&eng fyswn i (y)n hoffi llond +/. 1298694_1300458
 %gls:	well be.1S.CONDIT PRON.1S PRT like.NONFIN full
 %eng:	well, I'd like a full...
 *CAR:	ond [/] # ond mae (y)na rei yn_de ti (y)n golchi a mae (y)r dŵr yn <mynd dros y> [//] &=noise ## mynd ar y llawr [?] . 1300215_1306194
 %gls:	but but be.3S.PRES there some TAG PRON.2S PRT wash.NONFIN and be.3S.PRES DET water PRT go.NONFIN over DET go.NONFIN on DET floor
-%eng:	but there are some, aren't there, where you're washing and the water goes over.. . goes on the floor.
+%eng:	but there are some, aren't there, where you're washing and the water goes over... goes on the floor.
 *ISL:	+< oh@s:cym&eng . 1304650_1305277
 *ISL:	oes &=cough . 1306706_1308111
 %gls:	be.3S.PRES
@@ -1810,11 +1811,11 @@
 *CAR:	ia . 1313897_1314513
 %gls:	yes
 %eng:	yes.
-*ISL:	yeah@s:cym&eng well@s:cym&eng +/ . 1315226_1315911
+*ISL:	yeah@s:cym&eng well@s:cym&eng +/. 1315226_1315911
 *CAR:	ond dw i (dd)im isio un fel (y)na . 1315807_1317153
 %gls:	but be.1S.PRES PRON.1S NEG want one like there
 %eng:	but I don't want one like that.
-*ISL:	ochrau serth (y)dy (y)r # +/ . 1316384_1317638
+*ISL:	ochrau serth (y)dy (y)r # +/. 1316384_1317638
 %gls:	sides steep be.3S.PRES DET
 %eng:	steep sides are the...
 *CAR:	++ gorau ie . 1318172_1319518
@@ -1823,7 +1824,7 @@
 *ISL:	+< xxx yn_de (y)dy [//] sy (y)n arbed hynny . 1318299_1321306
 %gls:	xxx TAG be.3S.PRES be.PRES.REL PRT save.NONFIN that
 %eng:	[...] isn't it, that stops that.
-*CAR:	+< ond +/ . 1320134_1320633
+*CAR:	+< ond +/. 1320134_1320633
 %gls:	but
 %eng:	but...
 *CAR:	ia mae nhw (y)n roi o mewn # work@s:eng surface@s:eng yndyn weithiau . 1321370_1325642
@@ -1851,7 +1852,7 @@
 *ISL:	oh@s:cym&eng wela i . 1334712_1337657
 %gls:	IM see.1S.NONPAST PRON.1S
 %eng:	oh, I see.
-*ISL:	ac er@s:cym&eng +.. . 1337693_1339736
+*ISL:	ac er@s:cym&eng +... 1337693_1339736
 %gls:	and IM
 %eng:	and, er...
 *ISL:	be o'n i (y)n sôn am ? 1340445_1341884
@@ -1878,7 +1879,7 @@
 *CAR:	ond mae nhw yn wneud rhei # llai . 1354473_1356876
 %gls:	but be.3PL.PRES PRON.3PL PRT make.NONFIN some less
 %eng:	but they do make some smaller ones.
-*CAR:	daru nhw wneud hynna efo +/ . 1356987_1358450
+*CAR:	daru nhw wneud hynna efo +/. 1356987_1358450
 %gls:	happen.PAST PRON.3PL do.NONFIN that with
 %eng:	they did that with...
 *ISL:	chip_io@s:eng+cym (y)r plaster@s:cym&eng ? 1358473_1359669
@@ -1890,7 +1891,7 @@
 *CAR:	daru nhw wneud hynna yn lle # xxx yn_de . 1361225_1364348
 %gls:	happen.PAST PRON.3PL do.NONFIN that in place xxx TAG
 %eng:	they did that in [...] place, right.
-*ISL:	+< well@s:cym&eng wneith <o (ddi)m gollwng> [?] xxx +/ . 1361364_1362850
+*ISL:	+< well@s:cym&eng wneith <o (ddi)m gollwng> [?] xxx +/. 1361364_1362850
 %gls:	well do.3S.NONPAST PRON.3SM NEG leak.NONFIN xxx
 %eng:	well it won't leak [...] ...
 *CAR:	ac oeddech chi methu troi (y)r tap@s:cym&eng . 1364464_1366450
@@ -1908,13 +1909,13 @@
 *CAR:	+< well@s:cym&eng o [/] o_gwmpas dw i meddwl . 1370431_1372614
 %gls:	well of around be.1S.PRES PRON.1S think.NONFIN
 %eng:	well, around it, I think.
-*CAR:	ond dw i (dd)im isio xx +/ . 1373508_1374808
+*CAR:	ond dw i (dd)im isio xx +/. 1373508_1374808
 %gls:	but be.1S.PRES PRON.1S NEG want xx
 %eng:	but I don't want [..]...
 *ISL:	y pen a (y)r ochrau ? 1373775_1375435
 %gls:	DET end and DET sides
 %eng:	the end and the sides?
-*CAR:	well@s:cym&eng yr ochrau +// . 1375528_1376468
+*CAR:	well@s:cym&eng yr ochrau +//. 1375528_1376468
 %gls:	well DET sides
 %eng:	well, the sides...
 *CAR:	er@s:cym&eng ie pennau . 1376468_1377722
@@ -1923,7 +1924,7 @@
 *ISL:	oh@s:cym&eng yeah@s:cym&eng . 1377722_1379150
 *CAR:	ac o'n [///] <ond oedden nhw> [///] # ac <oedden nhw &me> [/] oedden nhw cau wneud dim_byd . 1379162_1383272
 %gls:	and be.3PL.IMP but be.3PL.IMP PRON.3PL and be.3PL.IMP PRON.3PL be.3PL.IMP PRON.3PL refuse.NONFIN do.NONFIN nothing
-%eng:	and they were.. . they refused to do anything.
+%eng:	and they were... they refused to do anything.
 *CAR:	ond ddaru nhw wneud yn y # diwedd . 1385245_1387428
 %gls:	but happen.PAST PRON.3PL do.NONFIN in DET end
 %eng:	but they did in the end.
@@ -1943,10 +1944,10 @@
 *CAR:	<(y)dy (y)r &ma> [///] (y)dy (y)r swêj (we)di gorffen rŵan yndyn ? 1396771_1399174
 %gls:	be.3S.PRES DET be.3S.PRES DET swede PRT.PAST finish.NONFIN now be.3PL.PRES
 %eng:	is the swede finished now, is it?
-*ISL:	ew na mi baran &mi +// . 1399124_1400772
+*ISL:	ew na mi baran &mi +//. 1399124_1400772
 %gls:	IM no PRT last.3PL.NONPAST
 %eng:	oh, no [...] they'll last...
-*ISL:	mae nhw (we)di bwyta (y)r dail ond mae nhw +.. . 1400772_1402560
+*ISL:	mae nhw (we)di bwyta (y)r dail ond mae nhw +... 1400772_1402560
 %gls:	be.3PL.PRES PRON.3PL PRT.PAST eat.NONFIN DET leaves but be.3PL.PRES PRON.3PL
 %eng:	they've eaten the leaves, but they're...
 *CAR:	oh@s:cym&eng yndyn ? 1402502_1403443
@@ -1986,7 +1987,7 @@
 *CAR:	w i (dd)im isio . 1417112_1417983
 %gls:	be.1S.PRES PRON.1S NEG want
 %eng:	don't want to.
-*ISL:	mae (y)n &=laugh +.. . 1417983_1419406
+*ISL:	mae (y)n &=laugh +... 1417983_1419406
 %gls:	be.3S.PRES PRT
 %eng:	it's...
 *CAR:	&=laugh ! 1418772_1420223
@@ -2020,7 +2021,7 @@
 %eng:	well, I had something yellow the other day.
 *ISL:	ac o'n i (dd)im yn sure@s:cym&eng os oedd o (y)n bysgodyn [//] cig pysgodyn neu ## darn o ffrwyth # o ryw fath . 1443693_1451921
 %gls:	and be.1S.IMP PRON.1S NEG PRT sure if be.3S.IMP PRON.3SM PRT fish meat fish or piece of fruit of some kind
-%eng:	and I wasn't sure whether it was fish.. . fish-meat, or a piece of fruit of some kind.
+%eng:	and I wasn't sure whether it was fish... fish-meat, or a piece of fruit of some kind.
 *ISL:	oedd o (y)n felyn . 1451909_1453128
 %gls:	be.3S.IMP PRON.3SM PRT yellow
 %eng:	it was yellow.
@@ -2084,7 +2085,7 @@
 %gls:	who be.3S.PRES that
 %eng:	who's that?
 *ISL:	Lyn_Lloyd@s:cym&eng ? 1492490_1493291
-*ISL:	o'n i (y)n dreifio lorry@s:cym&eng efo ei +// . 1493303_1494812
+*ISL:	o'n i (y)n dreifio lorry@s:cym&eng efo ei +//. 1493303_1494812
 %gls:	be.1S.IMP PRON.1S PRT drive.NONFIN lorry with POSS.3S
 %eng:	she drives a lorry with her...
 *ISL:	mae nhw (y)n byw ym Pentreffynnon@s:cym&eng . 1494731_1496135
@@ -2103,7 +2104,7 @@
 %eng:	lives in Pen-y-Bryn, in a home.
 *CAR:	+< oh@s:cym&eng mae [///] oh@s:cym&eng ! 1503206_1504692
 %gls:	IM be.3S.PRES IM
-%eng:	oh, she.. . oh!
+%eng:	oh, she... oh!
 *ISL:	ac Owain_Owens@s:cym&eng ## (y)dy ei thad hi . 1504692_1508964
 %gls:	and Owain_Owens be.3S.PRES POSS.3SF father PRON.3SF
 %eng:	and Owain_Owens is her father.
@@ -2151,7 +2152,7 @@
 *ISL:	oes Mike_Mitchell@s:cym&eng . 1547215_1548848
 %gls:	be.3S.PRES Mike_Mitchell
 %eng:	yes, Mike Mitchell.
-*CAR:	+< &pw +/ . 1548016_1548361
+*CAR:	+< &pw +/. 1548016_1548361
 *ISL:	Mike_Myers_Mitchell@s:cym&eng . 1549150_1551112
 *CAR:	o:h@s:cym&eng ia ia . 1550083_1551917
 %gls:	IM yes yes
@@ -2159,10 +2160,10 @@
 *ISL:	o xxx . 1551844_1553156
 %gls:	from xxx
 %eng:	from [...].
-*CAR:	sut oedd y cynhebrwng efo xxx +.. . 1554626_1557807
+*CAR:	sut oedd y cynhebrwng efo xxx +... 1554626_1557807
 %gls:	how be.3S.IMP DET funeral with
 %eng:	how was the funeral with ...
-*ISL:	+< (dd)aru o briodi +/ . 1554742_1555636
+*ISL:	+< (dd)aru o briodi +/. 1554742_1555636
 %gls:	happen.PAST PRON.3SM marry.NONFIN
 %eng:	he married...
 *ISL:	Jenny@s:cym&eng ? 1557970_1558632
@@ -2308,7 +2309,7 @@
 %gls:	be.3S.PRES be.3S.PRES PRON.3SM PRT improve.NONFIN
 %eng:	yes, he's improving.
 *CAR:	oh@s:cym&eng . 1651203_1652062
-*ISL:	a mae nhw (y)n sôn am symud Margaret@s:cym&eng ar y +// . 1652294_1654930
+*ISL:	a mae nhw (y)n sôn am symud Margaret@s:cym&eng ar y +//. 1652294_1654930
 %gls:	and be.3PL.PRES PRON.3PL PRT talk.NONFIN about move.NONFIN Margaret on DET
 %eng:	and they're talking about moving Margaret on the...
 *ISL:	(y)dy xxx ddeu(d) (wr)that ti ? 1654930_1655998
@@ -2335,10 +2336,10 @@
 *ISL:	mae ei char@s:cym&eng hi dal yma . 1665425_1667016
 %gls:	be.3S.PRES POSS.3SF car PRON.3SF still here
 %eng:	her car's still here.
-*CAR:	o:h@s:cym&eng dyna +/ . 1667108_1668304
+*CAR:	o:h@s:cym&eng dyna +/. 1667108_1668304
 %gls:	IM there
 %eng:	oh, that's...
-*ISL:	+< ni (y)n edrych ar ei ôl o # rag ofn i rywun ddwyn +// . 1667828_1670243
+*ISL:	+< ni (y)n edrych ar ei ôl o # rag ofn i rywun ddwyn +//. 1667828_1670243
 %gls:	PRON.1PL PRT look.NONFIN on POSS.3SM track PRON.3SM from fear to someone steal.NONFIN
 %eng:	we're looking after it, so nobody steals...
 *ISL:	ddaru rywun ddwyn o . 1670220_1671323
@@ -2356,7 +2357,7 @@
 *ISL:	(dd)a(ru) [?] mi ddeu(d) (wr)that ti bod fi (we)di cael # test@s:cym&eng ar yn anadl gyn blismon nos # Fawrth ? 1680611_1685882
 %gls:	happen.PAST PRON.1S say.NONFIN to.2S PRON.2S be.NONFIN PRON.1S PRT.PAST have.NONFIN test on POSS.1S breath with policeman night Tuesday
 %eng:	did I tell you that I had a breath test off a policeman on Tuesday night?
-*CAR:	pam +! ? 1686752_1687484
+*CAR:	pam +!? 1686752_1687484
 %gls:	why
 %eng:	why?!
 *ISL:	<ar y bypass@s:eng yn Ffynnongroyw@s:cym&eng> [=! laughs] ! 1687321_1689400
@@ -2394,7 +2395,7 @@
 %eng:	well, why was he going after you?
 *ISL:	mi ddoth <allan o (y)r ffordd wrth Gronant@s:cym&eng> [//] lawr o Gronant@s:cym&eng . 1713177_1716927
 %gls:	PRT come.3S.PAST out from DET road by Gronant down from Gronant
-%eng:	he came out of the road near Gronant.. . down from Gronant.
+%eng:	he came out of the road near Gronant... down from Gronant.
 *ISL:	ac oedd o (y)n y nghanlyn i . 1716938_1718390
 %gls:	and be.3S.IMP PRON.3SM PRT POSS.1S follow.NONFIN PRON.1S
 %eng:	and he was following me.
@@ -2435,8 +2436,8 @@
 *ISL:	+< &=laugh ! 1758651_1760927
 *ISL:	a # mi ddoth allan o (y)r car@s:cym&eng a [//] # â (y)r holl oleuadau glas (y)ma (y)n ## flash_io@s:eng+cym fel (y)r Andros xxx . 1761515_1770060
 %gls:	and PRT come.3S.PAST out from DET car and with DET whole lights blue here PRT flash.NONFIN like DET Devil xxx
-%eng:	and he came out of the car, and.. . with all these blue lights flashing like hell [...].
-*CAR:	+< o:h@s:cym&eng # be oedd haru o +! ? 1766728_1769178
+%eng:	and he came out of the car, and... with all these blue lights flashing like hell [...].
+*CAR:	+< o:h@s:cym&eng # be oedd haru o +!? 1766728_1769178
 %gls:	IM what be.3S.IMP matter PRON.3SM
 %eng:	oh, what was his problem!?
 *ISL:	ac o'n nhw (y)n dallu fi . 1771291_1772475
@@ -2477,7 +2478,7 @@
 *ISL:	&=laugh na fysai ! 1790420_1791999
 %gls:	NEG be.3S.CONDIT
 %eng:	no!
-*ISL:	xxx +/ . 1792754_1793312
+*ISL:	xxx +/. 1792754_1793312
 *CAR:	+< na oedd o gyn y pethau i gwneud test@s:cym&eng ? 1792762_1794914
 %gls:	no be.3S.IMP PRON.3SM with DET things to do.NONFIN test
 %eng:	no, he had the things to do a test?
@@ -2514,13 +2515,13 @@
 *ISL:	oh@s:cym&eng nac oedd . 1816374_1817465
 %gls:	IM NEG be.3S.IMP
 %eng:	oh, no.
-*ISL:	oedd o &ka +/ . 1818161_1819531
+*ISL:	oedd o &ka +/. 1818161_1819531
 %gls:	be.3S.IMP PRON.3SM
 %eng:	it was...
-*CAR:	+< ia xx +// . 1818533_1819381
+*CAR:	+< ia xx +//. 1818533_1819381
 %gls:	yes xx
 %eng:	yes, [..]...
-*ISL:	+< oedd y car@s:cym&eng +/ . 1819508_1820275
+*ISL:	+< oedd y car@s:cym&eng +/. 1819508_1820275
 %gls:	be.3S.IMP DET car
 %eng:	the car was...
 *CAR:	(dy)dy o (dd)im yn deud mai plismon sydd tu mewn nac ydy ? 1819566_1822225

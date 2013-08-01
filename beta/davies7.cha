@@ -3,17 +3,18 @@
 @Begin
 @Languages:	cy, en
 @Participants:	GAI Gail Teenager, TRA Tracy Teenager
-@ID:	cy|siarad|GAI|16;|female|||Teenager||
-@ID:	cy|siarad|TRA|14;|female|||Teenager||
+@ID:	cym|siarad|GAI|16;|female|||Teenager||
+@ID:	cym|siarad|TRA|14;|female|||Teenager||
 @Situation:	informal conversation between friends at the National Eisteddfod
 @Comment:	GAI was brought up in north-west Wales and has lived there all her life
 @Comment:	TRA was brought up in north-west Wales and has lived there all her life
 @Date:	09-AUG-2006
 @Comment:	Researcher:	Peredur Davies, Bangor University
-@Coder:	Elen Robert, Bangor University
+@Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:20:04
-@Comment:	Filename: Davies7.CHA; Soundfile: davies7.WAV
-@Comment:	Language markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
+@Media:	davies7, audio
+@Comment:	Filename: Davies7.cha; Soundfile: davies7.wav
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	A lot of background noise
 *GAI:	xxx &=laugh . 0_7825
 *TRA:	<sure@s:cym&eng o bigo fyny y dŵr yn mynd lawr> [?] . 7825_18982
@@ -109,13 +110,13 @@
 *GAI:	ti mynd i Ffrainc ? 121091_126153
 %gls:	PRON.2S go.NONFIN to France
 %eng:	you going to France?
-*TRA:	&=laugh well@s:cym&eng +/ . 126153_127929
+*TRA:	&=laugh well@s:cym&eng +/. 126153_127929
 %gls:	well
 %eng:	well...
 *GAI:	ti mynd i Ffrainc i wneud o +/? 127546_128568
 %gls:	PRON.2S go.NONFIN to France to do.NONFIN PRON.3SM
 %eng:	you going to France to do it..?
-*TRA:	well@s:cym&eng +/ . 128568_129392
+*TRA:	well@s:cym&eng +/. 128568_129392
 %gls:	well
 %eng:	well...
 *GAI:	+, y delyn ? 129392_130193
@@ -142,7 +143,7 @@
 *GAI:	achos # o'ch chdi gorod torri fyny cyrff a pethau . 145832_148711
 %gls:	because be.2S.IMP PRON.2S must.NONFIN cut.NONFIN up bodies and things
 %eng:	because you had to cut up bodies and things
-*GAI:	so@s:cym&eng &=laugh +.. . 148711_151567
+*GAI:	so@s:cym&eng &=laugh +... 148711_151567
 %gls:	so
 %eng:	so...
 *TRA:	be ti isio bod ? 151567_153041
@@ -172,7 +173,7 @@
 *GAI:	yndy # a Daf@s:cym&eng . 167937_169713
 %gls:	be.3S.PRES and Daf
 %eng:	yes, and Daf
-*GAI:	so@s:cym&eng [?] +.. . 169713_172488
+*GAI:	so@s:cym&eng [?] +... 169713_172488
 %gls:	so
 %eng:	so...
 *TRA:	<mae (y)r ddau> [?] xx perthyn (y)dy . 172488_175077
@@ -188,7 +189,7 @@
 %gls:	be.1S.PRES want go.NONFIN to tent PRON.2PL sometime
 %eng:	I want to go to your tent sometime
 *GAI:	+< xx . 182844_183401
-*GAI:	tyrd heno # a wedyn um@s:cym&eng +/ . 184110_186188
+*GAI:	tyrd heno # a wedyn um@s:cym&eng +/. 184110_186188
 %gls:	come.2S.IMPER tonight and then IM
 %eng:	come tonight and then, um...
 *TRA:	xx medru xx heno though@s:eng . 186188_188022
@@ -222,7 +223,7 @@
 %gls:	stunning God
 %eng:	stunning, God
 *TRA:	xx . 199168_200364
-*GAI:	na um@s:cym&eng +/ . 200364_201432
+*GAI:	na um@s:cym&eng +/. 200364_201432
 %gls:	no IM
 %eng:	no um...
 *TRA:	xx coelio [?] chdi methu fo de . 201072_202419
@@ -283,7 +284,7 @@
 *GAI:	oherwydd [?] xx # ella a i fyny ella efo mam@s:cym&eng . 248497_253663
 %gls:	because xx perhaps go.1S.NONPAST PRON.1S up perhaps with mum
 %eng:	because [...] perhaps I'll go up perhaps with mum
-*GAI:	dibynnu os (y)dy mam@s:cym&eng yn iawn # achos +/ . 253663_257493
+*GAI:	dibynnu os (y)dy mam@s:cym&eng yn iawn # achos +/. 253663_257493
 %gls:	depend.NONFIN if be.3S.PRES mum PRT right because
 %eng:	it depends whether mum's alright, because...
 *TRA:	oh@s:cym&eng yeah@s:cym&eng . 257528_258282
@@ -389,7 +390,7 @@
 *GAI:	achos # ges i party@s:cym&eng lle oedd Adam@s:cym&eng xx . 315891_320558
 %gls:	because get.1S.NONPAST PRON.1S party where be.3S.IMP Adam xx
 %eng:	because I had a party where Adam was [...]
-*GAI:	ond dw i heb gweld y rei eraill ers fath â # diwedd T_G_A_U so@s:cym&eng +.. . 320558_325086
+*GAI:	ond dw i heb gweld y rei eraill ers fath â # diwedd T_G_A_U so@s:cym&eng +... 320558_325086
 %gls:	but be.1S.PRES PRON.1S without see.NONFIN DET some others since kind with end G_C_S_E so
 %eng:	but I haven't seen the others since, like, the end of GCSEs, so...
 *TRA:	oh@s:cym&eng . 325086_327838
@@ -413,7 +414,7 @@
 *GAI:	mae Martha@s:cym&eng yn cael ar y un_deg_saith de . 340968_344254
 %gls:	be.3S.PRES Martha PRT get.NONFIN on DET seventeen TAG
 %eng:	Martha's getting on the seventeenth, right
-*GAI:	a wedyn # ar y dau_ddeg_pedwar dw i cael +/ . 344254_346042
+*GAI:	a wedyn # ar y dau_ddeg_pedwar dw i cael +/. 344254_346042
 %gls:	and then on DET twenty_four.M be.1S.PRES PRON.1S get.NONFIN
 %eng:	and then on the twenty-fourth I'm getting...
 *TRA:	be o Awst ? 346042_346785
@@ -452,13 +453,13 @@
 *TRA:	a wedyn <gweddill yeah@s:cym&eng> [?] . 369947_371421
 %gls:	and then remainter yeah
 %eng:	and then the rest, yeah
-*GAI:	a wedyn ti cael # maths@s:cym&eng dwyt +/ . 370771_373790
+*GAI:	a wedyn ti cael # maths@s:cym&eng dwyt +/. 370771_373790
 %gls:	and then PRON.2S get.NONFIN maths be.2S.PRES
 %eng:	and then you get maths, don't you...
 *TRA:	un maths@s:cym&eng ta dau faths@s:cym&eng ? 373790_375276
 %gls:	one maths or two.M maths
 %eng:	one maths or two maths?
-*GAI:	+, dau Cymraeg # dau Saesneg +/ . 374591_377598
+*GAI:	+, dau Cymraeg # dau Saesneg +/. 374591_377598
 %gls:	two.M Welsh two.M English
 %eng:	two Welsh, two English...
 *TRA:	dau gwyddoniaeth . 377598_378712
@@ -563,7 +564,7 @@
 *GAI:	mmhm@s:cym&eng . 434913_436085
 %gls:	IM
 %eng:	mmhm
-*TRA:	achos +// . 436085_438302
+*TRA:	achos +//. 436085_438302
 %gls:	because
 %eng:	because...
 *TRA:	oh@s:cym&eng [=? a] mae (y)na lwyth o bobl yn cymryd # addysg gref(yddol) anyway@s:eng does . 438302_440915
@@ -602,7 +603,7 @@
 *TRA:	be +//? 463787_464193
 %gls:	what
 %eng:	what..?
-*TRA:	oh@s:cym&eng yeah@s:cym&eng # gwyddoniaeth ti gorod # fath â +// . 464193_466724
+*TRA:	oh@s:cym&eng yeah@s:cym&eng # gwyddoniaeth ti gorod # fath â +//. 464193_466724
 %gls:	IM yeah science PRON.2S must.NONFIN kind with
 %eng:	oh yeah, it's science you have to, like...
 *TRA:	ti (y)n mynd i wneud gwyddoniaeth yn # chwech un (fe)lly dwyt # a chwech dau . 466724_470959
@@ -614,7 +615,7 @@
 *GAI:	achos mae meddygaeth xx fath â # horrible@s:cym&eng de . 471716_473632
 %gls:	because be.3S.PRES medicine xx kind with horrible TAG
 %eng:	because medicine [...] like, horrible, right
-*GAI:	so@s:cym&eng # os +/ . 473632_476662
+*GAI:	so@s:cym&eng # os +/. 473632_476662
 %gls:	so if
 %eng:	so if...
 *TRA:	doctor@s:cym&eng ti isio bod ? 476279_477324
@@ -647,7 +648,7 @@
 *GAI:	fydd Big_Brother@s:cym&eng (we)di gorffen erbyn # &s diwedd Steddfod@s:cym&eng . 496980_503714
 %gls:	be.3S.FUT Big_Brother PRT.PAST finish.NONFIN by end Eisteddfod
 %eng:	will Big Brother have finished by the end of the Eisteddfod
-*GAI:	neu (y)dy o (y)n +.. . 503714_504364
+*GAI:	neu (y)dy o (y)n +... 503714_504364
 %gls:	or be.3S.PRES PRON.3SM PRT
 %eng:	or is it..?
 *TRA:	e:r@s:cym&eng # na na ? 504364_508671
@@ -665,13 +666,13 @@
 *GAI:	un mynd fewn ? 513164_514302
 %gls:	one go.NONFIN in
 %eng:	one going in?
-*TRA:	achos mae # Glyn@s:cym&eng &ais +/ . 514302_516009
+*TRA:	achos mae # Glyn@s:cym&eng &ais +/. 514302_516009
 %gls:	because be.3S.PRES Glyn
 %eng:	because Glyn...
 *GAI:	+< dydd Gwener yeah@s:cym&eng ? 514952_515579
 %gls:	day Friday yeah
 %eng:	on Friday, yeah?
-*TRA:	+, Glyn@s:cym&eng # Aisleyne@s:cym&eng +.. . 516009_518574
+*TRA:	+, Glyn@s:cym&eng # Aisleyne@s:cym&eng +... 516009_518574
 %gls:	Glyn Aisleyne
 %eng:	Glyn, Aisleyne...
 *GAI:	a mae Jenny@s:cym&eng (y)n aros tan y diwedd . 518574_520931
@@ -731,7 +732,7 @@
 *GAI:	pedwar fel arfer yeah@s:cym&eng ? 546481_547259
 %gls:	four.M like habit yeah
 %eng:	four usually, yeah?
-*TRA:	um@s:cym&eng +.. . 547259_549546
+*TRA:	um@s:cym&eng +... 547259_549546
 %gls:	IM
 %eng:	um...
 *GAI:	so@s:cym&eng fydd (y)na double@s:cym&eng eviction@s:eng neu (ry)wbeth yeah@s:cym&eng # a wedyn # pedwar <o nhw> [?] dod allan ? 549546_553668
@@ -779,7 +780,7 @@
 *TRA:	dw (ddi)m yn gweld Grace@s:cym&eng <mynd fewn> [?] de . 570700_571896
 %gls:	be.1S.PRES NEG PRT see.NONFIN Grace go.NONFIN in TAG
 %eng:	I don't see Grace going in, right
-*TRA:	achos yn y thing@s:eng um@s:cym&eng +.. . 571896_573370
+*TRA:	achos yn y thing@s:eng um@s:cym&eng +... 571896_573370
 %gls:	brcause in DET thing IM
 %eng:	because in the thing, um...
 *TRA:	timod # Big_Brother_Little_Brother@s:cym&eng de # yn bore de . 573370_577817
@@ -845,7 +846,7 @@
 *TRA:	achos oedd hi (y)n really@s:eng boring@s:eng xxx . 610963_612821
 %gls:	because be.3S.IMP PRON.3SF PRT really boring xxx
 %eng:	because she was really boring [...]
-*GAI:	(o)s na de # (oe)s gyn ti fath â # ffefryn yn y tŷ # a wedyn # ti (y)n # fotio i gael rywun really@s:eng +/ . 612821_619342
+*GAI:	(o)s na de # (oe)s gyn ti fath â # ffefryn yn y tŷ # a wedyn # ti (y)n # fotio i gael rywun really@s:eng +/. 612821_619342
 %gls:	if TAG be.3S.PRES with PRON.2S kind with favourite in DET house and then PRON.2S PRT vote.NONFIN to get.NONFIN somebody really
 %eng:	unless, right, have you got, like, a favourite in the house, and then you vote to get someone really...
 *TRA:	pwy (y)dy ffefryn chdi (y)n y tŷ ? 619322_620460
@@ -869,13 +870,13 @@
 *GAI:	mae Pete@s:cym&eng mynd yn really@s:eng distaw . 630096_631350
 %gls:	be.3S.PRES Pete go.NONFIN PRT really quiet
 %eng:	Pete's gone really quiet
-*GAI:	achos # ers i Nikki@s:cym&eng fynd +.. . 631350_633475
+*GAI:	achos # ers i Nikki@s:cym&eng fynd +... 631350_633475
 %gls:	because since for Nikki go.NONFIN
 %eng:	because, since Nikki left...
 *TRA:	+< do . 631350_631768
 %gls:	yes
 %eng:	yes
-*TRA:	+< dw (ddi)m yn gwybod +// . 632093_632778
+*TRA:	+< dw (ddi)m yn gwybod +//. 632093_632778
 %gls:	be.1S.PRES NEG PRT know.NONFIN
 %eng:	I don't know...
 *GAI:	(ddi)m yn gwybod . 633475_635042
@@ -895,7 +896,7 @@
 %gls:	because be.3S.PRES PRON.3SM so popular be.3S.PRES PRON.3SM think.NONFIN be.NONFIN PRON.3SM go.NONFIN to win.NONFIN
 %eng:	because he's so popular, he thinks he's going to win
 *TRA:	+< &=laugh . 648997_650031
-*GAI:	so@s:cym&eng # (dy)dy o (ddi)m yn wneud dim_byd a wedyn +.. . 650855_652713
+*GAI:	so@s:cym&eng # (dy)dy o (ddi)m yn wneud dim_byd a wedyn +... 650855_652713
 %gls:	so be.3S.PRES.NEG PRON.3SM NEG PRT do.NONFIN nothing and then
 %eng:	so he doesn't do anything and then...
 *TRA:	+< yeah@s:cym&eng . 652051_652631
@@ -907,7 +908,7 @@
 *GAI:	cymryd yn ganiataol wneith o ennill neu (ryw)beth . 654350_656881
 %gls:	take.NONFIN PRT permissible do.3S.NONPAST PRON.3SM win.NONFIN or something
 %eng:	takes for granted he'll win or something
-*TRA:	achos mae pawb yn really@s:eng licio Pete@s:cym&eng doedd [?] xx fath â +.. . 656556_659388
+*TRA:	achos mae pawb yn really@s:eng licio Pete@s:cym&eng doedd [?] xx fath â +... 656556_659388
 %gls:	because be.3S.PRES everybody PRT really like.NONFIN Pete be.3S.IMP.NEG xx kind with
 %eng:	because everybody really likes Pete, didn't they [...] like...
 *GAI:	yndy . 659133_659690
@@ -935,7 +936,7 @@
 *GAI:	achos mond tua tri loud@s:eng [?] o(edd) (y)na . 675526_677465
 %gls:	because only approximately three.M loud be.3S.IMP there
 %eng:	because there were only about three loud ones there
-*GAI:	a pawb arall yn ddistaw fath â +.. . 677454_680263
+*GAI:	a pawb arall yn ddistaw fath â +... 677454_680263
 %gls:	and everybody other PRT quiet kind with
 %eng:	and everybody else quiet, like...
 *TRA:	+< yeah@s:cym&eng . 678498_679009
@@ -947,10 +948,10 @@
 *GAI:	<mae hynna> [?] just@s:cym&eng fath â # mynd efo rei poblogaidd dydy . 693371_697260
 %gls:	be.3S.PRES that just kind with go.NONFIN with some popular be.3S.PRES.NEG
 %eng:	that's just, like, going with the popular ones, isn't it
-*TRA:	mmm@s:cym&eng +.. . 697144_698084
+*TRA:	mmm@s:cym&eng +... 697144_698084
 %gls:	IM
 %eng:	mmm
-*GAI:	achos [?] oedd hi a Pete@s:cym&eng +/ . 698084_699425
+*GAI:	achos [?] oedd hi a Pete@s:cym&eng +/. 698084_699425
 %gls:	because be.3S.IMP PRON.3SF and Pete
 %eng:	because she and Pete...
 *TRA:	achos dw i meddwl achos bod hi (we)di dod allan mae sylwi <am bobl yn> [?] licio Glyn@s:cym&eng dydy . 698763_702188
@@ -959,13 +960,13 @@
 *GAI:	yndy . 702177_702687
 %gls:	be.3S.PRES
 %eng:	yes
-*TRA:	so@s:cym&eng bod hi (y)n trio +// . 702560_703593
+*TRA:	so@s:cym&eng bod hi (y)n trio +//. 702560_703593
 %gls:	so be.NONFIN PRON.3SF PRT try.NONFIN
 %eng:	so she's trying...
 *TRA:	ti dallt be dw feddwl . 703593_704464
 %gls:	PRON.2S understand.NONFIN what be.1S.PRES think.NONFIN
 %eng:	you know what I mean
-*TRA:	a mae Bonnie@s:cym&eng a +// . 704464_707796
+*TRA:	a mae Bonnie@s:cym&eng a +//. 704464_707796
 %gls:	and be.3S.PRES Bonnie and
 %eng:	and Bonnie and...
 *TRA:	er@s:cym&eng Bonnie@s:cym&eng ? 707796_708632
@@ -974,7 +975,7 @@
 *GAI:	Bonnie@s:cym&eng . 708272_708667
 %gls:	Bonnie
 %eng:	Bonnie
-*TRA:	mae # um@s:cym&eng +.. . 708667_710327
+*TRA:	mae # um@s:cym&eng +... 708667_710327
 %gls:	be.3S.PRES IM
 %eng:	um...
 *TRA:	be (y)dy enw hi ? 710327_713090
@@ -1011,7 +1012,7 @@
 *GAI:	Bangor@s:cym&eng mae mynd de . 731225_732304
 %gls:	Bangor be.3S.PRES go.NONFIN TAG
 %eng:	he's going to Bangor, isn't he
-*TRA:	ia +! ? 732304_733582
+*TRA:	ia +!? 732304_733582
 %gls:	yes
 %eng:	yes!?
 *TRA:	(ddi)m yn gwybod hynna . 733582_735056
@@ -1062,7 +1063,7 @@
 *TRA:	dw i gwybod . 764592_765796
 %gls:	be.1S.PRES PRON.1S know.NONFIN
 %eng:	I know
-*TRA:	mae o braidd yn +/ . 765796_766867
+*TRA:	mae o braidd yn +/. 765796_766867
 %gls:	be.3S.PRES PRON.3SM rather PRT
 %eng:	he's a bit...
 *GAI:	oedd o fath â xx siarad Cymraeg . 766867_768144
@@ -1077,7 +1078,7 @@
 *GAI:	hynna wir . 772127_774182
 %gls:	that true
 %eng:	that's true
-*TRA:	mae um@s:cym&eng +// . 774182_775459
+*TRA:	mae um@s:cym&eng +//. 774182_775459
 %gls:	be.3S.PRES IM
 %eng:	um...
 *TRA:	timod yr hogan addysg grefyddol ? 775459_777374
@@ -1089,10 +1090,10 @@
 *GAI:	Miss_Hughes@s:cym&eng ? 782216_783725
 %gls:	Miss_Hughes
 %eng:	Miss Hughes?
-*TRA:	+< hogan +.. . 782680_783377
+*TRA:	+< hogan +... 782680_783377
 %gls:	girl
 %eng:	the girl...
-*TRA:	ia dim hi # um@s:cym&eng Miss@s:cym&eng +/ . 783725_786895
+*TRA:	ia dim hi # um@s:cym&eng Miss@s:cym&eng +/. 783725_786895
 %gls:	yes NEG PRON.3SF IM Miss
 %eng:	yes, not her, um Miss...
 *GAI:	student@s:cym&eng ? 786546_787220
@@ -1104,7 +1105,7 @@
 *TRA:	timod mae (we)di mynd wan . 787881_789066
 %gls:	know.2S be.3S.PRES PRT.PAST go.NONFIN now
 %eng:	you know, she's gone now
-*GAI:	um@s:cym&eng +.. . 789066_790076
+*GAI:	um@s:cym&eng +... 789066_790076
 %gls:	IM
 %eng:	um...
 *TRA:	dw (ddi)m yn gofio be (y)dy enw hi . 790076_792293
@@ -1169,7 +1170,7 @@
 *TRA:	<well@s:cym&eng # dan ni mynd i fynd mewn (y)chydig> [= addresses interlocutor on the phone] . 820050_823893
 %gls:	well be.1PL.PRES PRON.1PL go.NONFIN to go.NONFIN in a_little
 %eng:	well, we're going to go in a little
-*TRA:	um@s:cym&eng deud (wr)thi bod fi gael pres # so@s:cym&eng +.. . 823893_826215
+*TRA:	um@s:cym&eng deud (wr)thi bod fi gael pres # so@s:cym&eng +... 823893_826215
 %gls:	IM say.2S.IMPER to.3SF be.NONFIN PRON.1S get.NONFIN money so
 %eng:	um, tell her I'm having money, so...
 %com:	interlocutor on phone speaking %snd:"davies7"_826215_828782
@@ -1181,7 +1182,7 @@
 %gls:	o_k
 %eng:	ok
 %com:	new interlocutor on phone %snd:"davies7"_831522_834065
-*TRA:	hiya@s:cym&eng dw i yn +// . 834065_835597
+*TRA:	hiya@s:cym&eng dw i yn +//. 834065_835597
 %gls:	hiya be.1S.PRES PRON.1S in
 %eng:	hiya, I'm in...
 *TRA:	<lle ydan ni> [= addresses Gail] ? 835597_836305
@@ -1264,7 +1265,7 @@
 *GAI:	mewn pum munud iawn fine@s:cym&eng . 889704_890934
 %gls:	in five minutes right fine
 %eng:	in five minutes, alright, fine
-*GAI:	ond er@s:cym&eng # o'n i meddwl bod y rei ifanc yn dechrau wsnos # fel arfer ## fath â +.. . 890934_897658
+*GAI:	ond er@s:cym&eng # o'n i meddwl bod y rei ifanc yn dechrau wsnos # fel arfer ## fath â +... 890934_897658
 %gls:	but IM be.1S.IMP PRON.1S think.NONFIN be.NONFIN DET some young in start week like habit kind with
 %eng:	but er, I thought the young ones were at the beginning of the week usually, like...
 *TRA:	ia dw gwybod . 897691_899189
@@ -1279,7 +1280,7 @@
 *TRA:	um@s:cym&eng wna i ddeud (wr)tha chdi . 902395_903254
 %gls:	IM do.1S.NONPAST PRON.1S say.NONFIN to.2S PRON.2S
 %eng:	um, I'll tell you
-*TRA:	achos # dw i (y)n gweld xx +// . 903254_904601
+*TRA:	achos # dw i (y)n gweld xx +//. 903254_904601
 %gls:	because be.1S.PRES PRON.1S PRT see.NONFIN xx
 %eng:	because I'm seeing xx...
 *TRA:	achos dw (ddi)m yn gwybod xx pa bryd mae o [?] . 904601_906017
@@ -1363,7 +1364,7 @@
 *GAI:	oh@s:cym&eng right@s:cym&eng . 953608_955164
 %gls:	IM right
 %eng:	oh right
-*GAI:	oh@s:cym&eng yeah@s:cym&eng mae Sheila@s:cym&eng yn gweithio fan (y)na (y)ndy so@s:cym&eng +.. . 955164_957393
+*GAI:	oh@s:cym&eng yeah@s:cym&eng mae Sheila@s:cym&eng yn gweithio fan (y)na (y)ndy so@s:cym&eng +... 955164_957393
 %gls:	IM yeah be.3S.PRES Sheila PRT work.NONFIN place there be.3S.PRES so
 %eng:	oh yeah, Sheila works there, doesn't she, so...
 *TRA:	yndy ? 957393_958020
@@ -1375,7 +1376,7 @@
 *GAI:	mam@s:cym&eng Adam@s:cym&eng [?] . 959007_960088
 %gls:	mum Adam
 %eng:	Adam's mum
-*TRA:	[- eng] serious +! ? 960088_961075
+*TRA:	[- eng] serious +!? 960088_961075
 %gls:	serious
 %eng:	serious!?
 *GAI:	oh@s:cym&eng neu [?] mae (ry)wbeth xx (e)fo ysgolion meithrin xx . 961075_962724
@@ -1388,7 +1389,7 @@
 %gls:	no because be.3S.IMP PRON.3SF be.3S.IMP PRON.3SF PRT teach.NONFIN PRON.2S know.NONFIN kind with Rhian
 %eng:	no because she was...she was teaching, you know, like, Rhian
 *TRA:	xx . 966694_968621
-*GAI:	Sheila@s:cym&eng yn wneud (y)r un gwaith # fath â textiles@s:eng a +/ . 968621_972987
+*GAI:	Sheila@s:cym&eng yn wneud (y)r un gwaith # fath â textiles@s:eng a +/. 968621_972987
 %gls:	Sheila PRT do.NONFIN DET one work kind with textiles and
 %eng:	Sheila does the same work, like textiles and...
 *TRA:	oh@s:cym&eng . 972987_974183
@@ -1440,7 +1441,7 @@
 %gls:	no be.1S.CONDIT PRON.1S PRT can.NONFIN speak.NONFIN for age with PRON.2S like habit TAG
 %eng:	no, I'd be able to speak to you for ages usually, you know
 *TRA:	&=laugh . 1003093_1004068
-*GAI:	oh@s:cym&eng ti gwybod pan mae gyn ti rywun gwrando fath â +/ . 1004068_1006053
+*GAI:	oh@s:cym&eng ti gwybod pan mae gyn ti rywun gwrando fath â +/. 1004068_1006053
 %gls:	IM PRON.2S know.NONFIN when be.3S.PRES with PRON.2S somebody PRT listen.NONFIN kind with
 %eng:	oh you know when you've got somebody listening, like...
 *TRA:	xx dallt xx dallt . 1006053_1007389
@@ -1470,7 +1471,7 @@
 *TRA:	yn be wan ? 1026800_1027636
 %gls:	in what now
 %eng:	in what now?
-*TRA:	yn +.. . 1027636_1028356
+*TRA:	yn +... 1027636_1028356
 %gls:	in
 %eng:	in..?
 *GAI:	yn xx . 1028356_1029389
@@ -1507,13 +1508,13 @@
 *TRA:	<ond timod> [?] fath â # mae xx fath â geiriau Saesneg yn slipio i_fewn ti dallt be feddwl . 1050996_1058229
 %gls:	but know.2S kind with be.3S.PRES xx kind with words English PRT slip.NONFIN in PRON.2S understand.NONFIN what think.NONFIN
 %eng:	but you know, like, xx English words do slip in, you know what I mean
-*TRA:	so@s:cym&eng fath â +/ . 1058229_1059332
+*TRA:	so@s:cym&eng fath â +/. 1058229_1059332
 %gls:	so kind with
 %eng:	so, like...
 *GAI:	<fel (y)ma> [?] ia . 1058925_1059831
 %gls:	like here yes
 %eng:	like this, yes
-*TRA:	xx fath â um@s:cym&eng # um@s:cym&eng +.. . 1059831_1067459
+*TRA:	xx fath â um@s:cym&eng # um@s:cym&eng +... 1059831_1067459
 %gls:	xx kind with IM IM
 %eng:	[...] like, um, um...
 *GAI:	xxx gair Saesneg efo “io@s:cym&eng” # neu (ry)wbeth ar ddiwedd o . 1067459_1072149
@@ -1546,7 +1547,7 @@
 *TRA:	just@s:cym&eng fi # sy <ddim yn deud hynna> [?] . 1089877_1091967
 %gls:	just PRON.1S be.PRES.REL NEG PRT say.NONFIN that
 %eng:	it's just me that doesn't say that.
-*GAI:	ia fath â # o'ch chdi ddeud ddoe efo dad@s:cym&eng chdi de [=! laughs] +"/ . 1091967_1096298
+*GAI:	ia fath â # o'ch chdi ddeud ddoe efo dad@s:cym&eng chdi de [=! laughs] +"/. 1091967_1096298
 %gls:	yes kind with be.2S.IMP PRON.2S say.NONFIN yesterday with dad PRON.2S TAG
 %eng:	yes, like, you said yesterday with your dad, right
 *GAI:	+" <mae hwnna (y)n cool@s:cym&eng> [=! laughs] . 1096298_1098353
@@ -1555,10 +1556,10 @@
 *GAI:	de . 1098353_1098620
 %gls:	TAG
 %eng:	right
-*TRA:	oh@s:cym&eng yeah@s:cym&eng xxx +/ . 1098527_1099769
+*TRA:	oh@s:cym&eng yeah@s:cym&eng xxx +/. 1098527_1099769
 %gls:	IM yeah xxx
 %eng:	oh yeah [...] ...
-*GAI:	+< (ba)sa chdi byth deud +"/ . 1099073_1099932
+*GAI:	+< (ba)sa chdi byth deud +"/. 1099073_1099932
 %gls:	be.2S.CONDIT PRON.2S never say.NONFIN
 %eng:	you'd never say:
 *GAI:	+" <mae dy drowsus yn ffasiynol> [=! laughs] . 1099932_1101766
@@ -1574,13 +1575,13 @@
 *GAI:	xx rhyfedd though@s:eng . 1104193_1110316
 %gls:	xx strange though
 %eng:	[...] strange though
-*GAI:	pan ti (y)n clywed ffrindiau chdi gyd yn siarad fath â Cymraeg perffaith +/ . 1110327_1113576
+*GAI:	pan ti (y)n clywed ffrindiau chdi gyd yn siarad fath â Cymraeg perffaith +/. 1110327_1113576
 %gls:	when PRON.2S PRT hear.NONFIN friends PRON.2S all PRT speak.NONFIN kind with Welsh perfect
 %eng:	when you hear all your friends speaking, like, perfect Welsh
-*TRA:	well@s:cym&eng +/ . 1113576_1114725
+*TRA:	well@s:cym&eng +/. 1113576_1114725
 %gls:	well
 %eng:	well...
-*GAI:	mewn prawf mae fath â +.. . 1114574_1115445
+*GAI:	mewn prawf mae fath â +... 1114574_1115445
 %gls:	in test be.3S.PRES kind with
 %eng:	in a test, it's like...
 *TRA:	mmm@s:cym&eng [?] . 1115294_1115828
@@ -1635,7 +1636,7 @@
 *GAI:	+< Alun@s:cym&eng . 1146304_1147082
 %gls:	Alun
 %eng:	Alun
-*GAI:	Alun@s:cym&eng ac Ifan@s:cym&eng a # Gwyn a +.. . 1147082_1151053
+*GAI:	Alun@s:cym&eng ac Ifan@s:cym&eng a # Gwyn a +... 1147082_1151053
 %gls:	Alun and Ifan and Gwyn and
 %eng:	Alun and Ifan and Gwyn and...
 *GAI:	ti mynd ? 1151053_1153236
@@ -1678,7 +1679,7 @@
 *GAI:	oh@s:cym&eng ti gwybod be # dw i really@s:eng skint@s:cym&eng de . 1185790_1190097
 %gls:	IM PRON.2S know.NONFIN what be.1S.PRES PRON.1S really skint TAG
 %eng:	oh you know what, I'm really skint, right
-*GAI:	achos +.. . 1190097_1190898
+*GAI:	achos +... 1190097_1190898
 %gls:	because
 %eng:	because...
 *TRA:	be sorry@s:cym&eng ? 1190898_1192361
