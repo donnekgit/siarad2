@@ -1,13 +1,13 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en, zh
+@Languages:	cym, eng
 @Participants:	GOR Gordon Adult, STN Stanley Adult, EML Emlyn Adult, CLV Clive Adult, INT Ianto Adult
-@ID:	cy, en, zh|siarad|GOR|81;|male|||Adult||
-@ID:	cy, en, zh|siarad|STN|86;|male|||Adult||
-@ID:	cy, en, zh|siarad|EML|79;|male|||Adult||
-@ID:	cy, en, zh|siarad|CLV|77;|male|||Adult||
-@ID:	cy, en, zh|siarad|INT|82;|male|||Adult||
+@ID:	cym|siarad|GOR|81;|male|||Adult||
+@ID:	cym|siarad|STN|86;|male|||Adult||
+@ID:	cym|siarad|EML|79;|male|||Adult||
+@ID:	cym|siarad|CLV|77;|male|||Adult||
+@ID:	cym|siarad|INT|82;|male|||Adult||
 @Situation:	chat between five friends at a residential home, some of whom are residents, some day visitors
 @Comment:	GOR was brought up in north-west Wales and has lived there all his life
 @Comment:	STN was brought up in north-west Wales and has lived there all his life apart from some years in north-east Wales and some years abroad
@@ -19,7 +19,6 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:39:40
 @Media:	robert8, audio
-@Comment:	Filename: Robert8.cha; Soundfile: Robert8.wav
 @Comment:	Most of the dialog is in Welsh (cy), @s:eng is English, @s:cym&eng is used for undetermined. English words with Welsh suffixes are marked as @s:eng+cym .
 @Warning:	Only two microphones were used to record all participants
 @Comment:	Sometimes difficult to determine the speaker, especially in the case of laughter and overlapping speech
@@ -27,7 +26,7 @@
 @Comment:	Speakers can be quite difficult to understand, especially Ianto
 *EML:	maen (we)di peidio [?] (.) pedwar dryca sydd yn (.) Amlwch (y)ma tydyn mewn ffordd . 46_6235
 %gls:	be.3PL.PRES PRT.PAST desist.NONFIN four.M naughtiest be.PRES.REL in Amlwch here be.3PL.PRES.NEG in way
-%eng:	they've picked [?] the four naughties people in Amlwch, haven't they, in a way
+%eng:	they've picked [?] the four naughtiest people in Amlwch, haven't they, in a way
 *CLV:	yndyn . 6223_6827
 %gls:	be.3PL.PRES
 %eng:	yes
@@ -496,7 +495,7 @@
 %gls:	xxx want be.3S.IMP.NEG
 %eng:	[...] needed, wasn't it
 *EML:	<oedd (y)na> [?] hen whistle@s:cym&eng yn mynd yn bore +/. 231145_232979
-%gls:	 be.3S.IMP there old whistle PRT go.NONFIN in morning
+%gls:	be.3S.IMP there old whistle PRT go.NONFIN in morning
 %eng:	an old whistle would go in the morning...
 *GOR:	+< mmm@s:cym&eng . 232294_233002
 %gls:	IM
@@ -545,7 +544,7 @@
 *INT:	oh . 260413_261737
 %gls:	IM
 %eng:	oh
-*EML:	&=laugh . 261737_264941
+*EML:	&=laugh . 262276_263239
 *GOR:	ia [?] . 262991_263409
 %gls:	yes
 %eng:	yes
@@ -711,9 +710,9 @@
 *EML:	cofio rŵan na chi oedd [/] (.) oedd efo +/. 348638_350600
 %gls:	remember.NONFIN now PRT PRON.2PL be.3S.IMP be.3S.IMP with
 %eng:	remember now that it was you who was with...
-*INT:	xxx xx fi oedd . 350333_351657
-%gls:	xxx xx PRON.1S be.3S.IMP
-%eng:	xxx xx it was me
+*INT:	xxx fi oedd . 350333_351657
+%gls:	xxx PRON.1S be.3S.IMP
+%eng:	[...] it was me
 *INT:	(dy)na chi gymeriad yn_doedd xxx . 351657_353886
 %gls:	there PRON.2PL character be.3S.IMP.NEG xxx
 %eng:	there was a character, wasn't he [...]
@@ -973,9 +972,9 @@
 *INT:	oh meddwl [//] meddyliwch amdanyn nhw (y)n Ben_rhyd (a)cw (.) yn_de . 457864_461660
 %gls:	IM think.NONFIN think.2PL.IMPER about.3PL PRON.3PL in Pen_rhyd there TAG
 %eng:	oh think...think about them there in Pen-rhyd, isn't it
-*INT:	xxx cofio Mrs_Wyn (.) xxx xx (y)n gwaelod . 461660_466629
-%gls:	xxx remember.NONFIN Mrs_Wyn xxx xx in bottom
-%eng:	[...] remember Mrs Wyn [...] at the bottom
+*INT:	xxx cofio Mrs_Wyn (.) <yn byw yn tŷ> [?] (y)n gwaelod . 461660_466629
+%gls:	xxx remember.NONFIN Mrs_Wyn PRT live.NONFIN in house in bottom
+%eng:	[...] remember Mrs Wyn, living in a house at the bottom
 *GOR:	ah fasai Emlyn [?] (we)di nabod hi . 466629_468116
 %gls:	IM be.3S.CONDIT Emlyn PRT.PAST know.NONFIN PRON.3SF
 %eng:	ah, Emlyn would have known her
@@ -1284,7 +1283,7 @@
 *STN:	ia (.) ia tad yeah [?] . 637454_639753
 %gls:	yes yes father yeah
 %eng:	yes, yes of course, yeah
-*INT:	+< well xxx xx (y)r un fath ag <o'n i (y)n> [?] deud (wr)thach chi rŵan (.) mae (y)r Sais fwy o jawnswr . 638209_642505
+*INT:	+< well xxx (y)r un fath ag <o'n i (y)n> [?] deud (wr)thach chi rŵan (.) mae (y)r Sais fwy o jawnswr . 638209_642505
 %gls:	well xxx xx DET one kind with be.1S.IMP PRON.1S PRT say.NONFIN to.2PL PRON.2PL now be.3S.PRES DET Englishman more of chancer
 %eng:	well [...] as I was telling you just now, the Englishman is more of a chancer
 *STN:	yndy . 642505_643213
@@ -1852,7 +1851,7 @@
 *GOR:	ia . 947669_948215
 %gls:	yes
 %eng:	yes
-*INT:	xxx xx xxx . 947750_949039
+*INT:	xxx . 947750_949039
 *EML:	oh yeah xxx nhw deud (.) fyddai [?] xxx +//. 948477_951263
 %gls:	IM yeah xxx PRON.3PL say.NONFIN be.3S.CONDIT xxx
 %eng:	oh yeah, they [...] say, [...] ...
@@ -1903,8 +1902,8 @@
 *EML:	ew (.) mae Ianto yn crio am bod ni sgwrsio am bethau mor beth (y)na . 982802_987377
 %gls:	IM be.3S.PRES Ianto PRT cry.NONFIN for be.NONFIN PRON.1PL chat.NONFIN about things so thing there
 %eng:	gosh, Ianto's crying because we're talking about such, you know
-*GOR:	xxx xx dach chi (ddi)m (we)di gael o (e)to . 987377_989594
-%gls:	xxx xx be.2PL.PRES PRON.2PL NEG PRT.PAST get.NONFIN PRON.3SM yet
+*GOR:	xxx dach chi (ddi)m (we)di gael o (e)to . 987377_989594
+%gls:	xxx be.2PL.PRES PRON.2PL NEG PRT.PAST get.NONFIN PRON.3SM yet
 %eng:	[...] you haven't gotten it yet
 *INT:	ble mae o ? 989594_990430
 %gls:	where be.3S.PRES PRON.3SM
@@ -2761,7 +2760,7 @@
 *GOR:	+< xxx yeah . 1438464_1439125
 %gls:	xxx yeah
 %eng:	[...] yeah
-*STN:	+, i [/] i Nerys de. 1439125_1440623
+*STN:	+, i [/] i Nerys de . 1439125_1440623
 %gls:	for for Nerys TAG
 %eng:	for...for Nerys, isn't it
 *GOR:	oh yeah [?] . 1440623_1441645
@@ -3468,8 +3467,8 @@
 %gls:	IM poison
 %eng:	ah, poison
 %com:	presumably he has just taken a sip from his drink
-*GOR:	xxx xx fan (a)cw (we)di mynd dwch ? 1885185_1887611
-%gls:	xxx xx place there PRT.PAST go.NONFIN say.2PL.IMPER
+*GOR:	xxx fan (a)cw (we)di mynd dwch ? 1885185_1887611
+%gls:	xxx place there PRT.PAST go.NONFIN say.2PL.IMPER
 %eng:	[...] there has gone, say?
 %com:	sound of footsteps, probably Gordon's
 *EML:	poison@s:eng de . 1887669_1889457

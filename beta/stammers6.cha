@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	IFA Ifan Adult, HEU Heulwen Adult, BLW Blodeuwedd Adult
 @ID:	cym|siarad|IFA|48;|male|||Adult||
 @ID:	cym|siarad|HEU|49;|female|||Adult||
@@ -15,7 +15,6 @@
 @Comment:	Researcher: Jonathan Stammers, Bangor University
 @Time Duration:	00:44:59
 @Media:	stammers6, audio
-@Comment:	Filename: Stammers6.cha; Soundfile: Stammers6.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	BLW ("Blodeuwedd") often addressed by short forms of her name, represented here as "Blod".
 @Comment:	IFA stutters a lot. All of his stuttering may not have been precisely transcribed.
@@ -1143,7 +1142,7 @@
 %gls:	shame be.NONFIN PRON.2S NEG PRT like.NONFIN a_bit of spice because be.3S.PRES that PRT make.NONFIN difference big to food know.2S if PRON.2S put.NONFIN a_bit of of chilli or something xxx
 %eng:	it's a shame you don't like a bit of spice, because that makes a big difference to food, you know, if you put some chilli or something [...].
 *BLW:	+< &=imit:vomitting . 746527_746945
-*BLW:	+< yeah@s:cym&eng (.) <mae (y)n hel(pu)> [/] mae (y)n helpu um@s:cym&eng &t thingy@s:eng chdi@s:eng (he)fyd . 0_0
+*BLW:	+< yeah@s:cym&eng (.) <mae (y)n hel(pu)> [/] mae (y)n helpu um@s:cym&eng &t thingy@s:eng chdi@s:eng (he)fyd . 749922_753935
 %gls:	yeah be.3S.PRES PRT help.NONFIN be.3S.PRES PRT help.NONFIN IM thingy PRON.2S too
 %eng:	yeah, it helps your thingy too.
 *HEU:	be ? 754050_754468

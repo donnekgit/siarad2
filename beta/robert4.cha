@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	KAT Kath Adult, KIM Kim Adult
 @ID:	cym|siarad|KAT|24;|female|||Adult||
 @ID:	cym|siarad|KIM|25;|female|||Adult||
@@ -13,7 +13,6 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:32:42
 @Media:	robert4, audio
-@Comment:	Filename: Robert4.cha; Robert4.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *KAT:	faint o gloch wnest ti ddod i Gaerdydd ? 70_3135
 %gls:	how_much of clock do.2S.PAST PRON.2S come.NONFIN to Cardiff
@@ -971,7 +970,7 @@
 *KIM:	dim yn bore mae o ? 740207_741298
 %gls:	NEG in morning be.3S.PRES PRON.3SM
 %eng:	it's not in the morning?
-*KIM:	+< hmm@s:cym&eng . 740277_740637
+*KAT:	+< hmm@s:cym&eng . 740277_740637
 *KIM:	na ond mae o (y)n um@s:cym&eng (.) remembrance@s:eng Sunday@s:eng (dy)dy . 741275_744526
 %gls:	no but be.3S.PRES PRON.3SM PRT IM remembrance Sunday be.3S.PRES.NEG
 %eng:	no, but it's um, remembrance Sunday, isn't it
@@ -1766,7 +1765,7 @@
 *KAT:	fedra i +//. 1426568_1427612
 %gls:	can.1S.NONPAST PRON.1S
 %eng:	I can...
-*KAT:	be (ba)sa chdi (y)n wneud ? 1427612_1431630
+*KAT:	be (ba)sa chdi (y)n wneud ? 1428540_1429260
 %gls:	what be.2S.CONDIT PRON.2S PRT do.NONFIN
 %eng:	what would you do?
 *KAT:	working@s:eng in@s:eng partnership@s:eng (ba)sa chdi xxx de . 1429226_1431630
@@ -2257,7 +2256,7 @@
 *KIM:	“ooh@s:cym&eng” . 1849086_1849643
 *KIM:	ac oedden nhw just@s:cym&eng (fa)th â “wow@s:cym&eng” . 1849643_1851362
 %gls:	and be.3PL.IMP PRON.3PL just kind with wow
-%eng:	and they were just like "wow!"
+%eng:	and they were just like "wow"!
 *KIM:	anodd credu fod [/] (.) <bod mewn> [?] byd wahanol de . 1851362_1855924
 %gls:	difficult believe.NONFIN be.NONFIN be.NONFIN in world different TAG
 %eng:	it's hard to believe, being in a different world, isn't it
@@ -2350,7 +2349,7 @@
 *KIM:	ti gwybod dyn nhw (ddi)m yn licio nhw yn (.) just@s:cym&eng rhoid a rhoid a rhoid de . 1923801_1927787
 %gls:	PRON.2S know.NONFIN be.3PL.PRES PRON.3PL NEG PRT like.NONFIN PRON.3PL PRT just give.NONFIN and give.NONFIN and give.NONFIN TAG
 %eng:	you know, they don't like them just giving and giving and giving
-*KIM:	+< na . 1927555_1928379
+*KAT:	+< na . 1927555_1928379
 %gls:	no
 %eng:	no
 *KIM:	wneith [//] dyn nhw (fa)th â +//. 1927764_1928425

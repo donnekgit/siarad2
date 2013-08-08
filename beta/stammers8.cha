@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ISL Islwyn Adult, CAR Carys Adult
 @ID:	cym|siarad|ISL|66;|male|||Adult||
 @ID:	cym|siarad|CAR|67;|female|||Adult||
@@ -13,7 +13,6 @@
 @Transcriber:	Jonathan Stammers, Bangor University
 @Time Duration:	00:30:31
 @Media:	stammers8, audio
-@Comment:	Filename: Stammers8.cha; Soundfile: Stammers8.wav
 @Comment:	Language Markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
 @Warning:	CAR seems to have a slight speech impediment, does not roll her r's, pronounces several words in an unusual way, and also seems to use some idiosyncratic forms (e.g. "heblaw" in a different sense from the usual "except"). Both speakers have features such as use of imperfect tense in a past tense-type setting. To what extent these are part of her dialect is unclear.
 *ISL:	Ann_Andrews@s:cym&eng sy (y)n sefyll (..) i (y)r Cynulliad yn yr ardal yma . 313_5074
@@ -262,7 +261,7 @@
 *CAR:	+< na ddwn i (ddi)m . 169553_170563
 %gls:	no know.1S.NONPAST.NEG PRON.1S NEG
 %eng:	no, I don't know.
-*ISL:	yeah@s:cym&eng ond oedd o (y)n meddwl fasen nhw (we)di cael llymaid o rywbeth ! 171202_174023
+*CAR:	yeah@s:cym&eng ond oedd o (y)n meddwl fasen nhw (we)di cael llymaid o rywbeth ! 171202_174023
 %gls:	yeah but be.3S.IMP PRON.3SM PRT think.NONFIN be.3PL.CONDIT PRON.3PL PRT.PAST get.NONFIN sip of something
 %eng:	yeah, but he'd thought they'd get a sip of something!
 *ISL:	+< mae Chris@s:cym&eng yn &ge +/. 171852_173013
@@ -943,7 +942,7 @@
 *CAR:	+" well@s:cym&eng dw i (dd)im gynno fo . 695272_696375
 %gls:	well be.1S.PRES PRON.1S NEG with.3SM PRON.3SM
 %eng:	well, I've not got it.
-*CAR:	ond medra i gael o mewn dau funud . 696352_698766
+*CAR:	ond medra i gael o mewn dau funud . 696352_698475
 %gls:	but can.1S.NONPAST PRON.1S get.NONFIN PRON.3SM in two.M minute
 %eng:	"but I can get it in two minutes" .
 *CAR:	&=laugh <a dyma> [?] ffonio drws nesa ! 698256_700821

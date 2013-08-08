@@ -1,10 +1,10 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en, zh
+@Languages:	cym, eng
 @Participants:	LIN Lina Adult, ELI Elsi Adult
-@ID:	cy, en, zh|siarad|LIN|59;|female|||Adult||
-@ID:	cy, en, zh|siarad|ELI|89;|female|||Adult||
+@ID:	cym|siarad|LIN|59;|female|||Adult||
+@ID:	cym|siarad|ELI|89;|female|||Adult||
 @Situation:	informal conversation between mother and daughter in ELI's kitchen
 @Comment:	LIN was brought up in north-west Wales but has spent most of her adulthood living in south-east Wales
 @Comment:	ELI was brought up in north-east Wales, but has lived in north-west Wales for more than 50 years
@@ -293,7 +293,7 @@
 *ELI:	mae mynd â Jemimah honna welais i ddoe +/. 225674_227914
 %gls:	be.3S.PRES go.NONFIN with Jemimah her see.1S.PAST PRON.1S yesterday
 %eng:	he takes Jemimah, her I saw yesterday...
-*LIN:	pwy +//?227903_228321
+*LIN:	pwy +//? 227903_228321
 %gls:	who
 %eng:	who?
 *LIN:	oh ia hi oedd yn gweithio efo chi . 228309_229911
@@ -1418,7 +1418,7 @@
 %eng:	hm
 *ELI:	+" sut mae geneth Jane xxx ? 982585_984500
 %gls:	how be.3S.PRES girl Jane xxx
-%eng:	how's Jane's girl [...] 
+%eng:	how's Jane's girl [...]
 *LIN:	mmm@s:cym&eng . 984500_985092
 %gls:	IM
 %eng:	mm
@@ -1683,7 +1683,7 @@
 *LIN:	a mae (y)n swnio fel bod hi (y)n dal yn llawn hwyl . 1156073_1158522
 %gls:	and be.3S.PRES PRT sound.NONFIN like be.NONFIN PRON.3SF PRT still PRT full fun
 %eng:	and she sound like she's still spirited
-*ELI:	+< oh mae yndy . 1158093_1161169
+*ELI:	+< oh mae yndy . 1158093_1159289
 %gls:	IM be.3S.PRES be.3S.PRES
 %eng:	oh yes, she is
 *ELI:	yn llawn hwyl yndy . 1159696_1161240
@@ -3419,7 +3419,7 @@
 *ELI:	well ie o'n i (we)di priodi . 2253171_2254913
 %gls:	well yes be.1S.IMP PRON.1S PRT.PAST marry.NONFIN
 %eng:	well yes, I was married
-*ELI:	ac amser cyn dy eni di. 2254913_2256770
+*ELI:	ac amser cyn dy eni di . 2254913_2256770
 %gls:	and time before POSS.2S bear.NONFIN PRON.2S
 %eng:	and the time before you were born
 *ELI:	ac oedd (y)na ryw Mrs_Pa(rry)@s:cym&eng [//] Mrs_Parry Dryll [?] (.) yn byw . 2256770_2261751

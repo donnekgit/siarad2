@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	HOW Howyn Adult, HEF Hefeydd Adult
 @ID:	cym|siarad|HOW|33;|male|||Adult||
 @ID:	cym|siarad|HEF|25;|male|||Adult||
@@ -13,8 +13,7 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:35:22
 @Media:	roberts1, audio
-@Comment:	Filename: Roberts1.cha; Soundfile: Roberts1.wav
-@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English, @s:deu = German. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	left track cuts out at 00:01:09. Hefeydd's speech is picked up on the right track, but is sometimes difficult to understand, especially where their speech overlaps. At 00:06:52 the right track also cuts out until 00:07:21 when the researcher comes in to fix the equipment. She leaves at 00:07:47 and the transcription resumes from here. Left track cuts out again at 00:30:12
 *HOW:	dangos nhw er@s:cym&eng yn y <cinema@s:cym&eng i> [=? sinemâu] +... 0_2670
 %gls:	show.NONFIN PRON.3PL IM in DET cinema to
@@ -214,7 +213,7 @@
 *HOW:	dim i (y)r un graddau dw meddwl . 229283_231280
 %gls:	NEG to DET same degrees be.1S.PRES think.NONFIN
 %eng:	not to the same extent, I think
-*HOW:	dw (y)n gwybod bod ounce@s:cym&eng (.) fath â er@s:cym&eng yn (.) fath â unze@6 dw meddwl ydy o neu rywbeth fel (y)na (y)n (.) Almaeneg . 231280_238888
+*HOW:	dw (y)n gwybod bod ounce@s:cym&eng (.) fath â er@s:cym&eng yn (.) fath â unze@s:deu dw meddwl ydy o neu rywbeth fel (y)na (y)n (.) Almaeneg . 231280_238888
 %gls:	be.1S.PRES PRT know.NONFIN be.NONFIN ounce kind with IM PRT kind with unze be.1S.PRES think.NONFIN be.3S.PRES PRON.3SM or something like there in German
 %eng:	I know that ounce, like, er, is, like Unze I think it is, or something like that in German
 *HOW:	a mae hynny (y)n <ymddangos yn y> [?] croeseiriau (y)n eitha aml . 238888_240765
@@ -277,7 +276,7 @@
 *HOW:	duwcs cymhleth de . 290792_291814
 %gls:	gosh complicated TAG
 %eng:	gosh, complicated, isn't it
-*HEF:	+, xx. 291640_291988
+*HEF:	+, xxx . 291640_291988
 *HEF:	wedyn mae [/] <mae o (y)n> [/] (.) mae o (y)n eitha (.) cymhleth felly . 291988_295715
 %gls:	then be.3S.PRES be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT quite complicated thus
 %eng:	so it is...it is a bit complicated, therefore
@@ -453,8 +452,8 @@
 *HOW:	+< yeah@s:cym&eng . 517535_517837
 %gls:	yeah
 %eng:	yeah
-*HOW:	xxx xx dw meddwl ella bod hi (y)n dibynnu ar (.) <natur y> [//] (.) naws y film@s:cym&eng neu rywbeth de . 518023_524768
-%gls:	xxx xx be.1S.PRES think.NONFIN perhaps be.NONFIN PRON.3SF PRT depend.NONFIN on nature DET tone DET film or something TAG
+*HOW:	xxx dw meddwl ella bod hi (y)n dibynnu ar (.) <natur y> [//] (.) naws y film@s:cym&eng neu rywbeth de . 518023_524768
+%gls:	xxx be.1S.PRES think.NONFIN perhaps be.NONFIN PRON.3SF PRT depend.NONFIN on nature DET tone DET film or something TAG
 %eng:	[...] I think perhaps it depends on the nature of...the tone of the film or something, you know
 *HEF:	+< mmm@s:cym&eng . 524025_524478
 %gls:	IM
@@ -477,9 +476,9 @@
 *HOW:	um@s:cym&eng (.) ond efo rywbeth fath â (.) Simpsons@s:cym&eng neu (.) Sesame_Street@s:cym&eng neu beth bynnag (.) ella <bod (y)na> [//] <bod nhw> [//] (.) <bod (y)na ryw fath o> [///] (.) <gan bod nhw> [/] gan bod nhw (y)n bethau eitha ysgafn neu (.) (di)py(n) bach yn ddoniol neu beth bynnag neu (.) bod o (y)n rhan o (y)r (.) diddanwch (.) ydy fath â (.) er@s:cym&eng y lleisiau (.) difyr de +... 534532_556487
 %gls:	IM but with something kind with Simpsons or Sesame_Street or what ever perhaps be.NONFIN there be.NONFIN PRON.3PL be.NONFIN there some kind of for be.NONFIN PRON.3PL for be.NONFIN PRON.3PL PRT things quite light or a_little small PRT funny or what ever or be.NONFIN PRON.3SM PRT part of DET entertainment be.3S.PRES kind with IM DET voices funny TAG
 %eng:	um, but with something like Simpsons or Sesame Street or whatever perhaps there's...they're...there's some kind of...because they're...because they're quite light-hearted things or a little bit funny or whatever or that it's part of the entertainment is, like, er, the funny voices, you know
-*HEF:	+< llais mwy odd@s:cym&eng (.) neu xxx xx xxx . 555546_557625
-%gls:	voice more odd or xxx xx xxx
-%eng:	a more odd voice or [...]
+*HEF:	+< llais mwy odd@s:cym&eng (.) neu rywbeth yeah@s:cym&eng yeah@s:cym&eng . 555546_557625
+%gls:	voice more odd or something yeah yeah
+%eng:	a more weird voice or something, yeah
 *HEF:	yeah@s:cym&eng . 557625_558983
 %gls:	yeah
 %eng:	yeah
@@ -628,8 +627,8 @@
 *HEF:	oh@s:cym&eng right@s:cym&eng . 689275_689902
 %gls:	IM right
 %eng:	oh right
-*HOW:	xxx xx xxx dw i (we)di clywed fod o (y)n siarad xxx (.) ryw bump chwech neu rywbeth o [/] o ieithoedd eraill de . 689902_696740
-%gls:	xxx xx xxx be.1S.PRES PRON.1S PRT.PAST hear.NONFIN be.NONFIN PRON.3SM PRT speak.NONFIN xxx some five six or something of of languages other TAG
+*HOW:	xxx dw i (we)di clywed fod o (y)n siarad xxx (.) ryw bump chwech neu rywbeth o [/] o ieithoedd eraill de . 689902_696740
+%gls:	xxx be.1S.PRES PRON.1S PRT.PAST hear.NONFIN be.NONFIN PRON.3SM PRT speak.NONFIN xxx some five six or something of of languages other TAG
 %eng:	[...] I've heard that he speaks five or six or something of other languages, you know
 *HEF:	+< difyr . 694720_695254
 %gls:	interesting

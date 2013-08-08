@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	NER Nerys Adult, GUT Guto Adult
 @ID:	cym|siarad|NER|33;|female|||Adult||
 @ID:	cym|siarad|GUT|37;|male|||Adult||
@@ -106,7 +106,7 @@
 *NER:	beth am y smocio ? 53360_54335
 %gls:	what about DET smoke.NONFIN
 %eng:	what about the somking?
-*GUT:	+, [- eng] +< weather permitting . 54010_54804
+*GUT:	+, +< [- eng] weather permitting . 54010_54804
 *GUT:	smocio mae smocio (y)n flêr iawn . 54777_56449
 %gls:	smoke.NONFIN be.3S.PRES smoke.NONFIN PRT messy very
 %eng:	smoking, smoking is very messy.
@@ -382,7 +382,7 @@
 *NER:	un arall oedd wrth bod gynno fo ddim iaith (..) um@s:cym&eng (.) &ɨ <un o> [/] un o (y)r sefyllfaoedd oedd bod [/] bod (y)na rywun yn siarad (.) ato fo am bum munud non_stop@s:eng . 287732_298344
 %gls:	one other be.3S.IMP as be.NONFIN with.3SM PRON.3SM NEG language IM one of one of DET situations be.3S.IMP be.NONFIN be.NONFIN there someone PRT talk.NONFIN to.3SM PRON.3SM for five minute non_stop
 %eng:	another one was, while he had no language, one of the situations was that someone would talk to him for five minutes non-stop.
-*GUT:	+< mmm@s:cym&eng . 0_0
+*GUT:	+< mmm@s:cym&eng . 290899_291514
 *GUT:	oh@s:cym&eng dyna be oedda chdi ddeu(d) (wr)th Deb@s:cym&eng wan de yeah@s:cym&eng . 298074_299750
 %gls:	IM there what be.2S.IMP PRON.2S say.NONFIN to Deb now TAG yeah
 %eng:	oh, that's what you were telling Deb, now, yeah.
@@ -1254,7 +1254,7 @@
 *NER:	so@s:cym&eng na [/] na <fydd o (y)n> [/] <fydd o (y)n> [/] fydd o nice@s:cym&eng . 976906_979437
 %gls:	so no no be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT be.3S.FUT PRON.3SM PRT nice
 %eng:	so, no, it'll be nice.
-*GUT:	a wedyn <fydd ti> [?] xxx fydd [/] <fydd di> [//] gei di ddod i_fewn (.) &n cael [//] mae [//] a [/] a [/] (.) a [/] a [//] am baned am fwyd efo ni (.) a chwarae efo Anna@s:cym&eng . 979413_988285
+*NER:	a wedyn <fydd ti> [?] xxx fydd [/] <fydd di> [//] gei di ddod i_fewn (.) &n cael [//] mae [//] a [/] a [/] (.) a [/] a [//] am baned am fwyd efo ni (.) a chwarae efo Anna@s:cym&eng . 979413_988285
 %gls:	and then be.2S.FUT PRON.2S xxx be.2S.FUT be.2S.FUT PRON.2S get.2S.NONPAST PRON.2S come.NONFIN in get.NONFIN be.3S.PRES and and and and for hot_drink for food with PRON.1PL and play.NONFIN with Anna
 %eng:	and then you'll... you can come in [...] for a drink, for food with us, and play with Anna.
 *GUT:	well@s:cym&eng na [/] na <fydda i> [/] (.) fydda i (y)n hollol annibynnol . 987356_989980
@@ -1740,7 +1740,7 @@
 *NER:	ti (y)n cofio [///] o_k@s:cym&eng &=growl +/. 1274376_1275687
 %gls:	PRON.2S PRT remember.NONFIN o_k
 %eng:	you remember, okay...
-*GUT:	wnes i ddeu(d) (wr)th y boy@s:cym&eng (y)ma (y)n gwaith de +//. 1274422_1276825
+*GUT:	wnes i ddeu(d) (wr)th y boy@s:cym&eng (y)ma (y)n gwaith de +//. 1274422_1275640
 %gls:	do.1S.PAST PRON.1S say.NONFIN to DET boy here in work TAG
 %eng:	I told this bloke at work, right.
 *GUT:	wnes i ddeu(d) (wr)th y boy@s:cym&eng (y)ma (y)n gwaith +... 1275641_1276593
@@ -2148,7 +2148,7 @@
 %eng:	yeah, they gain speed.
 *NER:	maen nhw just@s:cym&eng yn meddwl “ooh@s:cym&eng ah@s:cym&eng” ! 1532062_1533653
 %gls:	be.3PL.PRES PRON.3PL just PRT think.NONFIN IM IM
-%eng:	they just think "ooh, ah!"
+%eng:	they just think "ooh, ah"!
 *GUT:	yeah@s:cym&eng . 1533769_1534175
 *NER:	a mae (y)n <phew@s:cym&eng (fa)th â> [?] +... 1533769_1535127
 %gls:	and be.3S.PRES PRT IM kind with

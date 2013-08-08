@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	JAQ Jaqueline Adult, CHR Charlotte Child
 @ID:	cym|siarad|JAQ|38;|female|||Adult||
 @ID:	cym|siarad|CHR|10;|female|||Child||
@@ -13,7 +13,6 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:30:10
 @Media:	stammers2, audio
-@Comment:	Filename: Stammers2.cha; Soundfile: Stammers2.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Participants don't usually speak Welsh to one another. Conversation style sometimes forced, and seem conscious of being recorded
 @Comment:	A lot of disruption on Charlotte's mic
@@ -333,15 +332,15 @@
 *CHR:	dw i (y)n hoffi Big_Brother@s:cym&eng . 200784_202304
 %gls:	be.1S.PRES PRON.1S PRT like.NONFIN Big_Brother
 %eng:	I like Big Brother
-*JAQ:	xxx faint o weithiau ti (we)di (.) gweld o ? 202304_204406
-%gls:	xxx how_much of times PRON.2S PRT.PAST see.NONFIN PRON.3SM
-%eng:	[..] how many times have you seen it?
+*JAQ:	a [?] faint o weithiau ti (we)di (.) gweld o ? 202304_204406
+%gls:	and how_much of times PRON.2S PRT.PAST see.NONFIN PRON.3SM
+%eng:	and how many times have you seen it?
 *JAQ:	dim lot@s:cym&eng o weithiau na ? 204406_206914
 %gls:	NEG lot of times no
 %eng:	not many times, no?
-*CHR:	xxx xx [//] dipyn yeah@s:cym&eng . 206914_209201
-%gls:	xxx xx a_bit yeah
-%eng:	[...] a bit, yeah
+*CHR:	dim_ond xxx [//] dipyn yeah@s:cym&eng . 206914_209201
+%gls:	only xxx a_bit yeah
+%eng:	only a few, yeah
 *JAQ:	ia . 209201_209793
 %gls:	yes
 %eng:	yes
@@ -1290,10 +1289,10 @@
 *JAQ:	guard@s:cym&eng dog@s:eng . 766832_768063
 %gls:	guard dog
 %eng:	guard dog
-*JAQ:	ia (.) mae o (y)n dda . 768063_770187
+*JAQ:	ia (.) mae o (y)n dda . 768530_770187
 %gls:	yes be.3S.PRES PRON.3SM PRT good
 %eng:	yes, he's good
-*JAQ:	ia chwilio am [//] (.) ar_ôl y tŷ . 0_0
+*JAQ:	ia chwilio am [//] (.) ar_ôl y tŷ . 771131_773256
 %gls:	yes search.NONFIN for after DET house
 %eng:	yes, looks after the house
 *JAQ:	ia ? 773241_775098
@@ -1317,10 +1316,10 @@
 *JAQ:	dolphin@s:cym&eng (.) ia ? 783249_784444
 %gls:	dolphin yes
 %eng:	dolphin, yes?
-*CHR:	+< yeah@s:cym&eng . 0_0
+*CHR:	+< yeah@s:cym&eng . 784112_784472
 %gls:	yeah
 %eng:	yeah
-*JAQ:	pam ? 0_0
+*JAQ:	pam ? 784693_785447
 %gls:	why
 %eng:	why?
 *CHR:	just@s:cym&eng yn hoffi nhw . 785350_787568
@@ -1852,7 +1851,7 @@
 *CHR:	mae nhw (y)n um@s:cym&eng (.) aros adre . 1118871_1121344
 %gls:	be.3PL.PRES PRON.3PL PRT IM stay.NONFIN home
 %eng:	they're, um, staying home
-*CHR:	+< ++ aros adre . 1120230_1120868
+*JAQ:	+< ++ aros adre . 1120230_1120868
 %gls:	stay.NONFIN home
 %eng:	staying home
 *JAQ:	cael day@s:eng off@s:cym&eng . 1121344_1123132

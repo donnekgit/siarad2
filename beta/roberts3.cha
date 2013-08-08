@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MED Medeni Adult, LER Leri Adult
 @ID:	cym|siarad|MED|56;|female|||Adult||
 @ID:	cym|siarad|LER|41;|female|||Adult||
@@ -13,7 +13,6 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:40:08
 @Media:	roberts3, audio
-@Comment:	Filename: Roberts3.cha; Soundfile: Roberts3.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *MED:	xxx (d)igon o angen ryw (.) grysau . 1279_3000
 %gls:	xxx enough of need some shirts
@@ -53,7 +52,7 @@
 %eng:	yes, he was saying:
 *LER:	+" xxx (f)ysa chdi yma dydd Gwener . 17508_18657
 %gls:	xxx be.2S.CONDIT PRON.2S here day Friday
-%eng:	 [...] if you were here on Friday
+%eng:	[...] if you were here on Friday
 *LER:	meddai fo +". 18657_18994
 %gls:	say.3S.PAST PRON.3SM
 %eng:	he said
@@ -276,7 +275,7 @@
 *LER:	(we)dyn xxx [///] (.) ga i (ddi)m gwatsiad un heno wan na chaf well@s:cym&eng os na ga i jance@s:cym&eng (.) timod <i &w> [/] i watsiad o o flaen (fe)lly . 129370_134989
 %gls:	then xxx get.1S.NONPAST PRON.1S NEG watch.NONFIN one tonight now NEG get.1S.NONPAST well if NEG get.1S.NONPAST PRON.1S chance know.2S to to watch.NONFIN PRON.3SM of front thus
 %eng:	then [...] I won't get to watch tonight's now, will I, well unless I get a chance, you know, to...to watch it beforehand, like
-*MED:	+< na <xx &p> [///] ia ia (.) ia . 131855_133828
+*MED:	+< na xxx &p [///] ia ia (.) ia . 131855_133828
 %gls:	no xxx yes yes yes
 %eng:	no [...] ...yes yes, yes
 *LER:	oh@s:cym&eng no@s:eng everything@s:eng stops@s:eng for@s:eng the@s:eng Bill@s:cym&eng de . 134989_137195
@@ -724,10 +723,10 @@
 %eng:	and I was saying, er:
 *MED:	+" xxx oeddachd . 347137_350031
 %gls:	xxx be.2S.IMP
-%eng:	 [...] weren't you
+%eng:	[...] weren't you
 *MED:	+" xxx tyrd round@s:cym&eng i chdi gael gweld er@s:cym&eng +... 350031_351925
 %gls:	xxx come.2S.IMPER round for PRON.2S get.NONFIN see.NONFIN IM
-%eng:	 [...] come round so you can see er...
+%eng:	[...] come round so you can see er...
 *LER:	(dd)eudodd o (ddi)m_byd . 351704_352435
 %gls:	say.3S.PAST PRON.3SM nothing
 %eng:	he didn't say anything
@@ -739,7 +738,7 @@
 %eng:	and I spoke a little with her then and said:
 *MED:	+" xxx <dw (y)n> [?] cofio . 358434_358973
 %gls:	xxx be.1S.PRES PRT remember.NONFIN
-%eng:	 [...] I remember
+%eng:	[...] I remember
 *MED:	meddai fi +". 358973_359338
 %gls:	say.1S.PAST PRON.1S
 %eng:	I said
@@ -1099,7 +1098,7 @@
 %eng:	and the girls, you know, were dragging these big speakers
 *LER:	ac o'n i meddwl “argoel fawr” . 568256_569498
 %gls:	and be.1S.IMP PRON.1S think.NONFIN lord big
-%eng:	and I thought "good God!"
+%eng:	and I thought "good God"!
 *MED:	+< oh@s:cym&eng nefoedd [?] . 568302_569022
 %gls:	IM heaven
 %eng:	oh heavens
@@ -1555,8 +1554,8 @@
 *MED:	a mae chwythu balloon@s:cym&eng yn help@s:cym&eng i asthma@s:cym&eng ti (y)n gweld dydy . 866898_869766
 %gls:	and be.3S.PRES blow.NONFIN balloon PRT help for asthma PRON.2S PRT see.NONFIN be.3S.PRES.NEG
 %eng:	and blowing a balloon helps asthma, you see, doesn't it
-*LER:	+< xxx xx oh@s:cym&eng right@s:cym&eng yeah@s:cym&eng . 868001_869627
-%gls:	xxx xx IM right yeah
+*LER:	+< xxx oh@s:cym&eng right@s:cym&eng yeah@s:cym&eng . 868001_869627
+%gls:	xxx IM right yeah
 %eng:	[...] oh right, yeah
 *LER:	oh@s:cym&eng right@s:cym&eng . 869627_870613
 %gls:	IM right
@@ -1713,7 +1712,7 @@
 %eng:	but she was saying last week:
 *MED:	+" xxx oh@s:cym&eng ac o'n i (we)di ypsetio . 954797_956527
 %gls:	xxx IM and be.1S.IMP PRON.1S PRT.PAST upset.NONFIN
-%eng:	 [...] and oh I was upset
+%eng:	[...] and oh I was upset
 *MED:	meddai +". 956527_956713
 %gls:	say.3S.PAST
 %eng:	she said
@@ -2906,8 +2905,8 @@
 *MED:	+" cymra amser tan +//. 1582683_1584123
 %gls:	take.2S.IMPER time until
 %eng:	take time until...
-*MED:	xxx xx Meirion@s:cym&eng gymryd tan Dolig . 1584123_1585737
-%gls:	xxx xx Meirion take.NONFIN until Christmas
+*MED:	xxx Meirion@s:cym&eng gymryd tan Dolig . 1584123_1585737
+%gls:	xxx Meirion take.NONFIN until Christmas
 %eng:	[...] Meirion took until Christmas
 *MED:	xxx mae (we)di dechrau gwneud gwaith llanw wan dydy . 1585737_1587687
 %gls:	xxx be.3S.PRES PRT.PAST start.NONFIN do.NONFIN work fill.NONFIN now be.3S.PRES.NEG
@@ -3304,8 +3303,8 @@
 *MED:	+< do do . 1809575_1810329
 %gls:	yes yes
 %eng:	yes, yes
-*MED:	oh@s:cym&eng yeah@s:cym&eng mae hwnna xxx xx (.) yndy . 1811862_1814044
-%gls:	IM yeah be.3S.PRES that xxx xx be.3S.PRES
+*MED:	oh@s:cym&eng yeah@s:cym&eng mae hwnna xxx (.) yndy . 1811862_1814044
+%gls:	IM yeah be.3S.PRES that xxx be.3S.PRES
 %eng:	oh yeah, that's [...] yes
 *LER:	+< a mae (r)heiny (y)n dri chant y mis . 1812129_1813638
 %gls:	and be.3S.PRES those PRT three.M hundred DET month

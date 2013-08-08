@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	GWN Gwyn Adult, ROY Roy Adult
 @ID:	cym|siarad|GWN|25;|male|||Adult||
 @ID:	cym|siarad|ROY|31;|male|||Adult||
@@ -13,7 +13,6 @@
 @Transcriber:	Jonathan Stammers, Bangor University
 @Time Duration:	00:34:06
 @Media:	stammers7, audio
-@Comment:	Filename: Stammers7.cha; Soundfile: Stammers7.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Some background noise from strong winds and passing traffic.
 *ROY:	dw i fel arfer yn wneud ryw (.) gwasanaeth o hanner awr (.) neu pedwar_deg munud . 0_4888
@@ -455,7 +454,7 @@
 *GWN:	+" oes (y)na rywbeth yn mynd ymlaen yn yr ysgol heddiw (y)ma ? 391082_393172
 %gls:	be.3S.PRES there something PRT go.NONFIN forward in DET school today here
 %eng:	is there anything going on in the school today?
-*GWN:	a wedyn timod fel arfer <yn ysgo(l)> [/] yn ysgol dw i (y)n mynd mae (y)na (.) un o (y)r dosbarthiadau (y)n mynd am trip@s:cym&eng neu (.) mae (y)na rhei o (y)r plant yn rywle <neu (dd)im yma> [?] (.) maen nhw (y)n deud rhei eraill [?] sy (y)n sâl neu mae un o (y)r athrawon yn disgwyl babi a pethau wedyn (.) &kəv roi hwnna mewn yn y gweddi . 393172_408659
+*GWN:	a wedyn timod fel arfer <yn ysgo(l)> [/] yn ysgol dw i (y)n mynd mae (y)na (.) un o (y)r dosbarthiadau (y)n mynd am trip@s:cym&eng neu (.) mae (y)na rhei o (y)r plant yn rywle <neu (dd)im yma> [?] (.) maen nhw (y)n deud rhei eraill [?] sy (y)n sâl neu mae un o (y)r athrawon yn disgwyl babi a pethau . 393172_406237
 %gls:	and then know.2S like habit in school in school be.1S.PRES PRON.1S PRT go.NONFIN be.3S.PRES there one of DET classes PRT go.NONFIN for trip or be.3S.PRES there some of DET children PRT somewhere or NEG here be.3PL.PRES PRON.3PL PRT say.NONFIN some others be.PRES.REL PRT sick or be.3S.PRES one of DET teachers PRT expect.NONFIN baby and things
 %eng:	and then, you know, usually at the school I go to there's one of the classes going on a trip, or there are some of the children somewhere or not here, they mention some others who are ill, or one of the teachers is expecting a baby and things.
 *ROY:	+< mmhm@s:cym&eng . 399725_400363
@@ -1005,7 +1004,7 @@
 *ROY:	mae hi (y)n (.) right@s:cym&eng falch ohona i . 884247_886871
 %gls:	be.3S.PRES PRON.3SF PRT right proud of.1S PRON.1S
 %eng:	she's very proud of me.
-*ROY:	a (y)r [/] um@s:cym&eng yr un iau ? 887452_890935
+*ROY:	a (y)r [/] um@s:cym&eng yr un iau ? 887452_889553
 %gls:	and DET IM DET one younger
 %eng:	and, um, the younger one?
 *ROY:	yndy <mae hi (y)n> [/] (.) mae hi (y)n gefnogol de . 889750_892409
@@ -1048,7 +1047,7 @@
 *GWN:	(y)dy efo pump o blant neu (y)dy (y)r llall efo rei ? 922397_924592
 %gls:	be.3S.PRES with five of children or be.3S.PRES DET other with some
 %eng:	has she got five children, or has the other one got some?
-*ROY:	mae un efo pedwar . 924580_927715
+*ROY:	mae un efo pedwar . 924580_925868
 %gls:	be.3S.PRES one with four
 %eng:	one has four.
 *ROY:	a mae llall yn mynd i cael ei un cynta . 925950_927866
@@ -1416,7 +1415,7 @@
 %eng:	I don't know what Dawn will say, because I've been inviting loads of people, but...
 *ROY:	oh@s:cym&eng . 1258940_1259451
 *GWN:	[- eng] my house ! 1259463_1260496
-*GWN:	&=laugh iawn i fi wneud ! 1260752_1263143
+*GWN:	&=laugh iawn i fi wneud ! 1260752_1262666
 %gls:	right to PRON.1S do.NONFIN
 %eng:	it's alright for me to!
 *GWN:	ga i wneud be bynnag dw i isio ! 1262481_1264304
@@ -1609,7 +1608,7 @@
 *GWN:	(be)cause@s:eng mae (y)na lot@s:cym&eng mwy o gennod Cristnogol Cymraeg na sy (y)na hogiau . 1481048_1484670
 %gls:	because be.3S.PRES there lot more of girls Christian Welsh than be.PRES.REL there boys
 %eng:	cause there are are a lot more Welsh Christian girls than there are lads.
-*GWN:	&=cough so@s:cym&eng (.) dw (ddi)m yn gwybod os oes (y)na <Cawl a Chwestiwn> “[?]” wythnos nesa . 1496710_1500169
+*GWN:	&=cough so@s:cym&eng (.) dw (ddi)m yn gwybod os oes (y)na <“Cawl a Chwestiwn”> [?] wythnos nesa . 1496710_1500169
 %gls:	so be.1S.PRES NEG PRT know if be.3S.PRES there soup and question week next
 %eng:	I don't know whether there is a "Cawl a Chwestiwn" [Soup and Questions] next week.
 *GWN:	(dy)dy Ali@s:cym&eng ddim yna na ? 1501586_1502852
@@ -1747,7 +1746,7 @@
 %gls:	Ifan IM Ifans be.PRES.REL PRT lead.NONFIN night Friday
 %eng:	Ifan Ifans leads it on Friday night.
 *ROY:	yeah@s:cym&eng . 1603336_1604044
-*GWN:	i fod +//. 1604810_1607666
+*GWN:	i fod +//. 1604810_1605390
 %gls:	to be.NONFIN
 %eng:	supposed to...
 *GWN:	well@s:cym&eng mae (we)di text_io@s:eng+cym fi . 1605391_1606331

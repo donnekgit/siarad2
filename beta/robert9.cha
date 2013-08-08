@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	PEN Penri Adult, CRL Carol Adult
 @ID:	cym|siarad|PEN|35;|male|||Adult||
 @ID:	cym|siarad|CRL|23;|female|||Adult||
@@ -13,7 +13,6 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:30:32
 @Media:	robert9, audio
-@Comment:	Filename: Robert9.cha; Soundfile: Robert9.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	Deciding where clause boundaries lie can be particularly difficult in Carol's case
 *CRL:	beth oedd y tywydd fel (y)na ? 0_1231
@@ -334,8 +333,8 @@
 *CRL:	fi (dd)im yn gwybod (.) <os yw> [/] os [/] os yw (y)r flair@s:eng gyda fe (.) i bod yn greadigol . 176624_182243
 %gls:	PRON.1S NEG PRT know.NONFIN if be.3S.PRES if if be.3S.PRES DET flair with PRON.3SM to be.NONFIN PRT creative
 %eng:	I don't know if...if...if he's got the flair to be creative
-*PEN:	+< xxx xx xxx sicr ohono fo (he)fyd . 178377_180455
-%gls:	xxx xx xxx certain of.3SM PRON.3SM also
+*PEN:	+< xxx sicr ohono fo (he)fyd . 178377_180455
+%gls:	xxx certain of.3SM PRON.3SM also
 %eng:	[...] sure of him too
 *PEN:	+< dydy o ddim na(g) (y)dy . 181012_181906
 %gls:	be.3S.PRES.NEG PRON.3SM NEG NEG be.3S.PRES
@@ -1215,7 +1214,7 @@
 *PEN:	+< yndy . 823941_824487
 %gls:	be.3S.PRES
 %eng:	yes
-*CRL:	a hefyd bod (y)na neb yn wneud [?] ddim_byd amdano fo xxx dal yn bod [?] de . 825567_828829
+*PEN:	a hefyd bod (y)na neb yn wneud [?] ddim_byd amdano fo xxx dal yn bod [?] de . 825567_828829
 %gls:	and also be.NONFIN there nobody PRT do.NONFIN nothing about.3SM PRON.3SM xxx still PRT be.NONFIN TAG
 %eng:	and also that there's nobody doing anything about it [...] still being, isn't it
 *CRL:	well@s:cym&eng yeah@s:cym&eng (.) yn union yn union . 827819_829863
@@ -1323,8 +1322,8 @@
 *CRL:	nag oes na . 902320_903505
 %gls:	NEG be.3S.PRES no
 %eng:	no, no
-*PEN:	does neb xxx wneud y xxx xx nag oes . 903052_905165
-%gls:	be.3S.PRES.NEG nobody xxx do.NONFIN DET xxx xx NEG be.3S.PRES
+*PEN:	does neb xxx wneud y xxx nag oes . 903052_905165
+%gls:	be.3S.PRES.NEG nobody xxx do.NONFIN DET xxx NEG be.3S.PRES
 %eng:	nobody [...] do the [...] no
 *CRL:	na . 905165_905513
 %gls:	no
