@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MAT Mathew Adult, LOR Lora Adult, STE Steffan Adult
 @ID:	cym|siarad|MAT|64;|male|||Adult||
 @ID:	cym|siarad|LOR|25;|female|||Adult||
@@ -392,7 +392,7 @@
 %eng:	I was looking at them yesterday
 *LOR:	ac o'n i (y)n meddwl “oh@s:cym&eng” . 255758_256760
 %gls:	and be.1S.IMP PRON.1S PRT think.NONFIN IM
-%eng:	and I was thinking "oh!"
+%eng:	and I was thinking "oh"!
 *LOR:	achos mae nhw just@s:cym&eng yn frown@s:cym&eng am rhan fwya (y)r flwyddyn . 256748_259117
 %gls:	because be.3PL.PRES PRON.3PL just PRT brown for part most DET year
 %eng:	because they're just brown for most of the year

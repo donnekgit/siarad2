@@ -1,8 +1,8 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
-@Participants:	 ADA Adam Adult, HYW Hywel Adult
+@Languages:	cym, eng
+@Participants:	ADA Adam Adult, HYW Hywel Adult
 @ID:	cym|siarad|ADA|16;|male|||Adult||
 @ID:	cym|siarad|HYW|16;|male|||Adult||
 @Situation:	Informal conversation between two friends at ADA's home, whilst the two are playing a video game ("Gears of War" on the Xbox 360) against other players over the Internet.
@@ -11,8 +11,8 @@
 @Date:	26-FEB-2007
 @Transcriber:	Peredur Davies, Bangor University.
 @Comment:	Researcher: Peredur Davies, Bangor University.
-@Comment:	Time duration: 00:34:24
-@Comment:	Filename:  davies16.cha; Soundfile: davies16.wav.
+@Time Duration:	00:34:24
+@Media:	davies16, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	On occasion ADA speaks to a player online via a headset; the response is invariably inaudible.
 @Comment:	Sounds from the video game are heard in the background almost throughout the conversation.
@@ -211,8 +211,8 @@
 *HYW:	iawn [?] ond dw i (y)n &ʃ sbïo ar_draws ac lawr grisiau fi o_k@s:cym&eng . 122955_126071
 %gls:	right but be.1S.PRES PRON.1S PRT look.NONFIN across and down stairs PRON.1S o_k
 %eng:	right, but I'm looking across and down my stairs, OK.
-*HYW:	gen fi deimlad mae o o_dan xx +/. 127349_128460
-%gls:	with PRON.1S feeling be.3S.PRES PRON.3SM under xx
+*HYW:	gen fi deimlad mae o o_dan xxx +/. 127349_128460
+%gls:	with PRON.1S feeling be.3S.PRES PRON.3SM under xxx
 %eng:	I've got a feeling he's under [..].
 *ADA:	+< hang@s:eng on@s:eng fan (y)na mae (y)r boomer@s:cym&eng yeah@s:cym&eng ? 127954_129368
 %gls:	hang on place there be.3S.PRES DET boomer yeah
@@ -279,7 +279,7 @@
 *HYW:	cod fi ! 163449_164065
 %gls:	lift.2S.IMPER PRON.1S
 %eng:	lift me!
-*HYW:	xx . 164668_165202
+*HYW:	xxx . 164668_165202
 *ADA:	+< <dw i (y)n dod> [?] xxx back@s:eng [?] . 164875_166431
 %gls:	be.1S.PRES PRON.1S PRT come.NONFIN xxx back
 %eng:	I'm coming, [...] back.
@@ -318,7 +318,7 @@
 *ADA:	yeah@s:cym&eng ond mae o efo bod yn twat@s:eng advantage@s:eng . 191057_193040
 %gls:	yeah but be.3S.PRES PRON.3SM with be.NONFIN PRT twat advantage
 %eng:	yeah, but he has a being-a-twat advantage.
-*HYW:	+< &=laugh xx [=! laugh] . 192562_195197
+*HYW:	+< &=laugh xxx [=! laugh] . 192562_195197
 *HYW:	&=groan &=laugh . 196750_201021
 *ADA:	+< &=laugh . 197098_198385
 *ADA:	aeth o ddeifio syth <mewn i fan (y)na> [=! laugh] . 201036_203389
@@ -370,7 +370,7 @@
 *ADA:	dy . 237030_237609
 %gls:	be.3S.PRES
 %eng:	yes.
-*HYW:	xx . 238458_239083
+*HYW:	xxx . 238458_239083
 *ADA:	naci . 240337_241034
 %gls:	no
 %eng:	no.
@@ -428,8 +428,8 @@
 *ADA:	+< <wna i aros ti rwan> [?] . 269904_270796
 %gls:	do.1S.NONPAST PRON.1S stay.NONFIN PRON.2S now
 %eng:	I'll do it, you wait now.
-*HYW:	xx wneith o adael . 271741_272633
-%gls:	xx do.3S.NONPAST PRON.3SM leave.NONFIN
+*HYW:	xxx wneith o adael . 271741_272633
+%gls:	xxx do.3S.NONPAST PRON.3SM leave.NONFIN
 %eng:	[..] he'll leave.
 *HYW:	gad o watsiad . 272600_273353
 %gls:	leave.2S.IMPER PRON.3SM watch.2S.IMPER
@@ -657,8 +657,8 @@
 *ADA:	bob tro mae (y)n deud hynna ti (y)n gwybod sut mae o fel arfer rŵan . 440594_443272
 %gls:	every time be.3S.PRES PRT say.NONFIN that PRON.2S PRT know.NONFIN how be.3S.PRES PRON.3SM like habit now
 %eng:	every time he says that you know he usually is, now.
-*HYW:	ochr chdi xx . 442914_443702
-%gls:	side PRON.2S xx
+*HYW:	ochr chdi xxx . 442914_443702
+%gls:	side PRON.2S xxx
 %eng:	your side [..].
 *HYW:	yeah@s:cym&eng yeah@s:cym&eng dw i gwybod mae o o_hyd wneud (hyn)na +//. 443553_445374
 %gls:	yeah yeah be.1S.PRES PRON.1S know.NONFIN be.3S.PRES PRON.3SM always do.NONFIN that
@@ -688,7 +688,7 @@
 *HYW:	yndw . 460508_461031
 %gls:	be.1S.PRES
 %eng:	yes.
-*HYW:	dw i methu saethu fo . 460998_462761
+*HYW:	dw i methu saethu fo . 460998_461937
 %gls:	be.1S.PRES PRON.1S fail.NONFIN shoot.NONFIN PRON.3SM
 %eng:	I can't shoot him.
 *HYW:	mae o tu_ôl fan (y)na (r)wan . 461868_462946
@@ -736,7 +736,7 @@
 *ADA:	Hywel@s:cym&eng chdi wnaeth ladd un ohonyn nhw de . 491567_492889
 %gls:	Hywel PRON.2S do.3S.PAST kill.NONFIN one of.3PL PRON.3PL TAG
 %eng:	Hywel, it was you who killed one of them, eh.
-*HYW:	xx . 492647_493040
+*HYW:	xxx . 492647_493040
 *ADA:	yeah@s:cym&eng . 492947_493237
 *HYW:	boy@s:cym&eng oedd yn sefyll . 493225_493968
 %gls:	boy be.3S.IMP PRT stand.NONFIN
@@ -824,8 +824,8 @@
 *HYW:	pen lawr &=phew . 540548_541976
 %gls:	head down
 %eng:	head down.
-*HYW:	dw i (ddi)m yn gwybod lle mae nhw (.) xx +/. 543069_544286
-%gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN place be.3PL.PRES PRON.3PL xx
+*HYW:	dw i (ddi)m yn gwybod lle mae nhw (.) xxx +/. 543069_544286
+%gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN place be.3PL.PRES PRON.3PL xxx
 %eng:	I don't know where they are [..] ...
 *ADA:	+< mae o tu_allan . 543847_544402
 %gls:	be.3S.PRES PRON.3SM outside
@@ -889,8 +889,8 @@
 *ADA:	dw (ddi)m yn meddwl . 570828_571453
 %gls:	be.1S.PRES NEG PRT think.NONFIN
 %eng:	I don't think so.
-*ADA:	mae meddwl bod o xx &kir +//. 571397_572417
-%gls:	be.3S.PRES think.NONFIN be.NONFIN PRON.3SM xx
+*ADA:	mae meddwl bod o xxx &kir +//. 571397_572417
+%gls:	be.3S.PRES think.NONFIN be.NONFIN PRON.3SM xxx
 %eng:	he thinks that he [..]...
 *ADA:	ti (y)n gallu clywed Hywel@s:cym&eng ? 572370_573230
 %gls:	PRON.2S PRT can.NONFIN hear.NONFIN Hywel
@@ -1162,7 +1162,7 @@
 *ADA:	ti gweld dyna pam o'n i am mynd amdano fo . 761955_763428
 %gls:	PRON.2S see.NONFIN there why be.1S.IMP PRON.1S about go.NONFIN about.3SM PRON.3SM
 %eng:	you see, that's why I was going for him.
-*HYW:	xx . 763265_763834
+*HYW:	xxx . 763265_763834
 *HYW:	yeah@s:cym&eng (fa)sai fo (we)di wneud hynna i chdi though@s:eng basai . 763789_765053
 %gls:	yeah be.3S.CONDIT PRON.3SM PRT.PAST do.NONFIN that to PRON.2S though be.3S.CONDIT
 %eng:	yeah, he would have done that to you, though, wouldn't he.
@@ -1266,8 +1266,8 @@
 %gls:	be.1S.PRES PRON.1S PRT awesome
 %eng:	I'm awesome.
 %com:	some interference with microphone.
-*HYW:	ti wneud fi edrych yn xx +/. 837160_838645
-%gls:	PRON.2S do.NONFIN PRON.1S look.NONFIN PRT xx
+*HYW:	ti wneud fi edrych yn xxx +/. 837160_838645
+%gls:	PRON.2S do.NONFIN PRON.1S look.NONFIN PRT xxx
 %eng:	you make me look [..]...
 *ADA:	+< dw i ddim yn reload_io@s:eng+cym nac ydw . 838019_839434
 %gls:	be.1S.PRES PRON.1S NEG PRT reload.NONFIN NEG be.1S.PRES
@@ -1282,7 +1282,7 @@
 *HYW:	deuda (.) +"/. 844473_844960
 %gls:	say.2S.IMPER
 %eng:	say:
-*HYW:	+" Hywel@s:cym&eng yn deud “paid â crio [=! laugh]” . 844906_846180
+*HYW:	+" Hywel@s:cym&eng yn deud “paid â crio” [=! laugh] . 844906_846180
 %gls:	Hywel PRT say.NONFIN desist.2S.IMPER with cry.NONFIN
 %eng:	"Hywel says "don't cry"" .
 *HYW:	saethu chdi . 847729_848704
@@ -1352,8 +1352,8 @@
 *ADA:	sbia . 882281_882978
 %gls:	look.2S.IMPER
 %eng:	look.
-*ADA:	faint o stupid@s:cym&eng o xx . 885120_886245
-%gls:	amount of stupid of xx
+*ADA:	faint o stupid@s:cym&eng o xxx . 885120_886245
+%gls:	amount of stupid of xxx
 %eng:	how stupid of [..].
 *HYW:	+< oh@s:cym&eng yeah@s:cym&eng . 885711_886616
 *HYW:	deud (wr)tha fo . 887129_887754
@@ -1370,8 +1370,8 @@
 *ADA:	yndy . 895210_895860
 %gls:	be.3S.PRES
 %eng:	yes.
-*ADA:	&=sigh at@s:eng least@s:eng dan ni (y)n draw_io@s:eng+cym xx eto . 898312_900388
-%gls:	at least be.1PL.PRES PRON.1PL PRT draw.NONFIN xx again
+*ADA:	&=sigh at@s:eng least@s:eng dan ni (y)n draw_io@s:eng+cym xxx eto . 898312_900388
+%gls:	at least be.1PL.PRES PRON.1PL PRT draw.NONFIN xxx again
 %eng:	at least we're drawing [..] again.
 *HYW:	wnawn ni guro rwan . 901398_902315
 %gls:	do.1PL.NONPAST PRON.1PL beat.NONFIN now
@@ -1379,7 +1379,7 @@
 *HYW:	dw i mynd lawr [?] tu_allan o_k@s:cym&eng . 902354_903906
 %gls:	be.1S.PRES PRON.1S go.NONFIN down outside o_k
 %eng:	I'm going down outside, OK.
-*ADA:	+< xx . 902547_903128
+*ADA:	+< xxx . 902547_903128
 *ADA:	ti isio mynd lawr tu_mewn ta (y)r canals@s:eng . 903896_905856
 %gls:	PRON.2S want go.NONFIN down inside or DET canals
 %eng:	do you want to go down the inside or the canals.
@@ -1432,11 +1432,11 @@
 *ADA:	ti (we)di weld o even@s:eng ? 933838_934928
 %gls:	PRON.2S PRT.PAST see.NONFIN PRON.3SM even
 %eng:	have you seen him, even?
-*HYW:	na xx . 934928_935589
-%gls:	no xx
+*HYW:	na xxx . 934928_935589
+%gls:	no xxx
 %eng:	no [..].
-*HYW:	mae o obviously@s:eng ar y bont xxx (be)cause@s:eng [?] dw i (y)n gallu gweld ei xx +/. 935707_937679
-%gls:	be.3S.PRES PRON.3SM obviously on DET bridge xxx because be.1S.PRES PRON.1S PRT can.NONFIN see POSS.3SM xx
+*HYW:	mae o obviously@s:eng ar y bont xxx (be)cause@s:eng [?] dw i (y)n gallu gweld ei xxx +/. 935707_937679
+%gls:	be.3S.PRES PRON.3SM obviously on DET bridge xxx because be.1S.PRES PRON.1S PRT can.NONFIN see POSS.3SM xxx
 %eng:	he's obviously on the bridge [...] because I can see his [..] ...
 *ADA:	+< na mae o ar y tu_mewn . 937273_938202
 %gls:	no be.3S.PRES PRON.3SM on DET inside
@@ -1577,8 +1577,8 @@
 *HYW:	dw i o_dan bont (y)ma . 1022852_1023942
 %gls:	be.1S.PRES PRON.1S under bridge here
 %eng:	I'm under this bridge.
-*HYW:	dw i ar y tu_fewn xx [//] dw i ar y tu_allan rwan . 1026718_1028214
-%gls:	be.1S.PRES PRON.1S on DET inside xx be.1S.PRES PRON.1S on DET outside now
+*HYW:	dw i ar y tu_fewn xxx [//] dw i ar y tu_allan rwan . 1026718_1028214
+%gls:	be.1S.PRES PRON.1S on DET inside xxx be.1S.PRES PRON.1S on DET outside now
 %eng:	I'm on the outside now.
 *ADA:	fi dy hwn . 1028063_1028760
 %gls:	PRON.1S be.3S.PRES this
@@ -1595,21 +1595,21 @@
 *ADA:	na dw i (ddi)m yn trystio fan (y)na . 1038245_1039650
 %gls:	no be.1S.PRES PRON.1S NEG PRT trust.NONFIN place there
 %eng:	no, I don't trust there.
-*HYW:	xx +/. 1047197_1047858
+*HYW:	xxx +/. 1047197_1047858
 *ADA:	+< dw i methu gweld o yn gongl &nax [//] bach (y)na <fan (y)na> [?] . 1047524_1049588
 %gls:	be.1S.PRES PRON.1S fail.NONFIN see.NONFIN PRON.3SM in corner small there place there
 %eng:	I can't see him in that little corner there.
 *ADA:	ti ? 1049542_1050006
 %gls:	PRON.2S
 %eng:	[can] you?
-*HYW:	xx sbia ar screen@s:cym&eng fi . 1049938_1050854
-%gls:	xx look.2S.IMPER on screen PRON.1S
+*HYW:	xxx sbia ar screen@s:cym&eng fi . 1049938_1050854
+%gls:	xxx look.2S.IMPER on screen PRON.1S
 %eng:	[..] look at my screen.
 *HYW:	fedra chdi weld o ar bont . 1050786_1051910
 %gls:	can.2S.NONPAST PRON.2S see.NONFIN PRON.3SM on bridge
 %eng:	you can see it on the bridge.
-*ADA:	xx coda (y)r (.) angle@s:eng fyny . 1052342_1054163
-%gls:	xx raise.2S.IMPER DET angle up
+*ADA:	xxx coda (y)r (.) angle@s:eng fyny . 1052342_1054163
+%gls:	xxx raise.2S.IMPER DET angle up
 %eng:	[..] raise the angle up.
 *ADA:	dos lawr . 1054116_1054906
 %gls:	go.2S.IMPER down
@@ -1654,8 +1654,8 @@
 *ADA:	&=laugh . 1092894_1093265
 *HYW:	+< &=laugh . 1093044_1093776
 %com:	sound of other player speaking over headset.
-*HYW:	&=sigh sbia hynna xx dau xxx . 1096879_1098826
-%gls:	look.2S.IMPER that xx two xxx
+*HYW:	&=sigh sbia hynna xxx dau xxx . 1096879_1098826
+%gls:	look.2S.IMPER that xxx two xxx
 %eng:	look at that [..] two [...].
 *HYW:	xxx . 1099385_1100521
 *ADA:	mae o (y)n cwyno eto &=laugh . 1100382_1101520
@@ -1678,8 +1678,8 @@
 %gls:	PRON.2S PRT.PAST rush.NONFIN PRON.3PL
 %eng:	have you rushed them?
 *HYW:	um@s:cym&eng . 1109124_1110134
-*ADA:	dw i ar tu_allan o_k@s:cym&eng so@s:cym&eng xx +/. 1110879_1112375
-%gls:	be.1S.PRES PRON.1S on outside o_k so xx
+*ADA:	dw i ar tu_allan o_k@s:cym&eng so@s:cym&eng xxx +/. 1110879_1112375
+%gls:	be.1S.PRES PRON.1S on outside o_k so xxx
 %eng:	I'm on the outside, OK, so [..]...
 *HYW:	+< be dy dy farn di ar rush_io@s:eng+cym ? 1111657_1113478
 %gls:	what be.3S.PRES POSS.2S opinion PRON.2S on rush.NONFIN
@@ -1696,8 +1696,8 @@
 *HYW:	na [?] fedrith o (ddi)m gael fi fan (y)na na fedrith ? 1117950_1119248
 %gls:	no can.3S.NONPAST PRON.3SM NEG get.NONFIN PRON.1S place there NEG can.3S.NONPAST
 %eng:	no, he can't get me there, can he?
-*HYW:	mae (y)na bont xx +/. 1119155_1120142
-%gls:	be.3S.PRES there bridge xx
+*HYW:	mae (y)na bont xxx +/. 1119155_1120142
+%gls:	be.3S.PRES there bridge xxx
 %eng:	there's a bridge [..]...
 *ADA:	+< mae o ar tu_allan . 1119759_1120479
 %gls:	be.3S.PRES PRON.3SM on outside
@@ -1705,7 +1705,7 @@
 *ADA:	ti gwybod lle mae o efo sniper@s:eng fel arfer ar y tu_allan . 1120517_1122336
 %gls:	PRON.2S know.NONFIN place be.3S.PRES PRON.3SM with sniper like habit on DET outside
 %eng:	you know where he is with a sniper usually on the outside.
-*HYW:	+< xx . 1121361_1121942
+*HYW:	+< xxx . 1121361_1121942
 *ADA:	fan (y)na mae o . 1122464_1123184
 %gls:	place there be.3S.PRES PRON.3SM
 %eng:	that's where he is.
@@ -1787,11 +1787,11 @@
 %gls:	be.3S.IMP
 %eng:	yes.
 %com:	sound of other player speaking over headset.
-*ADA:	tiwel mae Dafydd@s:cym&eng even@s:eng yn dweud na chdi wnaeth . 1174792_1176982
+*ADA:	tiwel mae Dafydd@s:cym&eng even@s:eng yn dweud na chdi wnaeth . 1174792_1176714
 %gls:	see.2S be.3S.PRES Dafydd even PRT say.NONFIN NEG PRON.2S do.3S.PAST
 %eng:	you see, even Dafydd says that it was you who did.
-*ADA:	&fə [///] xx yli fydd o wneud [//] yli <mae mynd> [?] roi uffar o ffrae i Dafydd@s:cym&eng rwan . 1176303_1179513
-%gls:	xx see.2S.IMPER be.3S.FUT PRON.3SM do.NONFIN see.2S.IMPER be.3S.PRES go.NONFIN give.NONFIN hell of row PRT Dafydd now
+*HYW:	&fə [///] xxx yli fydd o wneud [//] yli <mae mynd> [?] roi uffar o ffrae i Dafydd@s:cym&eng wan . 1176285_1179513
+%gls:	xxx see.2S.IMPER be.3S.FUT PRON.3SM do.NONFIN see.2S.IMPER be.3S.PRES go.NONFIN give.NONFIN hell of row PRT Dafydd now
 %eng:	look, he's going to give Dafydd a hell of a row now.
 *HYW:	<mi oedd o> [?] . 1180572_1181452
 %gls:	PRT be.3S.IMP PRON.3SM
@@ -1815,7 +1815,7 @@
 %gls:	night good fat boy
 %eng:	"good night, fat boy" .
 *HYW:	&=laugh . 1192853_1195465
-*ADA:	+< [- eng] +" say goodbye [=! laugh] &=laugh . 1193134_1194769
+*ADA:	+< +" [- eng] say goodbye [=! laugh] &=laugh . 1193134_1194769
 *HYW:	ti gwybod wnes i roid stid iddo fo gynnau o_k@s:cym&eng +/. 1195897_1197636
 %gls:	PRON.2S know.NONFIN do.1S.PAST PRON.1S give.NONFIN beating to.3SM PRON.3SM earlier o_k
 %eng:	you know I have him a beating earlier, OK...
@@ -1908,7 +1908,7 @@
 %eng:	I shot him there.
 *HYW:	[- eng] twat . 1254154_1254827
 %com:	sound of other player speaking over headset.
-*ADA:	mae hynna rubbish@s:cym&eng hynna . 25_0
+*ADA:	mae hynna rubbish@s:cym&eng hynna . 1256156_1257317
 %gls:	be.3S.PRES that rubbish that
 %eng:	that's rubbish, that is.
 *HYW:	ddylen [?] ni weithio efo (ei)n_gilydd fwy yeah@s:cym&eng . 1257987_1259320
@@ -1937,8 +1937,8 @@
 *HYW:	just@s:cym&eng (fa)sa chdi yna efo [//] yn aim_io@s:eng+cym efo sniper@s:eng (fa)sa chdi (y)n dychryn o i_fewn i +... 1271725_1275319
 %gls:	just be.2S.CONDIT PRON.2S there with PRT aim.NONFIN with sniper be.2S.CONDIT PRON.2S PRT frighten.NONFIN PRON.3SM in to
 %eng:	just if you were there aiming with a sniper you'd frighten him into...
-*HYW:	xx oh@s:cym&eng a i_fewn i building@s:eng actually@s:eng o_k@s:cym&eng . 1275831_1278105
-%gls:	xx IM and in ti buildings actually o_k
+*HYW:	xxx oh@s:cym&eng a i_fewn i building@s:eng actually@s:eng o_k@s:cym&eng . 1275831_1278105
+%gls:	xxx IM and in ti buildings actually o_k
 %eng:	[..] oh, and into buildings actually, OK.
 *ADA:	dy o (ddi)m yna . 1289032_1289750
 %gls:	be.3S.PRES PRON.3SM NEG there
@@ -1949,7 +1949,7 @@
 *ADA:	oh@s:cym&eng yeah@s:cym&eng mae o yn yr alcove@s:cym&eng dydy . 1290530_1292002
 %gls:	IM yeah be.3S.PRES PRON.3SM in DET alcove be.3S.PRES.NEG
 %eng:	oh yeah, he's in the alco ve isn't her.
-*HYW:	+< oh@s:cym&eng xx . 1290901_1291561
+*HYW:	+< oh@s:cym&eng xxx . 1290901_1291561
 *HYW:	iwsio (y)r stupid@s:cym&eng er@s:cym&eng +... 1293910_1295114
 %gls:	use.NONFIN DET stupid IM
 %eng:	using the stupid, er...
@@ -2156,10 +2156,10 @@
 *HYW:	mae newid subject@s:eng straight@s:cym&eng away@s:eng . 1449928_1451251
 %gls:	be.3S.PRES change.NONFIN subject straight away
 %eng:	he changes the subject straight away.
-*HYW:	dim ots gynno fo neb arall xx . 1451198_1452354
-%gls:	NEG matter with.3SM PRON.3SM nobody other xx
+*HYW:	dim ots gynno fo neb arall xxx . 1451198_1452354
+%gls:	NEG matter with.3SM PRON.3SM nobody other xxx
 %eng:	doesn't matter, he doesn't have anyone else [..].
-*ADA:	xx . 1452776_1453368
+*ADA:	xxx . 1452776_1453368
 *ADA:	ti isio un ohonon ni flank_io@s:eng+cym ? 1455135_1456422
 %gls:	PRON.2S want one of.1PL PRON.1PL flank.NONFIN
 %eng:	you want one of us to flank?
@@ -2218,7 +2218,7 @@
 %com:	referring to his headset microphone.
 *HYW:	&=laugh . 1494766_1497355
 *ADA:	+< &=laugh . 1495485_1496774
-*HYW:	xxx sure@s:cym&eng xx private@s:cym&eng chat@s:cym&eng xxx anyway@s:eng [?] . 1498426_1500060
+*HYW:	xxx sure@s:cym&eng xxx private@s:cym&eng chat@s:cym&eng xxx anyway@s:eng [?] . 1498426_1500060
 *ADA:	na ti (y)n [/] ti (y)n gallu glywed nhw ? 1500702_1502184
 %gls:	no PRON.2S PRT PRON.2S PRT can.NONFIN hear.NONFIN PRON.3PL
 %eng:	no, can you hear them?
@@ -2285,7 +2285,7 @@
 %eng:	but Dafydd couldn't chainsaw me from that far away couldn't he.
 %com:	farting sound.
 *HYW:	&=laugh (.) sorry@s:cym&eng &=sigh . 1538559_1541226
-*HYW:	xx +/. 1541570_1542255
+*HYW:	xxx +/. 1541570_1542255
 *ADA:	+< oh@s:cym&eng oedden ni (y)n chwarae Balderdash@s:cym&eng neithiwr . 1541827_1543265
 %gls:	IM be.1PL.IMP PRON.1PL PRT play.NONFIN Balderdash last_night
 %eng:	oh, we were playing Balderdash last night.
@@ -2304,8 +2304,8 @@
 *ADA:	ti (y)n gwybod . 1547085_1547410
 %gls:	PRON.2S PRT know.NONFIN
 %eng:	you know.
-*ADA:	ti (y)n gorfod wneud [/] ti (y)n gorfod [/] ti (y)n gorfod [/] (.) xx ti (y)n gorfod [/] ti (y)n gorfod invent_io@s:eng+cym ateb dwyt . 1547354_1551010
-%gls:	PRON.2S PRT must do.NONFIN PRON.2S PRT must PRON.2S must xx PRON.2S PRT must PRON.2S PRT must invent.NONFIN answer.NONFIN be.2S.PRES.NEG
+*ADA:	ti (y)n gorfod wneud [/] ti (y)n gorfod [/] ti (y)n gorfod [/] (.) xxx ti (y)n gorfod [/] ti (y)n gorfod invent_io@s:eng+cym ateb dwyt . 1547354_1551010
+%gls:	PRON.2S PRT must do.NONFIN PRON.2S PRT must PRON.2S must xxx PRON.2S PRT must PRON.2S PRT must invent.NONFIN answer.NONFIN be.2S.PRES.NEG
 %eng:	you have to invent an answer don't you.
 *HYW:	+< a deud (wr)tha fi [/] deud (wr)tha fi straight@s:cym&eng away@s:eng faint o bobl sy (y)na . 1547402_1549721
 %gls:	and say.2S.IMPER to.1S PRON.1S say.2S.IMPER to.1S PRON.1S straight away amount of people be.PRES.REL there
@@ -2367,15 +2367,15 @@
 %gls:	to what
 %eng:	to what?
 *HYW:	+" [- eng] how you like them apples ? 1596094_1597301
-*ADA:	+" [- eng] how do you like them apples ? 0_0
-*ADA:	oh@s:cym&eng yeah@s:cym&eng xx es i sylwi hynna . 1598623_1599852
-%gls:	IM yeah xx go.1S.PAST PRON.1S realise.NONFIN that
+*ADA:	+" [- eng] how do you like them apples ? 1597366_1598492
+*ADA:	oh@s:cym&eng yeah@s:cym&eng xxx es i sylwi hynna . 1598623_1599852
+%gls:	IM yeah xxx go.1S.PAST PRON.1S realise.NONFIN that
 %eng:	oh yeah, [..] I realised that.
 *ADA:	ar_ôl er@s:cym&eng “who@s:eng wants@s:eng a@s:eng freaking@s:eng motto@s:eng” yeah@s:cym&eng ? 1599877_1602116
 %gls:	after who wants a freaking motto yeah
 %eng:	after "who wants a freaking motto", yeah?
 *HYW:	yeah@s:cym&eng . 1602023_1602511
-*HYW:	well@s:cym&eng [?] xx +/. 1603506_1604747
+*HYW:	well@s:cym&eng [?] xxx +/. 1603506_1604747
 *ADA:	+< [- eng] frags . 1604205_1604933
 *HYW:	(o)_k@s:cym&eng dw i (y)n xxx [//] dw i (y)n rhedeg atat ti . 1604896_1606462
 %gls:	o_k be.1S.PRES PRON.1S PRT xxx be.1S.PRES PRON.1S PRT run.NONFIN to.2S PRON.2S
@@ -2386,7 +2386,7 @@
 *ADA:	+< dy o (y)n &f [/] (.) dy o (y)n flank_io@s:eng+cym ta dy o (y)n aros yna ? 1606440_1608598
 %gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT flank.NONFIN or be.3S.PRES PRON.3SM PRT stay.NONFIN there
 %eng:	is he flanking or is he staying there?
-*HYW:	mae (y)r ddau o nhw (y)n trio frag_io@s:eng+cym fi . 1608437_1610038
+*HYW:	mae (y)r ddau o nhw (y)n trio frag_io@s:eng+cym fi . 1608437_1609560
 %gls:	be.3S.PRES DET two of PRON.3PL PRT try.NONFIN frag.NONFIN PRON.1S
 %eng:	the two of them are trying to frag me.
 *HYW:	mae un [/] (.) mae un xxx . 1609470_1610990
@@ -2407,7 +2407,7 @@
 %eng:	William thought that he had me there now.
 *HYW:	[- eng] downs [?] . 1619963_1620738
 *HYW:	[- eng] three all . 1621690_1622352
-*HYW:	xx &=laugh . 1627213_1628233
+*HYW:	xxx &=laugh . 1627213_1628233
 *ADA:	+< ges i active@s:eng reload@s:eng yn fan (y)na . 1627513_1628732
 %gls:	get.1S.PAST PRON.1S active reload in place there
 %eng:	I got an active reload there.
@@ -2613,8 +2613,8 @@
 *HYW:	+< &sei [///] wneith o saethu fi round@s:cym&eng yma rwan . 1789848_1791565
 %gls:	do.3S.NONPAST PRON.3SM shoot.NONFIN PRON.1S round here now
 %eng:	he'll shoot me round here now.
-*ADA:	xxx saethu right@s:cym&eng xx dechrau dydy . 1792335_1794154
-%gls:	xxx shoot.NONFIN right xx start.NONFIN be.3S.PRES.NEG
+*ADA:	xxx saethu right@s:cym&eng xxx dechrau dydy . 1792335_1794154
+%gls:	xxx shoot.NONFIN right xxx start.NONFIN be.3S.PRES.NEG
 %eng:	[...] shoot right [..] start, isn't he.
 *HYW:	dw i gwybod . 1794061_1794467
 %gls:	be.1S.PRES PRON.1S know.NONFIN
@@ -2631,8 +2631,8 @@
 *HYW:	ti (y)n bellach away@s:eng . 1797697_1798821
 %gls:	PRON.2S PRT farther anyway
 %eng:	you're farther anyway.
-*HYW:	o_k@s:cym&eng xx mae nhw (we)di gweld fi (y)n dod lawr rwan guaranteed@s:eng . 1800856_1802838
-%gls:	o_k xx be.3PL.PRES PRON.3PL PRT.PAST see.NONFIN PRON.1S PRT come.NONFIN down now guaranteed
+*HYW:	o_k@s:cym&eng xxx mae nhw (we)di gweld fi (y)n dod lawr rwan guaranteed@s:eng . 1800856_1802838
+%gls:	o_k xxx be.3PL.PRES PRON.3PL PRT.PAST see.NONFIN PRON.1S PRT come.NONFIN down now guaranteed
 %eng:	OK [..] they've seen me coming down now guaranteed.
 *HYW:	[- eng] however [?] +... 1805290_1805926
 *HYW:	ti (we)di ladd o ? 1810040_1810791
@@ -2712,12 +2712,12 @@
 *HYW:	by@s:eng any@s:eng chance@s:cym&eng (fe)lly . 1860065_1861643
 %gls:	by any chance thus
 %eng:	by any chance, then.
-*HYW:	Adam@s:cym&eng xxx [//] ti mynd i_fyny ar y rai &guimp (.) xx . 1862880_1865764
-%gls:	Adam xxx PRON.2S go.NONFIN up on DET ones xx
+*HYW:	Adam@s:cym&eng xxx [//] ti mynd i_fyny ar y rai &guimp (.) xxx . 1862880_1865764
+%gls:	Adam xxx PRON.2S go.NONFIN up on DET ones xxx
 %eng:	Adam [...] you're going up on the [..] ones [..].
 *ADA:	+< &=laugh (.) xxx . 1865522_1866960
-*HYW:	dan ni (ddi)m xx [//] dan ni efo dim coursework@s:eng ar_ôl rwan na . 1866708_1868551
-%gls:	be.1PL.PRES PRON.1PL NEG xx be.1PL.PRES PRON.1PL with NEG coursework after now no
+*HYW:	dan ni (ddi)m xxx [//] dan ni efo dim coursework@s:eng ar_ôl rwan na . 1866708_1868551
+%gls:	be.1PL.PRES PRON.1PL NEG xxx be.1PL.PRES PRON.1PL with NEG coursework after now no
 %eng:	we don't have any coursework left now, no.
 *ADA:	na . 1868318_1869247
 %gls:	no
@@ -2775,8 +2775,8 @@
 %gls:	right o_k be.1S.PRES PRON.1S come.NONFIN now
 %eng:	right, OK, I'm coming now.
 *HYW:	&=laugh . 1897285_1898075
-*ADA:	un arall xx +//. 1898053_1898702
-%gls:	one other xx
+*ADA:	un arall xxx +//. 1898053_1898702
+%gls:	one other xxx
 %eng:	one other [..]...
 *ADA:	cael o chwith ! 1898729_1899085
 %gls:	get.2S.IMPER PRON.3SM left
@@ -2875,9 +2875,9 @@
 *ADA:	mae cymryd tri efo Hammer_of_dawn@s:cym&eng a dau efo bob un arall ac un efo chainsaw@s:eng obviously@s:eng . 1970768_1974039
 %gls:	be.3S.PRES take.NONFIN three with Hammer_of_dawn and two with every one other and one with chainsaw obviously
 %eng:	it takes three with the Hammer of dawn and two with every other one and one with the chainsaw, obviously.
-*HYW:	+< xx . 1971775_1972286
-*HYW:	ti gwybod [?] Insane@s:eng mae cymryd tua chwech o <whacks@s:eng [?] xx <mynd lawr> [?]> [=! laugh] . 1974271_1977429
-%gls:	PRON.2S know.NONFIN Insane be.3S.PRES take.NONFIN about six of whacks xx take.NONFIN down
+*HYW:	+< xxx . 1971775_1972286
+*HYW:	ti gwybod [?] Insane@s:eng mae cymryd tua chwech o <whacks@s:eng [?] xxx <mynd lawr> [?]> [=! laugh] . 1974271_1977429
+%gls:	PRON.2S know.NONFIN Insane be.3S.PRES take.NONFIN about six of whacks xxx take.NONFIN down
 %eng:	you know Insane it takes about six whacks [..] go down.
 %com:	Insane is a difficulty setting within the game.
 *ADA:	yndy [=! laugh] . 1976932_1977545
@@ -2940,7 +2940,7 @@
 *HYW:	o'n i wallgo . 2021131_2021942
 %gls:	be.1S.IMP PRON.1S crazy
 %eng:	I was crazy.
-*HYW:	o'n i (fa)th â +... 2022511_2025378
+*HYW:	o'n i (fa)th â +... 2021999_2022463
 %gls:	be.1S.IMP PRON.1S kind with
 %eng:	I was like...
 *HYW:	timod pan o'n i gyrru messages@s:eng written@s:eng i chi wneud impressions@s:eng o a ballu . 2022612_2025309

@@ -1,7 +1,7 @@
 @Font:	Win95:Arial:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	NON Non Adult, SAR Sara Adult
 @ID:	cym|siarad|NON|18;|female|||Adult||
 @ID:	cym|siarad|SAR|19;|female|||Adult||
@@ -15,12 +15,12 @@
 @Media:	davies1, audio
 @Comment:	Filename: Davies1.cha; Soundfile: davies1.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
-*NON:	xx . 8_536
+*NON:	xxx . 8_536
 *SAR:	+< <oh@s:cym&eng yeah@s:cym&eng cwch> [?] . 32_1096
 %gls:	IM yeah boat
 %eng:	oh yeah, boat
-*SAR:	xx (.) <oh@s:cym&eng mae fe ar on@s:eng> [?] . 1096_5576
-%gls:	xx IM be.3S.PRES PRON.3SM on on
+*SAR:	xxx (.) <oh@s:cym&eng mae fe ar on@s:eng> [?] . 1096_5576
+%gls:	xxx IM be.3S.PRES PRON.3SM on on
 %eng:	[...] oh, it's on "on"
 *SAR:	oh@s:cym&eng (.) <mae sure@s:cym&eng fod yn iawn> [?] . 5576_7144
 %gls:	IM be.3S.PRES sure be.NONFIN PRT right
@@ -40,8 +40,8 @@
 *SAR:	well@s:cym&eng timod Lowri_Jones@s:cym&eng a reina fydd (gy)da fi . 15664_17416
 %gls:	well know.2S Lowri_Jones and those be.3S.FUT with PRON.1S
 %eng:	well you know, it'll be Lowri_Jones and those with me
-*SAR:	sa i (we)di gweld nhw ers (.) xx spell@s:cym&eng . 17416_20432
-%gls:	NEG PRON.1S PRT.PAST see.NONFIN PRON.3PL since xx spell
+*SAR:	sa i (we)di gweld nhw ers (.) xxx spell@s:cym&eng . 17416_20432
+%gls:	NEG PRON.1S PRT.PAST see.NONFIN PRON.3PL since xxx spell
 %eng:	I haven't seen them for [...] a while
 *SAR:	&mˌ sa i (we)di gael noson mas (gy)da nhw ers (.) fi ddod fan hyn . 20432_22800
 %gls:	NEG PRON.1S PRT.PAST get.NONFIN night out with PRON.3PL since PRON.1S come.NONFIN place here
@@ -119,8 +119,8 @@
 *SAR:	+< um@s:cym&eng tafarn Llandysul@s:cym&eng (.) right@s:cym&eng lawr gwaelod . 55745_58649
 %gls:	IM tavern Llandysul right down bottom
 %eng:	um, a pub in Llandysul, right down the bottom
-*NON:	sa i erioed wedi bod mas yn Llandysul@s:cym&eng xx . 58649_60345
-%gls:	NEG PRON.1S ever PRT.PAST be.NONFIN out in Llandysul xx
+*NON:	sa i erioed wedi bod mas yn Llandysul@s:cym&eng xxx . 58649_60345
+%gls:	NEG PRON.1S ever PRT.PAST be.NONFIN out in Llandysul xxx
 %eng:	I've never been out in Llandysul
 *SAR:	+< na ? 59969_60345
 %gls:	no
@@ -128,10 +128,10 @@
 *SAR:	a:h@s:cym&eng (.) <raid fi &vɪ fynd â ti f(an) yna eto de> [?] . 60345_63273
 %gls:	IM necessity PRON.1S go.NONFIN with PRON.2PL place there again then
 %eng:	ah, I have to take you there another time [?] then
-*NON:	aye@s:cym&eng . 0_0
+*NON:	aye@s:cym&eng . 63582_64238
 %gls:	aye
 %eng:	aye
-*SAR:	yeah@s:cym&eng so@s:cym&eng (.) ni fod mynd mas f(an) yna (.) noson cyn Dolig . 63626_67626
+*SAR:	yeah@s:cym&eng so@s:cym&eng (.) ni fod mynd mas f(an) yna (.) noson cyn Dolig . 63838_67626
 %gls:	yeah so PRON.1PL be.NONFIN go.NONFIN out place there night before Christmas
 %eng:	yeah, so we're supposed to go out there the night before Christmas
 *SAR:	ond point@s:cym&eng yw sa i byth (we)di bod mas noson cyn Dolig . 67626_69602
@@ -158,8 +158,8 @@
 *SAR:	yeah@s:cym&eng achos (.) (dy)na gyd &n +//. 81170_82475
 %gls:	yeah because there all
 %eng:	yeah because all...
-*SAR:	xx pob un (.) really@s:eng wrthi full_pelt@s:cym&eng (.) just@s:cym&eng yn (.) cael popeth yn barod i diwrnod wedyn . 82475_88651
-%gls:	xx every one really at.3SF full_pelt just PRT get.NONFIN everything PRT ready for day after
+*SAR:	xxx pob un (.) really@s:eng wrthi full_pelt@s:cym&eng (.) just@s:cym&eng yn (.) cael popeth yn barod i diwrnod wedyn . 82475_88651
+%gls:	xxx every one really at.3SF full_pelt just PRT get.NONFIN everything PRT ready for day after
 %eng:	[...] everybody's really at it full-pelt, just getting everything ready for the next day
 *NON:	yeah@s:cym&eng . 88651_89899
 %gls:	yeah
@@ -235,8 +235,8 @@
 %eng:	and you know, you can't pull away when you're there
 *NON:	so@s:cym&eng <oedd e fel> [?] “Non@s:cym&eng” . 131925_133173
 %gls:	so be.3S.IMP PRON.3SM like Non
-%eng:	so he was like "Non!"
-*SAR:	xx . 133173_133533
+%eng:	so he was like "Non"!
+*SAR:	xxx . 133173_133533
 *NON:	so@s:cym&eng (.) fi (y)n dala (y)r ddafad a Gethin@s:cym&eng yn wneud e . 133413_135501
 %gls:	so PRON.1S PRT hold.NONFIN DET sheep and Gethin PRT do.NONFIN PRON.3SM
 %eng:	so me holding the sheep and Gethin doing it
@@ -249,7 +249,7 @@
 %eng:	oh my God, can I look now?
 *SAR:	&=laugh <fi gallu dychmygu ti> [=! laughs] (.) “ah@s:cym&eng (.) ah@s:cym&eng” (.) sgrechian [=! laughs] . 136637_141189
 %gls:	PRON.1S can.NONFIN imagine.NONFIN PRON.2S IM IM scream.NONFIN
-%eng:	I can imagine you "ah! ah!" screaming
+%eng:	I can imagine you "ah! ah"! screaming
 *NON:	oh@s:cym&eng (.) <o'n i (y)n> [/] (.) o'n i (y)n (.) hopeless@s:eng . 140333_143125
 %gls:	IM be.1S.IMP PRON.1S PRT be.1S.IMP PRON.1S PRT hopeless
 %eng:	oh, I was...I was hopeless
@@ -277,8 +277,8 @@
 *SAR:	sa i (y)n gwybod [?] beth yw e . 161973_163781
 %gls:	NEG PRON.1S PRT know.NONFIN what be.3S.PRES PRON.3SM
 %eng:	I don't know what it is
-*SAR:	<os oes> [//] (.) <os fi fel> [//] (.) os bysai fe i Lowri@s:cym&eng (.) byswn i mwy na thebyg yn iawn xx i fel +"/. 163781_168501
-%gls:	if be.3S.PRES if PRON.1S like if be.3S.CONDIT PRON.3SM for Lowri be.1S.CONDIT PRON.1S more PRT likely PRT right xx PRON.1S like
+*SAR:	<os oes> [//] (.) <os fi fel> [//] (.) os bysai fe i Lowri@s:cym&eng (.) byswn i mwy na thebyg yn iawn xxx i fel +"/. 163781_168501
+%gls:	if be.3S.PRES if PRON.1S like if be.3S.CONDIT PRON.3SM for Lowri be.1S.CONDIT PRON.1S more PRT likely PRT right xxx PRON.1S like
 %eng:	if...if I'm, like...if it'd be for Lowri, I'd probably by alright, I'd be like:
 *SAR:	+" right@s:cym&eng fi &v edrych ar_ôl Lowri@s:cym&eng . 168501_170077
 %gls:	right PRON.1S look.NONFIN after Lowri
@@ -304,8 +304,8 @@
 *NON:	oh@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 179583_180719
 %gls:	IM yeah yeah
 %eng:	oh yeah yeah
-*SAR:	a (.) o'n i seriously@s:eng (.) just@s:cym&eng (.) xx â dala . 180535_183991
-%gls:	and be.1S.IMP PRON.1S seriously just xx with hold.NONFIN
+*SAR:	a (.) o'n i seriously@s:eng (.) just@s:cym&eng (.) xxx â dala . 180535_183991
+%gls:	and be.1S.IMP PRON.1S seriously just xxx with hold.NONFIN
 %eng:	and I was, seriously, just [...] hold
 *NON:	smo fel gweld dafad yn dod o oen yn wneud e i ti de ? 183991_187471
 %gls:	NEG like see.NONFIN sheep PRT come.NONFIN from lamb PRT do.NONFIN PRON.3SM to PRON.2S TAG
@@ -418,8 +418,8 @@
 *NON:	allwn i weld ti wneud vet@s:cym&eng . 253721_254953
 %gls:	can.1S.CONDIT PRON.1S see.NONFIN PRON.2S do.NONFIN vet
 %eng:	I could see you making a vet
-*SAR:	oh@s:cym&eng (.) xx [//] (.) ti sure@s:cym&eng o fod gallu dychmygu fi (y)n +/. 254921_257345
-%gls:	IM xx PRON.2S sure of be.NONFIN can.NONFIN imagine.NONFIN PRON.1S PRT
+*SAR:	oh@s:cym&eng (.) xxx [//] (.) ti sure@s:cym&eng o fod gallu dychmygu fi (y)n +/. 254921_257345
+%gls:	IM xxx PRON.2S sure of be.NONFIN can.NONFIN imagine.NONFIN PRON.1S PRT
 %eng:	of [...] you can probably imagine me...
 *NON:	yndw (.) yndw . 256689_258017
 %gls:	be.1S.PRES be.1S.PRES
@@ -460,8 +460,8 @@
 *SAR:	+" ooh@s:cym&eng sa i lico hwn . 276729_277481
 %gls:	IM NEG PRON.1S like.NONFIN this
 %eng:	ooh I don't like this
-*SAR:	pob un arall xx mynd +"/. 277481_278337
-%gls:	every one other xx go.NONFIN
+*SAR:	pob un arall xxx mynd +"/. 277481_278337
+%gls:	every one other xxx go.NONFIN
 %eng:	everyone else [...] go:
 *SAR:	+" ooh@s:cym&eng ych_a_fi . 278337_279033
 %gls:	IM yuk
@@ -469,8 +469,8 @@
 *NON:	yeah@s:cym&eng . 279033_279681
 %gls:	yeah
 %eng:	yeah
-*SAR:	+< fi xx meddwl +"/. 279321_279817
-%gls:	PRON.1S xx think.NONFIN
+*SAR:	+< fi xxx meddwl +"/. 279321_279817
+%gls:	PRON.1S xxx think.NONFIN
 %eng:	I [...] think:
 *SAR:	+" ooh@s:cym&eng ych_a_fi . 279817_280545
 %gls:	IM ych_a_fi
@@ -505,14 +505,14 @@
 *NON:	sa i credu byddai problem@s:cym&eng (gy)da fi (gy)da (hyn)na . 295945_297393
 %gls:	NEG PRON.1S believe.NONFIN be.3S.CONDIT problem with PRON.1S with that
 %eng:	I don't think I'd have a problem with that
-*SAR:	xx byddai dim problem@s:cym&eng (gy)da fi . 297313_298393
-%gls:	xx be.3S.CONDIT NEG problem with PRON.1S
+*SAR:	xxx byddai dim problem@s:cym&eng (gy)da fi . 297313_298393
+%gls:	xxx be.3S.CONDIT NEG problem with PRON.1S
 %eng:	[...] I wouldn't have a problem
 *SAR:	bys(ai) [//] mae just@s:cym&eng [?] meddwl (am)boutu fe (y)n ooh@s:cym&eng (.) ffiaidd . 298393_300721
 %gls:	be.3S.CONDIT be.3S.PRES just think.NONFIN about PRON.3SM PRT IM disgusting
 %eng:	just thinking about it is, ooh, disgusting
-*SAR:	ond (.) na (.) xx bod problem@s:cym&eng (gy)da fi (y)na [?] . 300721_304697
-%gls:	but no xx be.NONFIN problem with PRON.1S there
+*SAR:	ond (.) na (.) xxx bod problem@s:cym&eng (gy)da fi (y)na [?] . 300721_304697
+%gls:	but no xxx be.NONFIN problem with PRON.1S there
 %eng:	but no, [...] that I have a problem there
 *NON:	ti (we)di penderfynu be ti wneud nos Galan (.) (e)to ? 304697_307777
 %gls:	PRON.2S PRT.PAST decide.NONFIN what PRON.2S do.NONFIN night new_year yet
@@ -532,8 +532,8 @@
 *SAR:	llynedd o'n i sâl o'n i . 320770_322170
 %gls:	last_year be.1S.IMP PRON.1S sick be.1S.IMP PRON.1S
 %eng:	last year I was sick, wasn't I
-*SAR:	&=laugh xx flu@s:cym&eng . 322170_323634
-%gls:	xx flu
+*SAR:	&=laugh xxx flu@s:cym&eng . 322170_323634
+%gls:	xxx flu
 %eng:	[...] flu
 *NON:	+< o:h@s:cym&eng na . 323074_324530
 %gls:	IM no
@@ -625,8 +625,8 @@
 *SAR:	oh@s:cym&eng wir (.) byddai ddim ots (gy)da fi o_gwbl . 387523_389875
 %gls:	IM true be.3S.CONDIT NEG matter with PRON.1S at_all
 %eng:	oh really, I wouldn't mind at all
-*NON:	xx bydden nhw (y)n falch i gael y staff@s:cym&eng mae (y)n sure@s:cym&eng . 389875_394099
-%gls:	xx be.3PL.CONDIT PRON.3PL PRT glad to get.NONFIN DET staff be.3S.PRES PRT sure
+*NON:	xxx bydden nhw (y)n falch i gael y staff@s:cym&eng mae (y)n sure@s:cym&eng . 389875_394099
+%gls:	xxx be.3PL.CONDIT PRON.3PL PRT glad to get.NONFIN DET staff be.3S.PRES PRT sure
 %eng:	[...] they'd probably be glad to get the staff
 *SAR:	+< hmm@s:cym&eng . 393587_393923
 %gls:	IM
@@ -637,7 +637,7 @@
 *NON:	sa i (y)n gwybod be wna i . 395883_399363
 %gls:	NEG PRON.1S PRT know.NONFIN what do.1S.NONPAST PRON.1S
 %eng:	I don't know what I'll do
-*SAR:	+< xx +//. 398092_398684
+*SAR:	+< xxx +//. 398092_398684
 *SAR:	achos sa i (y)n gwybod pam just@s:cym&eng +... 399363_401987
 %gls:	because NEG PRON.1S PRT know.NONFIN why just
 %eng:	because, I don't know why, just...
@@ -674,9 +674,9 @@
 *NON:	sa i (we)di bod mas (.) nos Galan lot@s:cym&eng cyn llynedd . 433965_437829
 %gls:	NEG PRON.1S PRT.PAST be.NONFIN out night new_year lot before last_year
 %eng:	I've never been out new year's eve much before last year
-*SAR:	xx +//. 437829_439045
-*SAR:	yeah@s:cym&eng (.) <oedd e (y)n> [//] (.) oedd crew@s:cym&eng bach nice@s:cym&eng xx llynedd . 439045_443389
-%gls:	yeah be.3S.IMP PRON.3SM PRT be.3S.IMP crew small nice xx last_year
+*SAR:	xxx +//. 437829_439045
+*SAR:	yeah@s:cym&eng (.) <oedd e (y)n> [//] (.) oedd crew@s:cym&eng bach nice@s:cym&eng xxx llynedd . 439045_443389
+%gls:	yeah be.3S.IMP PRON.3SM PRT be.3S.IMP crew small nice xxx last_year
 %eng:	yeah, it was...there was a nice llittle crowd [...] last year
 *NON:	mond bod y crew@s:cym&eng yn iawn (dy)na i_gyd sy (y)n bwysig . 443389_446478
 %gls:	only be.NONFIN DET crew PRT right there all be.PRES.REL PRT important
@@ -708,7 +708,7 @@
 *SAR:	ac [?] fi (we)di cael cynnig gwaith f(an) (h)ynny dros (.) Nadolig . 460694_462790
 %gls:	and PRON.1S PRT.PAST get.NONFIN offer.NONFIN work place that over Christmas
 %eng:	and I've been offered work there over Christmas
-*SAR:	xx +/. 462790_464558
+*SAR:	xxx +/. 462790_464558
 *NON:	+< caws ? 464174_464582
 %gls:	cheese
 %eng:	cheese?
@@ -727,8 +727,8 @@
 *SAR:	mae (y)n gormod . 469046_469678
 %gls:	be.3S.PRES PRT too_much
 %eng:	it's too much
-*SAR:	achos (.) xx (.) allen i fod (we)di dechrau gweithio dydd Llun nawr +/. 469678_472534
-%gls:	because xx can.1S.CONDIT PRON.1S be.NONFIN PRT.PAST start.NONFIN work.NONFIN day Monday now
+*SAR:	achos (.) xxx (.) allen i fod (we)di dechrau gweithio dydd Llun nawr +/. 469678_472534
+%gls:	because xxx can.1S.CONDIT PRON.1S be.NONFIN PRT.PAST start.NONFIN work.NONFIN day Monday now
 %eng:	because [...] I could have started working on Monday now...
 *NON:	gei di ddim seibiant . 472534_474582
 %gls:	get.2S.NONPAST PRON.2S NEG respite
@@ -757,8 +757,8 @@
 *NON:	oh@s:cym&eng ydy . 484990_485894
 %gls:	IM be.3S.PRES
 %eng:	oh yes
-*SAR:	a (.) xx paratoi arholiad . 485894_488166
-%gls:	and xx prepare.NONFIN exam
+*SAR:	a (.) xxx paratoi arholiad . 485894_488166
+%gls:	and xxx prepare.NONFIN exam
 %eng:	and [...] preparing an exam
 *SAR:	a fi moyn (.) paratoi semester@s:cym&eng nesa . 488166_490806
 %gls:	and PRON.1S want prepare.NONFIN semester next
@@ -821,8 +821,8 @@
 *NON:	mae pawb arall . 522046_522982
 %gls:	be.3S.PRES everybody other
 %eng:	it's everyone else
-*SAR:	oh@s:cym&eng na o'n i (we)di dod i xx [//] meddylfryd achos Iestyn@s:cym&eng . 522446_524726
-%gls:	IM no be.1S.IMP PRON.1S PRT.PAST come.NONFIN to xx frame_of_mind because
+*SAR:	oh@s:cym&eng na o'n i (we)di dod i xxx [//] meddylfryd achos Iestyn@s:cym&eng . 522446_524726
+%gls:	IM no be.1S.IMP PRON.1S PRT.PAST come.NONFIN to xxx frame_of_mind because
 %eng:	oh no, but I came to [...] frame of mind because of Iestyn
 *SAR:	o'n i (we)di dechrau siarad (.) gog@s:cym&eng gyda fe +/. 524726_526966
 %gls:	be.1S.IMP PRON.1S PRT.PAST start.NONFIN speak.NONFIN northern_Welsh with PRON.3SM
@@ -914,7 +914,7 @@
 *NON:	by(dd) [/] bydd raid fi fynd ar_ôl Nadolig i weld beth alla i wneud dros yr haf . 573271_576455
 %gls:	be.3S.FUT be.3S.FUT necessity PRON.1S go.NONFIN after Christmas to see.NONFIN what can.1S.NONPAST PRON.1S do.NONFIN over DET summer
 %eng:	I'll have to go after Christmas to see what I can do over summer
-*SAR:	yeah@s:cym&eng xx +... 576455_578360
+*SAR:	yeah@s:cym&eng xxx +... 576455_578360
 %gls:	yeah
 %eng:	yeah
 %com:	Sara's microphone cuts out here. She speaks loud enough most of the time for the other microphone to pick her up and for her speech to be intelligible, so this section has been transcribed
@@ -924,8 +924,8 @@
 *NON:	yeah@s:cym&eng well@s:cym&eng licen i bod adre i +/. 579232_580360
 %gls:	yeah well like.1S.CONDIT PRON.1S be.NONFIN home to
 %eng:	yeah well I'd like to be home to...
-*SAR:	xx ti moyn mynd bant wyt ti . 580152_581416
-%gls:	xx PRON.2S want go.NONFIN off be.2S.PRES PRON.2S
+*SAR:	xxx ti moyn mynd bant wyt ti . 580152_581416
+%gls:	xxx PRON.2S want go.NONFIN off be.2S.PRES PRON.2S
 %eng:	[...] you want to go away, don't you
 *NON:	ydw . 581416_581968
 %gls:	be.1S.PRES
@@ -966,7 +966,7 @@
 *SAR:	[- eng] good . 707183_709159
 %gls:	good
 %eng:	good
-%com:	door closes %snd:"davies1"_709159_712248
+@Comment:	door closes
 *SAR:	trio meddwl (.) o't ti (gy)da fi (.) pryd oedd rywun yn siarad (gy)da fi neithiwr am (.) A_I@s:cym&eng [?] ? 712248_719056
 %gls:	try.NONFIN think.NONFIN be.2S.IMP PRON.2S with PRON.1S time be.3S.IMP somebody PRT speak.NONFIN with PRON.1S last_night about A_I
 %eng:	trying to think, were you with me when somebody was speaking to me last night about AI?
@@ -986,8 +986,8 @@
 *SAR:	<wnaeth rywun gofyn> [?] <ydyn nhw wneud e i> [?] (.) defaid . 730384_732736
 %gls:	do.3S.PAST somebody ask.NONFIN be.3PL.PRES PRON.3PL do.NONFIN PRON.3SM to sheep
 %eng:	somebody asked do they do it to sheep
-*NON:	mae (.) xx yn wneud lot@s:cym&eng o (hyn)na . 732736_736441
-%gls:	be.3S.PRES xx PRT do.NONFIN lot of that
+*NON:	mae (.) xxx yn wneud lot@s:cym&eng o (hyn)na . 732736_736441
+%gls:	be.3S.PRES xxx PRT do.NONFIN lot of that
 %eng:	[...] does a lot of that
 %com:	she's probably referring to a person
 *SAR:	i defaid +!? 736441_737505
@@ -1060,8 +1060,8 @@
 %gls:	be.1S.PRES
 %eng:	yes
 *NON:	&=laugh . 777433_778041
-*SAR:	xx (.) yeah@s:cym&eng . 778041_779729
-%gls:	xx yeah
+*SAR:	xxx (.) yeah@s:cym&eng . 778041_779729
+%gls:	xxx yeah
 %eng:	[...] yeah
 *NON:	timod (.) ti gallu gweld fi yn (.) edrych ar_ôl (.) plant (.) dros yr haf ? 779729_784665
 %gls:	know.2S PRON.2S can.NONFIN see.NONFIN PRON.1S PRT look.NONFIN after children over DET summer
@@ -1078,8 +1078,8 @@
 *SAR:	baswn i &ŋk +//. 790425_793305
 %gls:	be.1S.CONDIT PRON.1S
 %eng:	I'd...
-*SAR:	xx (.) os bydden i (y)n edrych ar_ôl plant (.) bydden i (y)n (.) eitha strict@s:cym&eng (gy)da nhw . 793305_797921
-%gls:	xx if be.1S.CONDIT PRON.1S PRT look.NONFNIN after children be.1S.CONDIT PRON.1S PRT quite strict with PRON.3PL
+*SAR:	xxx (.) os bydden i (y)n edrych ar_ôl plant (.) bydden i (y)n (.) eitha strict@s:cym&eng (gy)da nhw . 793305_797921
+%gls:	xxx if be.1S.CONDIT PRON.1S PRT look.NONFNIN after children be.1S.CONDIT PRON.1S PRT quite strict with PRON.3PL
 %eng:	[...] if I looked after children, I'd be quite strict with them
 *NON:	mmm@s:cym&eng . 797921_798897
 %gls:	IM
@@ -1147,20 +1147,20 @@
 *SAR:	just@s:cym&eng mynd â nhw fel mas ar bike@s:cym&eng . 840692_843756
 %gls:	just go.NONFIN with PRON.3PL like out on bike
 %eng:	just took them out on the bike
-*SAR:	xx pryd o'n nhw (a)r_hyd lle . 843756_846564
-%gls:	xx time be.3PL.IMP PRON.3PL across place
-%eng:	xx when they were around the place
+*SAR:	xxx pryd o'n nhw (a)r_hyd lle . 843756_846564
+%gls:	xxx time be.3PL.IMP PRON.3PL across place
+%eng:	xxx when they were around the place
 *SAR:	ond wnes i edrych ar_ôl nhw (y)n nos ryw noson . 846564_848436
 %gls:	but do.1S.PAST PRON.1S look.NONFIN after PRON.3PL in night some night
 %eng:	but I looked after them at night some night
-*SAR:	ond um@s:cym&eng (.) oedd wastad rywun drws nesa xx (y)n y dafarn . 848436_851876
-%gls:	but IM be.3S.IMP always somebody door next xx in DET tavern
+*SAR:	ond um@s:cym&eng (.) oedd wastad rywun drws nesa xxx (y)n y dafarn . 848436_851876
+%gls:	but IM be.3S.IMP always somebody door next xxx in DET tavern
 %eng:	but um, there was always somebody next door [...] in the pub
 *NON:	ah@s:cym&eng yeah@s:cym&eng . 851876_852844
 %gls:	IM yeah
 %eng:	ah yeah
-*SAR:	so@s:cym&eng os oedd rywbeth yn bod o'n i (y)n (.) timod (.) xx rywun (y)na dr(wy) amser . 852844_856420
-%gls:	so if be.3S.IMP something PRT be.NONFIN be.1S.IMP PRON.1S PRT know.2S xx somebody there through time
+*SAR:	so@s:cym&eng os oedd rywbeth yn bod o'n i (y)n (.) timod (.) xxx rywun (y)na dr(wy) amser . 852844_856420
+%gls:	so if be.3S.IMP something PRT be.NONFIN be.1S.IMP PRON.1S PRT know.2S xxx somebody there through time
 %eng:	so if something was wrong I was, you know, [...] someone there all the time
 *NON:	(a)chos peth yw gyda um@s:cym&eng (.) plant cousins@s:eng fi timod mae nhw bach yn ifanc . 856420_861196
 %gls:	because thing be.3S.PRES with IM children cousins PRON.1S know.2S be.3PL.PRES PRON.3PL small PRT young
@@ -1189,8 +1189,8 @@
 *SAR:	da ! 876892_878037
 %gls:	good
 %eng:	good!
-*SAR:	oedd hi mas o xx [//] (.) nappies@s:eng ? 878037_879021
-%gls:	be.3S.IMP PRON.3SF out of xx nappies
+*SAR:	oedd hi mas o xxx [//] (.) nappies@s:eng ? 878037_879021
+%gls:	be.3S.IMP PRON.3SF out of xxx nappies
 %eng:	was she out of [...] nappies
 *SAR:	nag oedd ? 879036_879612
 %gls:	NEG be.3S.IMP
@@ -1221,8 +1221,8 @@
 %gls:	there all be.PRES.REL on mind PRON.3SF through DET time
 %eng:	that's all that's on her mind all the time
 *SAR:	&=laugh . 891332_892140
-*NON:	o'n i xx +//. 892140_892796
-%gls:	be.1S.IMP PRON.1S xx
+*NON:	o'n i xxx +//. 892140_892796
+%gls:	be.1S.IMP PRON.1S xxx
 %eng:	I was [...] ...
 *NON:	sgwn i lle mae cael hwnna o (.) hmm@s:cym&eng . 892796_894772
 %gls:	if_know.1S.NONPAST PRON.1S where be.3S.PRES get.NONFIN that from IM
@@ -1240,15 +1240,15 @@
 *NON:	mmm@s:cym&eng . 898964_899612
 %gls:	IM
 %eng:	mm
-*NON:	<a um@s:cym&eng> [=! laughs] xx (.) o'n i (we)di wneud supper@s:cym&eng iddi . 899612_902284
-%gls:	and IM xx be.1S.IMP PRON.1S PRT.PAST do.NONFIN supper for.3SF
+*NON:	<a um@s:cym&eng> [=! laughs] xxx (.) o'n i (we)di wneud supper@s:cym&eng iddi . 899612_902284
+%gls:	and IM xxx be.1S.IMP PRON.1S PRT.PAST do.NONFIN supper for.3SF
 %eng:	and um, [...] I'd made her supper
 *SAR:	+< xxx . 900204_900668
 *NON:	o'n i just@s:cym&eng (we)di troi bant am eiliad i pipo ar y grill@s:cym&eng . 902284_905188
 %gls:	be.1S.IMP PRON.1S just PRT.PAST turn.NONFIN off for second to peep.NONFIN on DET grill
 %eng:	I'd just turned away for a second to look at the grill
-*NON:	peth nesa (.) oedd y diawl bach oedd hi mewn yn y bin@s:cym&eng (.) ar_ôl y tin@s:cym&eng beans@s:eng a llaw i_mewn yn y tin@s:cym&eng beans@s:eng (.) timod gyda (y)r xx +/. 905188_913916
-%gls:	thing next be.3S.IMP DET devil small be.3S.IMP PRON.3SF in in DET bin after DET tin beans and hand in in DET tin beans know.2S with DET xx
+*NON:	peth nesa (.) oedd y diawl bach oedd hi mewn yn y bin@s:cym&eng (.) ar_ôl y tin@s:cym&eng beans@s:eng a llaw i_mewn yn y tin@s:cym&eng beans@s:eng (.) timod gyda (y)r xxx +/. 905188_913916
+%gls:	thing next be.3S.IMP DET devil small be.3S.IMP PRON.3SF in in DET bin after DET tin beans and hand in in DET tin beans know.2S with DET xxx
 %eng:	the next thing, the little devil was inside the bin after the bean tin and her hand inside the bean tin, you know, with the [...] ...
 *SAR:	+< &=laugh . 906364_912980
 *SAR:	<mewn yn y bin@s:cym&eng> [=! laugh] &=laugh ! 912996_916428
@@ -1262,7 +1262,7 @@
 %eng:	oh good God
 *NON:	o'n i meddwl “na:” ! 921300_923540
 %gls:	be.1S.IMP PRON.1S think.NONFIN no
-%eng:	I was thinking "no!"
+%eng:	I was thinking "no"!
 *SAR:	(ba)swn [?] i fel +"/. 923540_924084
 %gls:	be.1S.CONDIT PRON.1S like
 %eng:	I'd be like:
@@ -1284,8 +1284,8 @@
 *NON:	oh@s:cym&eng . 940470_941566
 %gls:	IM
 %eng:	oh
-*SAR:	fel pan oedd hi (y)n llai na blwydd (.) timod (.) mae hi (y)n eitha xx gwed [?] (.) eistedd (y)n côl fi (.) xx mond yn côl fi . 941542_948614
-%gls:	like when be.3S.IMP PRON.3SF PRT less PRT year know.2S be.3S.PRES PRON.3SF PRT quite xx say.2S.IMPER sit.NONFIN in lap PRON.1S xx only in lap PRON.1S
+*SAR:	fel pan oedd hi (y)n llai na blwydd (.) timod (.) mae hi (y)n eitha xxx gwed [?] (.) eistedd (y)n côl fi (.) xxx mond yn côl fi . 941542_948614
+%gls:	like when be.3S.IMP PRON.3SF PRT less PRT year know.2S be.3S.PRES PRON.3SF PRT quite xxx say.2S.IMPER sit.NONFIN in lap PRON.1S xxx only in lap PRON.1S
 %eng:	like, when she was less than a year, you know, she's quite [...] say, sitting in my lap [...] only in my lap
 *SAR:	oedd hi fel +//. 948614_949158
 %gls:	be.3S.IMP PRON.3SF like
@@ -1461,8 +1461,8 @@
 *NON:	ond (.) sa i (gwy)bod . 1072166_1073110
 %gls:	but NEG PRON.1S know.NONFIN
 %eng:	but I don't know
-*NON:	fel tymor nesa y fi meddwl am (.) fynd adre (.) xx +/. 1073110_1077878
-%gls:	like term next be.1S.PRES PRON.1S think.NONFIN about go.NONFIN home xx
+*NON:	fel tymor nesa y fi meddwl am (.) fynd adre (.) xxx +/. 1073110_1077878
+%gls:	like term next be.1S.PRES PRON.1S think.NONFIN about go.NONFIN home xxx
 %eng:	like, next term, I'm thinking of going home [...] ...
 *SAR:	<fi meddwl> [//] (.) fi [=! emphasis] yn plano peidio mynd gartre . 1077134_1080222
 %gls:	PRON.1S think.NONFIN PRON.1S PRT plan.NONFIN desist.NONFIN go.NONFIN home
@@ -1530,8 +1530,8 @@
 *SAR:	(dy)na ni (.) fe [?] +/. 1115358_1115998
 %gls:	there PRON.1PL PRT
 %eng:	that's it ...
-*NON:	mae hi yn lovely@s:eng xx . 1115806_1117462
-%gls:	be.3S.PRES PRON.3SF PRT lovely xx
+*NON:	mae hi yn lovely@s:eng xxx . 1115806_1117462
+%gls:	be.3S.PRES PRON.3SF PRT lovely xxx
 %eng:	she's lovely [...]
 *SAR:	+< <oedden nhw> [?] gweithio (gy)da fi (y)n G_E@s:cym&eng twel . 1116830_1118438
 %gls:	be.3PL.IMP PRON.3PL work.NONFIN with PRON.1S in G_E see.2S
@@ -1584,22 +1584,22 @@
 *SAR:	right@s:cym&eng +"/. 1147070_1147367
 %gls:	right
 %eng:	right:
-*SAR:	+" bus@s:cym&eng yn mynd am (.) saith_ish@s:cym+eng o xx Bach@s:cym&eng . 1147351_1150174
-%gls:	bus PRT go.NONFIN at seven-ish from xx Bach
+*SAR:	+" bus@s:cym&eng yn mynd am (.) saith_ish@s:cym+eng o xxx Bach@s:cym&eng . 1147351_1150174
+%gls:	bus PRT go.NONFIN at seven-ish from xxx Bach
 %eng:	"bus going at seven-ish from [..] Bach
 %com:	it seems that she's quoting the text message she got from Llio with the arrangements
-*NON:	[- eng] xx sorted . 1150174_1151542
-%gls:	xx sorted
+*NON:	[- eng] xxx sorted . 1150174_1151542
+%gls:	xxx sorted
 %eng:	[...] sorted
 *SAR:	+< wedyn +//. 1150654_1150998
 %gls:	then
 %eng:	then...
-*SAR:	so@s:cym&eng o xx Bach@s:cym&eng . 1151542_1152710
-%gls:	so from xx Bach
+*SAR:	so@s:cym&eng o xxx Bach@s:cym&eng . 1151542_1152710
+%gls:	so from xxx Bach
 %eng:	so from [..] Bach
-*SAR:	so@s:cym&eng (.) bod yn xx ar_gyfer saith_ish@s:cym+eng . 1152710_1154998
-%gls:	so be.NONFIN in xx for seven-ish
-%eng:	so to be in xx by seven-ish
+*SAR:	so@s:cym&eng (.) bod yn xxx ar_gyfer saith_ish@s:cym+eng . 1152710_1154998
+%gls:	so be.NONFIN in xxx for seven-ish
+%eng:	so to be in xxx by seven-ish
 *SAR:	+" wedyn lan i Glanrafon@s:cym&eng stop@s:cym&eng fach yn Llanina@s:cym&eng a wedyn draw i Key_West@s:cym&eng . 1154998_1159462
 %gls:	then up to Glanrafon stop small in Llanina and then over to Key_West
 %eng:	"then up to Glanrafon, a short stop in Llanina and then over to Key West
@@ -1611,8 +1611,8 @@
 *SAR:	fi heb fod i Llanina@s:cym&eng ers (.) oesau . 1161782_1164846
 %gls:	PRON.1S without be.NONFIN to Llanina since ages
 %eng:	I haven't been to Llanina for ages
-*NON:	Llanina@s:cym&eng (y)n nice@s:cym&eng yn_dyw e xx . 1164846_1167206
-%gls:	Llanina PRT nice be.3S.PRES.NEG PRON.3SM xx
+*NON:	Llanina@s:cym&eng (y)n nice@s:cym&eng yn_dyw e xxx . 1164846_1167206
+%gls:	Llanina PRT nice be.3S.PRES.NEG PRON.3SM xxx
 %eng:	Llanina's nice, isn't it [...]
 *NON:	fi (y)n lico Llanina@s:cym&eng . 1166950_1167638
 %gls:	PRON.1S PRT like.NONFIN Llanina
@@ -1686,8 +1686,8 @@
 *NON:	yeah@s:cym&eng iawn oedd e (.) yfe . 1208687_1211343
 %gls:	yeah right be.3S.IMP PRON.3SM PRT.INT
 %eng:	yeah, it was just alright, wasn't it
-*SAR:	xxx (.) xx neithiwr . 1211400_1214039
-%gls:	xxx xx last_night
+*SAR:	xxx (.) xxx neithiwr . 1211400_1214039
+%gls:	xxx last_night
 %eng:	[...] last night
 *SAR:	mae golau fi (we)di mynd i coch unwaith eto . 1214039_1215904
 %gls:	be.3S.PRES light PRON.1S PRT.PAST go.NONFIN to red once again
@@ -1745,15 +1745,15 @@
 %eng:	oh, the same thing again
 *SAR:	+" (dy)na i_gyd ŷn ni (y)n wneud yw mynd mas eighteenths@s:eng [?] . 1262313_1263977
 %gls:	there all be.1PL.PRES PRON.1PL PRT do.NONFIN be.3S.PRES go.NONFIN out eighteenths
-%eng:	that's all we do is go out eighteenths [?] 
+%eng:	that's all we do is go out eighteenths [?]
 *SAR:	+" so ni (y)n cwrdd â neb newydd . 1263977_1265273
 %gls:	NEG PRON.1PL PRT meet.NONFIN with nobody new
 %eng:	we don't meet anyone new
 *NON:	mmm@s:cym&eng . 1265273_1266001
 %gls:	IM
 %eng:	mmm
-*SAR:	(dy)na beth o'n i (y)n xx . 1265721_1266633
-%gls:	there what be.1S.IMP PRON.1S PRT xx
+*SAR:	(dy)na beth o'n i (y)n xxx . 1265721_1266633
+%gls:	there what be.1S.IMP PRON.1S PRT xxx
 %eng:	that's what I [...]
 *SAR:	achos (.) timod o'n i (y)n (.) sengl ar y pryd . 1266633_1269969
 %gls:	because know.2S be.1S.IMP PRON.1S PRT single at DET time
@@ -1773,8 +1773,8 @@
 *NON:	yeah@s:cym&eng <fi gwybod> [?] be s(y) gyn ti . 1277657_1278953
 %gls:	yeah PRON.2S know.NONFIN what be.PRES.REL with PRON.2S
 %eng:	yeah I know what you're getting at
-*SAR:	+< a timod [?] (.) <o't ti> [?] ddim yn gallu fforddio (.) o ran arian (.) na (y)r amser i xx mynd mas (.) i dre ryw (.) noson arall (he)fyd . 1278177_1286017
-%gls:	and know.2S be.2S.IMP PRON.2S NEG PRT can.NONFIN afford.NONFIN of part money PRT DET time to xx go.NONFIN out to town some night other also
+*SAR:	+< a timod [?] (.) <o't ti> [?] ddim yn gallu fforddio (.) o ran arian (.) na (y)r amser i xxx mynd mas (.) i dre ryw (.) noson arall (he)fyd . 1278177_1286017
+%gls:	and know.2S be.2S.IMP PRON.2S NEG PRT can.NONFIN afford.NONFIN of part money PRT DET time to xxx go.NONFIN out to town some night other also
 %eng:	and you know, you coluldn't afford the money nor time to [...] go out to town some other night too
 *NON:	na . 1286017_1286705
 %gls:	no
@@ -1803,8 +1803,8 @@
 *SAR:	um@s:cym&eng (.) ond yeah@s:cym&eng . 1298481_1301353
 %gls:	IM but yeah
 %eng:	um, but yeah
-*SAR:	xx eitha aml yn aros yn (.) tafarn G_E@s:cym&eng twel i cael (.) drink@s:eng neu ddau ar_ôl gwaith . 1301353_1306769
-%gls:	xx quite often PRT stay.NONFIN in tavern G_E see.2S to get.NONFIN drink or two.M after work
+*SAR:	xxx eitha aml yn aros yn (.) tafarn G_E@s:cym&eng twel i cael (.) drink@s:eng neu ddau ar_ôl gwaith . 1301353_1306769
+%gls:	xxx quite often PRT stay.NONFIN in tavern G_E see.2S to get.NONFIN drink or two.M after work
 %eng:	[...] quite often stay at G_E you see, to have a drink or two after work
 *NON:	oh@s:cym&eng yeah@s:cym&eng ond wyt ti (y)n &kə [//] cownto hwnna fel mynd allan ? 1306241_1308577
 %gls:	IM yeah but be.2S.PRES PRON.2S PRT count.NONFIN that like go.NONFIN out
@@ -1824,8 +1824,8 @@
 *NON:	yeah@s:cym&eng os ti gorffod newid . 1314689_1316185
 %gls:	yeah if PRON.2S must.NONFIN change.NONFIN
 %eng:	yeah, if you have to change
-*SAR:	<os xx> [//] os fi (y)n gorffod newid mae hwnna (y)n mynd mas . 1316057_1317825
-%gls:	if xx if PRON.1S PRT must.NONFIN change.NONFIN be.3S.PRES that PRT go.NONFIN out
+*SAR:	<os xxx> [//] os fi (y)n gorffod newid mae hwnna (y)n mynd mas . 1316057_1317825
+%gls:	if xxx if PRON.1S PRT must.NONFIN change.NONFIN be.3S.PRES that PRT go.NONFIN out
 %eng:	if [...]...if I have to change, that's going out
 *SAR:	ond yeah@s:cym&eng . 1317825_1319449
 %gls:	but yeah
@@ -1845,8 +1845,8 @@
 *NON:	yeah@s:cym&eng . 1325985_1327465
 %gls:	yeah
 %eng:	yeah
-*SAR:	xx fi (y)n dechrau lico mynd i glub@s:cym&eng nawr o ran (.) just@s:cym&eng cael mynd i glub@s:cym&eng (.) game@s:cym&eng o pool@s:cym&eng . 1327185_1331345
-%gls:	xx PRON/1S PRT start.NONFIN like.NONFIN go.NONFIN to club now of part just get.NONFIN go.NONFIN to club game of pool
+*SAR:	xxx fi (y)n dechrau lico mynd i glub@s:cym&eng nawr o ran (.) just@s:cym&eng cael mynd i glub@s:cym&eng (.) game@s:cym&eng o pool@s:cym&eng . 1327185_1331345
+%gls:	xxx PRON/1S PRT start.NONFIN like.NONFIN go.NONFIN to club now of part just get.NONFIN go.NONFIN to club game of pool
 %eng:	[...] I'm starting to like going to a club now, in terms of just being able to go to a club, a game of pool
 *NON:	mmm@s:cym&eng . 1331345_1332425
 %gls:	IM
@@ -1904,8 +1904,8 @@
 *NON:	pwy na(wr) +//? 1373593_1375065
 %gls:	who now
 %eng:	who now?
-*NON:	oh@s:cym&eng xx . 1375065_1375681
-%gls:	IM xx
+*NON:	oh@s:cym&eng xxx . 1375065_1375681
+%gls:	IM xxx
 %eng:	oh [...]
 *SAR:	mmm@s:cym&eng . 1375681_1376257
 %gls:	IM
@@ -1943,8 +1943,8 @@
 *SAR:	o'n i fel “ugh@s:cym&eng” . 1392849_1393409
 %gls:	be.1S.IMP PRON.1S like IM
 %eng:	I was like "ugh"
-*SAR:	so@s:cym&eng wnes i just@s:cym&eng xx cut_o@s:eng+cym fe lawr pryd (hyn)ny . 1393409_1395697
-%gls:	so do.1S.PAST PRON.1S just xx cut.NONFIN PRON.3SM down time that
+*SAR:	so@s:cym&eng wnes i just@s:cym&eng xxx cut_o@s:eng+cym fe lawr pryd (hyn)ny . 1393409_1395697
+%gls:	so do.1S.PAST PRON.1S just xxx cut.NONFIN PRON.3SM down time that
 %eng:	so I just [...] cut it down that time
 *SAR:	wnes i (ddi)m lot@s:cym&eng (.) blwyddyn un_ar_ddeg (.) achos +//. 1395697_1400449
 %gls:	do.1S.PAST PRON.1S NEG lot year eleven because
@@ -1958,8 +1958,8 @@
 *SAR:	just@s:cym&eng wnes i ddim (.) ailddechrau nôl . 1402841_1404329
 %gls:	just do.1S.PAST PRON.1S NEG restart.NONFIN back
 %eng:	just I didn't start back again
-*NON:	wnes i xx ffeindio (.) pan o'n i yn (.) blwyddyn un_ar_ddeg +//. 1404329_1410618
-%gls:	do.1S.PAST PRON.1S xx find.NONFIN when be.1S.IMP PRON.1S in year eleven
+*NON:	wnes i xxx ffeindio (.) pan o'n i yn (.) blwyddyn un_ar_ddeg +//. 1404329_1410618
+%gls:	do.1S.PAST PRON.1S xxx find.NONFIN when be.1S.IMP PRON.1S in year eleven
 %eng:	I [...] found when I was in year eleven...
 *NON:	&b (dy)na flwyddyn y panto@s:cym&eng . 1410610_1412065
 %gls:	there year DET panto
@@ -1994,7 +1994,7 @@
 *NON:	achos mae nhw (y)n mynd Hanner_Awr drama@s:cym&eng (.) panto@s:cym&eng . 1428241_1432482
 %gls:	because be.3PL.PRES PRON.3PL PRT go.NONFIN Half_Hour drama panto
 %eng:	because they go Half Hour, drama, panto
-*SAR:	+< xx . 1430169_1430569
+*SAR:	+< xxx . 1430169_1430569
 *SAR:	right@s:cym&eng (.) well@s:cym&eng blwyddyn (.) deg wnes i Hanner_Awr de . 1432017_1435369
 %gls:	right well year ten do.1S.PAST PRON.1S Half_Hour then
 %eng:	right, well I did Half Hour in year twelve then
@@ -2031,8 +2031,8 @@
 *SAR:	<a ond> [?] oedd Hanner_Awr_O_Adloniant (.) oh@s:cym&eng (.) <o't ti> [//] (.) o'n i cyrraedd gartre o ysgol (.) tua hanner awr (we)di pedwar (.) newi(d) +/. 1451385_1460234
 %gls:	and but be.3S.IMP Half_Hour_Of_Entertainment IM be.2S.IMP PRON.2S be.1S.IMP PRON.1S arrive.NONFIN home from school approximately half hour past four.M change.NONFIN
 %eng:	and but Half an Hour of Entertainment, oh you...I'd arrive home from school at about half past four, changed...
-*NON:	(dy)na xx o gloch o't ti (y)n cyrraedd adre o ysgol ? 1459730_1461450
-%gls:	there xx of clock be.2S.IMP PRON.2S PRT arrive.NONFIN home from school
+*NON:	(dy)na xxx o gloch o't ti (y)n cyrraedd adre o ysgol ? 1459730_1461450
+%gls:	there xxx of clock be.2S.IMP PRON.2S PRT arrive.NONFIN home from school
 %eng:	that's [...] o'clock you'd get home from school?
 *SAR:	yeah@s:cym&eng [?] . 1461450_1462162
 %gls:	yeah
@@ -2151,11 +2151,11 @@
 *NON:	ody mae (y)n anodd pan &sg [//] does dim o (y)r amser (gy)da ti . 1540611_1544163
 %gls:	be.3S.PRES be.3S.PRES PRT difficult when be.3S.PRES.NEG NEG of DET time with PRON.2S
 %eng:	yes it's difficult when you haven't got the time
-*SAR:	oh@s:cym&eng (.) oedd xx pisan pawb off@s:cym&eng pryd oedd (.) lot@s:cym&eng o +//. 1544163_1547659
-%gls:	IM be.3S.IMP xx piss.NONFIN everybody off time be.3S.IMP lot of
+*SAR:	oh@s:cym&eng (.) oedd xxx pisan pawb off@s:cym&eng pryd oedd (.) lot@s:cym&eng o +//. 1544163_1547659
+%gls:	IM be.3S.IMP xxx piss.NONFIN everybody off time be.3S.IMP lot of
 %eng:	oh it would [...] piss everybody off when a lot of...
-*SAR:	fel os oedd amser (gy)da (y)r pobl oedd yn trefnu fe os o'n nhw (y)n (.) iawn am y noson (.) ooh@s:cym&eng digon o (.) xx a pethau . 1547659_1555011
-%gls:	like if be.3S.IMP time with DET people be.3S.IMP PRT organise.NONFIN PRON.3SM if be.3PL.IMP PRON.3PL PRT right for DET night IM enough of xx and things
+*SAR:	fel os oedd amser (gy)da (y)r pobl oedd yn trefnu fe os o'n nhw (y)n (.) iawn am y noson (.) ooh@s:cym&eng digon o (.) xxx a pethau . 1547659_1555011
+%gls:	like if be.3S.IMP time with DET people be.3S.IMP PRT organise.NONFIN PRON.3SM if be.3PL.IMP PRON.3PL PRT right for DET night IM enough of xxx and things
 %eng:	like, if the people who organised it had time, if they were alright for the night, ooh, enough [...] and things
 *NON:	yeah@s:cym&eng . 1554963_1555491
 %gls:	yeah
@@ -2276,8 +2276,8 @@
 *NON:	yeah@s:cym&eng . 1644388_1645484
 %gls:	yeah
 %eng:	yeah
-*SAR:	oedd gwaith sgwennu lan beth oedd pawb (we)di gweud a (.) xx anfon [?] hwnna . 1645484_1651132
-%gls:	be.3S.IMP work write.NONFIN up what be.3S.IMP everybody PRT.PAST say.NONFIN and xx send.NONFIN that
+*SAR:	oedd gwaith sgwennu lan beth oedd pawb (we)di gweud a (.) xxx anfon [?] hwnna . 1645484_1651132
+%gls:	be.3S.IMP work write.NONFIN up what be.3S.IMP everybody PRT.PAST say.NONFIN and xxx send.NONFIN that
 %eng:	there was work writing up what everybody had said and [...] sending that
 *NON:	ond buais i (y)n lwcus really@s:eng . 1651132_1653452
 %gls:	but be.1S.PAST PRON.1S PRT lucky really
@@ -2324,8 +2324,8 @@
 *NON:	oh@s:cym&eng ydy mae rhan i bawb f(an) yna yn_does . 1676052_1677988
 %gls:	IM be.3S.PRES be.3S.PRES part to everybody place there be.3S.PRES.NEG
 %eng:	oh yes, there's a part for everybody there, isn't there
-*SAR:	+< xx mae fe eitha energetic@s:eng thing@s:eng i wneud . 1677644_1679508
-%gls:	xx be.3S.PRES PRON.3SM quite energetic thing to do.NONFIN
+*SAR:	+< xxx mae fe eitha energetic@s:eng thing@s:eng i wneud . 1677644_1679508
+%gls:	xxx be.3S.PRES PRON.3SM quite energetic thing to do.NONFIN
 %eng:	[...] it's quite an energetic thing to do
 *SAR:	&kə [//] oh@s:cym&eng oedd (gy)da ni loads@s:eng o (.) dance_o@s:eng+cym a wneud hyn a rhedeg o fan hyn i llall a +... 1679508_1684972
 %gls:	IM be.3S.IMP with PRON.1PL loads of dance.NONFIN and do.NONFIN this and run.NONFIN from place this to other and
@@ -2411,8 +2411,8 @@
 *SAR:	ody . 1738740_1739364
 %gls:	be.3S.PRES
 %eng:	yes
-*SAR:	xx achos (dy)na beth o'n i (y)n gweud . 1739364_1740812
-%gls:	xx because there what be.1S.IMP PRON.1S PRT say.NONFIN
+*SAR:	xxx achos (dy)na beth o'n i (y)n gweud . 1739364_1740812
+%gls:	xxx because there what be.1S.IMP PRON.1S PRT say.NONFIN
 %eng:	[...] that's what I was saying
 *SAR:	o'n i mynd yn pissed@s:eng off@s:cym&eng amser oedd pobl fel yn um@s:cym&eng (.) dim dechrau ar amser timod . 1740812_1745452
 %gls:	be.1S.IMP PRON.1S go.NONFIN PRT pissed off time be.3S.IMP people like PRT IM NEG start.NONFIN on time know.2S
@@ -2438,8 +2438,8 @@
 *NON:	oh@s:cym&eng yeah@s:cym&eng ? 1766341_1767390
 %gls:	IM yeah
 %eng:	oh yeah?
-*NON:	do buais i (y)n mynd â peth (.) ar ryw boint@s:cym&eng xx . 1767390_1770350
-%gls:	yes be.1S.PAST PRON.1S PRT go.NONFIN with some on some point xx
+*NON:	do buais i (y)n mynd â peth (.) ar ryw boint@s:cym&eng xxx . 1767390_1770350
+%gls:	yes be.1S.PAST PRON.1S PRT go.NONFIN with some on some point xxx
 %eng:	yes, I was taking some at some point
 *NON:	na leni buais i mynd â . 1770350_1773246
 %gls:	no this_year be.1S.PAST PRON.1S go.NONFIN with
@@ -2486,7 +2486,7 @@
 *SAR:	<ti gorffod wneud sure@s:cym&eng bod y> [?] nurse@s:cym&eng ar gael . 1799326_1801510
 %gls:	PRON.2S must.NONFIN do.NONFIN sure be.NONFIN DET nurse on get.NONFIN
 %eng:	you have to make sure that the nurse is available
-*SAR:	but@s:eng ran fwya o amser o'n i (y)n (.) lwcus . 1801510_1805134
+*SAR:	but@s:eng ran fwya o amser o'n i (y)n (.) lwcus . 1801510_1803549
 %gls:	but part biggest of time be.1S.IMP PRON.1S PRT lucky
 %eng:	but most of the time I was lucky
 *SAR:	o'n nhw fel +"/. 1803566_1803862
@@ -2528,8 +2528,8 @@
 *SAR:	+" &=clears_throat yeah@s:cym&eng right@s:cym&eng you@s:eng need@s:eng a@s:eng blood@s:eng test@s:cym&eng now@s:eng . 1822126_1824110
 %gls:	yeah right you need a blood test now
 %eng:	yeah, right, you need a blood test now
-*SAR:	(o)_k@s:cym&eng (.) timod (.) dechrau cael xx sleeve@s:eng fi lan fel hyn (.) iawn . 1824110_1827686
-%gls:	o_k know.2S start.NONFIN get.NONFIN xx sleeve PRON.1S up like this right
+*SAR:	(o)_k@s:cym&eng (.) timod (.) dechrau cael xxx sleeve@s:eng fi lan fel hyn (.) iawn . 1824110_1827686
+%gls:	o_k know.2S start.NONFIN get.NONFIN xxx sleeve PRON.1S up like this right
 %eng:	ok, you know, starting to get [...] my sleeve up like this, right
 *SAR:	+" no@s:eng no@s:eng (.) you@s:eng (wi)ll@s:eng have@s:eng to@s:eng queue@s:cym&eng for@s:eng the@s:eng nurse@s:cym&eng . 1827686_1830670
 %gls:	no no you will have to queue for the nurse
@@ -2698,8 +2698,8 @@
 *SAR:	mam@s:cym&eng gweud +"/. 1934178_1935234
 %gls:	mum say.NONFIN
 %eng:	mum said:
-*SAR:	+" no@s:eng way@s:eng mae mynd i xx a aros yn surgery@s:cym&eng (.) am gymaint â (hyn)ny o amser . 1935234_1939242
-%gls:	no way be.3S.PRES go.NONFIN to xx and wait.NONFIN in surgery for so_much as that of time
+*SAR:	+" no@s:eng way@s:eng mae mynd i xxx a aros yn surgery@s:cym&eng (.) am gymaint â (hyn)ny o amser . 1935234_1939242
+%gls:	no way be.3S.PRES go.NONFIN to xxx and wait.NONFIN in surgery for so_much as that of time
 %eng:	no way is she going yo [...] and wait in the surgery for that much time
 *NON:	+< mmm@s:cym&eng . 1938194_1938546
 %gls:	IM
@@ -2728,8 +2728,8 @@
 *SAR:	so@s:cym&eng buais i (y)n eistedd yn surgery@s:cym&eng y doctor@s:cym&eng . 1955962_1958274
 %gls:	so be.1S.PAST PRON.1S PRT sit.NONFIN in surgery DET doctor
 %eng:	so I was sitting in the doctor's surgery
-*SAR:	xx fel [//] really@s:eng fel +"/. 1958274_1959466
-%gls:	xx like really like
+*SAR:	xxx fel [//] really@s:eng fel +"/. 1958274_1959466
+%gls:	xxx like really like
 %eng:	[...] like...really like:
 *SAR:	+" oh@s:cym&eng right@s:cym&eng iawn . 1959466_1960402
 %gls:	IM right right
@@ -2740,8 +2740,8 @@
 *SAR:	+" oh@s:cym&eng my@s:eng God@s:eng ti (y)n iawn ? 1961298_1962474
 %gls:	IM my God PRON.2S PRT right
 %eng:	oh my God, ar you alright?
-*SAR:	xx achos o'n i just@s:cym&eng yn really@s:eng wyn doedd [?] achos bod fi ddim yn bwyta . 1962474_1965282
-%gls:	xx because be.1S.IMP PRON.1S just PRT really white be.3S.IMP.NEG because be.NONFIN PRON.1S NEG PRT eat.NONFIN
+*SAR:	xxx achos o'n i just@s:cym&eng yn really@s:eng wyn doedd [?] achos bod fi ddim yn bwyta . 1962474_1965282
+%gls:	xxx because be.1S.IMP PRON.1S just PRT really white be.3S.IMP.NEG because be.NONFIN PRON.1S NEG PRT eat.NONFIN
 %eng:	[...] because I was just really white, wasn't I, because I wasn't eating
 *NON:	yeah@s:cym&eng . 1965146_1965674
 %gls:	yeah
@@ -2755,7 +2755,7 @@
 *SAR:	+" [- eng] you look ill . 1967578_1968330
 %gls:	you look ill
 %eng:	you look ill
-*SAR:	&=laugh xx +"/. 1968330_1969434
+*SAR:	&=laugh xxx +"/. 1968330_1969434
 *SAR:	+" yeah@s:cym&eng waiting@s:eng for@s:eng the@s:eng doctor@s:cym&eng . 1969434_1970866
 %gls:	yeah waiting for the doctor
 %eng:	yeah waiting for the doctor
@@ -2787,8 +2787,8 @@
 *NON:	oh@s:cym&eng yeah@s:cym&eng . 1982730_1984626
 %gls:	IM yeah
 %eng:	oh yeah
-*SAR:	+< xx just@s:cym&eng yn agor y drws a cau e . 1983410_1985338
-%gls:	xx PRT just PRT open.NONFIN DET door and close.NONFIN PRON.3SM
+*SAR:	+< xxx just@s:cym&eng yn agor y drws a cau e . 1983410_1985338
+%gls:	xxx PRT just PRT open.NONFIN DET door and close.NONFIN PRON.3SM
 %eng:	[...] just opening the door and closing it
 *SAR:	mae wastad yn wneud (hyn)na . 1985338_1986562
 %gls:	be.3S.PRES always PRT do.NONFIN that
@@ -2814,8 +2814,8 @@
 *NON:	yeah@s:cym&eng . 1995474_1996722
 %gls:	yeah
 %eng:	yeah
-*SAR:	timod (.) pryd ti just@s:cym&eng yn xx (.) cael rest@s:cym&eng (.) a mae drws ti dal (.) timod xx +//. 1996226_2000426
-%gls:	know.2S time PRON.2S just PRT xx get.NONFIN rest and be.3S.PRES door PRON.2S still know.2S xx
+*SAR:	timod (.) pryd ti just@s:cym&eng yn xxx (.) cael rest@s:cym&eng (.) a mae drws ti dal (.) timod xxx +//. 1996226_2000426
+%gls:	know.2S time PRON.2S just PRT xxx get.NONFIN rest and be.3S.PRES door PRON.2S still know.2S xxx
 %eng:	you know, when you're just [...] having a rest and your door is still, you know [...]
 *SAR:	timod mae un fi (y)n drwm ble fi just@s:cym&eng yn gadael e i resto ? 2000426_2002658
 %gls:	know.2S be.3S.PRES one PRON.1S PRT heavy where PRON.1S just PRT leave.NONFIN PRON.3SM to rest.NONFIN
@@ -2829,8 +2829,8 @@
 *NON:	oh@s:cym&eng timod bore (y)ma ? 2003938_2005642
 %gls:	IM know.2S morning here
 %eng:	oh you know this morning?
-*NON:	xx (.) oh@s:cym&eng &din [//] dihunais i (am)boutu saith ffordd (y)na mynd i toilet@s:cym&eng . 2005642_2008682
-%gls:	xx IM wake.1S.PAST PRON.1S about seven way there go.NONFIN to toilet
+*NON:	xxx (.) oh@s:cym&eng &din [//] dihunais i (am)boutu saith ffordd (y)na mynd i toilet@s:cym&eng . 2005642_2008682
+%gls:	xxx IM wake.1S.PAST PRON.1S about seven way there go.NONFIN to toilet
 %eng:	[...] oh, I woke up at about seven, that way, go to the toilet
 *SAR:	yeah@s:cym&eng . 2008682_2009178
 %gls:	yeah
@@ -2867,14 +2867,14 @@
 %gls:	PRON.1S just in room PRON.1S PRT mess_around.NONFIN door on open
 %eng:	I'm just in my room messing around, door open
 *SAR:	&=laugh . 2030675_2031571
-*NON:	<all@s:eng sudden@s:cym&eng> [?] xx pipo draw mae Iestyn@s:cym&eng yn sefyll yn y drws timod â (e)i law ar y fframyn . 2030875_2034715
-%gls:	all sudden xx glance.NONFIN over be.3S.PRES Iestyn PRT stand.NONFIN in DET door know.2S with POSS.3SM hand on DET frame
+*NON:	<all@s:eng sudden@s:cym&eng> [?] xxx pipo draw mae Iestyn@s:cym&eng yn sefyll yn y drws timod â (e)i law ar y fframyn . 2030875_2034715
+%gls:	all sudden xxx glance.NONFIN over be.3S.PRES Iestyn PRT stand.NONFIN in DET door know.2S with POSS.3SM hand on DET frame
 %eng:	all of a sudden, [...] glance over, Iestyn is standing in the door, you know, with his hand on the frame
 *SAR:	+< &=laugh <oh@s:cym&eng yeah@s:cym&eng pwyso f(an) yna> [=! laughs] &=laugh . 2032635_2036779
 %gls:	IM yeah lean.NONFIN place there
 %eng:	oh yeah, leaning there
-*NON:	xx a fi just@s:cym&eng fel +"/. 2035963_2037283
-%gls:	xx and PRON.1S just like
+*NON:	xxx a fi just@s:cym&eng fel +"/. 2035963_2037283
+%gls:	xxx and PRON.1S just like
 %eng:	[...] and I'm just like:
 *NON:	+" <paid â wneud (hyn)na please@s:cym&eng> [=! laughs] . 2037283_2039363
 %gls:	desist.2S.IMPER with do.NONFIN that please
@@ -2897,14 +2897,14 @@
 *NON:	credu bod e (y)n cripan lan (gy)da fi . 2050627_2052955
 %gls:	believe.NONFIN be.NONFIN PRON.3SM PRT creep.NONFIN up with PRON.1S
 %eng:	I think he creeps up with me
-*SAR:	oh@s:cym&eng (.) xx mae Simon@s:cym&eng yn funny@s:eng . 2052580_2054237
-%gls:	IM xx be.3S.PRES Simon PRT funny
+*SAR:	oh@s:cym&eng (.) xxx mae Simon@s:cym&eng yn funny@s:eng . 2052580_2054237
+%gls:	IM xxx be.3S.PRES Simon PRT funny
 %eng:	oh [...] Simon is funny
 *SAR:	mae fe (we)di dechrau dod mewn nawr . 2054237_2055509
 %gls:	be.3S.PRES PRON.3SM PRT.PAST start.NONFIN come.NONFIN in now
 %eng:	he's started coming in now
-*SAR:	oedd e o blaen just@s:cym&eng fel (.) xx aros yn y corridor@s:cym&eng . 2055509_2058325
-%gls:	be.3S.IMP PRON.3SM of front just like xx wait.NONFIN in DET corridor
+*SAR:	oedd e o blaen just@s:cym&eng fel (.) xxx aros yn y corridor@s:cym&eng . 2055509_2058325
+%gls:	be.3S.IMP PRON.3SM of front just like xxx wait.NONFIN in DET corridor
 %eng:	before he just, like, waited in the corridor
 *SAR:	wedyn daeth e i aros yn y drws . 2058325_2059957
 %gls:	then come.3S.PAST PRON.3SM to wait.NONFIN in DET door
@@ -2929,10 +2929,10 @@
 *NON:	+, a wedyn ti sylwi bod ti ddim . 2070136_2071848
 %gls:	and then PRON.2S realise.NONFIN be.NONFIN PRON.2S NEG
 %eng:	and then you realise that you're not
-*SAR:	well@s:cym&eng fi credu byswn i (we)di cael ofan xx . 2071848_2074072
-%gls:	well PRON.1S believe.NONFIN be.1S.CONDIT PRON.1S PRT.PAST get.NONFIN fright xx
-%eng:	well I think I would have had a fright [...]
-*SAR:	achos o'n i fel (.) timod cerdded mas i (y)r corridor@s:cym&eng . 2071848_2076152
+*SAR:	well@s:cym&eng fi credu byswn i (we)di cael ofan bach . 2071848_2073535
+%gls:	well PRON.1S believe.NONFIN be.1S.CONDIT PRON.1S PRT.PAST get.NONFIN fright little
+%eng:	well I think I would have had a bit of a fright
+*SAR:	achos o'n i fel (.) timod cerdded mas i (y)r corridor@s:cym&eng . 2073479_2076152
 %gls:	because be.1S.IMP PRON.1S like know.2S walk.NONFIN out to DET corridor
 %eng:	because I was, like you know, walking out to the corridor
 *SAR:	<o'n i (y)n> [?] actually@s:eng gwisgo popeth . 2076152_2077680
@@ -2973,8 +2973,8 @@
 *SAR:	just@s:cym&eng (.) cyn i fi (.) mynd fel (yn)a +//. 2097689_2099569
 %gls:	just before to PRON.1S go.NONFIN like there
 %eng:	just before I went like that...
-*SAR:	xx llygad mynd [?] fel (yn)a (.) du . 2099569_2102193
-%gls:	xx eye go.NONFIN like there black
+*SAR:	xxx llygad mynd [?] fel (yn)a (.) du . 2099569_2102193
+%gls:	xxx eye go.NONFIN like there black
 %eng:	[...] eye went like that, black
 *SAR:	o'n i fel +"/. 2102193_2102825
 %gls:	be.1S.IMP PRON.1S like

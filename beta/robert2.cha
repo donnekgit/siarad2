@@ -1,7 +1,7 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	GLE Glenys Adult, RIS Rhisiart Adult
 @ID:	cym|siarad|GLE|19;|female|||Adult||
 @ID:	cym|siarad|RIS|19;|male|||Adult||
@@ -14,7 +14,7 @@
 @Time Duration:	00:40:29
 @Media:	robert2, audio
 @Comment:	Filename: ROBERT2.cha; Soundfile: ROBERT2.wav
-@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English, @s:fra = French. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	35 seconds bleeped out between 00:12:51 and 00:13:26
 *GLE:	&ən na <dw (ddi)m (y)n> [/] dw (ddi)m (y)n ddallt hynna . 0_2101
 %gls:	no be.1S.PRES NEG PRT be.1S.PRES NEG PRT understand.NONFIN that
@@ -216,8 +216,8 @@
 *RIS:	+" dos i contract@s:cym&eng ! 145123_145703
 %gls:	go.2S.IMPER to contract
 %eng:	go to contract
-*RIS:	xx na . 145615_146277
-%gls:	xx no
+*RIS:	xxx na . 145615_146277
+%gls:	xxx no
 %eng:	[..] no
 *RIS:	achos o'n i (we)di clywed <lot@s:cym&eng am> [//] (.) lot@s:cym&eng o bethau drwg am contract@s:cym&eng . 146254_149597
 %gls:	because be.1S.IMP PRON.1S PRT.PAST hear.NONFIN lot about lot of things bad about contract
@@ -271,10 +271,10 @@
 *RIS:	&ədi dw i roid um@s:cym&eng (.) olbas@s:eng oil@s:cym&eng ar y pillow@s:cym&eng . 199825_204562
 %gls:	be.1S.PRES PRON.1S put.NONFIN IM olbas oil on DET pillow
 %eng:	I put olbas oil on my pillow.
-*RIS:	a mae o gry ofnadwy xx +"/. 204493_205712
-%gls:	and be.3S.PRES PRON.3SM strong terrible xx
+*RIS:	a mae o gry ofnadwy xxx +"/. 204493_205712
+%gls:	and be.3S.PRES PRON.3SM strong terrible xxx
 %eng:	and it's really strong [...]
-*GLE:	oh@s:cym&eng xx ? 204969_205956
+*GLE:	oh@s:cym&eng xxx ? 204969_205956
 *RIS:	+" &=imit:sniffing ugh@s:cym&eng . 205712_206931
 *GLE:	oh@s:cym&eng mae hynna (y)n knock_io@s:eng+cym chdi allan . 206908_209113
 %gls:	IM be.3S.PRES that PRT knock.NONFIN PRON.2S out
@@ -395,7 +395,7 @@
 *GLE:	ia . 292065_292530
 %gls:	yes
 %eng:	yes.
-*RIS:	ac um@s:cym&eng (.) oedden ni (we)di dysgu o (y)r llyfr fel hynna [?] “le@5” “la@5” a “les@5” . 292506_296907
+*RIS:	ac um@s:cym&eng (.) oedden ni (we)di dysgu o (y)r llyfr fel hynna [?] “le@s:fra” “la@s:fra” a “les@s:fra” . 292506_296907
 %gls:	and IM be.1PL.IMP PRON.1PL PRT.PAST learn.NONFIN from DET book like that le la and les
 %eng:	and we'd learnt from the book, like "le", "la" and "les" .
 *RIS:	a (we)dyn (.) wyt ti (y)n gwrando arnyn nhw ar dâp@s:cym&eng <a nhw> [?] +"/. 296907_298648
@@ -405,8 +405,8 @@
 *GLE:	mae nhw . 299758_300432
 %gls:	be.3PL.PRES PRON.3PL
 %eng:	they are.
-*RIS:	xx a (we)dyn o'n i (y)na +"/. 300339_301268
-%gls:	xx and then be.1S.IMP PRON.1S there
+*RIS:	xxx a (we)dyn o'n i (y)na +"/. 300339_301268
+%gls:	xxx and then be.1S.IMP PRON.1S there
 %eng:	[...] and then i was there:
 *RIS:	+" oh@s:cym&eng gosh@s:eng . 301268_302313
 *RIS:	a gesio wedyn tick@s:cym&eng tick@s:cym&eng tick@s:cym&eng yn y boxes@s:cym&eng . 302313_304936
@@ -433,7 +433,7 @@
 %gls:	what be.3S.IMP POSS.3SM name PRON.3SM
 %eng:	what was his name?
 *RIS:	Walter@s:cym&eng +"/. 318915_319298
-*RIS:	+" xx xx (.) xx (.) xx . 319623_323884
+*RIS:	+" xxx (.) xxx (.) xxx . 319623_323884
 %com:	deliberately mimics unintelligible speech of Walter
 *GLE:	+< oh@s:cym&eng Walter@s:cym&eng . 321086_322131
 *GLE:	+< Walter@s:cym&eng a Mr_Chatterbox@s:eng de . 323303_325219
@@ -471,15 +471,15 @@
 *GLE:	+" yndw [=! monotone] . 346314_347313
 %gls:	be.1S.PRES
 %eng:	yes.
-*GLE:	&=laugh (.) xx . 347290_349913
+*GLE:	&=laugh (.) xxx . 347290_349913
 *RIS:	+< wnes i ddeud (wr)tha chdi am um@s:cym&eng y bobl (y)na (.) yn: (.) pan es i i Penmaenmawr@s:cym&eng i wneud y gwaith teipio (y)ma ? 348927_354639
 %gls:	do.1S.PAST PRON.1S say.NONFIN to.2S PRON.2S about IM people there in when go.1S.PAST PRON.1S to Penmaenmawr to do.NONFIN DET work type.NONFIN here
 %eng:	did I tell you about those people in...when I went to Penmaenmawr to do this typing work?
 *GLE:	oh@s:cym&eng do: do . 354581_356264
 %gls:	IM yes yes
 %eng:	oh yes, yes.
-*RIS:	do right@s:cym&eng (.) a xx er@s:cym&eng <dw (ddi)m (gwyb)od> [?] er@s:cym&eng Lisa@s:cym&eng neu rywbeth oedd ei henw hi . 355627_358714
-%gls:	yes right and xx IM be.1S.PRES NEG know.NONFIN IM Lisa or something be.3S.IMP POSS.3SF name PRON.3SF
+*RIS:	do right@s:cym&eng (.) a xxx er@s:cym&eng <dw (ddi)m (gwyb)od> [?] er@s:cym&eng Lisa@s:cym&eng neu rywbeth oedd ei henw hi . 355627_358714
+%gls:	yes right and xxx IM be.1S.PRES NEG know.NONFIN IM Lisa or something be.3S.IMP POSS.3SF name PRON.3SF
 %eng:	yes right, and [...] er I don't know, her name was Lisa or something.
 *RIS:	dw (ddi)m (y)n gwybod be oedd hi [//] peth (y)na . 358702_360386
 %gls:	be.1S.PRES NEG PRT know.NONFIN what be.3S.IMP PRON.3SF thing there
@@ -523,7 +523,7 @@
 *RIS:	+" [- eng] no [=! monotone] . 377975_378625
 *RIS:	+" oh@s:cym&eng what@s:eng you@s:eng do@s:eng then@s:eng ? 378602_380680
 *RIS:	+" [- eng] work [=! glissando] here . 380657_381748
-*RIS:	+" xx oh@s:cym&eng er@s:cym&eng interesting@s:eng . 381690_383478
+*RIS:	+" xxx oh@s:cym&eng er@s:cym&eng interesting@s:eng . 381690_383478
 *RIS:	+" [- eng] no [=! monotone] . 383466_384070
 *RIS:	&=laugh . 384105_386346
 *GLE:	ti (y)n gwybod efo um@s:cym&eng +... 385250_387062
@@ -833,8 +833,8 @@
 *RIS:	ges i nhw (.) gan rhywun . 628625_631272
 %gls:	get.1S.PAST PRON.1S PRON.3PL from someone
 %eng:	I got them from someone.
-*RIS:	<(ba)swn i (ddi)m yn prynu> [?] xx prynu nhw . 631260_633431
-%gls:	be.1S.CONDIT PRON.1S NEG PRT buy.NONFIN xx buy.NONFIN PRON.3PL
+*RIS:	<(ba)swn i (ddi)m yn prynu> [?] xxx prynu nhw . 631260_633431
+%gls:	be.1S.CONDIT PRON.1S NEG PRT buy.NONFIN xxx buy.NONFIN PRON.3PL
 %eng:	I wouldn't buy [...] buy them.
 *GLE:	oh@s:cym&eng do ? 631620_632386
 %gls:	IM yes
@@ -896,7 +896,7 @@
 *GLE:	+" ond ti (y)n mynd dros ben llestri . 681694_683331
 %gls:	but PRON.2S PRT go.NONFIN over top dishes
 %eng:	but you go over the top.
-*GLE:	+" a dyna pam mae (y)r hogan (y)na (we)di troi i_ffwrdd . 0_0
+*GLE:	+" a dyna pam mae (y)r hogan (y)na (we)di troi i_ffwrdd . 683284_685699
 %gls:	and there why be.3S.PRES DET girl there PRT.PAST turn.NONFIN away
 %eng:	and that's why that girl's turned away.
 *GLE:	+" oedd hi (y)n mynd i siarad efo chdi . 685676_687778
@@ -921,8 +921,8 @@
 *RIS:	a wedyn oedd ei wallt o +... 698227_699701
 %gls:	and then be.3S.IMP POSS.3SM hair PRON.3SM
 %eng:	and then his hair was...
-*RIS:	dw meddwl xx fath â (.) oedd o (y)n boeth . 699678_701756
-%gls:	be.1S.PRES think.NONFIN xx kind with be.3S.IMP PRON.3SM PRT hot
+*RIS:	dw meddwl xxx fath â (.) oedd o (y)n boeth . 699678_701756
+%gls:	be.1S.PRES think.NONFIN xxx kind with be.3S.IMP PRON.3SM PRT hot
 %eng:	I think [...] like he was hot.
 *GLE:	&=laugh . 700142_700955
 *RIS:	ac oedd ei wallt o (y)n chwysu . 701710_702894
@@ -934,8 +934,8 @@
 *RIS:	wedyn oedd o (we)di mynd fel hyn drwyddo fo (y)n_doedd . 703567_705669
 %gls:	then be.3S.IMP PRON.3SM PRT.PAST go.NONFIN like this through.3SM PRON.3SM be.3S.IMP.NEG
 %eng:	then he'd gone like this through it, hadn't he.
-*RIS:	xx sticio allan a llygadau mawr xx (.) &=laugh <fel hyn> [?] [=! laughs] . 705645_711149
-%gls:	xx stick.NONFIN out and eyes big xx like this
+*RIS:	xxx sticio allan a llygadau mawr xxx (.) &=laugh <fel hyn> [?] [=! laughs] . 705645_711149
+%gls:	xxx stick.NONFIN out and eyes big xxx like this
 %eng:	[...] sticking out and big eyes [...] like this.
 *GLE:	+< ia . 707399_707886
 %gls:	yes
@@ -983,8 +983,8 @@
 *GLE:	o'n i (y)n tynnu goes o ar M_S_N@s:cym&eng . 733985_735831
 %gls:	be.1S.IMP PRON.1S PRT pull.NONFIN leg PRON.3SM on M_S_N
 %eng:	I was pulling his leg on MSN
-*GLE:	achos <mae o (y)n xx> [//] (.) mae o (y)n er@s:cym&eng wario (y)chydig o amser efo Joanne@s:cym&eng . 735831_739872
-%gls:	because be.3S.PRES PRON.3SM PRT xx be.3S.PRES PRON.3SM PRT IM spend.NONFIN a_little of time with Joanne
+*GLE:	achos <mae o (y)n xxx> [//] (.) mae o (y)n er@s:cym&eng wario (y)chydig o amser efo Joanne@s:cym&eng . 735831_739872
+%gls:	because be.3S.PRES PRON.3SM PRT xxx be.3S.PRES PRON.3SM PRT IM spend.NONFIN a_little of time with Joanne
 %eng:	because he's [...] he spends a bit of time with Joanne.
 *RIS:	oh@s:cym&eng . 739837_740708
 *GLE:	<ti (we)di> [/] ti (we)di weld Joanne@s:cym&eng ? 740708_741996
@@ -1057,8 +1057,8 @@
 *RIS:	oedd genna i (ddi)m_byd i wneud so@s:cym&eng +"/. 817933_819059
 %gls:	be.3S.IMP with.1S PRON.1S nothing to do.NONFIN so
 %eng:	I had nothing to do, so:
-*RIS:	+" oh@s:cym&eng wna i mynd xx [//] drwy fan hyn . 819047_820742
-%gls:	IM do.1S.IMP PRON.1S go.NONFIN xx through place here
+*RIS:	+" oh@s:cym&eng wna i mynd xxx [//] drwy fan hyn . 819047_820742
+%gls:	IM do.1S.IMP PRON.1S go.NONFIN xxx through place here
 %eng:	I'll go [...] through here.
 *GLE:	be sy (y)n bechod um@s:cym&eng [?] dw i (we)di gorffen y llyfr o'n i (y)n ddarllen . 820719_823726
 %gls:	what be.PRES.REL PRT pity IM be.1S.PRES PRON.1S PRT.PAST finish.NONFIN DET book be.1S.IMP PRON.1S PRT read.NONFIN
@@ -1150,11 +1150,11 @@
 *RIS:	dw i licio Jane_Eyre@s:cym&eng . 879326_880429
 %gls:	be.1S.PRES PRON.1S like.NONFIN Jane_Eyre
 %eng:	I like Jane Eyre.
-*RIS:	ond mae hwn mae o (y)n (.) xx +/. 880406_882473
-%gls:	but be.3S.PRES this be.3S.PRES PRON.3SM PRT xx
+*RIS:	ond mae hwn mae o (y)n (.) xxx +/. 880406_882473
+%gls:	but be.3S.PRES this be.3S.PRES PRON.3SM PRT xxx
 %eng:	but this...it's [...]
-*GLE:	mae Jane_Eyre@s:cym&eng xx right@s:cym&eng drist yn_tydy ? 881648_883483
-%gls:	be.3S.PRES Jane_Eyre xx right sad be.3S.PRES.NEG
+*GLE:	mae Jane_Eyre@s:cym&eng xxx right@s:cym&eng drist yn_tydy ? 881648_883483
+%gls:	be.3S.PRES Jane_Eyre xxx right sad be.3S.PRES.NEG
 %eng:	Jane Eyre [...] is quite sad, isn't it?
 *RIS:	mae o (y)n drist . 883285_884551
 %gls:	be.3S.PRES PRON.3SM PRT sad

@@ -172,12 +172,12 @@
 *IFO:	you're@s:eng very@s:cym&eng welcome@s:eng . 236719_237833
 *IFO:	[- eng] thank you . 237833_238576
 *IFO:	[- eng] bye_bye now . 238576_239145
-%com:	loud crash heard %snd:"fusser28"_239145_240829
+@Comment:	loud crash heard
 *IFO:	&=imit:beep &=laugh . 240829_245229
 *IFO:	&ʃ &=laugh sure@s:cym&eng bod ti newydd ddychryn . 245229_248433
 %gls:	sure be.NONFIN PRON.2S new get_scared.NONFIN
 %eng:	I'm sure you were just scared
-%com:	long silence and then Ifor dials a phone number, then starts talking to the person on the other end %snd:"fusser28"_248433_277075
+@Comment:	long silence and then Ifor dials a phone number, then starts talking to the person on the other end
 *IFO:	sut wyt ti ? 277075_279734
 %gls:	how be.2S.PRES PRON.2S
 %eng:	how are you?

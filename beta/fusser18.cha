@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	BEU Beuno Adult, ARD Arddun Adult, HAF Haf Child, CAI Cai Child
 @ID:	cym|siarad|BEU|41;|male|||Adult||
 @ID:	cym|siarad|ARD|41;|female|||Adult||
@@ -409,7 +409,7 @@
 *ARD:	ia . 275707_277319
 %gls:	yes
 %eng:	yes
-*BEU:	+, i (y)r south@s:eng coast@s:eng (y)na a wedyn +/. 277273_280767
+*BEU:	+, i (y)r south@s:eng coast@s:eng (y)na a wedyn +/. 277273_278815
 %gls:	to DET south coast there and then
 %eng:	to that south coast and then...
 *ARD:	++ a siwrnai flinedig o deithio . 278398_280256
@@ -510,7 +510,7 @@
 %gls:	so in way be.1PL.PRES.NEG xxx right flexible in way
 %eng:	so in a way we're not... [...] quite flexible in a way
 *BEU:	well@s:cym&eng xxx [//] xxx fedran ni wneud hynna eto . 337180_339188
-%gls:	well xxx xxx can.1PL.NONPAST PRON.1PL do.NONFIN that again
+%gls:	well xxx can.1PL.NONPAST PRON.1PL do.NONFIN that again
 %eng:	well [...] ... [...] we can do that another time
 *ARD:	ia . 339188_339618
 %gls:	yes
@@ -549,8 +549,8 @@
 *ARD:	mae o (y)n +/. 362350_363383
 %gls:	be.3S.PRES PRON.3SM PRT
 %eng:	he's...
-*BEU:	mae [/] mae isio coat@s:cym&eng o baent hefyd wan [?] xx ar lot@s:cym&eng o (y)r waliau (y)ma . 363105_365671
-%gls:	be.3S.PRES be.3S.PRES want coat of paint also now xx on lot of DET walls here
+*BEU:	mae [/] mae isio coat@s:cym&eng o baent hefyd wan [?] xxx ar lot@s:cym&eng o (y)r waliau (y)ma . 363105_365671
+%gls:	be.3S.PRES be.3S.PRES want coat of paint also now xxx on lot of DET walls here
 %eng:	a lot of these walls need a coat of paint too now
 *ARD:	+< oes . 364533_365171
 %gls:	be.3S.PRES
@@ -944,8 +944,8 @@
 *ARD:	mmm@s:cym&eng . 647425_648041
 %gls:	IM
 %eng:	mmm
-*BEU:	um@s:cym&eng (.) oedd Richard_Brunstrom@s:cym&eng (.) xx (.) prif gwnstabl gogledd Cymru (y)ma +/. 648041_653219
-%gls:	IM be.3S.IMP Richard_Brunstrom xx main constable north Wales here
+*BEU:	um@s:cym&eng (.) oedd Richard_Brunstrom@s:cym&eng (.) xxx (.) prif gwnstabl gogledd Cymru (y)ma +/. 648041_653219
+%gls:	IM be.3S.IMP Richard_Brunstrom xxx main constable north Wales here
 %eng:	um, Richard Brunstrom, [...] the chief constable of north Wales...
 *ARD:	oh@s:cym&eng ia . 652719_653718
 %gls:	IM yes
@@ -1128,8 +1128,8 @@
 *ARD:	mmm@s:cym&eng . 771965_772476
 %gls:	IM
 %eng:	mmm
-*BEU:	um@s:cym&eng (.) <(be)cause@s:eng oedd dim> [?] gweld hi (y)n deg bod [/] bod fi mynd i fan (y)na (.) xx yn hun y tro cynta +/. 772476_777794
-%gls:	IM because be.3S.IMP NEG see PRON.3SF PRT fair be.NONFIN be.NONFIN PRON.1S go.NONFIN to place there xx POSS.1S self DET turn first
+*BEU:	um@s:cym&eng (.) <(be)cause@s:eng oedd dim> [?] gweld hi (y)n deg bod [/] bod fi mynd i fan (y)na (.) xxx yn hun y tro cynta +/. 772476_777794
+%gls:	IM because be.3S.IMP NEG see PRON.3SF PRT fair be.NONFIN be.NONFIN PRON.1S go.NONFIN to place there xxx POSS.1S self DET turn first
 %eng:	um, because she didn't think it was fair for me to go there by myself the first time
 *ARD:	+< ia . 776493_776969
 %gls:	yes
@@ -1152,8 +1152,8 @@
 *BEU:	yeah@s:cym&eng . 785909_786664
 %gls:	yeah
 %eng:	yeah
-*ARD:	criwiau dydd Llun o_lew xx +/. 786664_788719
-%gls:	crews day Monday alright xx
+*ARD:	criwiau dydd Llun o_lew xxx +/. 786664_788719
+%gls:	crews day Monday alright xxx
 %eng:	Monday groups alright [...] ...
 *BEU:	oh@s:cym&eng mae dydd [/] er@s:cym&eng [=? y] dydd Llun a dydd Mawrth yn right@s:cym&eng galed i chdi yndy . 788405_790959
 %gls:	IM be.3S.PRES day IM day Monday and day Tuesday PRT right hard for PRON.2S be.3S.PRES
@@ -2257,8 +2257,8 @@
 *BEU:	+< yeah@s:cym&eng . 1520677_1521199
 %gls:	yeah
 %eng:	yeah
-*BEU:	xx dw isio golchi dy gar@s:cym&eng di xxx . 1521199_1522569
-%gls:	xx be.1S.PRES want wash.NONFIN POSS.2S car PRON.2S xxx
+*BEU:	xxx dw isio golchi dy gar@s:cym&eng di xxx . 1521199_1522569
+%gls:	xxx be.1S.PRES want wash.NONFIN POSS.2S car PRON.2S xxx
 %eng:	[...] I want to wash your car [...]
 *ARD:	&=gasp oh@s:cym&eng (y)n e(n)wedig efo (y)r halen (.) ar y ffordd . 1522569_1526122
 %gls:	IM PRT particular with DET salt on DET road
@@ -2569,7 +2569,7 @@
 %eng:	and I don't understand [...]
 *CAI:	+" xxx cysylltwch <y rhifau> [?] (.) ar y chwith gyda (.) sum@s:cym&eng sy (y)n cyfateb ar y dde xxx . 1726668_1733646
 %gls:	xxx connect.2PL.IMPER DET numbers on DET left with sum be.PRES.REL PRT correspond.NONFIN on DET right xxx
-%eng:	[...] connect the numbers on the left with the corresponding sum on the right [...] 
+%eng:	[...] connect the numbers on the left with the corresponding sum on the right [...]
 %com:	reads out the instructions from his homework
 *HAF:	+< xxx . 1727961_1729552
 %com:	Haf seems to be talking to her father while Arddun is focusing on Cai
@@ -3084,7 +3084,7 @@
 *BEU:	oh@s:cym&eng British@s:cym&eng cael ei cymryd drosodd gan brifysgol (y)n_do . 2061527_2063478
 %gls:	IM British get.NONFIN POSS.3S take.NONFIN over from university yes
 %eng:	oh, the British has been taken over by the university, hasn't it
-*ARD:	+< y brify(sgol) xx +//. 2062955_2063722
+*ARD:	+< y brify(sgol) xxx +//. 2062955_2063722
 %gls:	DET university
 %eng:	the univers...
 *ARD:	do . 2063722_2064569

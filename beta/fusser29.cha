@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	MAG Magi Adult, LOI Lois Adult
 @ID:	cym|siarad|MAG|27;|female|||Adult||
 @ID:	cym|siarad|LOI|25;|female|||Adult||
@@ -10,9 +10,9 @@
 @Comment:	LOI was born in north-west Wales and has lived there all her life.
 @Transcriber:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Marika Fusser, Bangor University
-@Comment:	Time Duration: 00:31:42
-@Comment:	Filename: fusser29.cha; Soundfile: fusser29.wav
-@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
+@Time Duration:	00:31:42
+@Media:	fusser29, audio
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English, @s:fra = French. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	problems with MAG's microphone cutting out from middle of recording
 *MAG:	a wnes i ddeu(d) (wr)tho fo y ffordd o'n i (y)n teimlo twel [?] fath â bob_dim . 998_3727
 %gls:	and do.1S.PAST PRON.1S say.NONFIN to.3SM PRON.3SM DET way be.1S.IMP PRON.1S PRT feel.NONFIN see.2S kind with everything
@@ -747,13 +747,13 @@
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT manly though TAG
 %eng:	it's not manly, though, is it?
 *MAG:	&=laugh . 439269_442892
-*LOI:	Eddie@s:cym&eng neu (y)r tŷ &=laugh ? 439490_443493
+*LOI:	Eddie@s:cym&eng neu (y)r tŷ &=laugh ? 439490_442227
 %gls:	Eddie or DET house
 %eng:	Eddie or the house!
 *MAG:	+< y ddau &=laugh ! 442866_446999
 %gls:	DET two.M
 %eng:	both!
-*LOI:	+, &=laugh . 442901_446895
+*LOI:	+, &=laugh . 444160_446895
 *MAG:	&=sigh . 446941_448207
 *MAG:	oops@s:cym&eng ! 448380_449018
 *MAG:	&=sniff . 449471_450040
@@ -1119,7 +1119,7 @@
 %eng:	he said like that, yeah.
 *MAG:	ac o'n i fath â &=snort God@s:eng ! 688125_689133
 %gls:	and be.1S.IMP PRON.1S kind with God
-%eng:	and I was like, "huh, God!"
+%eng:	and I was like, "huh, God"!
 *LOI:	hey@s:cym&eng ti isio dod i tŷ fi wedyn ? 689165_690941
 %gls:	hey PRON.2S want come.NONFIN to house PRON.1S after
 %eng:	hey, do you want to come to my house after?
@@ -1239,7 +1239,7 @@
 %eng:	if you fancy a cuppa.
 *MAG:	yeah@s:cym&eng [=! yawns] (.) definitely@s:eng ! 780587_782978
 *MAG:	&=yawn . 782713_784118
-%com:	rumbling noise %snd:"fusser29"_784151_785075
+@Comment:	rumbling noise
 *LOI:	oh@s:cym&eng <bol fi (y)n rymblo> [?] &=laugh ! 784557_786949
 %gls:	IM tummy PRON.1S PRT rumble.NONFIN
 %eng:	oh, my tummy's rumbling!
@@ -1981,7 +1981,7 @@
 *MAG:	+< efo pawb &=yawn . 1382893_1383917
 %gls:	with everyone
 %eng:	with everyone.
-*MAG:	&=yawn <oh@s:cym&eng (e)xcusez@5 moi@5> [=! yawns] ! 1384706_1388994
+*MAG:	&=yawn <oh@s:cym&eng (e)xcusez@s:fra moi@s:fra> [=! yawns] ! 1384706_1388994
 %gls:	IM excuse me
 %eng:	oh, excuse me!
 *LOI:	&=cough &=cough . 1388962_1391234
@@ -2099,15 +2099,15 @@
 %gls:	fancy pint night tommorow
 %eng:	fancy a pint tomorrow night?
 *MAG:	+" o_k@s:cym&eng ! 1453688_1454408
-*MAG:	<o'n i fath â> [?] oh@s:cym&eng [=! “sigh]” +... 1454946_1456258
+*MAG:	<o'n i fath â> [?] “oh@s:cym&eng” [=! sigh] +... 1454946_1456258
 %gls:	be.1S.IMP PRON.1S kind with IM
-%eng:	I was like "oh!"
+%eng:	I was like "oh"!
 *MAG:	a <(dy)dy o (ddi)m> [?] yn helpu bod Eddie@s:cym&eng (dd)im yn licio hi yeah@s:cym&eng . 1456382_1458129
 %gls:	and be.3S.PRES PRON.3SM NEG PRT help.NONFIN be.NONFIN Eddie NEG PRT like.NONFIN PRON.3SF yeah
 %eng:	and it doesn't help that Eddie doesn't like her, yeah.
 *MAG:	a mae fath â “ugh@s:cym&eng” ! 1458106_1459422
 %gls:	and be.3S.PRES kind with IM
-%eng:	and it's like, "ugh!"
+%eng:	and it's like, "ugh"!
 *MAG:	so@s:cym&eng tua (..) half@s:eng nine@s:eng rywbeth fel (yn)a ar_ôl cael shower@s:eng ar_ôl siarad efo chdi (wne)s i just@s:cym&eng mynd yna . 1460110_1465481
 %gls:	so about half nine something like there after have.NONFIN shower after talk.NONFIN with PRON.2S do.1S.PAST PRON.1S just go.NONFIN there
 %eng:	so around half nine, something like that, after having a shower after talking to you, I just went there.
@@ -2184,7 +2184,7 @@
 %eng:	Tuesday, Tuesday afternoon.
 *MAG:	<o'n i> [=? oedd hi] (y)n cerdded lawr <ac o'n i fath â> [?] “oh@s:cym&eng hi@s:cym&eng” . 1520551_1522407
 %gls:	be.1S.IMP PRON.1S PRT walk.NONFIN down and be.1S.IMP PRON.1S kind with IM hi
-%eng:	I was walking down and I was like "oh, hi!"
+%eng:	I was walking down and I was like "oh, hi"!
 *MAG:	roi hug@s:eng iddi ac o'n i (ddi)m yn gwybod really@s:eng be i ddeud . 1522567_1524852
 %gls:	give.NONFIN hug to.3SF and be.1S.IMP PRON.1S NEG PRT know.NONFIN really what to say.NONFIN
 %eng:	gave her a hug, and I didn't really know what to say.
@@ -2393,7 +2393,7 @@
 %eng:	but when you see it like that, and me going through it, it's totally different, yeah?
 *MAG:	ti fath â “&wo &wo God@s:eng” ! 1657280_1659211
 %gls:	PRON.2S kind with God
-%eng:	you're like, "God!"
+%eng:	you're like, "God"!
 *MAG:	timod (.) mae (y)r un peth (we)di ddigwydd . 1659208_1661085
 %gls:	know.2S be.3S.PRES DET one thing PRT.PAST happen.NONFIN
 %eng:	you know, the same thing's happened.

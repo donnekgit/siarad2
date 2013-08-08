@@ -1,7 +1,7 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	GLA Glain Adult, ROB Robin Adult
 @ID:	cym|bangor2|GLA|35;|female|||Adult||
 @ID:	cym|bangor2|ROB|31;|male|||Adult||
@@ -36,8 +36,8 @@
 *GLA:	cyflogau ? 27031_27821
 %gls:	salaries
 %eng:	salaries?
-*ROB:	+< xx yeah@s:cym&eng mae sure@s:cym&eng . 27379_28494
-%gls:	xx yeah be.3S.PRES sure
+*ROB:	+< xxx yeah@s:cym&eng mae sure@s:cym&eng . 27379_28494
+%gls:	xxx yeah be.3S.PRES sure
 %eng:	[...] yeah I'm sure
 *GLA:	um@s:cym&eng (.) pethau fel (y)na . 28494_30502
 %gls:	IM things like there
@@ -58,8 +58,8 @@
 *ROB:	oh@s:cym&eng right@s:cym&eng achos o'n i meddwl bod o (y)n +/. 40069_41718
 %gls:	IM right because be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.3SM PRT
 %eng:	oh right, because I thought it was...
-*GLA:	+< um@s:cym&eng (.) Yr_Eglwys_yng_Nghymru xx +/. 40266_42623
-%gls:	IM The_Church_In_Wales xx
+*GLA:	+< um@s:cym&eng (.) Yr_Eglwys_yng_Nghymru xxx +/. 40266_42623
+%gls:	IM The_Church_In_Wales xxx
 %eng:	um, The Church In Wales [...]
 *ROB:	oh@s:cym&eng (Y)r_Eglwys_yng_Nghymru . 42403_43355
 %gls:	IM The_Church_In_Wales
@@ -124,15 +124,15 @@
 *ROB:	++ +< mae nhw (y)n dal i dalu amdano fo . 89005_90317
 %gls:	be.3PL.PRES PRON.3PL PRT still to pay.NONFIN for.3SM PRON.3SM
 %eng:	they're still paying for
-*ROB:	+< xx +//. 90317_90595
+*ROB:	+< xxx +//. 90317_90595
 *GLA:	hmm@s:cym&eng . 91037_91431
 %gls:	IM
 %eng:	hm
 *ROB:	mae (y)n odd@s:cym&eng tydy . 91385_92244
 %gls:	be.3S.PRES PRT odd be.3S.PRES
 %eng:	it's strange, isn't it
-*ROB:	um@s:cym&eng achos xx (.) dw i (ddi)m yn dallt . 92244_94427
-%gls:	IM because xx be.1S.PRES PRON.1S NEG PRT understand.NONFIN
+*ROB:	um@s:cym&eng achos xxx (.) dw i (ddi)m yn dallt . 92244_94427
+%gls:	IM because xxx be.1S.PRES PRON.1S NEG PRT understand.NONFIN
 %eng:	um, because [...] I don't understand
 *ROB:	er@s:cym&eng ydy (y)r sefyllfa wahanol yn Lloegr wedyn yndy ? 94427_96923
 %gls:	IM be.3S.PRES DET situation different in England then be.3S.PRES
@@ -320,8 +320,8 @@
 *GLA:	mmm@s:cym&eng . 226454_226954
 %gls:	IM
 %eng:	mm
-*ROB:	<anodd xx> [//] anodd iawn dydy . 226954_229125
-%gls:	difficult xx difficult very be.3S.PRES.NEG
+*ROB:	<anodd xxx> [//] anodd iawn dydy . 226954_229125
+%gls:	difficult xxx difficult very be.3S.PRES.NEG
 %eng:	difficult [...] ...very difficult, isn't it
 *GLA:	<ond um@s:cym&eng> [/] (.) ond collodd (.) um@s:cym&eng Yr_Eglwys_yng_Nghymru (.) um@s:cym&eng (.) ei [/] (.) ei arian um@s:cym&eng +/. 229125_237286
 %gls:	but IM but lose.3S.PAST IM The_Church_in_Wales IM POSS.3S POSS.3S money IM
@@ -509,8 +509,8 @@
 *GLA:	um@s:cym&eng +/. 379566_380123
 %gls:	IM
 %eng:	um...
-*ROB:	xx dw i meddwl bod o (y)n bity@s:cym&eng <bod nhw> [//] bod ni +/. 379740_381783
-%gls:	xx be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.3SM PRT pity be.NONFIN PRON.3PL be.NONFIN PRON.1PL
+*ROB:	xxx dw i meddwl bod o (y)n bity@s:cym&eng <bod nhw> [//] bod ni +/. 379740_381783
+%gls:	xxx be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.3SM PRT pity be.NONFIN PRON.3PL be.NONFIN PRON.1PL
 %eng:	[...] I think it's a shame that they...that we...
 *GLA:	mmm@s:cym&eng . 381783_382445
 %gls:	IM
@@ -703,8 +703,8 @@
 *ROB:	well@s:cym&eng (.) mmm@s:cym&eng . 558479_560034
 %gls:	well IM
 %eng:	well, mm
-*GLA:	so@s:cym&eng pan [/] (.) pan dw i (y)n (.) defnyddio &p xx +//. 558871_561890
-%gls:	so when when be.1S.PRES PRON.1S PRT use.NONFIN xx
+*GLA:	so@s:cym&eng pan [/] (.) pan dw i (y)n (.) defnyddio &p xxx +//. 558871_561890
+%gls:	so when when be.1S.PRES PRON.1S PRT use.NONFIN xxx
 %eng:	so when...when I use [...] ...
 *GLA:	<dw i (y)n> [/] dw i (y)n siarad Cymraeg efo fo (.) er@s:cym&eng fel arfer . 561890_564676
 %gls:	be.1S.PRES PRON.1S PRT be.1S.PRES PRON.1S PRT speak.NONFIN Welsh with PRON.3SM IM like habit
@@ -721,14 +721,14 @@
 *GLA:	+< um@s:cym&eng +... 580965_581476
 %gls:	IM
 %eng:	um...
-*ROB:	timod xx (.) ond +//. 582045_583090
-%gls:	know.2S xx but
+*ROB:	timod xxx (.) ond +//. 582045_583090
+%gls:	know.2S xxx but
 %eng:	you know [...] but...
 *ROB:	&mm a mi gei di hynny wrth_gwrs . 583090_584551
 %gls:	and PRT get.2S.NONPAST PRON.2S that of_course
 %eng:	and you do get that, of course
-*ROB:	xx ond [/] <ond &b> [/] ond yn [/] um@s:cym&eng [?] (.) yn y mhrofiad i mae hwnna (y)n (.) rywbeth eitha prin . 584551_588812
-%gls:	xx but but but in IM in POSS.1S experience PRON.1S be.3S.PRES thtat PRT something quite rare
+*ROB:	xxx ond [/] <ond &b> [/] ond yn [/] um@s:cym&eng [?] (.) yn y mhrofiad i mae hwnna (y)n (.) rywbeth eitha prin . 584551_588812
+%gls:	xxx but but but in IM in POSS.1S experience PRON.1S be.3S.PRES thtat PRT something quite rare
 %eng:	[...] but...but...but in, um...in my experience, that's quite rare
 *ROB:	achos be [/] be [/] be dw i (y)n gweld +//. 588812_590379
 %gls:	because what what what be.1S.PRES PRON.1S PRT see.NONFIN
@@ -754,11 +754,11 @@
 *GLA:	mmm@s:cym&eng . 615815_616384
 %gls:	IM
 %eng:	mm
-*ROB:	a <mae nhw (y)n> [/] mae nhw (y)n cywiro (e)u hunain xx a deud +"/. 616198_618589
-%gls:	and be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT correct.NONFIN POSS.3PL self xx and say.NONFIN
+*ROB:	a <mae nhw (y)n> [/] mae nhw (y)n cywiro (e)u hunain xxx a deud +"/. 616198_618589
+%gls:	and be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT correct.NONFIN POSS.3PL self xxx and say.NONFIN
 %eng:	and they...they correct themselves [...] and say:
-*ROB:	+" oh@s:cym&eng xx <dw i (y)n siarad Saes(neg)> [//] oh@s:cym&eng (.) dylwn i (ddi)m siarad Saesneg . 618589_621655
-%gls:	IM xx be.1S.PRES PRON.1S PRT speak.NONFIN English IM should.1S.CONDIT PRON.1S NEG speak.NONFIN English
+*ROB:	+" oh@s:cym&eng xxx <dw i (y)n siarad Saes(neg)> [//] oh@s:cym&eng (.) dylwn i (ddi)m siarad Saesneg . 618589_621655
+%gls:	IM xxx be.1S.PRES PRON.1S PRT speak.NONFIN English IM should.1S.CONDIT PRON.1S NEG speak.NONFIN English
 %eng:	oh [...] I'm speaking Engli...oh, I shouldn't speak English
 *ROB:	fel bod (y)na ryw (.) symudia(d) [//] mudiad newydd (fe)lly (.) <sy (y)n> [/] sy (y)n trio cael gwared o (y)r math yna o beth . 621655_628052
 %gls:	like be.NONFIN there some motion movement new thus be.PRES.REL PRT be.PRES.REL PRT try.NONFIN get.NONFIN riddance of DET kind there of thing
@@ -821,8 +821,8 @@
 *GLA:	yeah@s:cym&eng mae [/] mae archdiacon +/. 676999_678810
 %gls:	yeah be.3S.PRES be.3S.PRES archdeacon
 %eng:	yeah the archdeacon...
-*ROB:	+< xx counter_cultural@s:eng (fe)lly . 677464_679066
-%gls:	xx counter_cultural thus
+*ROB:	+< xxx counter_cultural@s:eng (fe)lly . 677464_679066
+%gls:	xxx counter_cultural thus
 %eng:	[...] counter-cultural, like
 *GLA:	+, archdiacon Bangor@s:cym&eng (y)n [/] yn [/] yn [/] (.) yn person@s:cym&eng posh@s:cym&eng . 679066_682015
 %gls:	archdeacon Bangor PRT PRT PRT PRT person posh
@@ -948,8 +948,8 @@
 *GLA:	oh@s:cym&eng diddorol . 755771_756770
 %gls:	IM interesting
 %eng:	oh interesting
-*ROB:	xx wedyn fysai rywun (we)di meddwl bod o (.) wedi siarad Saesneg efo (e)i dad . 755771_758975
-%gls:	xx then be.3S.CONDIT somebody PRT.PAST think.NONFIN be.NONFIN PRON.3SM PRT.PAST speak.NONFIN English with POSS.3SM father
+*ROB:	xxx wedyn fysai rywun (we)di meddwl bod o (.) wedi siarad Saesneg efo (e)i dad . 755771_758975
+%gls:	xxx then be.3S.CONDIT somebody PRT.PAST think.NONFIN be.NONFIN PRON.3SM PRT.PAST speak.NONFIN English with POSS.3SM father
 %eng:	[...] then one would have thought that he had spoken English to his father
 *GLA:	dydy [/] dydy Glyn@s:cym&eng dim <yn &ʃ> [//] yn [/] yn swnio fel [/] (.) fel [/] (.) fel rywun <sydd (.) um@s:cym&eng> [/] (.) sydd gan tad <sydd yn> [/] (.) sydd yn di_Gymraeg . 758720_768530
 %gls:	be.3S.PRES.NEG be.3S.PRES.NEG Glyn NEG PRT PRT PRT sound.NONFIN like like like somebody be.PRES.REL IM be.PRES.REL with father be.PRES.REL PRT be.PRES.REL PRT without_Welsh
@@ -990,8 +990,8 @@
 *ROB:	(fe)lly . 779755_780150
 %gls:	thus
 %eng:	like
-*GLA:	ond xx mae [/] (.) mae tad (.) Jenny@s:cym&eng um@s:cym&eng (.) well@s:cym&eng roedd o (y)n dod <o (.) um@s:cym&eng> [/] (.) o Whitchurch@s:cym&eng yn wreiddiol +/. 780150_787789
-%gls:	but xx be.3S.PRES be.3S.PRES father Jenny IM well be.3S.IMP PRON.3SM PRT come.NONFIN from IM from Whitchurch PRT original
+*GLA:	ond xxx mae [/] (.) mae tad (.) Jenny@s:cym&eng um@s:cym&eng (.) well@s:cym&eng roedd o (y)n dod <o (.) um@s:cym&eng> [/] (.) o Whitchurch@s:cym&eng yn wreiddiol +/. 780150_787789
+%gls:	but xxx be.3S.PRES be.3S.PRES father Jenny IM well be.3S.IMP PRON.3SM PRT come.NONFIN from IM from Whitchurch PRT original
 %eng:	but [...] Jenny's father, um, well, he came from, um...from Whitchurch originally
 *ROB:	ia . 787789_788277
 %gls:	yes
@@ -1020,8 +1020,8 @@
 *GLA:	+, Cymraeg o_gwbl . 805204_806179
 %gls:	Welsh at_all
 %eng:	Welsh at all
-*GLA:	<ond (.) um@s:cym&eng> [/] (.) ond efo (e)i (.) merch (.) um@s:cym&eng (.) xx +//. 806179_811810
-%gls:	but IM but with POSS.3S girl IM xx
+*GLA:	<ond (.) um@s:cym&eng> [/] (.) ond efo (e)i (.) merch (.) um@s:cym&eng (.) xxx +//. 806179_811810
+%gls:	but IM but with POSS.3S girl IM xxx
 %eng:	but um...but with her daughter, um [...] ...
 *GLA:	wrth [/] wrth siarad <efo (.) &i> [/] efo unrhyw un (.) um@s:cym&eng mae hi (y)n (.) defnyddio (.) um@s:cym&eng llawer o [/] o eiriau Cymraeg +/. 811810_820553
 %gls:	by by speak.NONFIN with with any one IM be.3S.PRES PRON.3SF PRT use.NONFIN IM lot of of words Welsh
@@ -1095,8 +1095,8 @@
 *GLA:	mmm@s:cym&eng . 845177_845769
 %gls:	IM
 %eng:	mm
-*ROB:	oh@s:cym&eng xx (dy)na fo . 845769_846861
-%gls:	IM xx there PRON.3SM
+*ROB:	oh@s:cym&eng xxx (dy)na fo . 845769_846861
+%gls:	IM xxx there PRON.3SM
 %eng:	oh [...] that's it
 *GLA:	yeah@s:cym&eng . 846861_847534
 %gls:	yeah
@@ -1113,8 +1113,8 @@
 *GLA:	mmm@s:cym&eng . 853432_854233
 %gls:	IM
 %eng:	mm
-*ROB:	um@s:cym&eng (.) acho(s) [//] (.) am ryw reswm dw (ddi)m yn sure@s:cym&eng be [/] be oedd o (fe)lly (.) ond wnaeth nhw benderfynu blwyddyn dwytha bod nhw am drio siarad Cymraeg efo (e)i_gilydd (.) ond bod nhw just@s:cym&eng (we)di methu wneud achos xx hen arfer yn_de . 854129_864520
-%gls:	IM because for some reason be.1S.PRES NEG PRT sure what what be.3S.IMP PRON.3SM thus but do.3PL.PAST PRON.3PL decide.NONFIN year previous be.NONFIN PRON.3PL for try.NONFIN speak.NONFIN Welsh with each_other but be.NONFIN PRON.3PL just PRT.PAST fail.NONFIN do.NONFIN because xx old habit TAG
+*ROB:	um@s:cym&eng (.) acho(s) [//] (.) am ryw reswm dw (ddi)m yn sure@s:cym&eng be [/] be oedd o (fe)lly (.) ond wnaeth nhw benderfynu blwyddyn dwytha bod nhw am drio siarad Cymraeg efo (e)i_gilydd (.) ond bod nhw just@s:cym&eng (we)di methu wneud achos xxx hen arfer yn_de . 854129_864520
+%gls:	IM because for some reason be.1S.PRES NEG PRT sure what what be.3S.IMP PRON.3SM thus but do.3PL.PAST PRON.3PL decide.NONFIN year previous be.NONFIN PRON.3PL for try.NONFIN speak.NONFIN Welsh with each_other but be.NONFIN PRON.3PL just PRT.PAST fail.NONFIN do.NONFIN because xxx old habit TAG
 %eng:	um, because for some reason, I'm not sure what...what it was, like, but they decided last year that they're going to try to speak Welsh to each other, but that they just couldn't because [...] old habit, you know
 *GLA:	+< mmm@s:cym&eng . 863045_863498
 %gls:	IM
@@ -1158,8 +1158,8 @@
 *GLA:	um@s:cym&eng (.) ac um@s:cym&eng (.) a dw i <ar y> [/] (.) er@s:cym&eng ar y pwyllgor hefyd . 890584_896470
 %gls:	IM and IM and be.1S.PRES PRON.1S on DET IM on DET committee also
 %eng:	um, and um, and I'm on the...er, on the committee too
-*GLA:	um@s:cym&eng ac um@s:cym&eng dan ni (y)n siarad Cymraeg pan dan ni (y)n (.) mewn cyfarfod er@s:cym&eng (.) pethau xx . 896470_902949
-%gls:	IM and IM be.1PL.PRES PRON.1PL PRT speak.NONFIN Welsh when be.1PL.PRES PRON.1PL PRT in meeting IM things xx
+*GLA:	um@s:cym&eng ac um@s:cym&eng dan ni (y)n siarad Cymraeg pan dan ni (y)n (.) mewn cyfarfod er@s:cym&eng (.) pethau xxx . 896470_902949
+%gls:	IM and IM be.1PL.PRES PRON.1PL PRT speak.NONFIN Welsh when be.1PL.PRES PRON.1PL PRT in meeting IM things xxx
 %eng:	um, and um, we speak Welsh when we're in a meeting, er, things [...]
 *ROB:	+< yeah@s:cym&eng (.) ia . 900743_901846
 %gls:	yeah yes
@@ -1197,8 +1197,8 @@
 *ROB:	achos pan [/] pan wnes i ddechrau (e)fo xxx llynedd um@s:cym&eng (.) o'n i just@s:cym&eng (we)di siarad Saesneg efo Norman@s:cym&eng yn naturiol (fe)lly . 914141_920747
 %gls:	because when when do.1S.PAST PRON.1S start.NONFIN with xxx last_year IM be.1S.IMP PRON.1S IM just PRT.PAST speak.NONFIN English with Norman PRT natural thus
 %eng:	because when...when I started with [...] last year, um, I just naturally started speaking English with Norman, like
-*ROB:	achos <dw i &m> [/] dw i meddwl mai Saesneg (.) mae o (y)n dewis siarad cynta (.) a Ffion@s:cym&eng xx yn yr un ffordd <sy (y)n> [/] (.) sy (y)n (.) iawn timod . 920747_927991
-%gls:	because be.1S.PRES PRON.1S be.1S.PRES PRON.1S think.NONFIN PRT English be.3S.PRES PRON.3SM PRT choose.NONFIN speak.NONFIN first and Ffion xx in DET one way be.PRES.REL PRT be.PRES.REL PRT right know.2S
+*ROB:	achos <dw i &m> [/] dw i meddwl mai Saesneg (.) mae o (y)n dewis siarad cynta (.) a Ffion@s:cym&eng xxx yn yr un ffordd <sy (y)n> [/] (.) sy (y)n (.) iawn timod . 920747_927991
+%gls:	because be.1S.PRES PRON.1S be.1S.PRES PRON.1S think.NONFIN PRT English be.3S.PRES PRON.3SM PRT choose.NONFIN speak.NONFIN first and Ffion xxx in DET one way be.PRES.REL PRT be.PRES.REL PRT right know.2S
 %eng:	because I...I think that it's English that he chooses to speak first, and Ffion [...] in the same way, which is...which is alright, you know
 *GLA:	+< mmm@s:cym&eng . 923765_924299
 %gls:	IM
@@ -1397,8 +1397,8 @@
 *ROB:	ond um@s:cym&eng (.) just@s:cym&eng esiampl oedd hynna . 1090760_1092942
 %gls:	but IM just example be.3S.IMP that
 %eng:	but um, that was just an example
-*ROB:	timod &r (.) rywbeth xx eitha tedious@s:eng am wneud hynny +/. 1092942_1098097
-%gls:	know.2S something xx quite tedious about do.NONFIN that
+*ROB:	timod &r (.) rywbeth xxx eitha tedious@s:eng am wneud hynny +/. 1092942_1098097
+%gls:	know.2S something xxx quite tedious about do.NONFIN that
 %eng:	you know, something [...] quite tedious about doing that
 *GLA:	mmm@s:cym&eng . 1098097_1098724
 %gls:	IM
@@ -1502,8 +1502,8 @@
 *ROB:	ti (ddi)m yn defnyddio nhw i_gyd nag wyt ? 1161147_1162715
 %gls:	PRON.2S NEG PRT use.NONFIN PRON.3PL all NEG be.2S.PRES
 %eng:	you don't use them all, do you?
-*GLA:	um@s:cym&eng (.) &əd [//] dw i (y)n defnyddio (.) um@s:cym&eng (.) um@s:cym&eng (.) y llofftau (.) um@s:cym&eng (.) um@s:cym&eng ar er@s:cym&eng (.) be (y)dy xx ar y ground_floor@s:eng +/. 1162715_1174568
-%gls:	IM be.1S.PRES PRON.1S PRT use.NONFIN IM IM DET lofts IM IM on IM what be.3S.PRES xx on DET ground_floor
+*GLA:	um@s:cym&eng (.) &əd [//] dw i (y)n defnyddio (.) um@s:cym&eng (.) um@s:cym&eng (.) y llofftau (.) um@s:cym&eng (.) um@s:cym&eng ar er@s:cym&eng (.) be (y)dy xxx ar y ground_floor@s:eng +/. 1162715_1174568
+%gls:	IM be.1S.PRES PRON.1S PRT use.NONFIN IM IM DET lofts IM IM on IM what be.3S.PRES xxx on DET ground_floor
 %eng:	um, I use um, um, the bedrooms, um, um, on the what's... [...] on the ground-floor
 *ROB:	ia . 1174568_1174940
 %gls:	yes
@@ -1529,8 +1529,8 @@
 *GLA:	+< mmm@s:cym&eng . 1183670_1184378
 %gls:	IM
 %eng:	mmm
-*ROB:	achos mae (y)n anodd dydy xx gen ti gymaint â hynny o [/] o stafelloedd (fe)lly sut [/] sut [/] (.) sut ti (y)n dewis pa rei i ddefnyddio . 1184425_1190729
-%gls:	because be.3S.PRES PRT difficult be.3S.PRES.NEG xx with PRON.2S so_much PRT that of of rooms thus how how how PRON.2S PRT choose.NONFIN which some to use.NONFIN
+*ROB:	achos mae (y)n anodd dydy xxx gen ti gymaint â hynny o [/] o stafelloedd (fe)lly sut [/] sut [/] (.) sut ti (y)n dewis pa rei i ddefnyddio . 1184425_1190729
+%gls:	because be.3S.PRES PRT difficult be.3S.PRES.NEG xxx with PRON.2S so_much PRT that of of rooms thus how how how PRON.2S PRT choose.NONFIN which some to use.NONFIN
 %eng:	because it's difficult, isn't it, [...] you have that many rooms, like, how...how...how you choose which ones to use
 *ROB:	byswn i just@s:cym&eng yn &ka [//] gael [/] gael +//. 1190729_1192052
 %gls:	be.1S.CONDIT PRON.1S just PRT get.NONFIN get.NONFIN
@@ -1586,8 +1586,8 @@
 *ROB:	oh@s:cym&eng da [?] . 1227158_1228133
 %gls:	IM good
 %eng:	oh good
-*GLA:	so@s:cym&eng ph@s:cym&eng xx er@s:cym&eng (.) <mil w(yth)> [/] (.) mil wyth (.) pedwar dau . 1227367_1233659
-%gls:	so IM xx IM thousand eight thousand eight four.M two.M
+*GLA:	so@s:cym&eng ph@s:cym&eng xxx er@s:cym&eng (.) <mil w(yth)> [/] (.) mil wyth (.) pedwar dau . 1227367_1233659
+%gls:	so IM xxx IM thousand eight thousand eight four.M two.M
 %eng:	so ph, [...] eighteen...eighteen forty-two
 *ROB:	oh@s:cym&eng (dy)na fo . 1233659_1234658
 %gls:	IM there PRON.3SM
@@ -1703,7 +1703,7 @@
 *GLA:	um@s:cym&eng (.) ond (.) so@s:cym&eng +//. 1310388_1312500
 %gls:	IM but so
 %eng:	um, but, so...
-*ROB:	+< xx . 1310388_1311234
+*ROB:	+< xxx . 1310388_1311234
 *GLA:	ond <mae (y)n um@s:cym&eng> [?] [/] (.) mae (y)n edrych (.) tipyn bach yn [/] yn peryglus a deud y gwir . 1312500_1316481
 %gls:	but be.3S.PRES PRT IM be.3S.PRES PRT look.NONFIN a_little small PRT PRT dangerous PRT say.NONFIN DET truth
 %eng:	but it, um...it looks a little bit dangerous, to tell the truth
@@ -1740,8 +1740,8 @@
 *ROB:	fel ryw &hɔ [/] hostel@s:cym&eng neu +... 1351969_1353432
 %gls:	like some hostel or
 %eng:	like some hostel, or..?
-*GLA:	well@s:cym&eng &=sigh um@s:cym&eng <mae nhw (y)n> [/] (.) mae nhw (y)n drefnu cyrsiau xx er@s:cym&eng pethau fel (y)na . 1353432_1358482
-%gls:	well IM be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT organise.NONFIN courses xx IM things like there
+*GLA:	well@s:cym&eng &=sigh um@s:cym&eng <mae nhw (y)n> [/] (.) mae nhw (y)n drefnu cyrsiau xxx er@s:cym&eng pethau fel (y)na . 1353432_1358482
+%gls:	well IM be.3PL.PRES PRON.3PL PRT be.3PL.PRES PRON.3PL PRT organise.NONFIN courses xxx IM things like there
 %eng:	well um, they...they organise courses [...] things like that
 *GLA:	um@s:cym&eng (.) ryw fath o [/] o day@s:eng care@s:eng centre@s:eng . 1358482_1361814
 %gls:	IM som kind of of day care centre
@@ -1749,8 +1749,8 @@
 *ROB:	oh@s:cym&eng o_k@s:cym&eng . 1361814_1362592
 %gls:	IM o_k
 %eng:	oh ok
-*GLA:	um@s:cym&eng <ac efo> [?] bobl sy <gan (.) um@s:cym&eng> [/] (.) gan (.) broblemau um@s:cym&eng (.) seicoleg(ol) [/] er@s:cym&eng seic [/] seicoleg [/] (seico)legaidd xx +//. 1362337_1373459
-%gls:	IM and with people be.PRES.REL with IM with problems IM psychological IM psycho psychology psychological xx
+*GLA:	um@s:cym&eng <ac efo> [?] bobl sy <gan (.) um@s:cym&eng> [/] (.) gan (.) broblemau um@s:cym&eng (.) seicoleg(ol) [/] er@s:cym&eng seic [/] seicoleg [/] (seico)legaidd xxx +//. 1362337_1373459
+%gls:	IM and with people be.PRES.REL with IM with problems IM psychological IM psycho psychology psychological xxx
 %eng:	um, and with people who have, um, have um, psycholog...er, psych...psycholog...logical [...] ...
 *ROB:	+< yeah@s:cym&eng seicolegol dw meddwl . 1372797_1374179
 %gls:	yeah psychological be.1S.PRES think.NONFIN
@@ -2148,8 +2148,8 @@
 *ROB:	ond eto <dw i> [/] <dw i (ddi)m yn> [/] (.) dw (ddi)m yn saff . 1661183_1663040
 %gls:	but yet be.1S.PRES PRON.1S be.1S.PRES PRON.1S NEG PRT be.1S.PRES NEG PRT safe
 %eng:	but yet I'm...I'm not...I'm not sure
-*ROB:	just@s:cym&eng rywbeth [/] (.) rywbeth arall sy (we)di newid xx [//] dw i meddwl . 1663040_1665896
-%gls:	just something something other be.PRES.REL PRT.PAST change.NONFIN xx be.1S.PRES PRON.1S think.NONFIN
+*ROB:	just@s:cym&eng rywbeth [/] (.) rywbeth arall sy (we)di newid xxx [//] dw i meddwl . 1663040_1665896
+%gls:	just something something other be.PRES.REL PRT.PAST change.NONFIN xxx be.1S.PRES PRON.1S think.NONFIN
 %eng:	just it's something else that's changed [...] I think
 *ROB:	<dw (ddi)m y(n)> [//] <dw (ddi)m> [///] (.) ac alla i (ddi)m roi &n bys arno fo timod . 1665896_1668787
 %gls:	be.1S.PRES NEG PRT be.1S.PRES NEG and can.1S.NONPAST PRON.1S NEG put.NONFIN finger on.3SM PRON.3SM know.2S
@@ -2169,8 +2169,8 @@
 *GLA:	yeah@s:cym&eng . 1680467_1681105
 %gls:	yeah
 %eng:	yeah
-*ROB:	wedyn (.) timod xx ti gael bobl yn dod yn [/] yn [/] yn eitha pell mae sure@s:cym&eng . 1681105_1684739
-%gls:	then know.2S xx PRON.2S get.NONFIN people PRT come.NONFIN PRT PRT PRT quite far be.3S.PRES sure
+*ROB:	wedyn (.) timod xxx ti gael bobl yn dod yn [/] yn [/] yn eitha pell mae sure@s:cym&eng . 1681105_1684739
+%gls:	then know.2S xxx PRON.2S get.NONFIN people PRT come.NONFIN PRT PRT PRT quite far be.3S.PRES sure
 %eng:	then you know [...] you get people coming quite far, probably
 *ROB:	ond eto (.) yn Lerpwl timod <mae (y)na> [//] mae (y)n anodd deud be [///] (.) sut [/] sut mae pethau <(we)di &n> [/] (we)di newid &sl (fe)lly . 1684739_1691311
 %gls:	but yet in Liverpool know.2S be.3S.PRES there be.3S.PRES PRT difficult say.NONFIN what how how be.3S.PRES things PRT.PAST PRT.PAST change.NONFIN thus
@@ -2235,8 +2235,8 @@
 *ROB:	ond tydy hynny <(ddi)m yn> [/] (.) dim yn digwydd (.) erbyn hyn timod . 1751598_1754535
 %gls:	but be.3S.PRES.NEG that NEG PRT NEG PRT happen.NONFIN by this know.2S
 %eng:	but that doesn't...doesn't happen by now, you know
-*ROB:	mae [/] <mae (y)n> [//] (.) mae xx dal yn (.) ysgol babyddol (.) ond bod (y)na ddim (.) disgwyliadau (y)n [/] yn ran o hynny (.) dim mwy erbyn hyn <sy (y)n> [/] (.) sy (y)n odd@s:cym&eng braidd . 1754535_1763707
-%gls:	be.3S.PRES be.3S.PRES PRT be.3S.PRES xx still PRT school papist but be.NONFIN there NEG expectations PRT PRT part of that NEG more by this be.PRES.REL PRT be.PRES.REL PRT odd rather
+*ROB:	mae [/] <mae (y)n> [//] (.) mae xxx dal yn (.) ysgol babyddol (.) ond bod (y)na ddim (.) disgwyliadau (y)n [/] yn ran o hynny (.) dim mwy erbyn hyn <sy (y)n> [/] (.) sy (y)n odd@s:cym&eng braidd . 1754535_1763707
+%gls:	be.3S.PRES be.3S.PRES PRT be.3S.PRES xxx still PRT school papist but be.NONFIN there NEG expectations PRT PRT part of that NEG more by this be.PRES.REL PRT be.PRES.REL PRT odd rather
 %eng:	it's still a catholic school but that there are no expectations part of that any more by now, which is...which is a bit odd
 *GLA:	+< mmm@s:cym&eng right@s:cym&eng . 1760630_1761722
 %gls:	IM right
@@ -2247,8 +2247,8 @@
 *ROB:	<(dy)dy o> [/] (dy)dy o (ddi)m yn (.) drist neu +//. 1763695_1765112
 %gls:	be.3S.PRES.NEG PRON.3SM be.3S.PRES.NEG PRON.3SM NEG PRT sad or
 %eng:	it's not...it's not sad or...
-*ROB:	&d timod dw i (ddi)m isio barnu bobl xx . 1765112_1766888
-%gls:	know.2S be.1S.PRES PRON.1S NEG want judge.NONFIN people xx
+*ROB:	&d timod dw i (ddi)m isio barnu bobl xxx . 1765112_1766888
+%gls:	know.2S be.1S.PRES PRON.1S NEG want judge.NONFIN people xxx
 %eng:	you know, I don't want to judge people [...]
 *ROB:	dim [/] dim lle fi (y)dy wneud hynny . 1766888_1768339
 %gls:	NEG NEG place PRON.1S be.3S.PRES do.NONFIN that
@@ -2268,8 +2268,8 @@
 *GLA:	sut mae sefyllfa <yn er@s:cym&eng> [/] yng Nghaerdydd te ? 1773645_1775874
 %gls:	how be.3S.PRES situation in IM in Cardiff then
 %eng:	how's the situation in, er...in Cardiff then?
-*ROB:	well@s:cym&eng <dw i (ddi)m> [/] dw i (ddi)m yn sure@s:cym&eng xx +//. 1775874_1777671
-%gls:	well be.1S.PRES PRON.1S NEG be.1S.PRES PRON.1S NEG PRT sure xx
+*ROB:	well@s:cym&eng <dw i (ddi)m> [/] dw i (ddi)m yn sure@s:cym&eng xxx +//. 1775874_1777671
+%gls:	well be.1S.PRES PRON.1S NEG be.1S.PRES PRON.1S NEG PRT sure xxx
 %eng:	well I'm not...I'm not sure [...] ...
 *ROB:	dw i mond (we)di bod <yn yr> [/] yn yr um@s:cym&eng gadeirlan yn fan (y)na . 1777671_1780840
 %gls:	be.1S.PRES PRON.1S only PRT.PAST be.NONFIN in DET in DET IM cathedral in place there

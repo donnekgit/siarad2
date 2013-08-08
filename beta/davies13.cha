@@ -1,8 +1,8 @@
-@Font:	Win95:@Arial Unicode MS:-19:0
+@Font:	Win95:Arial Unicode MS:-19:0
 @UTF8
 @Begin
-@Languages:	cy, en
-@Participants:	 JAM James Adult, MEI Meirion Adult
+@Languages:	cym, eng
+@Participants:	JAM James Adult, MEI Meirion Adult
 @ID:	cym|siarad|JAM|19;|male|||Adult||
 @ID:	cym|siarad|MEI|20;|male|||Adult||
 @Situation:	Informal conversation between two friends at the researcher's office in the University.
@@ -11,8 +11,8 @@
 @Date:	29-NOV-2006
 @Transcriber:	Peredur Davies, Bangor University.
 @Comment:	Researcher: Peredur Davies, Bangor University.
-@Comment:	Time duration: 00:32:18
-@Comment:	Filename:  davies13.cha; Soundfile: davies13.wav.
+@Time Duration:	00:32:18
+@Media:	davies13, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 *JAM:	mmm@s:cym&eng yeah@s:cym&eng well@s:cym&eng gawn ni session@s:cym&eng fach (.) tri awr heddiw nawr [?] (.) neu (.) dwy awr falle . 85_5068
@@ -50,8 +50,8 @@
 *JAM:	um@s:cym&eng (.) digon o amser [=! laugh] &=laugh . 24992_27278
 %gls:	IM plenty of time
 %eng:	plenty of time.
-*JAM:	xx fi moyn just@s:cym&eng [?] (.) cael y gwybodaeth i_gyd yn barod am (.) er@s:cym&eng (.) y presentation@s:eng . 27970_32837
-%gls:	xx PRON.1S want just get.NONFIN DET information all PRT ready for IM DET presentation
+*JAM:	xxx fi moyn just@s:cym&eng [?] (.) cael y gwybodaeth i_gyd yn barod am (.) er@s:cym&eng (.) y presentation@s:eng . 27970_32837
+%gls:	xxx PRON.1S want just get.NONFIN DET information all PRT ready for IM DET presentation
 %eng:	[..] I just want to get all the information ready for the presentation.
 *JAM:	achos er@s:cym&eng [/] (.) achos bod fi wneud e (gy)da ti . 34162_36715
 %gls:	because IM because be.NONFIN PRON.1S do.NONFIN PRON.3SM with PRON.2S
@@ -66,7 +66,7 @@
 *MEI:	dylsan ni wneud yn iawn . 40961_41997
 %gls:	should.1PL.NONPAST PRON.1PL do.NONFIN PRT right
 %eng:	we should do fine.
-*JAM:	xx . 42327_42978
+*JAM:	xxx . 42327_42978
 *MEI:	&=cough (.) mae (y)na boy@s:cym&eng um@s:cym&eng [/] (..) boy@s:cym&eng ydw i nabod yeah@s:cym&eng . 43335_46977
 %gls:	be.3S.PRES there boy IM bot be.1S.PRES PRON.1S know.NONFIN yeah
 %eng:	there's a bloke I know, yeah.
@@ -84,8 +84,8 @@
 *MEI:	+< oedd um@s:cym&eng +... 53010_54233
 %gls:	be.3S.IMP IM
 %eng:	was, um...
-*MEI:	so@s:cym&eng aeth o tu (y)n_ôl i (y)r xx a deud +"/. 54560_55876
-%gls:	so go.3S.PAST PRON.3SM side back to DET xx and say.NONFIN
+*MEI:	so@s:cym&eng aeth o tu (y)n_ôl i (y)r xxx a deud +"/. 54560_55876
+%gls:	so go.3S.PAST PRON.3SM side back to DET xxx and say.NONFIN
 %eng:	so he went to the back to the [..] and said.
 *MEI:	+" oh@s:cym&eng (oe)s gynno chi condoms@s:cym&eng ? 55841_56811
 %gls:	IM be.3S.PRES with.2PL PRON.2PL condoms
@@ -318,8 +318,8 @@
 %gls:	really plan.NONFIN PRON.3SM out
 %eng:	really plan it out.
 *MEI:	lot@s:cym&eng &=laugh . 208540_209451
-*JAM:	a ti (we)di wneud e i ryw gouple@s:cym&eng bach xx nag yt ti . 209459_212220
-%gls:	and PRON.2S PRT.PAST do.NONFIN PRON.3SM to some couple little xx NEG be.2S.PRES PRON.2S
+*JAM:	a ti (we)di wneud e i ryw gouple@s:cym&eng bach xxx nag yt ti . 209459_212220
+%gls:	and PRON.2S PRT.PAST do.NONFIN PRON.3SM to some couple little xxx NEG be.2S.PRES PRON.2S
 %eng:	and you've done it to some little couple, haven't you.
 *MEI:	+< na(g) dw dw i ddim . 211055_211988
 %gls:	NEG be.1S.PRES be.1S.PRES PRON.1S NEG
@@ -414,7 +414,7 @@
 *MEI:	ti licio watsiad (.) +//. 280874_281831
 %gls:	PRON.2S like.NONFIN watch.NONFIN
 %eng:	do you like to watch...
-*JAM:	+< xx . 281019_281425
+*JAM:	+< xxx . 281019_281425
 *MEI:	ti (we)di (.) agor laptop@s:eng ti ar train@s:cym&eng . 281841_283672
 %gls:	PRON.2S PRT.PAST open.NONFIN laptop PRON.2S on train
 %eng:	have you opened your laptop on a train?
@@ -482,8 +482,8 @@
 *MEI:	just@s:cym&eng dibynnu efo batteries@s:cym&eng nhw . 333852_335574
 %gls:	just depend.NONFIN with batteries PRON.3PL
 %eng:	just depends with their batteries.
-*MEI:	xx mae battery@s:cym&eng fi xx +/. 335510_336474
-%gls:	xx be.3S.PRES battery PRON.1S xx
+*MEI:	xxx mae battery@s:cym&eng fi xxx +/. 335510_336474
+%gls:	xxx be.3S.PRES battery PRON.1S xxx
 %eng:	[..] my battery is [..]...
 *JAM:	+< <(dy)na peth yfe> [?] . 336122_337002
 %gls:	there thing TAG
@@ -501,7 +501,7 @@
 %gls:	and after PRON.2S get.NONFIN three song and be.3S.PRES say.NONFIN be.NONFIN battery PRT flat
 %eng:	and then you get three songs and it says that the battery is flat.
 *JAM:	[- eng] really ? 344094_345177
-*MEI:	xx . 344939_345462
+*MEI:	xxx . 344939_345462
 *JAM:	tri cân ? 345404_346367
 %gls:	three song
 %eng:	three songs?
@@ -546,7 +546,7 @@
 *MEI:	ella (Na)dolig . 367012_368078
 %gls:	maybe Christmas
 %eng:	maybe Christmas.
-*MEI:	xx . 368211_368738
+*MEI:	xxx . 368211_368738
 *JAM:	+< [- eng] power [?] . 368416_368988
 *MEI:	wmbo . 368960_369974
 %gls:	dunno
@@ -557,8 +557,8 @@
 *MEI:	wna i just@s:cym&eng cael un (..) rhad . 371050_373219
 %gls:	do.1S.NONPAST PRON.1S just get.NONFIN one cheap
 %eng:	I'll just get a cheap one.
-*JAM:	be xx fel Ipod@s:cym&eng nanos@s:cym&eng yeah@s:cym&eng . 374375_376864
-%gls:	what xx like Ipod nanos yeah
+*JAM:	be xxx fel Ipod@s:cym&eng nanos@s:cym&eng yeah@s:cym&eng . 374375_376864
+%gls:	what xxx like Ipod nanos yeah
 %eng:	what [..] like Ipod nanos, yeah.
 *MEI:	+< xxx . 375490_377049
 *JAM:	<beth ŷn nhw> [?] four@s:eng gigabytes@s:cym&eng [?] . 377098_378468
@@ -573,7 +573,7 @@
 *MEI:	medda nhw . 380937_381702
 %gls:	say.NONFIN PRON.3PL
 %eng:	they say.
-*JAM:	xx . 381836_382420
+*JAM:	xxx . 381836_382420
 *MEI:	y nanos@s:cym&eng . 382399_383117
 %gls:	DET nanos
 %eng:	the nanos.
@@ -586,8 +586,8 @@
 *MEI:	medda nhw . 388653_389362
 %gls:	say.NONFIN PRON.3PL
 %eng:	they say.
-*JAM:	ond er@s:cym&eng (..) xx four@s:eng gigabytes@s:cym&eng ŷn nhw yfe ? 389319_392850
-%gls:	but IM xx four gigabytes be.3PL.PRES PRON.3PL TAG
+*JAM:	ond er@s:cym&eng (..) xxx four@s:eng gigabytes@s:cym&eng ŷn nhw yfe ? 389319_392850
+%gls:	but IM xxx four gigabytes be.3PL.PRES PRON.3PL TAG
 %eng:	but [..] they're four gigabytes, are they?
 *MEI:	mae hwnna (y)n ddigon though@s:eng . 393628_394685
 %gls:	be.3S.PRES that_one PRT enough though
@@ -615,7 +615,7 @@
 %gls:	PRON.2S PRT can.NONFIN IM PRON.2S PRT can.NONFIN synchronise.NONFIN DET whole
 %eng:	you can synchronise the whole...
 %com:	fire engine sirens audible in background over next few utterances.
-*MEI:	xx . 416400_416731
+*MEI:	xxx . 416400_416731
 *JAM:	+, er@s:cym&eng (.) lyfrgell (.) ar Itunes@s:cym&eng ar (..) er@s:cym&eng [//] ar Ipod@s:cym&eng dwyt [?] ti . 416696_421522
 %gls:	IM library on Itunes on IM on Ipod be.2S.PRES.NEG PRON.2S
 %eng:	...library on Itunes on an Ipod can't you.
@@ -632,7 +632,7 @@
 %gls:	just sychronise.NONFIN PRON.3SM all
 %eng:	just synchronise it all.
 *MEI:	xxx . 429779_430323
-*JAM:	xx . 430259_430619
+*JAM:	xxx . 430259_430619
 *MEI:	(be)cause@s:eng er@s:cym&eng um@s:cym&eng (.) efo fi (..) dw i weithiau timod +... 430555_433707
 %gls:	because IM IM with PRON.1S be.1S.PRES PRON.1S sometimes know.2S
 %eng:	because with me, sometimes I'm, you know...
@@ -704,8 +704,8 @@
 %gls:	so there why PRON.2S PRT save.NONFIN money TAG
 %eng:	so that's why you save money, eh.
 *MEI:	+< ah@s:cym&eng yeah@s:cym&eng . 490155_491345
-*JAM:	so@s:cym&eng xx hwnna [?] [//] yeah@s:cym&eng oedd hwnna (y)n eitha [?] xx +/. 492155_494033
-%gls:	so xx that_one yeah be.3S.IMP that_one PRT quite xx
+*JAM:	so@s:cym&eng xxx hwnna [?] [//] yeah@s:cym&eng oedd hwnna (y)n eitha [?] xxx +/. 492155_494033
+%gls:	so xxx that_one yeah be.3S.IMP that_one PRT quite xxx
 %eng:	so yeah that one was quite [..]...
 *MEI:	+< hwnna oedd y rhata ? 493446_494323
 %gls:	that_one be.3S.IMP DET cheapest
@@ -719,7 +719,7 @@
 *JAM:	o'n i ddim moyn cael e +... 497599_499245
 %gls:	be.1S.IMP PRON.1S NEG want.NONFIN get.NONFIN PRON.3SM
 %eng:	I didn't want to get it...
-*JAM:	xx oedd [//] (.) fi (y)n credu oedd un byti (..) tair punt yn tsiepach . 499284_503387
+*JAM:	xxx oedd [//] (.) fi (y)n credu oedd un byti (..) tair punt yn tsiepach . 499284_503387
 %gls:	[..] be.3S.IMP PRON.1S PRT believe.NONFIN be.3S.IMP one about three pound PRT cheaper
 %eng:	I think it was about three pounds cheaper.
 *JAM:	ond o'n i ddim moyn cael e o ryw le fi erioed wedi clywed am . 503426_506547
@@ -729,7 +729,7 @@
 *JAM:	timod Comet@s:cym&eng (.) pawb (we)di clywed am Comet@s:cym&eng timod . 506732_509646
 %gls:	know.2S Comet everyone PRT.PAST hear.NONFIN about Comet know.2S
 %eng:	you know, Comet, everyone's heard about Comet, you know.
-*JAM:	ond (.) xx o'n i siarad (gy)da Mam@s:cym&eng (.) neithiwr . 510008_512509
+*JAM:	ond (.) xxx o'n i siarad (gy)da Mam@s:cym&eng (.) neithiwr . 510008_512509
 %gls:	but xxx be.1S.IMP PRON.1S talk.NONFIN with Mam last_night
 %eng:	but [..] I was talking with Mam last night.
 *JAM:	a mae hi wedi cael e . 512417_513751
@@ -753,7 +753,7 @@
 *JAM:	+< timod (.) yeah@s:cym&eng (.) basically@s:eng (..) that's@s:eng it@s:eng ife . 524084_527008
 %gls:	know.2S yeah basically that s it TAG
 %eng:	you know, yeah, basically that's it, eh.
-*MEI:	xx . 526880_527425
+*MEI:	xxx . 526880_527425
 *JAM:	ond um@s:cym&eng oedd <mam@s:cym&eng fi> [=! laugh] (ddi)m yn sylweddoli pa mor fach oedd e . 527664_530861
 %gls:	but IM be.3S.IMP Mam PRON.1S NEG PRT realise.NONFIN how so little be.3S.IMP PRON.3SM
 %eng:	but Mam didn't realise how little it was.
@@ -764,9 +764,9 @@
 *JAM:	+< +" &v [/] fel yf i mynd i gael (Na)dolig a just@s:cym&eng roi hwn i ti ? 532802_535354
 %gls:	like be.1S.PRES PRON.1S go.NONFIN PRT get.NONFIN Christmas and just give.NONFIN this to PRON.2S
 %eng:	how am I supposed have Christmas and just give this to you?
-*MEI:	+< xx . 534228_535168
-*JAM:	bydde fe (y)n edrych yn xx [=! laugh] . 535315_536666
-%gls:	be.3S.FUT PRON.3SM PRT look.NONFIN PRT xx
+*MEI:	+< xxx . 534228_535168
+*JAM:	bydde fe (y)n edrych yn xxx [=! laugh] . 535315_536666
+%gls:	be.3S.FUT PRON.3SM PRT look.NONFIN PRT xxx
 %eng:	it would look [..].
 *JAM:	so@s:cym&eng um@s:cym&eng (..) xxx yeah@s:cym&eng . 537080_539416
 *MEI:	ond mae sure@s:cym&eng gei di +... 539734_540802
@@ -776,8 +776,8 @@
 %gls:	be.3S.PRES everyone PRT get.NONFIN boxer shorts and socks and xxx
 %eng:	everyone gets boxer shorts and socks and [...].
 *JAM:	+< yeah@s:cym&eng xxx +/. 543345_544558
-*JAM:	xx fel arfer (.) timod pâr o jeans@s:cym&eng a top@s:cym&eng nice@s:cym&eng . 544645_548631
-%gls:	xx like habit know.2S pair of jeans and top nice
+*JAM:	xxx fel arfer (.) timod pâr o jeans@s:cym&eng a top@s:cym&eng nice@s:cym&eng . 544645_548631
+%gls:	xxx like habit know.2S pair of jeans and top nice
 %eng:	[..] as usual, you know, a pair of jeans a nice top.
 *JAM:	falle pâr o sgidie (..) a (.) bits@s:cym&eng fel +... 549162_553410
 %gls:	maybe pair of shoes and bits like
@@ -800,10 +800,10 @@
 *MEI:	naw_deg_tri sy gen i . 565624_566802
 %gls:	ninety_three be.PRES.REL with PRON.1S
 %eng:	I've got ninety three.
-*JAM:	serious@s:eng xx beth yw e . 566856_568236
-%gls:	serious xx what be.3S.PRES PRON.3SM
+*JAM:	serious@s:eng xxx beth yw e . 566856_568236
+%gls:	serious xxx what be.3S.PRES PRON.3SM
 %eng:	serious[ly], [..] what is it.
-*MEI:	+< xx . 567359_567713
+*MEI:	+< xxx . 567359_567713
 *JAM:	o'n xxx [//] o'n i just@s:cym&eng wedi cael e un flwyddyn . 568212_570683
 %gls:	be.1S.IMP xxx be.1S.IMP PRON.1S just PRT.PAST get.NONFIN PRON.3SM one year
 %eng:	I just got it one year.
@@ -878,8 +878,8 @@
 *MEI:	mae rai hen gymaint gwell na rai newydd . 613742_615545
 %gls:	be.3S.PRES ones old amount better than ones new
 %eng:	the old ones are much better than new ones.
-*MEI:	ti gwybod rhai newydd xx +/. 615524_616526
-%gls:	PRON.2S know.NONFIN ones new xx
+*MEI:	ti gwybod rhai newydd xxx +/. 615524_616526
+%gls:	PRON.2S know.NONFIN ones new xxx
 %eng:	you know the new ones [..]...
 *JAM:	+< yeah@s:cym&eng mae (y)r (.) records@s:cym&eng newydd bach yn xxx . 616238_619156
 %gls:	yeah be.3S.PRES DET records new little PRT xxx
@@ -898,7 +898,7 @@
 *MEI:	timod ti isio the@s:eng world@s:eng tallest@s:eng man@s:eng . 627608_629182
 %gls:	know.2S PRON.2S want DET world tallest man
 %eng:	you know, you want the world's tallest man.
-*JAM:	+< xx +/. 627748_628148
+*JAM:	+< xxx +/. 627748_628148
 *MEI:	&m pawb yn licio yna . 629178_630139
 %gls:	everyone PRT like.NONFIN there
 %eng:	everyone you like there,
@@ -918,7 +918,7 @@
 *MEI:	fifties@s:eng yn America@s:cym&eng . 640170_641776
 %gls:	fifties in America
 %eng:	[the] fifties in America.
-*JAM:	yeah@s:cym&eng (.) oh@s:cym&eng xx . 641899_643157
+*JAM:	yeah@s:cym&eng (.) oh@s:cym&eng xxx . 641899_643157
 *JAM:	ond oedd &ə [//] o'n nhw arfer darlledu raglen nag yn nhw . 643500_646500
 %gls:	but be.3S.IMP be.1S.IMP PRON.3PL use.NONFIN broadcast.NONFIN programme NEG be.3PL.PRES PRON.3PL
 %eng:	but they used to broadcast a programme, didn't they.
@@ -967,8 +967,8 @@
 *MEI:	(be)cause@s:eng mae o (.) mor confident@s:eng na fo dy (y)r person@s:cym&eng +... 676418_678987
 %gls:	because be.3S.PRES PRON.3SM so confident PRT PRON.3SM be.3S.PRES DET person
 %eng:	because he's so confident that he's the person...
-*JAM:	be o ran (.) cryfder corfforol cyffredinol [?] xx . 679931_683238
-%gls:	what PRON.3SM part strongest bodily ordinary xx
+*JAM:	be o ran (.) cryfder corfforol cyffredinol [?] xxx . 679931_683238
+%gls:	what PRON.3SM part strongest bodily ordinary xxx
 %eng:	what, in general bodily strength [..].
 *MEI:	+< cryfder [///] (.) well@s:cym&eng yeah@s:cym&eng efo (y)r gwddw a (y)r pen yeah@s:cym&eng . 681614_684056
 %gls:	strength well yeah with DET neck and DET pen yeah
@@ -1021,14 +1021,14 @@
 *JAM:	+< xxx &te [//] taflu fe mas o awyren . 715300_717556
 %gls:	xxx throw.NONFIN PRON.3SM out of aeroplane
 %eng:	[...] throw it out of an aeroplane.
-*MEI:	+< xx . 716467_716912
+*MEI:	+< xxx . 716467_716912
 *MEI:	a wnaeth o dim_byd [?] . 717628_718506
 %gls:	and do.3S.PAST PRON.3SM nothing
 %eng:	and it did nothing.
 *JAM:	na oedd e bach yn (.) useless@s:eng really@s:eng nag oedd e . 718322_721217
 %gls:	no be.3S.IMP PRON.3SM little PRT useless really NEG be.3S.IMP PRON.3SM
 %eng:	no, it was a little bit useless, wasn't it.
-*MEI:	+< xx (.) xx . 718589_719980
+*MEI:	+< xxx (.) xxx . 718589_719980
 *JAM:	o'n nhw (we)di (.) disgwyl rhyw (.) explosion@s:eng fawr . 721564_724428
 %gls:	be.3PL.IMP PRON.3PL PRT.PAST wait.NONFIN some explosion big
 %eng:	they had expected some big explosion.
@@ -1036,7 +1036,7 @@
 *JAM:	neu bod e (y)n (.) naill ai (y)n bownsio really@s:eng uchel +... 724329_726766
 %gls:	or be.NONFIN PRON.3SM PRT either or PRT bounce.NONFIN really high
 %eng:	or that it either bounced really high...
-*MEI:	+< xx . 725924_726441
+*MEI:	+< xxx . 725924_726441
 *JAM:	a wnaeth e (.) just@s:cym&eng wneud (.) twll bach a (.) xxx [=! laugh] . 727079_731540
 %gls:	and do.3S.PAST PRON.3SM just do.NONFIN hole little and xxx
 %eng:	and it just made a little hole [...].
@@ -1074,8 +1074,8 @@
 *MEI:	+< &=laugh . 748919_752820
 *JAM:	&=laugh . 753330_753922
 *MEI:	xxx . 754090_755268
-*JAM:	ond mae fe (y)n [/] (..) xx mae fe (y)n mynd yn lot@s:cym&eng fwy nawr fi (y)n credu . 756047_759708
-%gls:	but be.3S.PRES PRON.3SM PRT xx be.3S.PRES PRON.3SM PRT go.NONFIN PRT lot more now PRON.1S PRT believe.NONFIN
+*JAM:	ond mae fe (y)n [/] (..) xxx mae fe (y)n mynd yn lot@s:cym&eng fwy nawr fi (y)n credu . 756047_759708
+%gls:	but be.3S.PRES PRON.3SM PRT xxx be.3S.PRES PRON.3SM PRT go.NONFIN PRT lot more now PRON.1S PRT believe.NONFIN
 %eng:	but it's getting a lot more now, I believe.
 *JAM:	achos (.) fi (ddi)m gwybod os wnest ti wylio um@s:cym&eng &=sniff +... 759570_762825
 %gls:	because PRON.1S NEG know.NONFIN if do.2S.PAST PRON.2S watch.NONFIN
@@ -1116,10 +1116,10 @@
 %gls:	do.3S.PAST DET boy say.NONFIN IM
 %eng:	the bloke said.
 *MEI:	+" taxi@s:cym&eng for@s:eng Jones@s:cym&eng please@s:cym&eng &=laugh ! 795345_797504
-*JAM:	xx (.) oh@s:cym&eng dear@s:cym&eng . 797414_799282
+*JAM:	xxx (.) oh@s:cym&eng dear@s:cym&eng . 797414_799282
 *MEI:	+< xxx . 798614_799851
-*JAM:	on@s:eng the@s:eng spot@s:eng oedd hwnna xx . 799788_800977
-%gls:	on the spot be.3S.IMP that_one xx
+*JAM:	on@s:eng the@s:eng spot@s:eng oedd hwnna xxx . 799788_800977
+%gls:	on the spot be.3S.IMP that_one xxx
 %eng:	that was on the spot [..].
 *MEI:	+< na oedd hwnna ar “Jonathan@s:cym&eng” . 800611_802120
 %gls:	no be.3S.IMP that_one on Jonathan
@@ -1163,10 +1163,10 @@
 *JAM:	+< y llall . 828976_829769
 %gls:	DET other
 %eng:	the other [one].
-*JAM:	mae un xx yn nag oes e . 829835_830797
-%gls:	be.3S.PRES one xx PRT NEG be.3S.PRES PRON.3SM
+*JAM:	mae un xxx yn nag oes e . 829835_830797
+%gls:	be.3S.PRES one xxx PRT NEG be.3S.PRES PRON.3SM
 %eng:	one [..] is, isn't he.
-*MEI:	yeah@s:cym&eng xx . 829986_830565
+*MEI:	yeah@s:cym&eng xxx . 829986_830565
 *JAM:	achos o'n nhw wneud jokes@s:cym&eng amdano fe trwy (y)r nos . 830744_832739
 %gls:	because be.3PL.IMP PRON.3PL do.NONFIN jokes about.3SM PRON.3SM through DET night
 %eng:	because they were making jokes about him [or: it] through the night.
@@ -1199,8 +1199,8 @@
 %gls:	but maybe just be.3PL.PRES PRON.3PL PRT.PAST decide.NONFIN
 %eng:	but maybe they've just decided.
 *MEI:	+" [- eng] hang on . 847774_848198
-*MEI:	+" <dan ni> [?] xx . 848235_849347
-%gls:	be.1PL.PRES PRON.1PL xx
+*MEI:	+" <dan ni> [?] xxx . 848235_849347
+%gls:	be.1PL.PRES PRON.1PL xxx
 %eng:	we have [..].
 *MEI:	dylsan ni google_o@s:eng+cym fo . 849564_850833
 %gls:	should.1PL.NONPAST PRON.1PL google.NONFIN PRON.3SM
@@ -1213,7 +1213,7 @@
 %gls:	NEG be.NONFIN amount of interest with PRON.1S
 %eng:	not that I have much interest.
 *MEI:	+< xxx &=laugh . 855765_858341
-*JAM:	&=laugh xx &=laugh . 859424_860908
+*JAM:	&=laugh xxx &=laugh . 859424_860908
 *MEI:	+< yeah@s:cym&eng &=laugh . 859811_860450
 *MEI:	for@s:eng the@s:eng record@s:cym&eng dan ni (.) &=laugh +... 861088_864252
 %gls:	for the record be.1PL.PRES PRON.1PL
@@ -1281,8 +1281,8 @@
 *JAM:	mae wastad mewn suit@s:cym&eng a tie@s:cym&eng . 899822_901776
 %gls:	be.3S.PRES always in suit and tie
 %eng:	he's always in a suit and tie.
-*JAM:	mae fe (y)n [/] mae fe (y)n &ʃar [//] mae fe (y)n wneud commentary@s:eng cyn y game@s:cym&eng a yn yr interval@s:eng a xx . 902300_906133
-%gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT do.NONFIN commentary before DET game and in DET intetrval and xx
+*JAM:	mae fe (y)n [/] mae fe (y)n &ʃar [//] mae fe (y)n wneud commentary@s:eng cyn y game@s:cym&eng a yn yr interval@s:eng a xxx . 902300_906133
+%gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT be.3S.PRES PRON.3SM PRT do.NONFIN commentary before DET game and in DET intetrval and xxx
 %eng:	he makes a commentary before the game in the interval.
 *JAM:	a mae fe (..) wastad xxx +/. 906139_908047
 %gls:	and be.3S.PRES PRON.3SM always xxx
@@ -1298,7 +1298,7 @@
 *JAM:	na heb sylwi ? 912695_914019
 %gls:	no without notice.NONFIN
 %eng:	no, not noticed?
-*MEI:	xx . 913961_914524
+*MEI:	xxx . 913961_914524
 *JAM:	xxx . 914483_915360
 *MEI:	boy@s:cym&eng efo er@s:cym&eng barf ? 915350_916544
 %gls:	boy with IM beard
@@ -1339,8 +1339,8 @@
 *MEI:	dan ni (ddi)m (we)di gwrando i cyfansoddi xxx . 945220_947240
 %gls:	be.1PL.PRES PRON.1PL NEG PRT.PAST listen.NONFIN to compose.NONFIN xxx
 %eng:	we haven't listened to [the] composing [...].
-*JAM:	be ni am xx [//] angen gwrando i ? 948325_950020
-%gls:	what PRON.1PL about xx need listen.NONFIN to
+*JAM:	be ni am xxx [//] angen gwrando i ? 948325_950020
+%gls:	what PRON.1PL about xxx need listen.NONFIN to
 %eng:	what do we need to listen to?
 *MEI:	dw (ddi)m (gwy)bod (.) wnes i (ddi)m edrych . 950267_951803
 %gls:	be.1S.PRES NEG know.NONFIN do.1S.PAST PRON.1S NEG look.NONFIN
@@ -1385,7 +1385,7 @@
 %eng:	they must have...
 *MEI:	xxx . 981950_982821
 *JAM:	+< yeah@s:cym&eng . 982530_983065
-*JAM:	xx . 983854_984597
+*JAM:	xxx . 983854_984597
 *JAM:	&=sigh fi (ddi)m (we)di cael bwyd heddi &=groan . 986046_989063
 %gls:	PRON.1S NEG PRT get.NONFIN food today
 %eng:	I've not had food today.
@@ -1396,8 +1396,8 @@
 *MEI:	ti efo annwyd ? 991010_991672
 %gls:	PRON.2S with cold
 %eng:	do you have a cold?
-*MEI:	ti swnio right@s:cym&eng (.) xx +/. 992461_993634
-%gls:	PRON.2S sound.NONFIN right xx
+*MEI:	ti swnio right@s:cym&eng (.) xxx +/. 992461_993634
+%gls:	PRON.2S sound.NONFIN right xxx
 %eng:	you sound quite [..]...
 *JAM:	fi (dd)im (gwy)bod . 993082_993686
 %gls:	PRON.1S NEG know.NONFIN
@@ -1411,12 +1411,12 @@
 *JAM:	um@s:cym&eng (..) o'n i (we)di mynd i gwaith bore (y)ma hanner awr (we)di saith heb bwyd . 997190_1001473
 %gls:	IM be.1S.PRES PRON.1S PRT.PAST go.NONFIN to work morning here half hour after seven without food
 %eng:	I'd gone to work this morning half past seven without food.
-*MEI:	+< xx . 997299_997757
+*MEI:	+< xxx . 997299_997757
 *JAM:	so@s:cym&eng fi (we)di cael fel (.) darn o tost ar_ôl dod (y)n_ôl o gwaith . 1001366_1004532
 %gls:	so PRON.1S PRT.PAST get.NONFIN like piece of toast after come.NONFIN back from work
 %eng:	so I've had, like, a piece of toast after coming back from work.
-*JAM:	o'n i (we)di blino gymaint xx [=! laugh] . 1005201_1006737
-%gls:	be.1S.IMP PRON.1S PRT.PAST tire.NONFIN amount xx
+*JAM:	o'n i (we)di blino gymaint xxx [=! laugh] . 1005201_1006737
+%gls:	be.1S.IMP PRON.1S PRT.PAST tire.NONFIN amount xxx
 %eng:	I was so tired [..].
 *JAM:	o'n i [=! laugh] just@s:cym&eng wedi mynd i gwely am [?] awr fach (..) cyn mynd i côr . 1006414_1010197
 %gls:	be.1S.IMP PRON.1S just PRT.PAST go.NONFIN to bed for hour little before go.NONFIN to choir
@@ -1436,11 +1436,11 @@
 *JAM:	fi (y)n dwli arnyn nhw . 1014850_1016096
 %gls:	PRON.1S PRT obsess.NONFIN on.3PL PRON.3PL
 %eng:	I love them.
-*JAM:	just@s:cym&eng fel (..) ti (y)n gwybod dylet ti xx [//] dim fod yn wneud e xx . 1017156_1020494
-%gls:	just like PRON.2S PRT know.NONFIN should.2S.SUBJ PRON.2S xx NEG be.NONFIN PRT do.NONFIN PRON.3SM xx
+*JAM:	just@s:cym&eng fel (..) ti (y)n gwybod dylet ti xxx [//] dim fod yn wneud e xxx . 1017156_1020494
+%gls:	just like PRON.2S PRT know.NONFIN should.2S.SUBJ PRON.2S xxx NEG be.NONFIN PRT do.NONFIN PRON.3SM xxx
 %eng:	just like, you know you shouldn't be doing it [..].
-*MEI:	+< yeah@s:cym&eng dw i meddwl dyna xx yeah@s:cym&eng . 1020095_1021620
-%gls:	yeah be.1S.PRES PRON.1S think.NONFIN there xx yeah
+*MEI:	+< yeah@s:cym&eng dw i meddwl dyna xxx yeah@s:cym&eng . 1020095_1021620
+%gls:	yeah be.1S.PRES PRON.1S think.NONFIN there xxx yeah
 %eng:	yeah, I think that's [..] yeah.
 *JAM:	+< xxx . 1020931_1021835
 *JAM:	wedyn [?] timod pobl yn Sbaen mae nhw (y)n cael y luxury@s:eng hyn . 1022441_1025534
@@ -1452,8 +1452,8 @@
 *MEI:	<thing@s:eng (yd)y> [?] . 1031576_1032377
 %gls:	thing be.3S.PRES
 %eng:	the things is.
-*MEI:	mae siopau fan (y)na nhw xx nhw (y)n agored tan hanner nos yn_dydy . 1032005_1034694
-%gls:	be.3S.PRES shops place there PRON.3PL xx PRON.3PL PRT open until half night be.3S.PRES.NEG
+*MEI:	mae siopau fan (y)na nhw xxx nhw (y)n agored tan hanner nos yn_dydy . 1032005_1034694
+%gls:	be.3S.PRES shops place there PRON.3PL xxx PRON.3PL PRT open until half night be.3S.PRES.NEG
 %eng:	their shops there [..] are open until midnight, aren't they.
 *JAM:	be Sbaen . 1035329_1036162
 %gls:	what Spain
@@ -1479,7 +1479,7 @@
 *JAM:	mae rywbeth eitha backwards@s:eng am Sbaen yn_does e . 1052267_1054860
 %gls:	be.3S.PRES something quite backwards about Spain be.3S.PRES PRON.3SM
 %eng:	there's something quite backwards about Spain, isn't there.
-*MEI:	+< xx . 1054303_1054906
+*MEI:	+< xxx . 1054303_1054906
 *JAM:	so@s:cym&eng yn lle defnyddio (y)r diwrnod i wneud beth dylet ti wneud mewn diwrnod . 1054976_1058902
 %gls:	so in place use.NONFIN DET day PRT do.NONFIN what should.2S.NONPAST PRON.2S do.NONFIN in day
 %eng:	so instead of using the day to do what you should do in a day.
@@ -1546,7 +1546,7 @@
 *JAM:	[- eng] refreshed . 1102296_1103173
 *MEI:	+< yeah@s:cym&eng . 1102831_1103266
 *JAM:	yeah@s:cym&eng . 1103237_1103794
-*JAM:	xx . 1105617_1106116
+*JAM:	xxx . 1105617_1106116
 *MEI:	oh@s:cym&eng mae (y)r Ashes@s:cym&eng rwan (.) <sy (y)n good@s:eng> [?] . 1107178_1109088
 %gls:	IM be.3S.PRES DET Ashes now be.PRES.REL PRT good
 %eng:	oh, the Ashes are now, which is good.
@@ -1585,15 +1585,15 @@
 *JAM:	+< fel rho enghraifft o detail@s:eng bach sy (y)n bwysig . 1131950_1134729
 %gls:	like give.NONFIN example of detail little be.PRES.REL PRT important
 %eng:	like, give an example of a little detail which is important.
-*MEI:	+< yeah@s:cym&eng dw i (y)n gwybod xx . 1134719_1136209
-%gls:	yeah be.1S.PRES PRON.1S PRT know.NONFIN xx
+*MEI:	+< yeah@s:cym&eng dw i (y)n gwybod xxx . 1134719_1136209
+%gls:	yeah be.1S.PRES PRON.1S PRT know.NONFIN xxx
 %eng:	yeah, I know.
 *JAM:	come@s:eng on@s:eng Meirion@s:cym&eng . 1137360_1138067
 *MEI:	+< just@s:cym&eng y rheolau +... 1137575_1138821
 %gls:	just DET rules
 %eng:	just the rules.
-*MEI:	ti [/] ti dallt be dy (.) l_b_w@s:cym&eng xx . 1139574_1141660
-%gls:	PRON.2S PRON.2S understand.NONFIN what be.3S.PRES l_b_w xx
+*MEI:	ti [/] ti dallt be dy (.) l_b_w@s:cym&eng xxx . 1139574_1141660
+%gls:	PRON.2S PRON.2S understand.NONFIN what be.3S.PRES l_b_w xxx
 %eng:	you understand what LBW is [..].
 *JAM:	+< fi (y)n gwybod er@s:cym&eng [?] l_b_w@s:cym&eng leg@s:eng before@s:eng wicket@s:cym&eng . 1140369_1143053
 %gls:	PRON.1S PRT know.NONFIN IM l_b_w leg before wicket
@@ -1710,8 +1710,8 @@
 %gls:	but maybe be.NONFIN PRON.3SM
 %eng:	but maybe it is.
 *JAM:	+< yeah@s:cym&eng . 1221659_1222005
-*MEI:	xx ffordd xxx (.) xxx allan . 1223058_1224821
-%gls:	xx way xxx xxx out
+*MEI:	xxx ffordd xxx (.) xxx allan . 1223058_1224821
+%gls:	xxx way xxx out
 %eng:	[..] way [...] out.
 *MEI:	timod [/] timod stuff@s:cym&eng +... 1224826_1225924
 %gls:	know.2S know.2S stuff
@@ -1729,7 +1729,7 @@
 *JAM:	+< ond ti (y)n chwarae cricket@s:cym&eng though@s:eng xxx . 1230743_1232408
 %gls:	but PRON.2S PRT play.NONFIN cricket though xxx
 %eng:	but you play cricket, though [...].
-*MEI:	xx . 1232077_1232396
+*MEI:	xxx . 1232077_1232396
 *JAM:	xxx [///] nag yt ti (we)di mynd i er@s:cym&eng +//. 1233417_1235020
 %gls:	xxx NEG be.2S.PRES PRON.2S PRT.PAST go.NONFIN to IM
 %eng:	haven't you been to the...
@@ -1740,8 +1740,8 @@
 *MEI:	Sofia_Gardens@s:eng a (.) wnaethon ni ennill . 1237203_1239850
 %gls:	Sofia_Gardens and do.1PL.PAST PRON.1PL win.NONFIN
 %eng:	Sofia Gardens, and we won.
-*JAM:	+< xx . 1237423_1237969
-*JAM:	xx +/. 1240182_1240912
+*JAM:	+< xxx . 1237423_1237969
+*JAM:	xxx +/. 1240182_1240912
 *MEI:	+< ni dy team@s:cym&eng gorau [?] yng Nghymru . 1240408_1241782
 %gls:	PRON.1PL be.3S.PRES team best in Wales
 %eng:	we're the best team in Wales.
@@ -1818,8 +1818,8 @@
 %gls:	like IM in DET country here be.3S.PRES game PRON.2S bat.NONFIN and bowl.NONFIN on DET day Saturday period give over
 %eng:	like, in this country a game is... you bat and bowl on the Saturday at the give over period.
 *JAM:	right@s:cym&eng . 1295192_1295834
-*MEI:	+< ond xx er@s:cym&eng yn Australia@s:eng ti [//] (fa)set ti (y)n batio (.) just@s:cym&eng dweud (.) un dydd Sadwrn . 1295630_1300032
-%gls:	but xx IM in Australia PRON.2S be.2S.CONDIT PRON.2S PRT bat.NONFIN just say.NONFIN one day Saturday
+*MEI:	+< ond xxx er@s:cym&eng yn Australia@s:eng ti [//] (fa)set ti (y)n batio (.) just@s:cym&eng dweud (.) un dydd Sadwrn . 1295630_1300032
+%gls:	but xxx IM in Australia PRON.2S be.2S.CONDIT PRON.2S PRT bat.NONFIN just say.NONFIN one day Saturday
 %eng:	but [..] in Australia you'd bat, just say, [on] one Saturday.
 *MEI:	a dydd Sadwrn wedyn ti (y)n bowlio i (y)r un team@s:cym&eng . 1300002_1302468
 %gls:	and day Saturday after PRON.2S PRT bowl.NONFIN to DET one team
@@ -1878,8 +1878,8 @@
 *MEI:	(be)cause@s:eng mae &pa +//. 1337964_1338916
 %gls:	because be.3S.PRES
 %eng:	because are...
-*MEI:	xx [///] (fa)swn i (y)n dweud mae pawb yn agosach fan (y)na hefo ffrindiau . 1339139_1341616
-%gls:	xx be.1S.CONDIT PRON.1S PRT say.NONFIN be.3S.PRES everyone PRT closer place there with friends
+*MEI:	xxx [///] (fa)swn i (y)n dweud mae pawb yn agosach fan (y)na hefo ffrindiau . 1339139_1341616
+%gls:	xxx be.1S.CONDIT PRON.1S PRT say.NONFIN be.3S.PRES everyone PRT closer place there with friends
 %eng:	I'd say people are closer there with friends.
 *JAM:	yeah@s:cym&eng . 1341546_1341970
 *MEI:	(fa)sai pawb dweud +"/. 1342038_1342822
@@ -1945,7 +1945,7 @@
 *JAM:	na oedd (.) Slimmers_World@s:cym&eng ddim yn gweithio o_gwbl . 1383961_1386374
 %gls:	no be.3S.IMP Slimmers_World NEG PRT work.NONFIN at_all
 %eng:	no, Slimmers World didn't work at all.
-*MEI:	+< xx . 1384981_1385341
+*MEI:	+< xxx . 1384981_1385341
 *JAM:	a wedyn (.) oedd hi (we)di bod arno fe am (.) blwyddyn neu rywbeth . 1386370_1389747
 %gls:	and after be.3S.IMP PRON.3SF PRT.PAST be.NONFIN on.3SM PRON.3SM for year or something
 %eng:	and then, she'd been on it for a year or something.
@@ -1962,8 +1962,8 @@
 *MEI:	+< yeah@s:cym&eng <wnaeth Weight_Watchers@s:cym&eng xxx> [?] . 1402231_1404474
 %gls:	yeah do.3S.PAST Weight_Watchers xxx
 %eng:	yeah, Weight Watchers did [...].
-*JAM:	mae just@s:cym&eng fel xx corff sure@s:cym&eng o fod hefyd . 1404499_1406970
-%gls:	be.3S.PRES just like xx body sure of be.NONFIN also
+*JAM:	mae just@s:cym&eng fel xxx corff sure@s:cym&eng o fod hefyd . 1404499_1406970
+%gls:	be.3S.PRES just like xxx body sure of be.NONFIN also
 %eng:	it's just like body [..] probably too.
 *MEI:	+< Slimmers_World@s:cym&eng yn rhatach hefyd . 1404660_1405978
 %gls:	Slimmers_World PRT cheaper also
@@ -1995,9 +1995,9 @@
 %gls:	know.2S be.3S.PRES PRT depend.NONFIN which so strict PRON.2S
 %eng:	you know, it depends on how strict you are.
 *JAM:	mmm@s:cym&eng . 1423811_1424844
-*JAM:	xx +/. 1426597_1427537
-*MEI:	+< (be)cause@s:eng y thing@s:eng xx . 1426982_1427427
-%gls:	because DET thing xx
+*JAM:	xxx +/. 1426597_1427537
+*MEI:	+< (be)cause@s:eng y thing@s:eng xxx . 1426982_1427427
+%gls:	because DET thing xxx
 %eng:	because the thing [..].
 *MEI:	dw i [/] dw i quite@s:cym&eng lwcus . 1427406_1428838
 %gls:	be.1S.PRES PRON.1S be.1S.PRES PRON.1S quite lucky
@@ -2019,7 +2019,7 @@
 %eng:	I actually thought you'd put two or three pounds on to be honest with you.
 *MEI:	+< +" +, pwysau ar fel (y)na . 1435251_1436157
 %gls:	weight on like there
-%eng:	" ...weight on like that" .
+%eng:	...weight on like that.
 *MEI:	+< xxx . 1437692_1438938
 *JAM:	&=laugh . 1438950_1441255
 *MEI:	&=laugh . 1439948_1441318
@@ -2044,13 +2044,13 @@
 *MEI:	so@s:cym&eng (.) raid fi stopio rwan . 1454687_1456571
 %gls:	so necessity PRON.1S stop.NONFIN now
 %eng:	so I need to stop now.
-*JAM:	+< xx . 1454789_1455033
+*JAM:	+< xxx . 1454789_1455033
 *JAM:	oh@s:cym&eng right@s:cym&eng [?] . 1456757_1457547
 *MEI:	o'n i licio fo though@s:eng . 1457552_1458441
 %gls:	be.1S.IMP PRON.1S like.NONFIN PRON.3SM though
 %eng:	I liked it, though.
 *JAM:	+< &=hiss . 1458075_1459114
-*MEI:	xx nice@s:cym&eng . 1458261_1459364
+*MEI:	xxx nice@s:cym&eng . 1458261_1459364
 *JAM:	well@s:cym&eng raid fod yn honest@s:cym&eng nag w i (y)n bwyta lot@s:cym&eng o chocolate@s:cym&eng <trwy adeg> [?] . 1459481_1462725
 %gls:	well necessity be.NONFIN PRT honest NEG be.1S.PRES PRON.1S PRT eat.NONFIN lot of chocolate through period
 %eng:	well, must be honest, I don't eat a lot of chocolate all the time.
@@ -2096,8 +2096,8 @@
 %gls:	IM PRON.2S PRT one fussy about DET chocolate xxx
 %eng:	oh, you're fussy about the chocolate [...]...
 *JAM:	+< oh@s:cym&eng +/. 1487579_1487881
-*JAM:	+< xx neu [/] neu (..) Double_Decker@s:cym&eng neu rywbeth fel (y)na . 1488497_1491740
-%gls:	xx or or Double_Decker or something like there
+*JAM:	+< xxx neu [/] neu (..) Double_Decker@s:cym&eng neu rywbeth fel (y)na . 1488497_1491740
+%gls:	xxx or or Double_Decker or something like there
 %eng:	[..] or a Double Decker or something like that.
 *JAM:	nice@s:cym&eng [?] . 1492080_1492580
 *MEI:	+< be sy (y)n neisa ydy (y)r er@s:cym&eng Lindl@s:cym&eng yeah@s:cym&eng ? 1492396_1494495
@@ -2167,7 +2167,7 @@
 *MEI:	well@s:cym&eng &də [//] dw i [///] mae quite@s:cym&eng nice@s:cym&eng <ar y fel> [?] (Na)dolig i ni . 1543464_1546257
 %gls:	well be.1S.PRES PRON.1S be.3S.PRES quite nice on DET like Christmas to PRON.1PL
 %eng:	well, it's quite nice at, like, Christmas for us.
-*JAM:	+< xx . 1543778_1544434
+*JAM:	+< xxx . 1543778_1544434
 *MEI:	mae Mam@s:cym&eng a Dad@s:cym&eng yn gweithio mewn ysgol . 1547075_1548809
 %gls:	be.3S.PRES Mam and Dad PRT work.NONFIN in school
 %eng:	Mam and Dad work at a school.
@@ -2196,8 +2196,8 @@
 *MEI:	ysgrifenyddes dy Mam@s:cym&eng . 1560827_1561788
 %gls:	secretary be.3S.PRES Mam
 %eng:	Mam is a secretary.
-*MEI:	a mae Dad@s:cym&eng yn brifathro [=! laugh] (.) xx +/. 1561652_1563624
-%gls:	and be.3S.PRES Dad PRT headmaster xx
+*MEI:	a mae Dad@s:cym&eng yn brifathro [=! laugh] (.) xxx +/. 1561652_1563624
+%gls:	and be.3S.PRES Dad PRT headmaster xxx
 %eng:	and Dad is a headmaster [..]...
 *JAM:	+< xxx yeah@s:cym&eng mae fe sure@s:cym&eng o fod yn cael (..) loads@s:eng dy dad . 1562870_1566808
 %gls:	xxx yeah be.3S.PRES PRON.3SM sure of be.NONFIN PRT get.NONFIN loads POSS.2S father
@@ -2220,7 +2220,7 @@
 *MEI:	oh@s:cym&eng faint +/. 1576752_1577296
 %gls:	IM amount
 %eng:	oh, how many...
-*JAM:	[- eng] xx guess . 1577310_1578155
+*JAM:	[- eng] xxx guess . 1577310_1578155
 *MEI:	+< xxx dw i (dd)im (gwy)bod ! 1577737_1579514
 %gls:	xxx be.1S.PRES PRON.1S NEG know.NONFIN
 %eng:	[...] I dunno!
@@ -2240,11 +2240,11 @@
 *JAM:	drwy (y)r Nadolig nawr (.) bydd hi (y)n cael o leiaf (..) tri_deg_pump anrheg bob blwyddyn . 1606894_1612541
 %gls:	through DET Christmas now be.3S.FUT PRON.3SF PRT get.NONFIN of least thirty_five gift every year
 %eng:	through the Christmas, now, she'll get at least thirty give gifts every year.
-*MEI:	xx . 1612140_1612721
-*JAM:	just@s:cym&eng (..) un person@s:cym&eng . 1612749_1615426
+*MEI:	xxx . 1612140_1612721
+*JAM:	just@s:cym&eng (..) un person@s:cym&eng . 1612774_1615426
 %gls:	just one person
 %eng:	just one person.
-*JAM:	just@s:cym&eng i (y)n fam i . 0_0
+*JAM:	just@s:cym&eng i (y)n fam i . 1615695_1616676
 %gls:	just to POSS.1S mother PRON.1S
 %eng:	just to my mother.
 *JAM:	ond mae (y)n ridiculous@s:eng xxx . 1616888_1618662
@@ -2262,7 +2262,7 @@
 *MEI:	mae [//] (.) yeah@s:cym&eng mae (y)n dibynnu . 1623484_1624481
 %gls:	be.3S.PRES yeah be.3S.PRES PRT depend.NONFIN
 %eng:	yeah, it depends.
-*MEI:	(be)cause@s:eng (..) fel (..) os o'n i xx [//] well@s:cym&eng pan o'n i (y)n ysgol gynradd . 1624376_1628440
+*MEI:	(be)cause@s:eng (..) fel (..) os o'n i xxx [//] well@s:cym&eng pan o'n i (y)n ysgol gynradd . 1624376_1628440
 %gls:	because like if be.1S.IMP PRON.1S well when be.1S.IMP PRON.1S in school primary
 %eng:	because, like, well, when I was in primary school.
 *MEI:	o'n i (y)n dweud i Mam@s:cym&eng +"/. 1628374_1629309
@@ -2285,8 +2285,8 @@
 %gls:	ones PRON.2S PRT like.NONFIN PRON.2S PRT give.NONFIN so
 %eng:	the ones you like you give [to], so...
 *JAM:	ahh@s:cym&eng . 1638015_1639246
-*MEI:	+< xx timod mae o [//] mae just@s:cym&eng yn dibynnu pa mor +//. 1638522_1640290
-%gls:	xx know.2S be.3S.PRES PRON.3SM be.3S.PRES just PRT depend.NONFIN how so
+*MEI:	+< xxx timod mae o [//] mae just@s:cym&eng yn dibynnu pa mor +//. 1638522_1640290
+%gls:	xxx know.2S be.3S.PRES PRON.3SM be.3S.PRES just PRT depend.NONFIN how so
 %eng:	[..] you know, it just depends on how much...
 *MEI:	isio bod yn +/. 1640052_1640784
 %gls:	want be.NONFIN PRT
@@ -2303,8 +2303,8 @@
 *JAM:	timod mae &=laugh [/] (.) mae hi (y)n cael loads@s:eng o pethau (.) silly@s:cym&eng fel canhwyllau . 1647411_1651659
 %gls:	know.2S be.3S.PRES be.3S.PRES PRON.3SF PRT get.NONFIN loads of things silly like candles
 %eng:	you know, she gets loads of silly things like candles.
-*MEI:	dw i (y)n gwybod (.) xx +/. 0_0
-%gls:	be.1S.PRES PRON.1S PRT know.NONFIN xx
+*MEI:	dw i (y)n gwybod (.) xxx +/. 1652026_1652891
+%gls:	be.1S.PRES PRON.1S PRT know.NONFIN xxx
 %eng:	I know [..]...
 *JAM:	dydy hi (ddi)m really@s:eng (y)n +/. 1652847_1653927
 %gls:	be.3S.PRES.NEG PRON.3SF NEG really PRT
@@ -2376,11 +2376,11 @@
 *JAM:	fi (y)n dwli arno fe . 1682790_1683835
 %gls:	PRON.1S PRT obsess.NONFIN on.3SM PRON.3SM
 %eng:	I love it.
-*MEI:	xx (be)cause@s:eng efo lamp@s:cym&eng timod [//] lamp@s:cym&eng xx golau (y)n +/. 1684321_1686797
-%gls:	xx because with lamp know.2S lamp xx light PRT
+*MEI:	xxx (be)cause@s:eng efo lamp@s:cym&eng timod [//] lamp@s:cym&eng xxx golau (y)n +/. 1684321_1686797
+%gls:	xxx because with lamp know.2S lamp xxx light PRT
 %eng:	[..] because with a lamp [..] light is...
-*JAM:	+< xx bath@s:cym&eng nawr canhwyllau &=laugh . 1685185_1687093
-%gls:	xx bath now candles
+*JAM:	+< xxx bath@s:cym&eng nawr canhwyllau &=laugh . 1685185_1687093
+%gls:	xxx bath now candles
 %eng:	[..] a bath now [with] candles.
 *MEI:	&=laugh wyt ti ? 1687087_1688143
 %gls:	be.2S.PRES PRON.2S
@@ -2389,7 +2389,7 @@
 %gls:	PRON.1S NEG PRT do.NONFIN PRON.3SM NEG be.1S.PRES o_k
 %eng:	I'm not doing it, no, OK.
 *MEI:	+< xxx . 1688378_1689370
-*JAM:	na [=! laugh] . 1689395_1692192
+*JAM:	na [=! laugh] . 1689395_1689908
 %gls:	no
 %eng:	no.
 *MEI:	&=laugh . 1689875_1692267
@@ -2423,7 +2423,7 @@
 %gls:	place be.3S.PRES PRON.3SM PRT gradual change.NONFIN colour
 %eng:	where it gradually changes colour.
 *MEI:	+< yeah@s:cym&eng . 1709420_1709815
-*JAM:	mae nhw fel (yn)a (.) float_an@s:eng+cym yn y bath@s:cym&eng [=! laugh] . 0_0
+*JAM:	mae nhw fel (yn)a (.) float_an@s:eng+cym yn y bath@s:cym&eng [=! laugh] . 1710369_1712418
 %gls:	be.3PL.PRES PRON.3PL like there float.NONFIN in DET bath
 %eng:	they're like that, floating in the bath.
 *JAM:	mae fe fel [/] (..) fel jacuzzi@s:cym&eng . 1712766_1715388
@@ -2433,8 +2433,8 @@
 %gls:	because be.NONFIN light PRT come.NONFIN out of DET water
 %eng:	because a light comes out of the water.
 *MEI:	+< yeah@s:cym&eng . 1716787_1717298
-*JAM:	xx eitha funky@s:eng . 1718671_1719856
-%gls:	xx quite funky
+*JAM:	xxx eitha funky@s:eng . 1718671_1719856
+%gls:	xxx quite funky
 %eng:	[..] quite funky.
 *MEI:	dw i byth yn cael baths@s:cym&eng rwan . 1719978_1721510
 %gls:	be.1S.PRES PRON.1S never PRT get.NONFIN baths now
@@ -2449,7 +2449,7 @@
 *JAM:	fi wneud fwyaf o fe . 1724744_1726222
 %gls:	PRON.1S do.NONFIN most of PRON.3SM
 %eng:	I do it most.
-*MEI:	xxx (.) xx +/. 1726180_1727287
+*MEI:	xxx (.) xxx +/. 1726180_1727287
 *JAM:	+< fel arfer fi (y)n anghofio wedyn . 1726670_1728607
 %gls:	like habit PRON.1S PRT forget.NONFIN after
 %eng:	as usual, I forget afterwards.
@@ -2463,8 +2463,8 @@
 *MEI:	mae just@s:cym&eng (..) hassle@s:eng ? 1734288_1736494
 %gls:	be.3S.PRES just hassle
 %eng:	it's just a hassle?
-*MEI:	timod <pan ti> [?] xx [///] &t [/] ti efo cawod . 1736884_1738421
-%gls:	know.2S when PRON.2S xx PRON.2S with shower
+*MEI:	timod <pan ti> [?] xxx [///] &t [/] ti efo cawod . 1736884_1738421
+%gls:	know.2S when PRON.2S xxx PRON.2S with shower
 %eng:	you know you have a shower.
 *MEI:	ti isio troi o on@s:eng . 1738334_1739292
 %gls:	PRON.2S want turn.NONFIN PRON.3SM on
@@ -2490,8 +2490,8 @@
 *JAM:	os [/] os fi yn [///] pryd fi mynd adre . 1747201_1749289
 %gls:	if if PRON.1S PRT when PRON.1S go.NONFIN home
 %eng:	when I go home.
-*MEI:	+< pobl bath@s:cym&eng xx . 1747817_1749011
-%gls:	people bath xx
+*MEI:	+< pobl bath@s:cym&eng xxx . 1747817_1749011
+%gls:	people bath xxx
 %eng:	bath people [..].
 *JAM:	os fi yn cael bath@s:cym&eng . 1749336_1750468
 %gls:	if PRON.1S PRT get.NONFIN bath
@@ -2514,7 +2514,7 @@
 *JAM:	well@s:cym&eng (.) rhy ddrud xxx . 1768533_1770747
 %gls:	well too expensive xxx
 %eng:	well, too expensive [...].
-*MEI:	xx dw [/] dw [/] dw (ddi)m yn talu . 1771581_1773068
+*MEI:	xxx dw [/] dw [/] dw (ddi)m yn talu . 1771581_1773068
 %gls:	[..] be.1S.PRES be.1S.PRES be.1S.PRES NEG PRT pay.NONFIN
 %eng:	[..] I don't pay.
 *MEI:	mae brawd fi wneud o &=laugh . 1773066_1775927
@@ -2590,8 +2590,8 @@
 *MEI:	mae hi dweud +"/. 1817983_1818348
 %gls:	be.3S.PRES PRON.3SF say.NONFIN
 %eng:	she says.
-*MEI:	+" oh@s:cym&eng xx &pa [/] pam &=laugh ? 1818275_1820183
-%gls:	IM xx why
+*MEI:	+" oh@s:cym&eng xxx &pa [/] pam &=laugh ? 1818275_1820183
+%gls:	IM xxx why
 %eng:	oh [..] why?
 *JAM:	yeah@s:cym&eng . 1820059_1820633
 *JAM:	o'n i (we)di wneud [?] hwnna um@s:cym&eng (..) pryd i (y)n gorffen ysgol (..) i athrawon fi . 1820696_1825033
@@ -2635,8 +2635,8 @@
 %gls:	so do.1S.PAST PRON.1S just NEG say.NONFIN any thing and give.NONFIN PRON.3PL to.3SF and go.NONFIN
 %eng:	so I just didn't say anything and gave them to her and went.
 *MEI:	&=laugh . 1858122_1858978
-*MEI:	oedd xx [//] oedd Dad@s:cym&eng yn [//] oedd o (y)n chwarae game@s:cym&eng pan oedd o (y)n yr ysgol . 1859298_1862625
-%gls:	be.3S.IMP xx be.3S.IMP Dad PRT be.3S.IMP PRON.3SM PRT play.NONFIN game when be.3S.IMP PRON.3SM in DET school
+*MEI:	oedd xxx [//] oedd Dad@s:cym&eng yn [//] oedd o (y)n chwarae game@s:cym&eng pan oedd o (y)n yr ysgol . 1859298_1862625
+%gls:	be.3S.IMP xxx be.3S.IMP Dad PRT be.3S.IMP PRON.3SM PRT play.NONFIN game when be.3S.IMP PRON.3SM in DET school
 %eng:	my Dad, he played a game when he was in school.
 *MEI:	(be)cause@s:eng er@s:cym&eng xxx [//] timod oedd y plant [//] oedden nhw (y)n perthyn i pobl oedd (..) biau shops@s:cym&eng gwahanol . 1862513_1868049
 %gls:	because IM xxx know.2S be.3S.IMP DET children be.3PL.IMP PRON.3PL PRT belong.NONFIN to people be.3S.IMP own.NONFIN shops different
@@ -2665,7 +2665,7 @@
 %gls:	do.3S.PAST PRON.3SM say.NONFIN
 %eng:	he said.
 *MEI:	+" yeah@s:cym&eng . 1881616_1882040
-*MEI:	+" (Na)dolig llawen i ti . 0_0
+*MEI:	+" (Na)dolig llawen i ti . 1882637_1883594
 %gls:	Christmas happy to PRON.2S
 %eng:	"Merry Christmas to you" .
 *MEI:	a wedyn um@s:cym&eng [//] (.) <a wedyn> [?] er@s:cym&eng er@s:cym&eng ffrind [//] er@s:cym&eng rhyw boy@s:cym&eng arall wedyn . 1883889_1887659
@@ -2689,8 +2689,8 @@
 %gls:	and say.NONFIN yeah
 %eng:	and saying "yeah" .
 *MEI:	+" oh@s:cym&eng great@s:cym&eng . 1899161_1900332
-*MEI:	so@s:cym&eng wedyn xx (.) mae (y)r trydydd yn dod . 1900281_1901916
-%gls:	so after xx be.3S.PRES DET third PRT come.NONFIN
+*MEI:	so@s:cym&eng wedyn xxx (.) mae (y)r trydydd yn dod . 1900281_1901916
+%gls:	so after xxx be.3S.PRES DET third PRT come.NONFIN
 %eng:	so then [..] the third comes.
 *MEI:	a wedyn um@s:cym&eng (..) mae gweld bod er@s:cym&eng (.) mam@s:cym&eng a dad@s:cym&eng o biau er@s:cym&eng shop@s:cym&eng gwin . 1902421_1906778
 %gls:	and after IM be.3S.PRES see.NONFIN be.NONFIN IM mother and father PRON.3SM own.NONFIN IM shop wine

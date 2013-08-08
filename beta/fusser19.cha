@@ -1,7 +1,7 @@
 @UTF8
 @Font:	Win95:Arial Unicode MS:-13:0
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	OLW Olwen Adult, TRE Trefor Adult
 @ID:	cym|siarad|OLW|28;|female|||Adult||
 @ID:	cym|siarad|TRE|37;|male|||Adult||
@@ -11,8 +11,8 @@
 @Date:	18-FEB-2006
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Transcriber:	Peredur Davies, Bangor University
-@Comment:	Time duration: 00:33:24
-@Comment:	Filename:  fusser19.cha; Soundfile: fusser19.wav.
+@Time Duration:	00:33:24
+@Media:	fusser19, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono.
 @Comment:	A thumping sound (source unknown; possibly just one of the speakers banging their hand against something) is heard at intervals throughout the recording.
@@ -197,8 +197,8 @@
 *OLW:	na ddim diolch . 98480_99732
 %gls:	no NEG thanks
 %eng:	no thanks.
-*TRE:	+< xx (.) mwy gwirion ? 99016_100442
-%gls:	xx more silly
+*TRE:	+< xxx (.) mwy gwirion ? 99016_100442
+%gls:	xxx more silly
 %eng:	sillier?
 *TRE:	nes i (ddi)m deud bod chdi (y)n wirion xxx . 100411_101951
 %gls:	do.1S.PAST PRON.1S NEG say.NONFIN be.NONFIN PRON.2S PRT silly xxx
@@ -484,7 +484,7 @@
 *OLW:	ti (ddi)m yn meddwl bod o (y)na . 273138_274425
 %gls:	PRON.1S NEG PRT think.NONFIN be.NONFIN PRON.3SM there
 %eng:	you don't think it's there.
-*TRE:	+< xx . 273264_273612
+*TRE:	+< xxx . 273264_273612
 *OLW:	mae o actually@s:eng yna dydy . 274437_275714
 %gls:	be.3S.PRES PRON.3SM actually there be.3S.PRES.NEG
 %eng:	it actually is there, isn't it.
@@ -495,8 +495,8 @@
 *OLW:	a mae rai pobl yn gallu mynd [/] mynd mwy addicted@s:eng na pobl eraill hefyd so@s:cym&eng +... 279445_284783
 %gls:	and be.3S.PRES some people PRT can.NONFIN go.NONFIN go.NONFIN more addicted than people other also so
 %eng:	and some people can get more addicted than other people as well so...
-*TRE:	ia ond peth ydy os xx medri di (.) roi dy feddwl i wneud rywbeth (.) da neu drwg . 284856_290309
-%gls:	yes but thing be.3S.PRES if xx can.2S.NONPAST PRON.2S put.NONFIN POSS.2S thought to do.NONFIN something good or bad
+*TRE:	ia ond peth ydy os xxx medri di (.) roi dy feddwl i wneud rywbeth (.) da neu drwg . 284856_290309
+%gls:	yes but thing be.3S.PRES if xxx can.2S.NONPAST PRON.2S put.NONFIN POSS.2S thought to do.NONFIN something good or bad
 %eng:	yes, but the thing is, if you can put your mind to doing something, good or bad.
 *TRE:	dw i meddwl medri di (.) wneud o de . 290278_291667
 %gls:	be.1S.PRES PRON.1S think.NONFIN can.2S.NONPAST PRON.2S do.NONFIN PRON.3SM TAG
@@ -686,7 +686,7 @@
 *OLW:	+< a pawb gwneud be bynnag mae nhw isio adre neu rywbeth de ? 417945_421052
 %gls:	and everyone do.NONFIN what ever be.3PL.PRES PRON.3PL want home or something TAG
 %eng:	and everyone can do what they want at home or something, eh?
-*TRE:	xx . 421812_422428
+*TRE:	xxx . 421812_422428
 *OLW:	+< os mae nhw isio smocio adre geith nhw . 421983_423705
 %gls:	if be.3PL.PRES PRON.3PL want smoke.NONFIN home can.3PL.NONPAST PRON.3PL
 %eng:	if they want to smoke at home they can.
@@ -724,8 +724,8 @@
 *TRE:	a wedyn o Lloegr +... 445368_446425
 %gls:	and after from England
 %eng:	and afterwards from England ...
-*TRE:	a wedyn diwedd y gân ydy (.) wneud Cymru [?] xx gobeithio . 446357_449257
-%gls:	and after end DET song be.3S.PRES do.NONFIN Wales xx hope.NONFIN
+*TRE:	a wedyn diwedd y gân ydy (.) wneud Cymru [?] xxx gobeithio . 446357_449257
+%gls:	and after end DET song be.3S.PRES do.NONFIN Wales xxx hope.NONFIN
 %eng:	and afterwards the end of the road will be to do Wales [..], I hope.
 *OLW:	yeah@s:cym&eng . 449335_451402
 *OLW:	(ba)sa hynna (y)n dda . 451437_452621
@@ -899,7 +899,7 @@
 *TRE:	dw i (ddi)m yn gwybod am hynny sti o ran statistics@s:eng . 616222_618566
 %gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN about that know.2S of part statistics
 %eng:	I don't know about that you know, in terms of statistics.
-*TRE:	ond y ffaith ydy os wyt ti (y)n (.) yfed ac yn dreifio ac yn &k achosi damwain ti (y)n cael pobl xxx. 618627_623955
+*TRE:	ond y ffaith ydy os wyt ti (y)n (.) yfed ac yn dreifio ac yn &k achosi damwain ti (y)n cael pobl xxx . 618627_623955
 %gls:	but DET fact be.3S.PRES if be.2S.PRES PRON.2S PRT drink.NONFIN and PRT drive.NONFIN and PRTcause.NONFIN accident PRON.2S PRT get.NONFIN people
 %eng:	but the fact is, if you drink and drive and cause an accident, you get people [...] .
 *OLW:	ia ond mae (y)n illegal@s:eng (.) i yfed a dreifio anyway@s:eng dydy . 622866_626777
@@ -1030,7 +1030,6 @@
 *OLW:	os (ba)sa chdi cael choice@s:eng rhwng y ddau dw i meddwl na (y)r un (.) sy (y)n smocio sydd mwy (.) pwysig at iechyd rywun na (y)r alcohol@s:cym&eng . 732821_740970
 %gls:	if be.2S.CONDIT PRON.2S get.NONFIN choice between DET two be.1S.PRES PRON.1S think.NONFIN PRT DET one be.PRES.REL PRT smoke.NONFIN be.PRES.REL more important for health someone than DET alcohol
 %eng:	if you had the choice between the two, I think that it's the one that is smoking that is more important to someone's health than the alcohol.
-*TRE:	xxx . 740848_741602
 *TRE:	dw (ddi)m yn gwybod achos <oedd o> [?] ddewis rhwng y ddau yn achosi niwed . 740994_743681
 %gls:	be.1S.PRES NEG PRT know.NONFIN because be.3S.IMP PRON.3SM choice between DET two PRT cause.NONFIN harm
 %eng:	I don't know, because it was the choosing between the two causing harm.
@@ -1047,8 +1046,8 @@
 *TRE:	ia ond does (y)na (ddi)m dewis . 749245_750367
 %gls:	yes but be.3S.PRES.NEG there NEG choice
 %eng:	yes, but there's no choice.
-*OLW:	&ov xx [///] oes ! 750900_752779
-%gls:	xx be.3S.PRES
+*OLW:	&ov xxx [///] oes ! 750900_752779
+%gls:	xxx be.3S.PRES
 %eng:	yes there is!
 *OLW:	ti newydd ddeud rwan . 752663_753707
 %gls:	PRON.2S new say.NONFIN now
@@ -1234,8 +1233,8 @@
 *TRE:	deud dw i o (y)r ddadl arall . 872556_873588
 %gls:	say.NONFIN be.1S.PRES PRON.1S from DET argument other
 %eng:	I'm talking from the other argument.
-*OLW:	well@s:cym&eng o'n i (y)n dadlau xxx [=! laugh] <because@s:eng xx do'n> [?] i ddim . 873527_876681
-%gls:	well be.1S.IMP PRON.1S PRT argue.NONFIN xxx because xx be.1S.IMP.NEG PRON.1S NEG
+*OLW:	well@s:cym&eng o'n i (y)n dadlau xxx [=! laugh] <because@s:eng xxx do'n> [?] i ddim . 873527_876681
+%gls:	well be.1S.IMP PRON.1S PRT argue.NONFIN xxx because xxx be.1S.IMP.NEG PRON.1S NEG
 %eng:	well I was arguing [...] because [..] I wasn't.
 *OLW:	xxx weld yn er@s:cym&eng (.) agree_o@s:eng+cym llawer [=! laugh] ar (dd)im_byd na(g) dan . 876683_880219
 %gls:	xxx see.NONFIN PRT IM agree.NONFIN many on nothing NEG be.1PL.PRES
@@ -1718,8 +1717,8 @@
 %gls:	can.3S.NONPAST what be.2PL.PRES PRON.2PL PRT say.NONFIN back to.1S PRON.1S NEG be.NONFIN PRT firm so
 %eng:	what you're saying back to me can't be certain, then.
 *TRE:	+< mmm@s:cym&eng . 1257474_1257823
-*TRE:	<xx be sy> [?] (y)n gadarn ? 1261664_1262535
-%gls:	xx what be.PRES.REL PRT firm
+*TRE:	<xxx be sy> [?] (y)n gadarn ? 1261664_1262535
+%gls:	xxx what be.PRES.REL PRT firm
 %eng:	[..] what's certain?
 *TRE:	[- eng] what is fact ? 1262538_1263220
 *TRE:	what@s:eng is@s:eng reality@s:cym&eng ? 1263233_1264079
@@ -1964,8 +1963,8 @@
 *OLW:	fedrith neb (.) prepario efo terrorist@s:cym&eng neu bombs@s:cym&eng neu (.) be bynnag fel (yn)a . 1487615_1493118
 %gls:	can.3S.NONPAST nobody prepare.NONFIN with terrorist or bombs or what ever like that
 %eng:	nobody can prepare for a terrorist or bombs or anything like that.
-*TRE:	+< na [?] xx . 1491713_1492236
-%gls:	no xx
+*TRE:	+< na [?] xxx . 1491713_1492236
+%gls:	no xxx
 %eng:	no [..].
 *OLW:	fedrith neb prepario o_flaen llaw efo (di)m_byd fel (yn)a . 1493060_1495925
 %gls:	can.3S.NONPAST nobody prepare.NONFIN before hand with nothing like that
@@ -2001,7 +2000,7 @@
 *OLW:	mae hwnna just@s:cym&eng yn (.) freak@s:eng case@s:eng hynna bod [/] (.) bod +... 1516014_1519926
 %gls:	be.3S.PRES that just PRT freak case that be.NONFIN be.NONFIN
 %eng:	that's just a freak case, that ...
-*OLW:	xx just@s:cym&eng one@s:eng of@s:eng those@s:eng things@s:eng . 1519908_1521029
+*OLW:	xxx just@s:cym&eng one@s:eng of@s:eng those@s:eng things@s:eng . 1519908_1521029
 *OLW:	unexplained@s:eng pam wnaeth o ddigwydd . 1521001_1522868
 %gls:	unexplained why do.3S.PAST PRON.3SM happen.NONFIN
 %eng:	unexplained why it happened.
@@ -2043,8 +2042,8 @@
 %eng:	where there is an earthquake.
 *OLW:	mae (y)na um@s:cym&eng (.) bombs@s:cym&eng . 1547197_1550028
 %gls:	there are bombs.
-*OLW:	mae (y)na bob_dim fel (yn)a (y)n digwydd xx dros y wlad bob dydd . 1550146_1553674
-%gls:	be.3S.PRES there everything like that PRT happen.NONFIN xx over DET country every day
+*OLW:	mae (y)na bob_dim fel (yn)a (y)n digwydd xxx dros y wlad bob dydd . 1550146_1553674
+%gls:	be.3S.PRES there everything like that PRT happen.NONFIN xxx over DET country every day
 %eng:	there's everything like that happening across the country every day.
 *OLW:	a heblaw y newyddion (ba)sa bobl (dd)im yn gwybod amdan be (ba)sa (y)n digwydd . 1553728_1557366
 %gls:	and apart DET news be.3S.CONDIT people NEG PRT know.NONFIN about what be.3S.CONDIT PRT happen.NONFIN
@@ -2122,8 +2121,8 @@
 *TRE:	nag oes ond mi (ba)sa nhw (we)di (.) medru (.) atal lot@s:cym&eng o ddifrod . 1613348_1616550
 %gls:	NEG be.3S.PRES but PRT be.3S.CONDIT PRON.3PL PRT.PAST can.NONFIN prevent.NONFIN lot of damage
 %eng:	no, but they would have been able to prevent a lot of damage.
-*TRE:	<mae hynna saff> [?] xx . 1616472_1617258
-%gls:	be.3S.PRES that safe xx
+*TRE:	<mae hynna saff> [?] xxx . 1616472_1617258
+%gls:	be.3S.PRES that safe xxx
 %eng:	that's for certain.
 *OLW:	sut ? 1617154_1617804
 %gls:	how
@@ -2199,8 +2198,8 @@
 *OLW:	mae (y)na reswm i bob_dim . 1677445_1679174
 %gls:	be.3S.PRES there reason to everything
 %eng:	there's a reason for everything.
-*TRE:	+< oh@s:cym&eng xx . 1677653_1678489
-*TRE:	xx . 1679217_1680037
+*TRE:	+< oh@s:cym&eng xxx . 1677653_1678489
+*TRE:	xxx . 1679217_1680037
 *OLW:	well@s:cym&eng mae (y)r byd yn mynd i ddod i ben rywbryd . 1680156_1682571
 %gls:	well be.3S.PRES DET world PRT go.NONFIN to come.NONFIN to end sometime
 %eng:	well, the world is going to come to an end sometime.
@@ -2278,7 +2277,7 @@
 *OLW:	+< dim_byd i sôn amdan . 1734889_1736315
 %gls:	nothing PRT mention.NONFIN about
 %eng:	nothing to talk about.
-*TRE:	+< xx . 1735947_1736384
+*TRE:	+< xxx . 1735947_1736384
 *TRE:	os ti (y)n deud (wr)tha fi hynny +/. 1736467_1737324
 %gls:	if PRON.2S PRT say.NONFIN to.2S PRON.2S that
 %eng:	if you're telling me that.
@@ -2288,8 +2287,8 @@
 *TRE:	+< mae (y)r goldfish@s:eng yn digon hapus yn ei fyd bach ei hun tydy . 1737339_1739809
 %gls:	be.3S.PRES DET goldfish PRT enough happy in POSS.3S world little POSS.3S self be.3S.PRES.NEG
 %eng:	the goldfish is happy enough in his own little world, isn't he.
-*OLW:	+< xx fasa [/] fasa ni (y)n bore(d)@s:eng . 1738500_1740238
-%gls:	xx be.3S.CONDIT be.3S.CONDIT PRON.1PL PRT bored
+*OLW:	+< xxx fasa [/] fasa ni (y)n bore(d)@s:eng . 1738500_1740238
+%gls:	xxx be.3S.CONDIT be.3S.CONDIT PRON.1PL PRT bored
 %eng:	we'd be bored.
 *OLW:	yeah@s:cym&eng ond ydy hynna ddim yn normal@s:cym&eng . 1740274_1741715
 %gls:	yeah but be.3S.PRES that NEG PRT normal
@@ -2363,8 +2362,8 @@
 %gls:	what about seven seven TAG
 %eng:	what about 7/7 then?
 %com:	referring to the bombings in London in July 2005 .
-*TRE:	oedden nhw <gwybod bod hynna mynd digwydd xx> [?] . 1784907_1786091
-%gls:	be.3PL.IMP PRON.3PL know.NONFIN be.NONFIN that go.NONFIN happen.NONFIN xx
+*TRE:	oedden nhw <gwybod bod hynna mynd digwydd xxx> [?] . 1784907_1786091
+%gls:	be.3PL.IMP PRON.3PL know.NONFIN be.NONFIN that go.NONFIN happen.NONFIN xxx
 %eng:	they knew that was going to happen [...].
 *OLW:	oh@s:cym&eng iesgob annwyl . 1786219_1787926
 %gls:	IM crikey dear

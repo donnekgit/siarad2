@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ANT Antonia Adult, AMR Amranwen Adult
 @ID:	cym|siarad|ANT|52;|female|||Adult||
 @ID:	cym|siarad|AMR|36;|female|||Adult||
@@ -11,8 +11,8 @@
 @Date:	15-DEC-2005
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Transcriber:	Peredur Davies, Bangor University
-@Comment:	Time duration: 00:20:31
-@Comment:	Filename: fusser6.cha; Soundfile: fusser6.wav
+@Time Duration:	00:20:31
+@Media:	fusser6, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 *ANT:	ideal@s:cym&eng . 406_1591
@@ -104,7 +104,7 @@
 %gls:	with children small know.2S xxx
 %eng:	... with small children, you know.
 *AMR:	&=laugh xxx . 53607_56161
-*ANT:	&=laugh ia [?] mynd am dro a dysgu ar y ffordd . 54849_57415
+*ANT:	&=laugh ia [?] mynd am dro a dysgu ar y ffordd . 54849_56787
 %gls:	yes go.NONFIN for turn and learn.NONFIN on DET road
 %eng:	Yes, go for a walk and learn along the way.
 *ANT:	&=cough (.) ond mae nhw lot@s:cym&eng hapusach yn wneud (.) gwerthuso fel (y)na . 56635_60165
@@ -196,8 +196,8 @@
 *ANT:	dw i (we)di bod yn wneud pethau eraill trwy (y)r dydd . 118080_120367
 %gls:	be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT do.NONFIN things other through DET day
 %eng:	I've been doing other things all day.
-*ANT:	&=cough so@s:cym&eng (.) dw i (y)n credu a i adre xx . 120319_122810
-%gls:	so be.1S.PRES PRON.1S PRT believe.NONFIN go.1S.NONPAST PRON.1S home xx
+*ANT:	&=cough so@s:cym&eng (.) dw i (y)n credu a i adre xxx . 120319_122810
+%gls:	so be.1S.PRES PRON.1S PRT believe.NONFIN go.1S.NONPAST PRON.1S home xxx
 %eng:	So I think I'll go home.
 *AMR:	+< ond <dw i (ddi)m yn gwybod> [?] medra i helpu llawer arna chdi rhwng wan a bore fory de . 121550_125648
 %gls:	but be.1S.PRES PRON.1S NEG PRT know.NONFIN can.1S.NONPAST PRON.1S help.NONFIN much on.2S PRON.2S between now and morning tomorrow TAG
@@ -444,8 +444,8 @@
 *ANT:	dydd Mercher mae canu carolau yn yr &eg [/] eglwys . 278031_281770
 %gls:	day Wednesday be.3S.PRES sing.NONFIN carols in DET church
 %eng:	Wednesday there's carol singing in the church.
-*ANT:	mae (y)r xx dwy eglwys yn Capel@s:cym&eng wedi cau . 281717_284579
-%gls:	be.3S.PRES DET xx two.F church in Capel PRT.PAST shut.NONFIN
+*ANT:	mae (y)r xxx dwy eglwys yn Capel@s:cym&eng wedi cau . 281717_284579
+%gls:	be.3S.PRES DET xxx two.F church in Capel PRT.PAST shut.NONFIN
 %eng:	The two churches in Capel [Currig] have closed .
 *ANT:	a mae un yn luxury@s:eng b_and_b@s:eng nawr . 284335_286653
 %gls:	and be.3S.PRES one PRT luxury b_and_b now
@@ -601,7 +601,7 @@
 *ANT:	<rhoi hwnna ar y> [?] blooming@s:eng tâp yma . 387810_389209
 %gls:	put.NONFIN that_one on DET blooming tape here
 %eng:	Putting that on this blooming tape.
-*ANT:	bydd pawb yn clywed ni (y)n cloncian &=laugh . 389166_393311
+*ANT:	bydd pawb yn clywed ni (y)n cloncian &=laugh . 389166_392644
 %gls:	be.3S.FUT everyone PRT hear.NONFIN PRON.1PL PRT gossip.NONFIN
 %eng:	Everyone will hear us gossiping.
 *AMR:	+< &=laugh . 392016_393224
@@ -689,8 +689,8 @@
 %gls:	be.1S.PRES want lips xxx and tuck in place there TAG
 %eng:	I want lips and [...] tuck there, eh!
 *ANT:	+< &=laugh . 445898_448081
-*ANT:	oh@s:cym&eng [?] xx you@s:eng can@s:eng join@s:eng the@s:eng queue@s:cym&eng &=laugh ! 448083_450823
-%gls:	IM xx you can join the queue
+*ANT:	oh@s:cym&eng [?] xxx you@s:eng can@s:eng join@s:eng the@s:eng queue@s:cym&eng &=laugh ! 448083_450823
+%gls:	IM xxx you can join the queue
 %eng:	Oh, you can join the queue!
 *AMR:	+< &=laugh . 449116_451287
 *ANT:	fi [/] fi yw (y)r [?] number@s:cym&eng one@s:eng &=laugh . 450974_453969
@@ -828,8 +828,8 @@
 *ANT:	oedd y brawd mewn . 537520_538470
 %gls:	be.3S.IMP DET brother inside
 %eng:	The brother was in.
-*ANT:	oedd e wedi xx cael ei gall@s:eng stones@s:eng allan . 538530_540513
-%gls:	be.3S.IMP PRON.3SM PRT.PAST xx get.NONFIN POSS.3S gall stones out
+*ANT:	oedd e wedi xxx cael ei gall@s:eng stones@s:eng allan . 538530_540513
+%gls:	be.3S.IMP PRON.3SM PRT.PAST xxx get.NONFIN POSS.3S gall stones out
 %eng:	He'd had his gall stones out.
 *ANT:	wedyn oedd e eisiau tipyn bach o (.) tibod mwythau yn_doedd . 540560_543892
 %gls:	then be.3S.IMP PRON.3SM want little little of know.2S carressings be.3S.IMP.NEG
@@ -868,7 +868,7 @@
 *ANT:	oh@s:cym&eng <mae hi (y)n xxx> [//] well@s:cym&eng mae hi fel [=? very@s:eng] ei nain ochr arall hefyd . 562397_564812
 %gls:	IM be.3S.PRES PRON.3SF PRT xxx well be.3S.PRES PRON.3SF like POSS.3S grandmother side other also
 %eng:	Oh, she's like her grandmother on the other side as well.
-*AMR:	+< [- eng] xx say it as it is . 563051_564374
+*AMR:	+< [- eng] xxx say it as it is . 563051_564374
 *ANT:	+< mae ei nhain ochr arall yn no@s:eng nonsense@s:cym&eng tweld . 564835_567413
 %gls:	be.3S.PRES POSS.3SF grandmother side other PRT no nonsense see.2S
 %eng:	Her grandmother on the other side is no-nonsense, you see.
@@ -884,10 +884,10 @@
 *ANT:	a pedair oed yw hi &=laugh . 571904_574122
 %gls:	and four age be.3S.PRES PRON.3SF
 %eng:	And she's only four years old!
-*ANT:	ond um@s:cym&eng +... 574560_575605
+*ANT:	ond um@s:cym&eng +//. 574560_575315
 %gls:	but IM
 %eng:	But ...
-*ANT:	bechod [?] . 574850_575779
+*ANT:	bechod [?] . 575295_575945
 %gls:	sin
 %eng:	Shame.
 *ANT:	ia wir . 575732_576777
@@ -972,8 +972,8 @@
 *ANT:	phew@s:cym&eng . 621316_622268
 %gls:	IM
 %eng:	Phew.
-*ANT:	achos o'n i (y)n meddwl fod rhaid iddo fe fod o_gwmpas yr (.) xx nought@s:eng degrees@s:eng (.) neu rywbeth felly . 622087_628542
-%gls:	because be.1S.IMP PRON.1S PRT think.NONFIN be.NONFIN necessity to.3SM PRON.3SM be.NONFIN around DET xx nought degrees or something thus
+*ANT:	achos o'n i (y)n meddwl fod rhaid iddo fe fod o_gwmpas yr (.) xxx nought@s:eng degrees@s:eng (.) neu rywbeth felly . 622087_628542
+%gls:	because be.1S.IMP PRON.1S PRT think.NONFIN be.NONFIN necessity to.3SM PRON.3SM be.NONFIN around DET xxx nought degrees or something thus
 %eng:	Because I thought it had to be around nought degrees or something like that.
 *AMR:	er@s:cym&eng +/. 622562_623104
 %gls:	IM
@@ -997,8 +997,8 @@
 *AMR:	xxx turkey@s:cym&eng . 638499_639508
 %gls:	xxx turkey
 %eng:	[...] turkey.
-*AMR:	xx <dim (we)di> [?] brynu fo eto . 639266_640449
-%gls:	xx NEG PRT.PAST buy.NONFIN PRON.3SM yet
+*AMR:	xxx <dim (we)di> [?] brynu fo eto . 639266_640449
+%gls:	xxx NEG PRT.PAST buy.NONFIN PRON.3SM yet
 %eng:	[?] haven't bought it yet.
 *ANT:	ie . 640274_641145
 %gls:	yes
@@ -1092,8 +1092,8 @@
 %gls:	and anyway be.3PL.PRES PRON.3PL PRT.PAST win.NONFIN prizes with PRON.3SM
 %eng:	and anyway they've won prizes with it.
 *ANT:	xxx . 697668_698190
-*AMR:	dw i licio [?] xx +... 698097_699073
-%gls:	be.1S.PRES PRON.1S like.NONFIN xx
+*AMR:	dw i licio [?] xxx +... 698097_699073
+%gls:	be.1S.PRES PRON.1S like.NONFIN xxx
 %eng:	I like [...]
 *ANT:	&=gasp . 698910_699398
 *AMR:	ychydig o flynyddoedd yn_ôl mi oedd drws nesa (.) pobl [?] yn wneud (.) sloe@s:eng gin@s:cym&eng . 699312_702393
@@ -1184,8 +1184,8 @@
 *ANT:	ond mae (y)n mynd lawr +/. 746822_748064
 %gls:	but be.3S.PRES PRT go.NONFIN down
 %eng:	But it goes down ...
-*AMR:	mae (y)n gynnes xx yndy . 747623_749213
-%gls:	be.3S.PRES PRT warm xx be.3S.PRES
+*AMR:	mae (y)n gynnes xxx yndy . 747623_749213
+%gls:	be.3S.PRES PRT warm xxx be.3S.PRES
 %eng:	It's warm isn't it.
 *ANT:	+< mmm@s:cym&eng . 748308_749457
 %gls:	IM
@@ -1519,8 +1519,8 @@
 *ANT:	ie . 906554_907529
 %gls:	yes
 %eng:	Yes.
-*ANT:	ond um@s:cym&eng (.) na mae xx (.) +... 907289_909646
-%gls:	but IM no be.3S.PRES xx
+*ANT:	ond um@s:cym&eng (.) na mae xxx (.) +... 907289_909646
+%gls:	but IM no be.3S.PRES xxx
 %eng:	But, no, is [..] ...
 *ANT:	dw i (y)n amau bod e (y)n gweud bod e (y)n mynd i Brwsel i wneud ryw gwrs wan . 909402_912664
 %gls:	be.1S.PRES PRON.1S PRT suspect.NONFIN be.NONFIN PRON.3SM PRT say.NONFIN be.NONFIN PRON.3SM PRT go.NONFIN to Brussels PRT do.NONFIN some course now
@@ -1594,7 +1594,7 @@
 *ANT:	<yn er@s:cym&eng> [//] (w)edyn dw i (.) yn mynd a crew@s:cym&eng bach i Nicaragua@s:cym&eng gwyliau Medi two_thousand_and_seven@s:eng . 942986_948217
 %gls:	in IM then be.1S.PRES PRON.1S PRT go.NONFIN with crew small to Nicaragua holiday September two_thousand_and_seven
 %eng:	Then I'm taking a small crew to Nicaragua in the September holidays in 2007 .
-*AMR:	xx . 947849_948683
+*AMR:	xxx . 947849_948683
 *ANT:	ond (.) dydy Nicaragua@s:cym&eng ddim yn denu yr un fath o bobl timod . 948778_951830
 %gls:	but be.3S.PRES.NEG Nicaragua NEG PRT attract.NONFIN DET one kind of people know.2S
 %eng:	But Nicaragua doesn't attract the same kind of people, you know.
@@ -1694,8 +1694,8 @@
 *AMR:	+< yeah@s:cym&eng . 1023793_1024232
 %gls:	yeah
 %eng:	Yeah.
-*ANT:	wsnos xx . 1024197_1024859
-%gls:	week xx
+*ANT:	wsnos xxx . 1024197_1024859
+%gls:	week xxx
 %eng:	Week [..].
 *AMR:	oh@s:cym&eng cymra mwy na mis ! 1024798_1026392
 %gls:	IM take.2S.IMPER more than month
@@ -1892,7 +1892,7 @@
 %eng:	Yes, twelve of them.
 *ANT:	&=laugh . 1143489_1145277
 *AMR:	+< &=laugh . 1144011_1145265
-*ANT:	<ddeudodd hi (ddi)m [?]> [=! laugh] (.) “chwech a hanner” neu “cant ac wyth [?]” &=laugh . 1145103_1148365
+*ANT:	<ddeudodd hi (ddi)m [?]> [=! laugh] (.) “chwech a hanner” neu “cant ac wyth” [?] &=laugh . 1145103_1148365
 %gls:	say.3S.PAST PRON.3SF NEG six and half or hundred and eight
 %eng:	She didn't say "six and a half" or "a hundred and eight" .
 *ANT:	+" deuddeg &=laugh . 1148272_1149491

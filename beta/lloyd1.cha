@@ -1,7 +1,7 @@
 @Font:	Win95:Arial:-21:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	JEA Jean Adult, GRG George Adult, SAN Sandra Adult, ART Arthur Adult, RES Researcher Adult
 @ID:	cym|siarad|JEA|53;|female|||Adult||
 @ID:	cym|siarad|GRG|53;|male|||Adult||
@@ -70,9 +70,9 @@
 *GRG:	coffee@s:cym&eng please@s:cym&eng . 26326_28904
 %gls:	coffee please
 %eng:	coffee please
-%com:	Both moving around the kitchen . %snd:"Lloyd1"_28775_43381
+@Comment:	Both move around the kitchen .
 *GRG:	&=sings . 43381_45645
-%com:	Jean makes the tea and shakes the sweeteners . %snd:"Lloyd1"_45627_65085
+@Comment:	Jean makes the tea and shakes the sweeteners .
 *JEA:	mae isio hen glwt i wneud hwn does . 65047_67276
 %gls:	be.3S.PRES need old cloth to do.NONFIN this be.3S.PRES.NEG
 %eng:	we need an old cloth to do this don't we
@@ -402,7 +402,7 @@
 *JEA:	yeah@s:cym&eng . 339936_340957
 %gls:	yeah
 %eng:	yeah
-*JEA:	well@s:cym&eng wyt sure@s:cym&eng (.) just@s:cym&eng cynhesu fo (y)n_de xxx. 340903_343225
+*JEA:	well@s:cym&eng wyt sure@s:cym&eng (.) just@s:cym&eng cynhesu fo (y)n_de xxx . 340903_343225
 %gls:	well be.2S.PRES sure just warm.NONFIN PRON.3SM PRT TAG xxx
 %eng:	well of course you do just wram it up you know [...]
 *ART:	+< [- eng] eat everything . 342528_343295
@@ -1554,7 +1554,7 @@
 %eng:	hundred pound per person per night
 *GRG:	xxx “cinio pasg” it@s:eng says@s:eng on@s:eng the@s:eng left@s:eng . 1265966_1267595
 %gls:	xxx lunch easter it says on the left
-%eng: "easter lunch" it says on the left
+%eng:	"easter lunch" it says on the left
 *JEA:	+< [- eng] for dinner bed and breakfast . 1266906_1268629
 %gls:	for dinner bed and breakfast
 %eng:	for dinner bed and breakfast

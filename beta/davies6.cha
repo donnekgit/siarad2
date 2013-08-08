@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en, sp
+@Languages:	cym, eng
 @Participants:	DAN Daniel Adult, HEC Hector Adult
 @ID:	cym|siarad|DAN|25;|male|||Adult||
 @ID:	cym|siarad|HEC|23;|male|||Adult||
@@ -23,8 +23,8 @@
 *HEC:	oe(dd) [?] . 2188_3019
 %gls:	be.3S.IMP
 %eng:	really?
-*HEC:	mam@s:cym&eng a dad@s:cym&eng a bobl ddiarth <ydy o wedyn> [?] xx . 3053_5027
-%gls:	mother and dad and people unfamiliar be.3S.PRES PRON.3SM after xx
+*HEC:	mam@s:cym&eng a dad@s:cym&eng a bobl ddiarth <ydy o wedyn> [?] xxx . 3053_5027
+%gls:	mother and dad and people unfamiliar be.3S.PRES PRON.3SM after xxx
 %eng:	it's mum and dad and strangers afterwards.
 *HEC:	(oe)s (dd)im (.) mynedd bod o_gwmpas tŷ de . 5348_7802
 %gls:	be.3S.PRES NEG patience be.NONFIN around house TAG
@@ -112,7 +112,7 @@
 *HEC:	tax@s:cym&eng one@s:eng point@s:cym&eng rywbeth ia . 67906_69635
 %gls:	tax one point something yes
 %eng:	tax of one point something, yes.
-*DAN:	+< <point@s:cym&eng two@s:eng [//] <xx nine@s:eng two@s:eng five@s:eng> [=! laugh]> [?] . 68850_70947
+*DAN:	+< <point@s:cym&eng two@s:eng [//] <xxx nine@s:eng two@s:eng five@s:eng> [=! laugh]> [?] . 68850_70947
 *HEC:	+< sut ? 69577_70366
 %gls:	how
 %eng:	how?
@@ -220,8 +220,8 @@
 %gls:	be.3S.PRES.NEG there DET one quote by nobody PRT go.NONFIN PRT say.NONFIN name PRON.3PL now
 %eng:	no quote by anyone is going to say their name now.
 *DAN:	+< &=laugh . 137408_138906
-*HEC:	os oes xxx fod [?] yn xx &=laugh . 139383_140961
-%gls:	if be.3S.PRES xxx be.3S.PRES PRT xx
+*HEC:	os oes xxx fod [?] yn xxx &=laugh . 139383_140961
+%gls:	if be.3S.PRES xxx be.3S.PRES PRT xxx
 %eng:	if there's [...] supposed to be in [...].
 *HEC:	bod nhw (we)di dreifio fyny bore (y)ma (fe)lly . 140961_142631
 %gls:	be.NONFIN PRON.3PL PRT.PAST drive.NONFIN up morning here thus
@@ -239,7 +239,7 @@
 %gls:	be.1S.IMP PRON.1S think.NONFIN about be.NONFIN PRON.3SF right bizarre
 %eng:	I thought it was quite bizarre.
 *DAN:	&=laugh . 148966_149360
-*HEC:	wnaeth hi (ddi)m deud India@s:cym&eng “[?]” . 149001_150962
+*HEC:	wnaeth hi (ddi)m deud India@s:cym&eng [?] . 149001_150962
 %gls:	do.3SF.PAST PRON.3SF NEG say.NONFIN India
 %eng:	she didn't say India.
 *DAN:	&=laugh . 149941_151032
@@ -314,8 +314,8 @@
 *DAN:	tyrd â hwnna yma . 214629_217207
 %gls:	come.2S.IMPER with that_one here
 %eng:	bring that here.
-*DAN:	xx weld [?] . 217290_218194
-%gls:	xx see.NONFIN
+*DAN:	xxx weld [?] . 217290_218194
+%gls:	xxx see.NONFIN
 %eng:	[?Let me] see?
 %com:	DAN takes the radio mic unit from HEC, who has noticed the red warning light has come on.
 *DAN:	ti dorri fo do . 218216_223994
@@ -378,7 +378,7 @@
 %eng:	you're never serious.
 *DAN:	+" [- eng] my God . 267783_270358
 *DAN:	+" look@s:eng like@s:eng a@s:eng bunch@s:cym&eng of@s:eng &reis +/. 270048_271542
-*HEC:	+< [- eng] +" mother of God . 270939_272181
+*HEC:	+< +" [- eng] mother of God . 270939_272181
 *DAN:	+" [- eng] mother of God [=! laugh] . 272068_273737
 *DAN:	&=laugh . 273871_276054
 *DAN:	+" do@s:eng I@s:eng look@s:eng like@s:eng a@s:eng cat@s:cym&eng [?] to@s:eng you@s:eng boy@s:cym&eng &=laugh ? 276104_278039
@@ -780,7 +780,7 @@
 *DAN:	a finnau (he)fyd . 604633_605396
 %gls:	and PRON.1S also
 %eng:	and me too.
-*HEC:	xx . 605257_606302
+*HEC:	xxx . 605257_606302
 *DAN:	<hen Jason@s:cym&eng> [?]. 606411_608856
 %gls:	old Jason
 %eng:	old Jason.
@@ -936,8 +936,8 @@
 %gls:	go.2S.IMPER to corner
 %eng:	go to the corner.
 *HEC:	xxx . 777951_779249
-*HEC:	doedd gen i (ddi)m llawer o lectures@s:cym&eng yn Main@s:eng Arts@s:cym&eng xx pan o'n i (y)n coleg . 779618_781966
-%gls:	be.3S.IMP.NEG with PRON.1S NEG many of lectures in Main Arts xx when be.1S.IMP PRON.1S in college
+*HEC:	doedd gen i (ddi)m llawer o lectures@s:cym&eng yn Main@s:eng Arts@s:cym&eng xxx pan o'n i (y)n coleg . 779618_781966
+%gls:	be.3S.IMP.NEG with PRON.1S NEG many of lectures in Main Arts xxx when be.1S.IMP PRON.1S in college
 %eng:	I didn't have many lectures in Main Arts when I was at university.
 *DAN:	ah@s:cym&eng lawr fan (a)cw oedda chdi . 782910_784731
 %gls:	IM down place there be.2S.IMP PRON.2S
@@ -1036,8 +1036,8 @@
 *HEC:	tibod y fence@s:cym&eng mawr (y)na right@s:cym&eng yn cefn ? 840447_842003
 %gls:	know.2S DET fence big there right in back
 %eng:	you know that big fence at the back?
-*HEC:	xx giât mawr (y)no [?] . 842041_843187
-%gls:	xx gate big there
+*HEC:	xxx giât mawr (y)no [?] . 842041_843187
+%gls:	xxx gate big there
 %eng:	a big gate there?
 *DAN:	yeah@s:cym&eng [?] . 843096_843605
 *HEC:	pawb [?] ar ben hwnnw (y)n <lluchio snowballs@s:eng [?] at> [=! laugh] y lecturer@s:eng xxx . 843683_847066
@@ -1156,7 +1156,7 @@
 *HEC:	wyth (fa)swn i (y)n deud . 910701_912523
 %gls:	eight be.1S.CONDIT PRON.1S PRT say.NONFIN
 %eng:	eight, I'd say.
-*DAN:	er@s:cym&eng tua wyth_deg_wyth wyth_deg_naw oedd C'Mon_Midffild@s:cym&eng de . 912515_915530
+*DAN:	er@s:cym&eng tua wyth_deg_wyth wyth_deg_naw oedd C'mon_Midffild@s:cym&eng de . 912515_915530
 %gls:	IM about eighty_eight eighty_nine be.3S.IMP C'Mon_Midffild TAG
 %eng:	"C'Mon Midffild" was in about eighty eight, eighty nine.
 *HEC:	mmm@s:cym&eng . 915530_917282
@@ -1230,8 +1230,8 @@
 *DAN:	yndy . 961998_962462
 %gls:	yes
 %eng:	yes.
-*DAN:	xx . 962511_963031
-*HEC:	cracker@s:cym&eng o foy@s:cym&eng xx . 962789_963902
+*DAN:	xxx . 962511_963031
+*HEC:	cracker@s:cym&eng o foy@s:cym&eng xxx . 962789_963902
 %gls:	cracker of boy
 %eng:	a cracker of a bloke.
 *DAN:	&tə Derek_Peryg@s:cym&eng oedd dechrau (y)r ail gyfres . 964468_966717
@@ -1347,8 +1347,8 @@
 %gls:	crikey hope.NONFIN NEG
 %eng:	crikey, I hope not.
 *DAN:	Tecwyn_Parri@s:cym&eng xxx [=! laugh] &=laugh . 1041362_1046051
-*HEC:	+< ia [=! laugh] xx (fa)sai fo (ddi)m yn cael munud o heddwch gen i de &=laugh . 1042691_1045981
-%gls:	yes xx be.3S.CONDIT PRON.3SM NEG PRT get.NONFIN minute of peace with PRON.1S TAG
+*HEC:	+< ia [=! laugh] xxx (fa)sai fo (ddi)m yn cael munud o heddwch gen i de &=laugh . 1042691_1045981
+%gls:	yes xxx be.3S.CONDIT PRON.3SM NEG PRT get.NONFIN minute of peace with PRON.1S TAG
 %eng:	yes, he wouldn't get one minute of peace from me, eh.
 *DAN:	(ddyl)sa [?] [=! laugh] ti fynd â Graham@s:cym&eng (y)na [=! laugh] . 1046054_1047430
 %gls:	should.2S.CONDIT PRON.2S go.NONFIN with Graham there
@@ -1674,16 +1674,16 @@
 *DAN:	efo (y)r gweu (fe)lly . 1266697_1267846
 %gls:	with DET knit.NONFIN thus
 %eng:	like with the knitting.
-*HEC:	+" &=laugh xx one@s:eng blain@s:cym&eng one@s:eng pearl@s:eng &=laugh . 1267982_1270968
-%gls:	xx one plain one pearl
-%eng:	"[...] one plain, one pearl" .
+*HEC:	+" &=laugh xxx one@s:eng blain@s:cym&eng one@s:eng purl@s:eng &=laugh . 1267982_1270968
+%gls:	xxx one plain one purl
+%eng:	[...] one plain, one purl.
 *DAN:	+< &=laugh . 1268635_1273000
 *HEC:	mae honna (y)n un dda actually@s:eng [?] . 1271042_1272930
 %gls:	be.3S.PRES that_one PRT one good actually
 %eng:	that's a good one, actually.
-*HEC:	o'n i (we)di anghofio am y “one@s:eng blain@s:cym&eng one@s:eng pearl@s:eng” tan i mi [=? ni] weld o (y)n Galeri@s:cym&eng sti . 1272876_1276146
-%gls:	be.1S.IMP PRON.1S PRT.PAST forget.NONFIN about DET one plain one pearl until PRT PRON.1S see.NONFIN PRON.3SM in Galeri know.2S
-%eng:	I'd forgotten about "one plain, one pearl" until I saw it in Galeri, you know.
+*HEC:	o'n i (we)di anghofio am y “one@s:eng blain@s:cym&eng one@s:eng purl@s:eng” tan i mi [=? ni] weld o (y)n Galeri@s:cym&eng sti . 1272876_1276146
+%gls:	be.1S.IMP PRON.1S PRT.PAST forget.NONFIN about DET one plain one purl until PRT PRON.1S see.NONFIN PRON.3SM in Galeri know.2S
+%eng:	I'd forgotten about "one plain, one purl" until I saw it in Galeri, you know.
 *DAN:	&=laugh <a (y)r er@s:cym&eng> [/] (.) a (y)r plisman de . 1276181_1278608
 %gls:	and DET IM and DET policeman TAG
 %eng:	and that policeman.
@@ -1714,7 +1714,7 @@
 *DAN:	+" welais i (ddi)m_byd . 1305719_1307577
 %gls:	see.1S.PAST PRON.1S nothing
 %eng:	"I didn't see anything" .
-*HEC:	+< xx . 1306812_1307275
+*HEC:	+< xxx . 1306812_1307275
 *DAN:	xxx . 1307888_1309063
 %com:	DAN seems to be singing wordlessly.
 *HEC:	+< +" na finnau chwaith . 1308323_1309307
@@ -2077,8 +2077,8 @@
 *HEC:	dw (ddi)m (gwy)bod . 1652153_1652745
 %gls:	be.1S.PRES NEG know.NONFIN
 %eng:	dunno.
-*HEC:	xx chwarter i dri (y)ma . 1652699_1654452
-%gls:	xx quarter to three.M here
+*HEC:	xxx chwarter i dri (y)ma . 1652699_1654452
+%gls:	xxx quarter to three.M here
 %eng:	about quarter to three.
 *DAN:	(dy)dy erioed yn chwarter i dri ! 1654268_1656286
 %gls:	be.3S.PRES.NEG never PRT quarter to three.M
@@ -2153,7 +2153,7 @@
 *HEC:	o'n i arfer chwarae cricket@s:cym&eng yn fan (y)na . 1691446_1692791
 %gls:	be.1S.IMP PRON.1S use.NONFIN play.NONFIN cricket in place that
 %eng:	I used to play cricket there.
-*HEC:	xx Graham_Oliver@s:cym&eng . 1692967_1693882
+*HEC:	xxx Graham_Oliver@s:cym&eng . 1692967_1693882
 *DAN:	o't ? 1693756_1694614
 %gls:	be.2S.IMP
 %eng:	did you?
@@ -2329,8 +2329,8 @@
 *HEC:	&=laugh <oedd o mewn poen go iawn sti> [=! laugh] . 1799333_1801073
 %gls:	be.3S.IMP PRON.3SM in pain rather right know.2S
 %eng:	he was in real pain, you know.
-*DAN:	&=laugh dim ond Graham_Oliver@s:cym&eng xx . 1800226_1804161
-%gls:	NEG but Graham_Oliver xx
+*DAN:	&=laugh dim ond Graham_Oliver@s:cym&eng xxx . 1800226_1804161
+%gls:	NEG but Graham_Oliver xxx
 %eng:	only Graham Oliver [..].
 *HEC:	o'n i feddwl bod o right@s:cym&eng funny@s:eng de . 1803977_1805090
 %gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.3SM right funny TAG
@@ -2338,9 +2338,9 @@
 *HEC:	ond oedd o (y)n flin (ef)o fi . 1804999_1806007
 %gls:	but be.3S.IMP PRON.3SM PRT angry with PRON.1S
 %eng:	but he was angry with me.
-*HEC:	+" na mae (y)n brifo go iawn xx &=laugh . 1806011_1808422
-%gls:	no be.3S.PRES PRT hurt.NONFIN rather right xx
-%eng:	"no, it really hurts [..] " .
+*HEC:	+" na mae (y)n brifo go iawn xxx &=laugh . 1806011_1808422
+%gls:	no be.3S.PRES PRT hurt.NONFIN rather right xxx
+%eng:	no, it really hurts [...] .
 *DAN:	+< &=laugh . 1807308_1809909
 *DAN:	oh@s:cym&eng fucking@s:eng hell@s:eng . 1810606_1812360
 %com:	sound of machinery outside.
@@ -2587,7 +2587,7 @@
 %gls:	well be.1S.CONDIT PRON.1S think.NONFIN TAG
 %eng:	well, I'd think so, eh.
 *DAN:	yeah@s:cym&eng . 1980129_1980589
-*DAN:	xx . 1981343_1981863
+*DAN:	xxx . 1981343_1981863
 *HEC:	+< (fa)swn i (ddi)m yn meddwl (fa)sen nhw (y)n hapus xxx . 1981611_1983082
 %gls:	be.1S.CONDIT PRON.1S NEG PRT think.NONFIN be.3PL.CONDIT PRON.3PL PRT happy xxx
 %eng:	I wouldn't think they'd be happy [...].
@@ -2695,8 +2695,8 @@
 %gls:	be.3S.PRES Dorian know.2S brother Roy_Boded
 %eng:	Dorian is...you know, Roy Boded's brother?
 *DAN:	oh@s:cym&eng yeah@s:cym&eng . 2066573_2067175
-*HEC:	mae Dorian@s:cym&eng allan bob nos Fawrth (.) xx am bint@s:cym&eng . 2067070_2070814
-%gls:	be.3S.PRES Dorian out every night Tuesday xx for pint
+*HEC:	mae Dorian@s:cym&eng allan bob nos Fawrth (.) xxx am bint@s:cym&eng . 2067070_2070814
+%gls:	be.3S.PRES Dorian out every night Tuesday xxx for pint
 %eng:	Dorian's out every Tuesday night, [...] for a pint.
 *HEC:	oedd xxx yn Foundry@s:cym&eng neithiwr de . 2071681_2073489
 %gls:	be.3S.IMP xxx in Foundry last_night TAG

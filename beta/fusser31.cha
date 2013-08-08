@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-19:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ARF Arfon Adult, BRW Brwyno Teenager
 @ID:	cym|siarad|ARF|43;|male|||Adult||
 @ID:	cym|siarad|BRW|12;|male|||Teenager||
@@ -16,8 +16,8 @@
 @Comment:	Filename: Fusser31.cha; Soundfile: Fusser31.wav
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
-*ARF:	xx long@s:eng story@s:cym&eng <oh@s:cym&eng na> [=? oedd (y)na] ond [?] <wnes i> [/] wnes i (.) ennill dau docyn i weld (.) Judas_Priest@s:cym&eng a (.) Iron_Maiden@s:cym&eng . 0_6992
-%gls:	xx long story IM no but do.1S.PAST do.1S.PAST win.NONFIN two.M ticket to see.NONFIN Judas_Priest and Iron_Maiden
+*ARF:	xxx long@s:eng story@s:cym&eng <oh@s:cym&eng na> [=? oedd (y)na] ond [?] <wnes i> [/] wnes i (.) ennill dau docyn i weld (.) Judas_Priest@s:cym&eng a (.) Iron_Maiden@s:cym&eng . 0_6992
+%gls:	xxx long story IM no but do.1S.PAST do.1S.PAST win.NONFIN two.M ticket to see.NONFIN Judas_Priest and Iron_Maiden
 %eng:	[...] long story, oh no, but I...I won two tickets to see Judas Priest and Iron Maiden
 *ARF:	<o'n nhw> [?] (y)n syportio Iron_(Maiden)@s:cym&eng [//] (.) er@s:cym&eng Judas_Priest@s:cym&eng (.) yn Deeside@s:eng leisure@s:eng centre@s:eng . 6992_11564
 %gls:	be.3PL.IMP PRON.3PL PRT support.NONFIN Iron_Maiden IM Judas_Priest in Deeside leisure centre
@@ -96,8 +96,8 @@
 *BRW:	well@s:cym&eng +... 55519_59687
 %gls:	well
 %eng:	well...
-%com:	long silence %snd:"fusser31"_59687_64900
-*BRW:	xx &=laugh +/. 64900_66247
+@Comment:	long silence
+*BRW:	xxx &=laugh +/. 64900_66247
 *ARF:	well@s:cym&eng +/. 66247_66723
 %gls:	well
 %eng:	well...
@@ -129,8 +129,8 @@
 *ARF:	yn lle yn Llandudno@s:cym&eng ? 85812_87263
 %gls:	in where in Llandudno
 %eng:	where in Llandudno
-*BRW:	xx theatre@s:cym&eng . 87263_88796
-%gls:	xx theatre
+*BRW:	xxx theatre@s:cym&eng . 87263_88796
+%gls:	xxx theatre
 %eng:	[...] theatre
 *ARF:	ah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng dw i cofio . 88796_90120
 %gls:	IM yeah yeah yeah be.1S.PRES PRON.1S remember.NONFIN
@@ -332,7 +332,7 @@
 *BRW:	+< ah@s:cym&eng o_k@s:cym&eng . 276265_277147
 %gls:	IM o_k
 %eng:	ah, ok
-*BRW:	xx +/. 277147_278401
+*BRW:	xxx +/. 277147_278401
 *ARF:	so@s:cym&eng [/] (.) so@s:cym&eng (dy)dy hynna ddim really@s:eng mynd i fod yn (.) bosib chwaith <dw (ddi)m yn meddwl> [?] . 278146_282221
 %gls:	so so be.3S.PRES.NEG that NEG really go.NONFIN to be.NONFIN PRT possible either be.1S.PRES NEG PRT think.NONFIN
 %eng:	so...so that's not really going to be possible either, I don't think
@@ -356,7 +356,7 @@
 %gls:	thanks PRT big very
 %eng:	thank you very much
 *BRW:	&=laugh . 293703_295085
-*ARF:	oh@s:cym&eng (.) blown@s:eng your@s:eng chance@s:cym&eng <of@s:eng a@s:eng> [=? of@s:eng er@s:cym&eng] [//] (.) o er@s:cym&eng (.) rywle i aros yn_dwyt . 295085_302109
+*ARF:	oh@s:cym&eng (.) blown@s:eng your@s:eng chance@s:cym&eng of@s:eng a@s:eng [=? er@s:cym&eng] [//] (.) o er@s:cym&eng (.) rywle i aros yn_dwyt . 295085_302109
 %gls:	IM blown your chance of a of IM somewhere to stay.NONFIN be.2S.PRES.NEG
 %eng:	oh, blown your chance of a...of, er, somewhere to stay, haven't you
 *BRW:	&=laugh . 302109_303098
@@ -410,7 +410,7 @@
 *ARF:	xxx na mae nhw mynd i weld <pob gigs@s:cym&eng> [//] pob math o gigs@s:cym&eng . 335585_339788
 %gls:	xxx no be.3PL.PRES PRON.3PL go.NONFIN to see.NONFIN every gigs every kind of gigs
 %eng:	[...] no, they go to see all gigs...all kinds of gigs
-*BRW:	+< xx &ɬ +//. 336793_337280
+*BRW:	+< xxx &ɬ +//. 336793_337280
 *BRW:	+< xxx . 338824_340090
 *ARF:	beth ydy mae [/] mae pobl really@s:eng licio nhw dydyn . 340090_342447
 %gls:	thing be.3S.PRES be.3S.PRES be.3S.PRES people really like.NONFIN PRON.3PL be.3S.PRES.NEG
@@ -424,8 +424,8 @@
 *BRW:	yeah@s:cym&eng . 343828_346139
 %gls:	yeah
 %eng:	yeah
-*ARF:	o_k@s:cym&eng so@s:cym&eng <wnawn ni um@s:cym&eng> [//] (.) xx ni edrych am hynna . 346139_356158
-%gls:	o_k so do.1PL.NONPAST PRON.1PL IM xx PRON.1PL look.NONFIN for that
+*ARF:	o_k@s:cym&eng so@s:cym&eng <wnawn ni um@s:cym&eng> [//] (.) xxx ni edrych am hynna . 346139_356158
+%gls:	o_k so do.1PL.NONPAST PRON.1PL IM xxx PRON.1PL look.NONFIN for that
 %eng:	ok, so we'll, um... we [...] look for that
 *BRW:	&də ti (we)di clywed am y support@s:cym&eng band@s:cym&eng ? 356158_357923
 %gls:	PRON.2S PRT.PAST hear.NONFIN about DET support band
@@ -595,8 +595,8 @@
 *ARF:	(oe)s gyn ti un ? 488510_489265
 %gls:	be.3S.PRES with PRON.2S one
 %eng:	have you got one?
-*BRW:	oh@s:cym&eng dw [/] dw (ddi)m gallu ateb xx . 488824_490229
-%gls:	IM be.1S.PRES be.1S.PRES NEG can.NONFIN answer.NONFIN xx
+*BRW:	oh@s:cym&eng dw [/] dw (ddi)m gallu ateb xxx . 488824_490229
+%gls:	IM be.1S.PRES be.1S.PRES NEG can.NONFIN answer.NONFIN xxx
 %eng:	oh, I...I can't answer [...]
 *ARF:	ti (ddi)m gallu (.) yeah@s:cym&eng [?] . 490229_491657
 %gls:	PRON.2S NEG can.NONFIN yeah
@@ -731,8 +731,8 @@
 *ARF:	dach chi wneud American_Idiot@s:cym&eng ? 613928_618479
 %gls:	be.2PL.PRES PRON.2PL do.NONFIN American_Idiot
 %eng:	do you do American Idiot?
-*BRW:	um@s:cym&eng (.) well@s:cym&eng mae pawb yn gwybod o xx [//] heblaw am y drummer@s:cym&eng . 618479_622833
-%gls:	IM well be.3S.PRES everybody PRT know.NONFIN PRON.3SM xx except for DET drummer
+*BRW:	um@s:cym&eng (.) well@s:cym&eng mae pawb yn gwybod o xxx [//] heblaw am y drummer@s:cym&eng . 618479_622833
+%gls:	IM well be.3S.PRES everybody PRT know.NONFIN PRON.3SM xxx except for DET drummer
 %eng:	um, well everybody knows it [...] ...apart from the drummer
 *BRW:	mae o (y)n deud bod y darn drums@s:cym&eng yn rhy anodd . 622833_624899
 %gls:	be.3S.PRES PRON.3SM PRT say.NONFIN be.NONFIN DET piece drums PRT too difficult
@@ -761,17 +761,17 @@
 *BRW:	yeah@s:cym&eng . 635722_636140
 %gls:	yeah
 %eng:	yeah
-*ARF:	oh@s:cym&eng xx . 636140_637278
-%gls:	IM xx
+*ARF:	oh@s:cym&eng xxx . 636140_637278
+%gls:	IM xxx
 %eng:	oh [...]
-*BRW:	xx (doe)s (yn)a neb (.) dal yna pan wnes i (.) gychwyn o (.) sy heb newid (.) heblaw am y lead@s:eng guitarist@s:eng . 637022_644847
-%gls:	xx be.3S.PRES.NEG there nobody still there when do.1S.PAST PRON.1S start.NONFIN PRON.3SM be.PRES.REL without change.NONFIN except for DET lead guitarist
+*BRW:	xxx (doe)s (yn)a neb (.) dal yna pan wnes i (.) gychwyn o (.) sy heb newid (.) heblaw am y lead@s:eng guitarist@s:eng . 637022_644847
+%gls:	xxx be.3S.PRES.NEG there nobody still there when do.1S.PAST PRON.1S start.NONFIN PRON.3SM be.PRES.REL without change.NONFIN except for DET lead guitarist
 %eng:	[...] there's nobody still there [from?] when I started it, that hasn't changed, apart from the lead guitarist
 *ARF:	+< [- eng] really ? 643059_643535
 %gls:	really
 %eng:	really?
-*ARF:	so@s:cym&eng dim ond chdi <a (y)r &lig> [//] a (y)r lead@s:eng guitarist@s:eng sy dal yn y band@s:cym&eng (.) oedd yno fo pan xx ti gychwyn ? 644847_650248
-%gls:	so NEG but PRON.2S and DET and DET lead guitarist be.PRES.REL still in DET band be.3S.IMP in.3SM PRON.3SM when xx PRON.2S start.NONFIN
+*ARF:	so@s:cym&eng dim ond chdi <a (y)r &lig> [//] a (y)r lead@s:eng guitarist@s:eng sy dal yn y band@s:cym&eng (.) oedd yno fo pan xxx ti gychwyn ? 644847_650248
+%gls:	so NEG but PRON.2S and DET and DET lead guitarist be.PRES.REL still in DET band be.3S.IMP in.3SM PRON.3SM when xxx PRON.2S start.NONFIN
 %eng:	so there's only you and the lead guitarist left in the band who were in it when you started?
 *BRW:	well@s:cym&eng pan wnes i [!] cychwyn &=laugh . 650248_652291
 %gls:	well when do.1S.PAST PRON.1S start.NONFIN
@@ -800,8 +800,8 @@
 *BRW:	a mae (y)r (.) &g athrawes cerdd yn deud dan ni (y)n torri leads@s:cym&eng (.) sy (ddi)m yn wir . 674559_681307
 %gls:	and be.3S.PRES DET teacher music PRT say.NONFIN be.1PL.PRES PRON.1PL PRT break.NONFIN leads be.PRES.REL NEG PRT true
 %eng:	and the music teacher says we break leads, which isn't true
-*BRW:	ond (.) wed(yn) [//] wan xx ni gorfod mynd â guitars@s:cym&eng a leads@s:cym&eng ein hunan (.) os dan ni isio practeisio nhw [?] . 681307_688122
-%gls:	but then now xx PRON.1PL must.NONFIN go.NONFIN with guitars and leads POSS.1PL self if be.1PL.PRES PRON.1PL want practise.NONFIN PRON.3PL
+*BRW:	ond (.) wed(yn) [//] wan xxx ni gorfod mynd â guitars@s:cym&eng a leads@s:cym&eng ein hunan (.) os dan ni isio practeisio nhw [?] . 681307_688122
+%gls:	but then now xxx PRON.1PL must.NONFIN go.NONFIN with guitars and leads POSS.1PL self if be.1PL.PRES PRON.1PL want practise.NONFIN PRON.3PL
 %eng:	but then...now [...] we have to take our own guitars and leads if we want to practise there
 *BRW:	fedran ni mond iwsio (y)r amps@s:cym&eng . 688122_690433
 %gls:	can.1PL.NONPAST PRON.1PL only use.NONFIN DET amps
@@ -942,8 +942,8 @@
 *BRW:	dan ni (ddi)m (.) (we)di practeisio eto . 802344_804794
 %gls:	be.1PL.PRES PRON.1PL NEG PRT.PAST practise.NONFIN yet
 %eng:	we haven't practised yet
-*BRW:	achos &d well@s:cym&eng dan ni (ddi)m (we)di cael xx [=! laughs] [//] cyfle really@s:eng . 804794_808323
-%gls:	because well be.1PL.PRES PRON.1PL NEG PRT.PAST get.NONFIN xx opportunity really
+*BRW:	achos &d well@s:cym&eng dan ni (ddi)m (we)di cael xxx [=! laughs] [//] cyfle really@s:eng . 804794_808323
+%gls:	because well be.1PL.PRES PRON.1PL NEG PRT.PAST get.NONFIN xxx opportunity really
 %eng:	because, well, we haven't had the chance, really
 *ARF:	uh_huh@s:cym&eng . 808323_808834
 %gls:	IM
@@ -960,8 +960,8 @@
 *BRW:	(a)c oedd o [=? Stuart@s:cym&eng] newydd dechrau cael um@s:cym&eng (.) gwersi drums@s:cym&eng . 820676_823892
 %gls:	and be.3S.IMP PRON.3SM new start.NONFIN get.NONFIN IM lessons drums
 %eng:	and he'd just started to have drum lessons
-*BRW:	xxx (.) o'n ni (ei)n dau xx ar [/] (.) ar mission@s:cym&eng (.) i ffeindio (.) bassist@s:eng . 823892_829268
-%gls:	[...] be.1PL.IMP PRON.1PL POSS.1PL two.M xx on on mission to find.NONFIN bassist
+*BRW:	xxx (.) o'n ni (ei)n dau xxx ar [/] (.) ar mission@s:cym&eng (.) i ffeindio (.) bassist@s:eng . 823892_829268
+%gls:	[...] be.1PL.IMP PRON.1PL POSS.1PL two.M xxx on on mission to find.NONFIN bassist
 %eng:	[...] we were both [...] on...on a mission to find a bassist
 *ARF:	yeah@s:cym&eng . 829268_830022
 %gls:	yeah
@@ -1154,8 +1154,8 @@
 *ARF:	mmm@s:cym&eng . 950466_951151
 %gls:	IM
 %eng:	mm
-*BRW:	xxx (.) dim xx (.) unig gwahaniaeth (y)dy o ar guitar@s:cym&eng ti efo (.) pedwar um@s:cym&eng (.) string@s:cym&eng yn lle chwech . 951151_959594
-%gls:	xxx NEG xx only difference be.3S.PRES PRON.3SM on guitar PRON.2S with four.M IM string in place one
+*BRW:	xxx (.) dim xxx (.) unig gwahaniaeth (y)dy o ar guitar@s:cym&eng ti efo (.) pedwar um@s:cym&eng (.) string@s:cym&eng yn lle chwech . 951151_959594
+%gls:	xxx NEG xxx only difference be.3S.PRES PRON.3SM on guitar PRON.2S with four.M IM string in place one
 %eng:	[...] not [...] the only different is on the guitar you have four strings instead of six
 *ARF:	+< &=cough . 952944_953606
 *BRW:	a (.) mae (y)r fath â pitch@s:cym&eng yn lot@s:cym&eng llai (.) is even@s:eng . 959594_964995
@@ -1206,8 +1206,8 @@
 *ARF:	so@s:cym&eng be (y)dy (y)r gwahaniaeth ? 1008909_1012728
 %gls:	so what be.3S.PRES DET difference
 %eng:	so what's the difference?
-*ARF:	achos xx ti (y)n cael &gʊr [//] (.) gwersi piano@s:cym&eng dwyt . 1012728_1015015
-%gls:	because xx PRON.2S PRT get.NONFIN lessons piano be.2S.PRES.NEG
+*ARF:	achos xxx ti (y)n cael &gʊr [//] (.) gwersi piano@s:cym&eng dwyt . 1012728_1015015
+%gls:	because xxx PRON.2S PRT get.NONFIN lessons piano be.2S.PRES.NEG
 %eng:	because [...] you get piano lessons, don't you
 *ARF:	<mae gen ti> [///] (.) ti fyny i gradd +... 1015015_1018150
 %gls:	be.3S.PRES with PRON.2S PRON.2S up to grade
@@ -1253,11 +1253,11 @@
 %gls:	because PRT obvious PRON.2S PRT come.NONFIN across sometimes be.NONFIN PRON.2S NEG PRT like.NONFIN DET stuff piano
 %eng:	because clearly you come across sometimes that you don't like the piano stuff
 *BRW:	xxx . 1054002_1055360
-*ARF:	o_k@s:cym&eng well@s:cym&eng xxx (.) egluro pam xx siarad amdano fo . 1055360_1058843
-%gls:	o_k well xxx explain.NONFIN why xx speak.NONFIN about.3SM PRON.3SM
+*ARF:	o_k@s:cym&eng well@s:cym&eng xxx (.) egluro pam xxx siarad amdano fo . 1055360_1058843
+%gls:	o_k well xxx explain.NONFIN why xxx speak.NONFIN about.3SM PRON.3SM
 %eng:	ok well [...] explain why [...] speak about it
-*BRW:	+< xx um@s:cym&eng +... 1056951_1058100
-%gls:	xx IM
+*BRW:	+< xxx um@s:cym&eng +... 1056951_1058100
+%gls:	xxx IM
 %eng:	[...] um...
 *BRW:	achos (.) <dach chi> [///] (.) dw i mond yn dysgu stuff@s:cym&eng clasurol . 1058843_1064683
 %gls:	because be.2PL.PRES PRON.2PL be.1S.PRES PRON.1S only PRT learn.NONFIN stuff classical
@@ -1313,8 +1313,8 @@
 *ARF:	right@s:cym&eng . 1112077_1112925
 %gls:	right
 %eng:	right
-*BRW:	a xx um@s:cym&eng (.) dw meddwl (..) <efo &h um@s:cym&eng> [//] (..) a efo (y)r clarinet@s:cym&eng (.) xxx (.) achos dw i (we)di bod yn chwarae fo mor hir (.) a (.) dw i (we)di [?] gael yn right@s:cym&eng bell yno fo so@s:cym&eng (.) dw (ddi)m really@s:eng isio roi fo fyny (.) a just@s:cym&eng gwastraffu hwnna i_gyd . 1112925_1136022
-%gls:	and xx IM be.1S.PRES think.NONFIN with IM and with DET clarinet xxx becuse be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT play.NONFIN PRON.3SM so long and be.1S.PRES PRON.1S PRT.PAST get.NONFIN PRT right far in.3SM PRON.3SM so be.1S.PRES NEG really want.NONFIN give.NONFIN PRON.3SM up and just waste.NONFIN that all
+*BRW:	a xxx um@s:cym&eng (.) dw meddwl (..) <efo &h um@s:cym&eng> [//] (..) a efo (y)r clarinet@s:cym&eng (.) xxx (.) achos dw i (we)di bod yn chwarae fo mor hir (.) a (.) dw i (we)di [?] gael yn right@s:cym&eng bell yno fo so@s:cym&eng (.) dw (ddi)m really@s:eng isio roi fo fyny (.) a just@s:cym&eng gwastraffu hwnna i_gyd . 1112925_1136022
+%gls:	and xxx IM be.1S.PRES think.NONFIN with IM and with DET clarinet xxx becuse be.1S.PRES PRON.1S PRT.PAST be.NONFIN PRT play.NONFIN PRON.3SM so long and be.1S.PRES PRON.1S PRT.PAST get.NONFIN PRT right far in.3SM PRON.3SM so be.1S.PRES NEG really want.NONFIN give.NONFIN PRON.3SM up and just waste.NONFIN that all
 %eng:	and [...] um, I think with, um...and with the clarinet [...] because I've been playing it so long, and I've gotten quite far in it, so I don't really want to give it up and just waste all that
 *ARF:	yeah@s:cym&eng [?] . 1136010_1137020
 %gls:	yeah
@@ -1388,8 +1388,8 @@
 *ARF:	right@s:cym&eng . 1225918_1226835
 %gls:	right
 %eng:	right
-*BRW:	a [/] (.) a mae Kevin@s:cym&eng (.) &=laugh os ti (ddi)m yn practeisio am (.) tri wythnos &=laugh (dy)dy o (ddi)m xx (.) care_io@s:eng+cym . 1226835_1234741
-%gls:	and and be.3S.PRES Kevin if PRON.2S NEG PRT practise.NONFIN for three.M week be.3S.PRES.NEG PRON.3SM NEG xx care.NONFIN
+*BRW:	a [/] (.) a mae Kevin@s:cym&eng (.) &=laugh os ti (ddi)m yn practeisio am (.) tri wythnos &=laugh (dy)dy o (ddi)m xxx (.) care_io@s:eng+cym . 1226835_1234741
+%gls:	and and be.3S.PRES Kevin if PRON.2S NEG PRT practise.NONFIN for three.M week be.3S.PRES.NEG PRON.3SM NEG xxx care.NONFIN
 %eng:	and...and Kevin, if you don't practise for three weeks he doesn't [...] care
 *ARF:	yeah@s:cym&eng . 1234741_1235496
 %gls:	yeah
@@ -1513,8 +1513,8 @@
 *BRW:	+< yeah@s:cym&eng . 1349304_1349710
 %gls:	yeah
 %eng:	yeah
-*BRW:	a mae (.) couple@s:cym&eng o xx [//] bobl dw i (we)di siarad efo sy (y)n chwarae guitar@s:cym&eng (.) um@s:cym&eng (..) a mae [/] mae nhw (we)di deud um@s:cym&eng (.) mae nhw (we)di troi o [?] drosodd . 1350256_1363805
-%gls:	and be.3S.PRES couple of xx people be.1S.PRES PRON.1S PRT.PAST speak.NONFIN with be.PRES.REL PRT play.NONFIN guitar IM and be.3PL.PRES be.3PL.PRES PRON.3PL PRT.PAST say.NONFIN IM be.3PL.PRES PRON.3PL PRT.PAST turn.NONFIN PRON.3SM over
+*BRW:	a mae (.) couple@s:cym&eng o xxx [//] bobl dw i (we)di siarad efo sy (y)n chwarae guitar@s:cym&eng (.) um@s:cym&eng (..) a mae [/] mae nhw (we)di deud um@s:cym&eng (.) mae nhw (we)di troi o [?] drosodd . 1350256_1363805
+%gls:	and be.3S.PRES couple of xxx people be.1S.PRES PRON.1S PRT.PAST speak.NONFIN with be.PRES.REL PRT play.NONFIN guitar IM and be.3PL.PRES be.3PL.PRES PRON.3PL PRT.PAST say.NONFIN IM be.3PL.PRES PRON.3PL PRT.PAST turn.NONFIN PRON.3SM over
 %eng:	and a couple of [...] ...people I've spoken to who play the guitar, um and they've said, um, they've turned it over
 *BRW:	so@s:cym&eng mae nhw (y)n (.) <fath â> [?] wneud y [/] (.) y (.) gwaith (.) um@s:cym&eng ar y fret@s:cym&eng (.) efo (y)r llaw cryfach nhw (.) sy [?] um@s:cym&eng (.) well [?] &də [//] dw (ddi)m yn gwybod . 1363805_1378290
 %gls:	so be.3PL.PRES PRON.3PL PRT kind with do.NONFIN DET DET work IM on DET fret with DET hand stronger PRON.3PL be.PRES.REL IM better be.1S.PRES NEG PRT know.NONFIN
@@ -1538,8 +1538,8 @@
 *ARF:	achos ti (we)di bod yn wneud o am gymaint . 1386775_1388203
 %gls:	because PRON.2S PRT.PAST be.NONFIN PRT do.NONFIN PRON.3SM for so_much
 %eng:	because you've been doing it for so long
-*BRW:	ond xx mae fod i fod yn haws neu (ry)wbeth . 1388203_1390617
-%gls:	but xx be.3S.PRES be.NONFIN to be.NONFIN PRT easier or something
+*BRW:	ond xxx mae fod i fod yn haws neu (ry)wbeth . 1388203_1390617
+%gls:	but xxx be.3S.PRES be.NONFIN to be.NONFIN PRT easier or something
 %eng:	but [...] it's supposed to be easier or something
 *ARF:	well@s:cym&eng ti (y)n gryfach efo dy llaw chwith dwyt . 1390617_1393032
 %gls:	well PRON.2S PRT stronger with POSS.2S hand left be.2S.PRES.NEG
@@ -1575,8 +1575,8 @@
 *BRW:	xxx (.) peth +//. 1425241_1428364
 %gls:	xxx thing
 %eng:	[...] thing...
-*BRW:	<I@s:eng mean@s:eng> [?] ti gorfod xx [//] gweithio i gael y nodyn . 1428364_1431557
-%gls:	I mean PRON.2S must.NONFIN xx work.NONFIN to get.NONFIN DET note
+*BRW:	<I@s:eng mean@s:eng> [?] ti gorfod xxx [//] gweithio i gael y nodyn . 1428364_1431557
+%gls:	I mean PRON.2S must.NONFIN xxx work.NONFIN to get.NONFIN DET note
 %eng:	I mean, you have to [...] ...work to get the note
 *ARF:	ie . 1431557_1432276
 %gls:	yes
@@ -1634,8 +1634,8 @@
 *ARF:	+< well@s:cym&eng &s na just@s:cym&eng yn be [/] <be &t> [//] (.) be (y)dy dy freuddwyd di . 1488009_1492154
 %gls:	well no just PRT what what what be.3S.PRES POSS.2S dream PRON.2S
 %eng:	well no, just what...what...what is your dream
-*BRW:	xxx &=laugh (..) <bod yn> [?] (.) multimillion@s:eng record@s:cym&eng selling@s:eng rock@s:cym&eng xx . 1492154_1500690
-%gls:	xxx be.NONFIN PRT multimillion record selling rock xx
+*BRW:	xxx &=laugh (..) <bod yn> [?] (.) multimillion@s:eng record@s:cym&eng selling@s:eng rock@s:cym&eng xxx . 1492154_1500690
+%gls:	xxx be.NONFIN PRT multimillion record selling rock xxx
 %eng:	[...] be a multimillion-record-selling rock [...]
 *ARF:	yeah@s:cym&eng [?] ? 1500690_1501131
 %gls:	yeah
@@ -1689,7 +1689,7 @@
 %gls:	yeah
 %eng:	yeah
 *BRW:	a ti gorfod (.) cymryd lot@s:cym&eng o bres xxx (..) xxx . 1556545_1560760
-%gls:	and PRON.2S must.NONFIN take.NONFIN lot of money xxx xxx
+%gls:	and PRON.2S must.NONFIN take.NONFIN lot of money xxx
 %eng:	and you have to take a lot of money [...]
 *ARF:	well@s:cym&eng mae [/] mae pobl (y)n gallu chwarae mewn bands@s:cym&eng . 1560202_1562118
 %gls:	well be.3S.PRES be.3S.PRES people PRT can.NONFIN play.NONFIN in bands
@@ -1700,8 +1700,8 @@
 *BRW:	dyna be (y)dy [=! laughs] swydd o dysgu guitar@s:cym&eng . 1563848_1566274
 %gls:	there what be.3S.PRES job PRON.3SM teach.NONFIN guitar
 %eng:	that's his job, to teach the guitar
-*ARF:	xx so@s:cym&eng mae o (y)n dysgu guitar@s:cym&eng i bobl . 1566274_1568283
-%gls:	xx so be.3S.PRES PRON.3SM PRT teach.NONFIN guitar to people
+*ARF:	xxx so@s:cym&eng mae o (y)n dysgu guitar@s:cym&eng i bobl . 1566274_1568283
+%gls:	xxx so be.3S.PRES PRON.3SM PRT teach.NONFIN guitar to people
 %eng:	[...] so he teaches people guitar
 *ARF:	a mae chwarae mewn bands@s:cym&eng dydy . 1568283_1570059
 %gls:	and be.3S.PRES play.NONFIN in bands be.3S.PRES.NEG
@@ -1734,15 +1734,15 @@
 *ARF:	timod . 1600596_1601397
 %gls:	know.2S
 %eng:	you know
-*ARF:	&s hyd_(y)n_oed os ti [//] (doe)s gyn ti (ddi)m pres o_gwbl (..) ti just@s:cym&eng yn gallu cael guitar@s:cym&eng allan (.) ochr stryd (..) het ar y (.) pafin xx off@s:cym&eng â chdi . 1601397_1610732
-%gls:	even if PRON.2S be.3S.PRES.NEG with PRON.2S NEG money at_all PRON.2S just PRT can.NONFIN get.NONFIN guitar out side street hat on DET pavement xx of with PRON.2S
+*ARF:	&s hyd_(y)n_oed os ti [//] (doe)s gyn ti (ddi)m pres o_gwbl (..) ti just@s:cym&eng yn gallu cael guitar@s:cym&eng allan (.) ochr stryd (..) het ar y (.) pafin xxx off@s:cym&eng â chdi . 1601397_1610732
+%gls:	even if PRON.2S be.3S.PRES.NEG with PRON.2S NEG money at_all PRON.2S just PRT can.NONFIN get.NONFIN guitar out side street hat on DET pavement xxx of with PRON.2S
 %eng:	even if you...you haven't got any money, you can just get your guitar out, side of the street, hat on the pavement and off you go
 *BRW:	+< yeah@s:cym&eng . 1604683_1605020
 %gls:	yeah
 %eng:	yeah
 *BRW:	+< &=laugh . 1609443_1610047
-*ARF:	a rywle rywbryd xx [//] <mi wneith> [?] rhywun roi pres yn yr het i chdi . 1610732_1614760
-%gls:	and somewhere sometime xx PRT do.3S.NONPAST somebody put.NONFIN money in DET hat for PRON.2S
+*ARF:	a rywle rywbryd xxx [//] <mi wneith> [?] rhywun roi pres yn yr het i chdi . 1610732_1614760
+%gls:	and somewhere sometime xxx PRT do.3S.NONPAST somebody put.NONFIN money in DET hat for PRON.2S
 %eng:	and somewhere sometime [...] ...somebody will put money in the hat for you
 *BRW:	dibynnu pa mor dda ti [=! laughs] . 1614760_1617640
 %gls:	depend.NONFIN which so good PRON.2S
@@ -1750,8 +1750,8 @@
 *ARF:	dylet ti drio wneud (hyn)na . 1617640_1618580
 %gls:	should.2S.CONDIT PRON.2S try.NONFIN do.NONFIN that
 %eng:	you should try to do that
-*ARF:	mae [///] (.) <dw i> [/] dw i (y)n cofio xx <oedd um@s:cym&eng> [///] (..) un o (y)r bands@s:cym&eng o'n i (y)n arfer really@s:eng licio oedd y Waterboys@s:cym&eng (.) o Iwerddon . 1618580_1626347
-%gls:	be.3S.PRES be.1S.PRES PRON.1S be.1S.PRES PRON.1S PRT remember xx be.3S.IMP IM one of DET bands be.1S.IMP PRON.1S PRT use.NONFIN really like.NONFIN be.3S.IMP DET Waterboys from Ireland
+*ARF:	mae [///] (.) <dw i> [/] dw i (y)n cofio xxx <oedd um@s:cym&eng> [///] (..) un o (y)r bands@s:cym&eng o'n i (y)n arfer really@s:eng licio oedd y Waterboys@s:cym&eng (.) o Iwerddon . 1618580_1626347
+%gls:	be.3S.PRES be.1S.PRES PRON.1S be.1S.PRES PRON.1S PRT remember xxx be.3S.IMP IM one of DET bands be.1S.IMP PRON.1S PRT use.NONFIN really like.NONFIN be.3S.IMP DET Waterboys from Ireland
 %eng:	I...I remember [...] um...one of the bands I used to really like were the Waterboys, from Ireland
 *BRW:	yeah@s:cym&eng . 1626347_1627148
 %gls:	yeah
@@ -1802,8 +1802,8 @@
 *ARF:	xxx tro diwetha o'n i (y)ng Nghaerdydd . 1680533_1684982
 %gls:	xxx turn previous be.1S.IMP PRON.1S in Cardiff
 %eng:	[...] the last time I was in Cardiff
-*ARF:	&s mae (.) pethau [?] mewn llefydd xx Edinburgh@s:eng Caerdydd a (.) llefydd mawr fel (y)na mae (y)r buskers@s:eng ddim just@s:cym&eng musicians@s:eng xx . 1684982_1691704
-%gls:	be.3S.PRES things in places xx Edinburgh Cardiff and places big like there be.3S.PRES DET buskers NEG just musicians xx
+*ARF:	&s mae (.) pethau [?] mewn llefydd xxx Edinburgh@s:eng Caerdydd a (.) llefydd mawr fel (y)na mae (y)r buskers@s:eng ddim just@s:cym&eng musicians@s:eng xxx . 1684982_1691704
+%gls:	be.3S.PRES things in places xxx Edinburgh Cardiff and places big like there be.3S.PRES DET buskers NEG just musicians xxx
 %eng:	things in places [...] Edinburgh, Cardiff and big places like that, the buskers, not just musicians [...]
 *ARF:	yn [//] yng Nghaerdydd tro diwetha (.) <oedd (y)na> [/] (..) oedd (y)na rywun (we)di &d wisgo fel um@s:cym&eng (..) Pharaoh@s:cym&eng bron iawn . 1691704_1700702
 %gls:	in in Cardiff turn previous be.3S.IMP there be.3S.IMP there somebody PRT.PAST wear.NONFIN like IM Pharaoh almost very
@@ -1826,8 +1826,8 @@
 *ARF:	a ti mynd heibio fo ti meddwl +"/. 1715865_1718140
 %gls:	and PRON.2S go.NONFIN past PRON.3SM PRON.2S think.NONFIN
 %eng:	and you pass it you think:
-*ARF:	+" (y)dy hwnna (y)n (.) wir xx be ? 1718140_1720497
-%gls:	be.3S.PRES that PRT true xx what
+*ARF:	+" (y)dy hwnna (y)n (.) wir xxx be ? 1718140_1720497
+%gls:	be.3S.PRES that PRT true xxx what
 %eng:	is that real [...] what?
 *ARF:	so@s:cym&eng (.) oedd pobl just@s:cym&eng <yn &a &a &s> [//] (.) yn [/] yn edrych arno fo a [?] &n just@s:cym&eng yn edrych os bysai fo (y)n (.) symud neu blink_io@s:eng+cym neu rywbeth . 1720497_1728171
 %gls:	so be.3S.IMP people just PRT PRT PRT look.NONFIN on.3SM PRON.3SM and just PRT look.NONFIN if be.3S.CONDIT PRON.3SM PRT move.NONFIN or blink.NONFIN or something
@@ -1940,8 +1940,8 @@
 *ARF:	a dw i (.) just@s:cym&eng ddim isio cymryd y risk@s:cym&eng (.) yna (..) <o cael (.) pobl> [//] (y)n enwedig efo Delyth@s:cym&eng I@s:eng suppose@s:eng . 1844771_1852317
 %gls:	and be.1S.PRES PRON.1S just NEG want take.NONFIN DET risk there of get.NONFIN people PRT particular with Delyth I suppose
 %eng:	and I just don't want to take that risk of having people...in particular with Delyth, I suppose
-*ARF:	xx ddim_byd yn_erbyn Delyth@s:cym&eng . 1852317_1854233
-%gls:	xx nothing against Delyth
+*ARF:	xxx ddim_byd yn_erbyn Delyth@s:cym&eng . 1852317_1854233
+%gls:	xxx nothing against Delyth
 %eng:	[...] nothing against Delyth
 *ARF:	dw i (ddi)m yn meddwl bysai hi . 1854233_1854976
 %gls:	be.1S.PRES PRON.1S NEG PRT think.NONFIN be.3S.CONDIT PRON.3SF
@@ -1967,8 +1967,8 @@
 *BRW:	iawn . 1875050_1878602
 %gls:	right
 %eng:	alright
-*BRW:	um@s:cym&eng (..) xx &=laugh xxx . 1878602_1885499
-%gls:	IM xx xxx
+*BRW:	um@s:cym&eng (..) xxx &=laugh xxx . 1878602_1885499
+%gls:	IM xxx
 %eng:	um [...]
 *ARF:	yeah@s:cym&eng ? 1885499_1886207
 %gls:	yeah
@@ -2025,7 +2025,7 @@
 *ARF:	achos ti fod i fod yn wneud [/] wneud dy [=? y] gwaith cartre . 1927797_1929956
 %gls:	because PRON.2S be.NONFIN to be.NONFIN PRT do.NONFIN do.NONFIN POSS.2S work home
 %eng:	because you're supposed to be doing...doing your homework
-%com:	the researcher and ARF briefly greet each other %snd:"fusser31"_1929956_1931407
+@Comment:	the researcher and ARF briefly greet each other
 *ARF:	os ti (y)n trio wneud dy [=? y] gwaith cartre right@s:cym&eng +/. 1931407_1934031
 %gls:	if PRON.2S PRT try.NONFIN do.NONFIN POSS.2S work home right
 %eng:	if you're trying to do your homework, right...
@@ -2146,8 +2146,8 @@
 *BRW:	ti (ddi)m [?] yn cael password@s:eng amdano fo . 2016105_2017695
 %gls:	PRON.2S NEG PRT get.NONFIN password for.3SM PRON.3SM
 %eng:	you don't get a password for it
-*ARF:	a (.) (doe)s dim ots <pa mor xx> [//] (.) be (y)dy oed chdi efo fo ? 2017695_2021643
-%gls:	and be.3S.PRES.NEG NEG matter which so xx what be.3S.PRES age PRON.2S with PRON.3SM
+*ARF:	a (.) (doe)s dim ots <pa mor xxx> [//] (.) be (y)dy oed chdi efo fo ? 2017695_2021643
+%gls:	and be.3S.PRES.NEG NEG matter which so xxx what be.3S.PRES age PRON.2S with PRON.3SM
 %eng:	and it doesn't matter how [...] ...what your age is with it?
 *BRW:	na . 2021643_2022293
 %gls:	no
@@ -2170,8 +2170,8 @@
 *BRW:	ond um@s:cym&eng +/. 2033763_2034994
 %gls:	but IM
 %eng:	but um...
-*ARF:	xx achos unwaith wyt ti (y)n cychwyn xxx Delyth@s:cym&eng isio wneud o bydd . 2034994_2037873
-%gls:	xx because once be.2S.PRES PRON.2S PRT start.NONFIN xxx Delyth want do.NONFIN PRON.3SM be.3S.FUT
+*ARF:	xxx achos unwaith wyt ti (y)n cychwyn xxx Delyth@s:cym&eng isio wneud o bydd . 2034994_2037873
+%gls:	xxx because once be.2S.PRES PRON.2S PRT start.NONFIN xxx Delyth want do.NONFIN PRON.3SM be.3S.FUT
 %eng:	[...] because once you start, Delyth [...] want to do it, won't she
 *BRW:	ie (..) ond +/. 2037873_2041240
 %gls:	yes but

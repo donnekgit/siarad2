@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	WYN Wyn Adult, EVA Eva Adult
 @ID:	cym|siarad|WYN|49;|male|||Adult||
 @ID:	cym|siarad|EVA|40;|female|||Adult||
@@ -14,7 +14,7 @@
 @Time Duration:	00:27:52
 @Media:	fusser22, audio
 @Comment:	Filename: Fusser22.cha; Soundfile: Fusser22.wav
-@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English, @s:nld = Dutch. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Eva's utterances tend to be long, she sometimes lists a lot, across many of Wyn's utterances, some are truncated, and difficult to divide into clauses
 *EVA:	i [/] i [/] <i um@s:cym&eng> [//] (.) xxx [//] i gau [?] (.) y rhif archebu . 0_6490
@@ -910,8 +910,8 @@
 *EVA:	yeah@s:cym&eng . 611043_611368
 %gls:	yeah
 %eng:	yeah
-*WYN:	everything@s:eng we've@s:eng done@s:eng so@s:eng far@s:eng is@s:eng (.) dechrau (y)n Llanrwst@s:cym&eng xx (.) xxx . 611368_616360
-%gls:	everything we've done so far is start.NONFIN in Llanrwst xx xxx
+*WYN:	everything@s:eng we've@s:eng done@s:eng so@s:eng far@s:eng is@s:eng (.) dechrau (y)n Llanrwst@s:cym&eng xxx (.) xxx . 611368_616360
+%gls:	everything we've done so far is start.NONFIN in Llanrwst xxx
 %eng:	everything we've done so far is, starting in Llanrwst [...]
 *EVA:	yeah@s:cym&eng so@s:cym&eng <mae &n> [/] mae (y)na lot@s:cym&eng o syniadau (.) mewn y pipeline@s:eng . 615361_619762
 %gls:	yeah so be.3S.PRES be.3S.PRES there lot of ideas in DET pipeline
@@ -1044,8 +1044,8 @@
 *EVA:	mmhm@s:cym&eng mmhm@s:cym&eng . 726920_727895
 %gls:	IM IM
 %eng:	mmhm, mmhm
-*WYN:	er@s:cym&eng (.) mae Iestyn@s:cym&eng (we)di bod yn xx +//. 727895_731262
-%gls:	IM be.3S.PRES Iestyn PRT.PAST be.NONFIN PRT xx
+*WYN:	er@s:cym&eng (.) mae Iestyn@s:cym&eng (we)di bod yn xxx +//. 727895_731262
+%gls:	IM be.3S.PRES Iestyn PRT.PAST be.NONFIN PRT xxx
 %eng:	er, Iestyn's been [...] ...
 *WYN:	mae (.) Gwenith@s:cym&eng a John@s:cym&eng (we)di bod yn helpu ni (.) ar yr ymgynghoriad ia ? 731262_737125
 %gls:	be.3S.PRES Gwenith and John PRT.PAST be.NONFIN PRT help.NONFIN PRON.1PL on DET consultation yes
@@ -1096,7 +1096,7 @@
 %gls:	IM
 %eng:	mmm
 *WYN:	[- eng] it's not a partnership . 768335_769357
-*WYN:	it's@s:eng just@s:cym&eng (.) like@s:eng a@s:eng group@s:cym&eng (.) of@s:eng (.) associates@s:eng networking@s:eng xx . 769357_773037
+*WYN:	it's@s:eng just@s:cym&eng (.) like@s:eng a@s:eng group@s:cym&eng (.) of@s:eng (.) associates@s:eng networking@s:eng xxx . 769357_773037
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng (.) yeah@s:cym&eng networking@s:eng . 769682_771969
 *EVA:	yeah@s:cym&eng [?] be (y)dy “networking@s:eng” yn [?] +... 772747_774570
 %gls:	yeah what be.3S.PRES networking in
@@ -1280,7 +1280,7 @@
 *EVA:	yeah@s:cym&eng yeah@s:cym&eng xxx +/. 890456_891629
 %gls:	yeah yeah xxx
 %eng:	yeah yeah [...] ...
-*WYN:	+< different@s:eng [/] different@s:eng stakeholder@s:eng groups@s:cym&eng xx . 891060_892604
+*WYN:	+< different@s:eng [/] different@s:eng stakeholder@s:eng groups@s:cym&eng xxx . 891060_892604
 *EVA:	<a fi> [/] a <fi hef(yd)> [/] (.) fi hefyd . 892221_893939
 %gls:	and PRON.1S and PRON.1S also PRON.1S also
 %eng:	me too
@@ -1293,8 +1293,8 @@
 *EVA:	um:@s:cym&eng +... 899210_901300
 %gls:	IM
 %eng:	um...
-*WYN:	+< be ti wneud xx ? 900174_900940
-%gls:	what PRON.2S do.NONFIN xx
+*WYN:	+< be ti wneud xxx ? 900174_900940
+%gls:	what PRON.2S do.NONFIN xxx
 %eng:	what are you doing [...] ?
 *EVA:	well@s:cym&eng <mae (y)na:> [//] ie <dan ni> [/] dan ni um@s:cym&eng paratoi um:@s:cym&eng (.) Blaenau@s:cym&eng western@s:eng carnival@s:cym&eng . 901300_910693
 %gls:	well be.3S.PRES there yes be.1PL.PRES PRON.1PL be.1PL.PRES PRON.1PL IM prepare.NONFIN IM Blaenau western carnival
@@ -1698,8 +1698,8 @@
 *WYN:	timod [?] lot@s:cym&eng o groups@s:cym&eng xxx +/. 1210174_1212240
 %gls:	know.2S lot of groups xxx
 %eng:	you know, a lot of groups [...] ...
-*EVA:	+< xx lot@s:cym&eng o groups@s:cym&eng . 1211315_1212322
-%gls:	xx lot of groups
+*EVA:	+< xxx lot@s:cym&eng o groups@s:cym&eng . 1211315_1212322
+%gls:	xxx lot of groups
 %eng:	[...] a lot of groups
 *EVA:	a hefyd er@s:cym&eng y siambr [/] siambr o trade@s:cym&eng . 1212230_1215004
 %gls:	and also IM DET chamber chamber of trade
@@ -1925,7 +1925,7 @@
 *WYN:	they've@s:eng got@s:eng this@s:eng bar@s:cym&eng (.) with@s:eng (.) televisions@s:cym&eng (.) right@s:cym&eng round@s:cym&eng the@s:eng big@s:eng screen@s:cym&eng . 1339497_1344548
 *EVA:	+< yeah@s:cym&eng ! 1340879_1341343
 *WYN:	so@s:cym&eng xxx [/] xxx got@s:eng sport@s:cym&eng all@s:eng day@s:eng . 1344548_1346196
-*EVA:	yeah@s:cym&eng just@s:cym&eng [//] but@s:eng not@s:eng xx their@s:eng own@s:eng gym@s:eng (.) not@s:eng their@s:eng own@s:eng swimming@s:eng pool@s:cym&eng xxx . 1346196_1349877
+*EVA:	yeah@s:cym&eng just@s:cym&eng [//] but@s:eng not@s:eng xxx their@s:eng own@s:eng gym@s:eng (.) not@s:eng their@s:eng own@s:eng swimming@s:eng pool@s:cym&eng xxx . 1346196_1349877
 *WYN:	they@s:eng have@s:eng yeah@s:cym&eng they've@s:eng got@s:eng their@s:eng own@s:eng swimming@s:eng pool@s:cym&eng and@s:eng gym@s:eng yeah@s:cym&eng yeah@s:cym&eng . 1349517_1351630
 *EVA:	+< a hefyd ? 1350260_1350898
 %gls:	and also
@@ -1965,7 +1965,7 @@
 *WYN:	+< xxx +/. 1374908_1376150
 *EVA:	er@s:cym&eng what's@s:eng the@s:eng word@s:eng ? 1375872_1376707
 *EVA:	[- eng] what's the word for it ? 1376707_1377578
-*EVA:	burgunder@7 “[?]” (.) <in@s:eng Dutch@s:eng> [//] in@s:eng [/] in@s:eng [//] yn [/] yn Iseldireg . 1377578_1381096
+*EVA:	burgunder@s:nld [?] (.) <in@s:eng Dutch@s:eng> [//] in@s:eng [/] in@s:eng [//] yn [/] yn Iseldireg . 1377578_1381096
 %gls:	burgunder in Dutch in in in in Dutch
 %eng:	"burgunder" in Dutch
 *WYN:	xxx er@s:cym&eng +... 1381096_1382071
@@ -1977,7 +1977,7 @@
 %eng:	er, oh I know what you mean
 *WYN:	xxx (.) um@s:cym&eng +... 1386425_1388747
 *EVA:	+< yeah@s:cym&eng . 1387180_1387493
-*EVA:	dan ni ddeud um@s:cym&eng “burgunder@7” (.) “from@s:eng Burgundy@s:eng” . 1388747_1393913
+*EVA:	dan ni ddeud um@s:cym&eng “burgunder@s:nld” (.) “from@s:eng Burgundy@s:eng” . 1388747_1393913
 %gls:	be.1PL.PRES PRON.1PL say.NONFIN IM burgunder from Burgundy
 %eng:	we say "burgunder" "from Burgundy"
 *WYN:	oh@s:cym&eng ia [=! laughs] ? 1393913_1395156
@@ -2005,7 +2005,7 @@
 *WYN:	ah@s:cym&eng right@s:cym&eng right@s:cym&eng . 1411126_1412352
 %gls:	IM right right
 %eng:	ah, right, right
-*EVA:	and@s:eng um@s:cym&eng xxx “burgunder@7” er@s:cym&eng ydy person@s:cym&eng i [/] i [/] i fwyta <lot@s:cym&eng o> [/] lot@s:cym&eng o bwyd (.) er@s:cym&eng i: +/. 1412120_1422256
+*EVA:	and@s:eng um@s:cym&eng xxx “burgunder@s:nld” er@s:cym&eng ydy person@s:cym&eng i [/] i [/] i fwyta <lot@s:cym&eng o> [/] lot@s:cym&eng o bwyd (.) er@s:cym&eng i: +/. 1412120_1422256
 %gls:	and IM xxx burgunder IM be.3S.PRES person to to to eat.NONFIN lot of lot of food IM to
 %eng:	and um [...] "burgunder" is a person to eat a lot of food, er, to...
 *WYN:	er@s:cym&eng ffordd o fyw mwynhau . 1422256_1423997
@@ -2028,8 +2028,8 @@
 %gls:	and be.3S.PRES French_people PRT know.NONFIN how to
 %eng:	and the French know how to...
 *EVA:	+< yeah@s:cym&eng [=! laughs] &=laugh . 1438463_1439531
-*EVA:	[- eng] xxx &bu [/] &bur [/] “burgunder@7” . 1440030_1442712
-*WYN:	[- eng] “burgunder@7” . 1442712_1443490
+*EVA:	[- eng] xxx &bu [/] &bur [/] “burgunder@s:nld” . 1440030_1442712
+*WYN:	[- eng] “burgunder@s:nld” . 1442712_1443490
 *EVA:	yeah@s:cym&eng mi wna i sgrifennu +//. 1442991_1444407
 %gls:	yeah PRT do.1S.NONPAST PRON.1S write.NONFIN
 %eng:	yeah, I'll write...
@@ -2040,8 +2040,8 @@
 *EVA:	mi wna i sgrifennu (.) xxx . 1445046_1448413
 %gls:	PRT do.1S.NONPAST PRON.1S write.NONFIN xxx
 %eng:	I'll write [...]
-*WYN:	+< oh@s:cym&eng <dw i licio xx> [//] dw licio (y)r syniad . 1445882_1447217
-%gls:	IM be.1S.PRES PRON.1S like.NONFIN xx be.1S.PRES like.NONFIN DET idea
+*WYN:	+< oh@s:cym&eng <dw i licio xxx> [//] dw licio (y)r syniad . 1445882_1447217
+%gls:	IM be.1S.PRES PRON.1S like.NONFIN xxx be.1S.PRES like.NONFIN DET idea
 %eng:	oh, I like [...] ...I like the idea
 *WYN:	+< felly <wyt ti (y)n> [/] (.) wyt ti (y)n byw fath â rywun o Burgundy@s:eng . 1447577_1450897
 %gls:	thus be.2S.PRES PRON.2S PRT be.2S.PRES PRON.2S PRT live.NONFIN kind with somebody from Burgundy
@@ -2050,7 +2050,7 @@
 %gls:	be.3PL.PRES PRON.3PL like.NONFIN food and wine and live.NONFIN PRT good
 %eng:	they like food and wine and living well
 *EVA:	+< yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1452894_1454183
-*EVA:	<mae (y)na> [/] <mae (y)na slogan@s:cym&eng> [//] mae (y)na (.) phrase@s:eng (.) i [/] i [/] i deud (.) <i um@s:cym&eng> [//] yeah@s:cym&eng <chi er@s:cym&eng> [//] (.) yeah@s:cym&eng dach [/] dach chi burgunder@7 . 1454183_1464260
+*EVA:	<mae (y)na> [/] <mae (y)na slogan@s:cym&eng> [//] mae (y)na (.) phrase@s:eng (.) i [/] i [/] i deud (.) <i um@s:cym&eng> [//] yeah@s:cym&eng <chi er@s:cym&eng> [//] (.) yeah@s:cym&eng dach [/] dach chi burgunder@s:nld . 1454183_1464260
 %gls:	be.3S.PRES there be.3S.PRES there slogan be.3S.PRES there phrase to to to say.NONFIN to IM yeah PRON.2PL IM yeah be.2PL.PRES be.2PL.PRES PRON.2PL burgunder
 %eng:	there's...there's a slogan...there's a phrase to say, to um...yeah, you, er...yeah you're...you're a burgunder
 *WYN:	+< oh@s:cym&eng yeah@s:cym&eng ? 1456616_1457023
@@ -2072,8 +2072,8 @@
 *WYN:	ia . 1473439_1473834
 %gls:	yes
 %eng:	yes
-*WYN:	xx (.) mis Mawrth Ebrill +... 1473834_1476330
-%gls:	xx month March April
+*WYN:	xxx (.) mis Mawrth Ebrill +... 1473834_1476330
+%gls:	xxx month March April
 %eng:	[...] March, April...
 *WYN:	ia dechrau mis Ebrill hwyrach . 1476330_1478617
 %gls:	yes start.NONFIN month April perhaps
@@ -2217,8 +2217,8 @@
 *WYN:	<dim lle na> [?] . 1554711_1555408
 %gls:	NEG place no
 %eng:	no room, no
-*WYN:	xxx [//] (.) mae (y)n iawn i pedwar neu (.) i pump xx . 1555408_1558101
-%gls:	xxx be.3S.PRES PRT right to four.M or to five xx
+*WYN:	xxx [//] (.) mae (y)n iawn i pedwar neu (.) i pump xxx . 1555408_1558101
+%gls:	xxx be.3S.PRES PRT right to four.M or to five xxx
 %eng:	it's alright for four or for five [...]
 *WYN:	chwech . 1558101_1558809
 %gls:	six
@@ -2314,8 +2314,8 @@
 *EVA:	xxx (.) gawn ni weld . 1608489_1610102
 %gls:	xxx get.1PL.NONPAST PRON.1PL see.NONFIN
 %eng:	[...] we'll see
-*WYN:	gei di (.) prynu er@s:cym&eng (.) Plas_Tan_y_Bwlch@s:cym&eng xx . 1610102_1614770
-%gls:	get.2S.NONPAST PRON.2S buy.NONFIN IM Plas_Tan_y_Bwlch xx
+*WYN:	gei di (.) prynu er@s:cym&eng (.) Plas_Tan_y_Bwlch@s:cym&eng xxx . 1610102_1614770
+%gls:	get.2S.NONPAST PRON.2S buy.NONFIN IM Plas_Tan_y_Bwlch xxx
 %eng:	you can buy Plas Tan-y-Bwlch
 *EVA:	&=laugh . 1614502_1615803
 *WYN:	lord@s:eng and@s:eng lady@s:cym&eng of@s:eng the@s:eng manor@s:cym&eng &=laugh . 1615828_1618856

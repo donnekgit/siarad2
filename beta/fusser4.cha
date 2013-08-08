@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-13:0
 @UTF8
 @Begin
-@Languages:	cy, en
+@Languages:	cym, eng
 @Participants:	ADW Adwen Adult, BAE Baeddan Adult
 @ID:	cym|siarad|ADW|73;|female|||Adult||
 @ID:	cym|siarad|BAE|54;|male|||Adult||
@@ -498,7 +498,7 @@
 *BAE:	yeah@s:cym&eng . 484695_484991
 *ADW:	+, +" yn un res o dy flaen di bob bore . 484985_487035
 %gls:	PRT one row of POSS.2S front PRON.2S every morning
-%eng:	 ...lined up in front of you every morning.
+%eng:	...lined up in front of you every morning.
 *ADW:	+" i be maen nhw (y)n da i mi ? 487029_489664
 %gls:	for what be.3PL.PRES PRON.3PL PRT good for PRON.1S
 %eng:	what use are they to me?
@@ -1493,7 +1493,7 @@
 %eng:	brilliant, yeah.
 *ADW:	+< +" oh@s:cym&eng did@s:eng you@s:eng ? 1392476_1393219
 %gls:	IM did you
-%eng:	"oh, did you?",
+%eng:	oh, did you?
 *ADW:	medda fi +". 1393208_1393893
 %gls:	say.1S.PRES PRON.1S
 %eng:	I said
@@ -1557,11 +1557,10 @@
 *ADW:	+, i helpu fo i ddod â fo o (y)no (y)n_de . 1445748_1448175
 %gls:	to help.NONFIN PRON.3SM to come.NONFIN with PRON.3SM from there TAG
 %eng:	to help him take it away, right
-*BAE:	+< yeah@s:cym&eng (.) yeah@s:cym&eng yeah@s:cym&eng (.) yeah@s:cym&eng . 1447931_1450143
+*BAE:	+< yeah@s:cym&eng (.) yeah@s:cym&eng . 1447935_1448806
 *ADW:	+< o(nd) [=? oh@s:cym&eng] chafodd o ddim [//] no@s:eng volunteers@s:eng de . 1448506_1450636
 %gls:	but get.3S.PAST PRON.3SM NEG no volunteers TAG
 %eng:	but he didn't get any volunteers
-*BAE:	+< yeah@s:cym&eng (.) yeah@s:cym&eng . 1449550_1451286
 *BAE:	(wr)th_gwrs [?] fyddan nhw (y)n deud (.) i_fyny at yn ddiweddar yma bod yr awdurdodau wedi llusgo (y)r awyrennau ar_ôl iddyn nhw (.) hanner claddu eu hunain i_mewn i (y)r mynyddoedd i_mewn i (y)r llyn agosa . 1451222_1461073
 %gls:	of_course be.3PL.FUT PRON.3PL PRT say.NONFIN up until PRT recent here be.NONFIN DET authorities PRT.PAST drag.NONFIN DET aeroplanes after to.3PL PRON.3PL half bury.NONFIN POSS.3PL selves in to DET mountains in to DET lake nearest
 %eng:	of course they'd say, up to recently, that the authorities had dragged the planes, after they'd half buried themselves into the mountains, into the nearest lake.
