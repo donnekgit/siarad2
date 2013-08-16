@@ -1,7 +1,7 @@
 @Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
-@Languages:	cym, eng
+@Languages:	cym, eng, nld
 @Participants:	WYN Wyn Adult, EVA Eva Adult
 @ID:	cym|siarad|WYN|49;|male|||Adult||
 @ID:	cym|siarad|EVA|40;|female|||Adult||
@@ -694,7 +694,7 @@
 *EVA:	&ə [/] (.) ydy (y)r [/] (.) y prosiect sure@s:cym&eng ? 480525_484008
 %gls:	be.3S.PRES DET DET project sure
 %eng:	is the project sure?
-*EVA:	[- eng] <is it> [///] has it been confirmed ? 484008_485436
+*EVA:	[- eng] is it [///] has it been confirmed ? 484008_485436
 *WYN:	+< xxx +//. 484333_485065
 *WYN:	[- eng] it hasn't been confirmed . 485436_486353
 *WYN:	but@s:eng I@s:eng think@s:eng it@s:eng will@s:eng de . 486353_487340
