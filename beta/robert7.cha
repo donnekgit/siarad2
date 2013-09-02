@@ -20,7 +20,7 @@
 *CLR:	(y)dy (y)r seisys yn iawn hefyd ? 0_2717
 %gls:	be.3S.PRES DET sizes PRT right also
 %eng:	are the sizes alright too?
-%com:	Claire and Twm are chatting whilst Huw is silently eating.
+@Comment:	Claire and Twm are chatting whilst Huw is silently eating.
 *TWM:	well@s:cym&eng y seisys mawr sy (we)di mynd i_gyd . 2717_5213
 %gls:	well DET sizes big be.PRES.REL PRT.PAST go.NONFIN all
 %eng:	well, it's all the big sizes that have gone
@@ -81,7 +81,7 @@
 *TWM:	<be ti wneud> [?] Pero@s:cym&eng bach ? 33390_35034
 %gls:	what PRON.2S do.NONFIN Pero small
 %eng:	what are you doing, Pero dear?
-%com:	addresses the dog at their feet
+%com:	talking to the dog at their feet
 *CLR:	mmm@s:cym&eng . 35034_35429
 %gls:	IM
 %eng:	mmm
@@ -143,7 +143,6 @@
 *CLR:	+< mmm@s:cym&eng . 69539_70340
 %gls:	IM
 %eng:	mmm
-%com:	can hear Huw moving articles in the background
 *CLR:	well@s:cym&eng (.) mi oedd gynnon ni fines@s:cym&eng court@s:eng (.) i ddechrau (e)fo (h)i (.) yn_te . 70642_77144
 %gls:	well PRT be.3S.IMP with.1PL PRON.1PL fines court to start.NONFIN with PRON.3SF TAG
 %eng:	well, we had a fines court to start with, you know
@@ -503,11 +502,11 @@
 *CLR:	well@s:cym&eng (.) xxx +//. 303471_306641
 %gls:	well xxx
 %eng:	well [...]
-%com:	Claire starts talking on the phone with the veterinary secretary. The conversation starts in English
+@Comment:	Claire starts talking on the phone with the veterinary secretary. The conversation starts in English
 *CLR:	oh@s:cym&eng hello@s:cym&eng it's@s:eng Mrs_Roberts@s:cym&eng here@s:eng . 306641_308789
 *CLR:	er@s:cym&eng is@s:eng one@s:eng of@s:eng the@s:eng vets@s:cym&eng free@s:cym&eng to@s:eng have@s:eng a@s:eng word@s:eng with@s:eng now@s:eng ? 308789_311622
 *CLR:	yes@s:eng I@s:eng phoned@s:eng er@s:cym&eng earlier@s:eng (.) um:@s:cym&eng to@s:eng see@s:eng if@s:eng I@s:eng could@s:eng speak@s:eng to@s:eng a@s:eng vet@s:cym&eng . 311622_319586
-%com:	Huw and Twm start conversing a little while Claire is on the phone. Huw and Twm address each other in this section, unless noted otherwise.
+@Comment:	Huw and Twm start conversing a little while Claire is on the phone. Huw and Twm address each other in this section, unless noted otherwise.
 *HUW:	siarad Saesneg mae nhw xxx . 319586_320526
 %gls:	speak.NONFIN English be.3PL.PRES PRON.3PL xxx
 %eng:	they speak English [...]
@@ -638,7 +637,7 @@
 *TWM:	roi nhw yn tŷ . 463401_464040
 %gls:	put.NONFIN PRON.3PL in house
 %eng:	put them in the house
-%com:	Claire and the veterinary receptionist realise that they're both Welsh speakers and start conversing in Welsh
+@Comment:	Claire and the veterinary receptionist realise that they're both Welsh speakers and start conversing in Welsh
 *CLR:	oh@s:cym&eng right@s:cym&eng o'n i (we)di bod yn siarad +//. 464040_465735
 %gls:	IM right be.1S.IMP PRON.1S PRT.PAST be.NONFIN PRT speak.NONFIN
 %eng:	oh right, I'd been talking...
@@ -683,7 +682,7 @@
 *TWM:	+< ia Pero@s:cym&eng bach xxx . 495812_497437
 %gls:	yes Pero small xxx
 %eng:	yes little Pero
-%com:	probably addresses dog
+%com:	probably talking to dog
 *CLR:	ia . 499481_506365
 %gls:	yes
 %eng:	yes
@@ -721,14 +720,14 @@
 %gls:	be.3S.PRES
 %eng:	yes
 *TWM:	xxx . 553212_554523
-%com:	probably addresses dog
+%com:	probably talking to dog
 *CLR:	ia . 554523_556938
 %gls:	yes
 %eng:	yes
 *TWM:	mmm@s:cym&eng be ti wneud Pero@s:cym&eng bach ? 556439_557995
 %gls:	IM what PRON.2S do.NONFIN Pero small
 %eng:	mmm, what are you doing Pero dear?
-%com:	addresses dog
+%com:	talking to dog
 *HUW:	efo [?] pwy mae (y)n siarad rŵan ? 557705_558622
 %gls:	with who be.3S.PRES PRT speak.NONFIN now
 %eng:	who's she talking to now?
@@ -741,7 +740,7 @@
 *CLR:	<just@s:cym&eng i roid &i> [//] wchi (ba)swn i medru +//. 561095_563022
 %gls:	just to give.NONFIN know.2PL be.1S.CONDIT PRON.1S can.NONFIN
 %eng:	just to give...you know, I could...
-*CLR:	(deu)dwch [?] bod (peta)swn i medru roid &i [//] rywbeth iddi hi injection@s:eng neu (rwy)beth (fe)lly heno (y)ma (ba)swn i dod draw i nôl rywbeth . 563022_568479
+*CLR:	(deu)dwch [?] bod (peta)swn i medru roid &i [//] rywbeth iddi hi injection@s:eng neu (ryw)beth (fe)lly heno (y)ma (ba)swn i dod draw i nôl rywbeth . 563022_568479
 %gls:	say.2PL.IMPER be.NONFIN if_be.1S.CONDIT PRON.1S can.NONFIN give.NONFIN something to.3SF PRON.3SF injection or something thus tonight here be.1S.CONDIT PRON.1S come.NONFIN over to fetch.NONFIN something
 %eng:	say I could give her something, an injection or something, like, tonight, I'd come over to get something
 *CLR:	bysen . 568479_569976
@@ -851,7 +850,7 @@
 *CLR:	ia (.) mi a i lawr i &nɛ [//] orffen Lulu@s:cym&eng wedyn . 621826_625913
 %gls:	yes PRT go.1S.NONPAST PRON.1S down to finish.NONFIN Lulu after
 %eng:	yes, I'll go down to finish Lulu afterwards
-%com:	door opens as Huw leaves the room
+@Comment:	door opens as Huw leaves the room
 *CLR:	um@s:cym&eng +... 625913_627905
 %gls:	IM
 %eng:	um...
@@ -1208,9 +1207,9 @@
 *CLR:	ew (.) <ti be> [?] gaethon ni &ðu [//] diwrnod prysur ddoe <yn y> [/] <yn y> [/] yn (.) llys yn (.) Caergybi . 797848_803224
 %gls:	IM PRON.2S what get.1PL.PAST PRON.1PL day busy yesterday in DET in DET in court in Holyhead
 %eng:	God, you know what, we had a busy day yesterday in the court in Holyhead
-%com:	noise of door opening over the following two utterances. This is probably Huw, but he doesn't contribute to the discussion
+@Comment:	noise of door opening over the following two utterances. This is probably Huw, but he doesn't contribute to the discussion
 *CLR:	o'n i er@s:cym&eng [?] han(ner) (we)di pump (.) arna fi adre . 803224_806486
-%gls:	be.1S.IMP PRON.1S IM half after five on.1S PRON.1S home
+%gls:	be.1S.IMP PRON.1S IM half past five on.1S PRON.1S home
 %eng:	it was half past five by the time I got home
 *TWM:	+< yeah@s:cym&eng [?] . 805813_806161
 %gls:	yeah
@@ -1219,7 +1218,7 @@
 %gls:	be.3S.IMP
 %eng:	it was
 *TWM:	<o'n i dal> [/] o'n i dal allan (.) yn y nhŷ gwydr hanner (we)di pump ddal [?] wrthi (y)n +... 807949_812477
-%gls:	be.1S.IMP PRON.1S still be.1S.IMP PRON.1S still out in POSS.1S house glass half after five still at.3SF PRT
+%gls:	be.1S.IMP PRON.1S still be.1S.IMP PRON.1S still out in POSS.1S house glass half past five still at.3SF PRT
 %eng:	I was still...I was still out in my greenhouse at half past five, still at it...
 *CLR:	+< ah@s:cym&eng [?] . 808831_809168
 %gls:	IM
@@ -1230,7 +1229,7 @@
 *CLR:	na . 812477_813313
 %gls:	no
 %eng:	no
-%com:	noise of door slamming. Probably Huw leaving the room
+@Comment:	noise of door slamming. Probably Huw leaving the room
 *CLR:	o'n i (we)di xxx cael diwrnod prysur iawn . 813313_815136
 %gls:	be.1S.IMP PRON.1S PRT.PAST xxx get.NONFIN day busy very
 %eng:	I'd had a very busy day
@@ -1589,7 +1588,6 @@
 *TWM:	(a)chos <mae nhw> [/] mae nhw (.) (di)pyn bach rhy ddrud <ar y funud> [?] [=! laughs] . 973356_977593
 %gls:	because be.3PL.PRES PRON.3PL be.3PL.PRES PRON.3PL a_little small to expensive on DET minute
 %eng:	because they're...they're a little bit too expensive at the moment
-%com:	sound of door creaking and slamming
 *CLR:	+< yeah@s:cym&eng . 975248_975713
 %gls:	yeah
 %eng:	yeah
@@ -1617,14 +1615,14 @@
 *CLR:	+< be ti bod wneud rŵan ? 989668_990713
 %gls:	what PRON.2S be.NONFIN do.NONFIN now
 %eng:	what have you been doing now?
-%com:	addresses Huw, who has reentered the room
+%com:	addressing Huw, who has reentered the room
 *HUW:	cadw car@s:cym&eng . 991502_992524
 %gls:	keep.NONFIN car
 %eng:	putting the car away [?]
 *CLR:	+< ydy . 991665_992385
 %gls:	be.3S.PRES
 %eng:	yes
-%com:	replies to Twm's previous comment
+%com:	replying to Twm's previous comment
 *CLR:	eh@s:cym&eng ? 992385_992930
 %gls:	IM
 %eng:	eh?
@@ -2123,7 +2121,8 @@
 *TWM:	xxx mynd â fo i (y)r ysgol . 1193752_1194924
 %gls:	xxx go.NONFIN with PRON.3SM to DET school
 %eng:	[...] taken it to school
-%com:	Claire seems to start whispering something inaudible. She's probably talking to the dog
+*CLR:	xxx +//. 1195705_1195891
+%com:	Claire seems to start whispering something inaudible, probably talking to the dog
 *TWM:	a um@s:cym&eng (.) mae <o (we)di> [//] (.) Gwen@s:cym&eng (we)di rhoi warning@s:cym&eng iddyn nhw (.) <i ddang(os)> [//] <pryd mae nhw mynd i> [?] ddangos o (fe)lly . 1194924_1202564
 %gls:	and IM be.3S.PRES PRON.3SM PRT.PAST Gwen PRT.PAST give.NONFIN warning to.3PL PRON.3PL to show.NONFIN when be.3PL.PRES PRON.3PL go.NONFIN to show.NONFIN PRON.3SM thus
 %eng:	and um, he's...Gwen's given them a warning to show...when they're going to show it, like
@@ -2307,34 +2306,28 @@
 *CLR:	Nel@s:cym&eng tyrd yma . 1286453_1287544
 %gls:	Nel come.2S.IMPER here
 %eng:	Nel, come here
-%com:	addresses dog
+%com:	talking to dog here and over following utterances
 *CLR:	Nel@s:cym&eng (.) tyrd yma . 1287544_1288984
 %gls:	Nel come.2S.IMPER here
 %eng:	Nel, come here
-%com:	addresses dog
 *CLR:	Nel@s:cym&eng (.) tyrd yma . 1288984_1290365
 %gls:	Nel come.2S.IMPER here
 %eng:	Nel, come here
-%com:	addresses dog
 *TWM:	xxx deud (.) bysai licio mynd yn_ôl i fan (y)no yeah@s:cym&eng [?] cy(n) [/] cyn [/] (.) cyn i Richard@s:cym&eng fynd i ysgol fawr neu (ry)wbeth . 1290261_1298968
 %gls:	xxx say.NONFIN be.3S.CONDIT like.NONFIN go.NONFIN back to place there yeah before before before for Richard go.NONFIN to school big or something
 %eng:	[...] saying he/she'd like to go back there yeah, before...before Richard goes to high school or something
 *CLR:	+< ti fudr . 1290365_1291092
 %gls:	PRON.2S dirty
 %eng:	you're dirty
-%com:	addresses dog
 *CLR:	+< [- eng] c'mon . 1291092_1291591
 %gls:	c'mon
 %eng:	c'mon
-%com:	addresses dog
 *CLR:	well@s:cym&eng aros di (y)n fan (y)na . 1295434_1296746
 %gls:	well stay.2S.IMPER PRON.2S in place there
 %eng:	well you stay there
-%com:	addresses dog
 *CLR:	+< ia wir wan . 1297001_1298279
 %gls:	yes true now
 %eng:	really, now
-%com:	addresses dog
 *CLR:	wyt ti fudr sti wyt wir . 1298940_1301007
 %gls:	be.2S.PRES PRON.2S dirty know.2S be.2S.PRES true
 %eng:	you're dirty, you know, you really are
@@ -2926,7 +2919,6 @@
 *CLR:	yndyn yr un un â oedd wrthi neithiwr . 1669278_1671240
 %gls:	be.1PL.PRES DET one one PRT be.3S.IMP at.3SF last_night
 %eng:	yes, the same one as was at it last night
-%com:	addresses dog
 *TWM:	ia . 1671078_1671972
 %gls:	yes
 %eng:	yes
@@ -3235,7 +3227,6 @@
 *TWM:	er@s:cym&eng +... 1839399_1840548
 %gls:	IM
 %eng:	er...
-%com:	sound of page rustling
 *CLR:	oh@s:cym&eng mae gyn i +/. 1840548_1843103
 %gls:	IM be.3S.PRES with PRON.1S
 %eng:	oh, I've got...
@@ -3409,7 +3400,7 @@
 *CLR:	<fydd xxx> [//] fydd xxx gynnon ni ast fach arall fydd . 1930823_1933412
 %gls:	be.3S.FUT xxx be.3S.FUT xxx with.1PL PRON.1PL bitch small other be.3S.FUT
 %eng:	we'll have another little bitch, won't we
-%com:	phone rings
+@Comment:	phone rings
 *CLR:	oh@s:cym&eng ella na (y)r farrier@s:cym&eng (y)dy hwn . 1933412_1934724
 %gls:	IM perhaps PRT DET farrier be.3S.PRES this
 %eng:	oh, perhaps this is the farrier
@@ -3431,7 +3422,7 @@
 *CLR:	dibynnu sti . 1937696_1939844
 %gls:	depend.NONFIN know.2S
 %eng:	depends, you know
-%com:	Claire picks up the phone and starts conversing with the person on the other end, the vet
+@Comment:	Claire picks up the phone and starts conversing with the person on the other end, the vet
 *CLR:	hello@s:cym&eng ? 1939844_1941249
 %gls:	hello
 %eng:	hello?
@@ -3461,7 +3452,7 @@
 *TWM:	dal i chwilio . 1964643_1966500
 %gls:	still to search.NONFIN
 %eng:	still searching
-%com:	Huw and Twm start conversing a little while Claire is on the phone. Huw and Twm address each other in this section, unless noted otherwise.
+@Comment:	Huw and Twm start conversing a little while Claire is on the phone. Huw and Twm address each other in this section, unless noted otherwise.
 *CLR:	dyna chi . 1966442_1967394
 %gls:	there PRON.2PL
 %eng:	that's it
@@ -3488,7 +3479,7 @@
 *CLR:	mae [/] mae (y)r gŵr (we)di mynd i nôl um@s:cym&eng +/. 1976891_1978830
 %gls:	be.3S.PRES be.3S.PRES DET husband PRT.PAST go.NONFIN to fetch.NONFIN IM
 %eng:	my husband's gone to get, um...
-%com:	Huw gets involved in the telephone conversation with Claire, and addresses her in this section, unless noted otherwise.
+@Comment:	Huw gets involved in the telephone conversation with Claire, and addresses her in this section, unless noted otherwise.
 *HUW:	++ long_acting@s:eng penicillin@s:cym&eng . 1978830_1980038
 %gls:	long_acting penicillin
 %eng:	long-acting penicillin
@@ -3508,7 +3499,7 @@
 *CLR:	ro i shot@s:cym&eng o hwnna heno (y)ma ia ? 1987352_1989813
 %gls:	give.1S.NONPAST PRON.1S shot of that tonight here yes
 %eng:	I'll give a shot of that tonight, yes?
-%com:	long pause
+@Comment:	pause
 *CLR:	na . 1997244_1998440
 %gls:	no
 %eng:	no
@@ -3642,18 +3633,16 @@
 *CLR:	wnes i roid y [//] yr [?] holidays@s:cym&eng Australia@s:eng allan (y)li rag ofn bysen ni redeg allan o rywbeth i siarad amdan (.) yn_te . 2083571_2090583
 %gls:	do.1S.PAST PRON.1S put.NONFIN DET DET holidays Australia out see.2S.IMPER lest fear be.1PL.CONDIT PRON.1PL run.NONFIN out of something to speak.NONFIN about TAG
 %eng:	look, I put the Australia holidays out in case we ran out of things to talk about, you know
-%com:	sound of flicking through plastic [?] pages
+@Comment:	sound of flicking through plastic [?] pages
 *TWM:	mmm@s:cym&eng <mae (y)na> [/] (.) <mae (y)na> [?] ddwy lot@s:cym&eng . 2094247_2097428
 %gls:	IM be.3S.PRES there be.3S.PRES there two.F lot
 %eng:	mmm, there are...there are two lots
 *CLR:	+< oh@s:cym&eng ti (we)di gweld be dw i gael &ʤ [//] gyn Janet_Bowen@s:cym&eng heddiw wan ? 2095861_2098485
 %gls:	IM PRON.2S PRT.PAST see.NONFIN what be.1S.PRES PRON.1S get.NONFIN from Janet_Bowen today now
 %eng:	oh, have you seen what I got from Janet Bowen today
-%com:	sound of flicking through plastic [?] pages
 *CLR:	dyro hwnna i dad@s:cym&eng . 2101016_2101829
 %gls:	give.2S.IMPER that to dad
 %eng:	give that to dad
-%com:	sound of flicking through plastic [?] pages
 *TWM:	&=cough . 2104905_2105509
 *CLR:	ti cofio y tro cynta aethon ni Australia@s:eng ? 2105509_2108319
 %gls:	PRON.2S remember.NONFIN DET turn first go.1PL.PAST PRON.1PL Australia

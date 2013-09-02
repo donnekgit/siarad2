@@ -13,8 +13,8 @@
 @Transcriber:	Jonathan Stammers, Bangor University
 @Time Duration:	00:30:31
 @Media:	stammers8, audio
-@Comment:	Language Markers: @1 = Welsh, @2 = English, @0 = Undetermined, @21 = word with first morpheme(s) English, second morpheme(s) Welsh, @12 = word with first morpheme(s) Welsh, second morpheme(s) English
-@Warning:	CAR seems to have a slight speech impediment, does not roll her r's, pronounces several words in an unusual way, and also seems to use some idiosyncratic forms (e.g. "heblaw" in a different sense from the usual "except"). Both speakers have features such as use of imperfect tense in a past tense-type setting. To what extent these are part of her dialect is unclear.
+@Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
+@Warning:	CAR seems to have a slight speech impediment, does not roll her r's, pronounces several words in an unusual way, and also seems to use some idiosyncratic forms (e.g. "heblaw" in a different sense from the usual "except"). Both speakers have features such as use of imperfect tense in a past tense-type setting. To what extent these are part of her/their dialect is unclear.
 *ISL:	Ann_Andrews@s:cym&eng sy (y)n sefyll (..) i (y)r Cynulliad yn yr ardal yma . 313_5074
 %gls:	Ann_Andrews be.PRES.REL PRT stand.NONFIN to DET Assembly in DET area here
 %eng:	it's Ann Andrews standing for the Assembly in this area.
@@ -1126,7 +1126,7 @@
 *CAR:	oh@s:cym&eng oedd hwnna right@s:cym&eng [/] (..) right@s:cym&eng agos yn_do ? 824457_827998
 %gls:	IM be.3S.IMP that right right close yes
 %eng:	oh, that was very close, wasn't it?
-%com:	phone heard ringing from another room. It continues to ring for a while through the following dialogue.
+@Comment:	phone heard ringing from another room. It continues to ring for a while through the following dialogue.
 *ISL:	wneith hwnnw ateb ei hun yli [?] . 826686_828311
 %gls:	do.3S.NONPAST that answer.NONFIN POSS.3S self see.2S.IMPER
 %eng:	that'll answer itself, eh.
@@ -2299,7 +2299,7 @@
 %gls:	Louise PRT good with PRON.3SM be.3S.PRES sister
 %eng:	Louise is good with him, isn't she, the sister?
 *ISL:	um@s:cym&eng (..) Owen@s:cym&eng Plas_Ucha@s:cym&eng (we)di symud o (..) Bodelwyddan@s:cym&eng i Lluesty@s:cym&eng . 1642588_1648741
-%gls:	IM Owen Plas_Ucha@0 PRT.PAST move.NONFIN from Bodelwyddan to Lluesty
+%gls:	IM Owen Plas_Ucha PRT.PAST move.NONFIN from Bodelwyddan to Lluesty
 %eng:	um, Owen from Plas Ucha has moved from Bodelwyddan to Lluesty.
 *CAR:	yndy ? 1648823_1649601
 %gls:	be.3S.PRES

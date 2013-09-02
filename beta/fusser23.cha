@@ -900,7 +900,7 @@
 %eng:	the side [...]
 *AID:	+< xxx . 452625_453298
 *HEL:	(y)r ochr St_Anne's@s:cym&eng ychi (.) Mynydd Llandegai@s:cym&eng . 453351_455648
-%gls:	DET side St_Anne's@0 know_2PL Mountain Llandegai
+%gls:	DET side St_Anne's know_2PL Mountain Llandegai
 %eng:	the St Anne's side, you know, Llandegai Mountain.
 *AID:	oh@s:cym&eng yeah@s:cym&eng . 455618_456129
 *HEL:	+< a Tregarth@s:cym&eng yr ochr yna xxx . 456061_458578
@@ -1136,7 +1136,7 @@
 %gls:	IM be.3S.IMP.NEG there nowhere other NEG be.3S.PRES now
 %eng:	oh, there's nowhere else now, is there.
 *HEL:	St_James@s:eng (we)di cau (y)dach chi weld tydy . 572026_573637
-%gls:	St_James@2 PRT.PAST shut.NONFIN be.2PL.PRES PRON.2PL see.NONFIN be.3S.PRES.NEG
+%gls:	St_James PRT.PAST shut.NONFIN be.2PL.PRES PRON.2PL see.NONFIN be.3S.PRES.NEG
 %eng:	St. James has shut, you see, hasn't it.
 *AID:	well@s:cym&eng tebyg iawn . 574192_575237
 %gls:	well similar very
@@ -2933,7 +2933,7 @@
 *AID:	+< xxx (.) fel (y)na de . 1526996_1528225
 %gls:	xxx like there TAG
 %eng:	[..] like that, eh.
-*HEL:	wmgo be wnelo hynny â enw lle . 1528288_1529885
+*HEL:	wmbo be wnelo hynny â enw lle . 1528288_1529885
 %gls:	dunno what do.3S.SUBJ that with name place
 %eng:	dunno what that has to do with the name of the place.
 *HEL:	(y)dach chi ? 1529781_1530268

@@ -115,7 +115,7 @@
 %gls:	go.1PL.NONPAST PRON.1PL approximately some xxx
 %eng:	we'll go at about [...] ...
 *DEW:	++ han(ner) (we)di tri . 43812_44497
-%gls:	half after three.M
+%gls:	half past three.M
 %eng:	half past three
 *CEI:	os wnawn ni bara hynna . 44497_46181
 %gls:	if do.1PL.NONPAST PRON.1PL last.NONFIN that
@@ -452,7 +452,7 @@
 %gls:	yes
 %eng:	yes
 *CEI:	mae (y)n twenty_five@s:eng past@s:eng ten@s:eng wan . 230945_232745
-%gls:	be.3S.PRES PRT twenty_five after ten now
+%gls:	be.3S.PRES PRT twenty_five past ten now
 %eng:	it's twenty-five past ten now
 *DEW:	yndy +!? 232745_234428
 %gls:	be.3S.PRES
@@ -476,7 +476,7 @@
 *CEI:	yeah@s:cym&eng . 242079_242578
 %gls:	yeah
 %eng:	yeah
-%com:	1 second bleeped out
+@Comment:	1 second bleeped out
 *DEW:	diolch yn fawr do (.) lovely@s:eng . 243298_245133
 %gls:	thanks PRT big yes lovely
 %eng:	thank you very much yes, lovely
@@ -496,7 +496,7 @@
 *DEW:	yeah@s:cym&eng . 252041_254606
 %gls:	yeah
 %eng:	yeah
-%com:	1 minute 2 seconds bleeped out
+@Comment:	1 minute 2 seconds bleeped out
 *DEW:	(r)haid ni fynd i Builth@s:eng . 316929_318159
 %gls:	necessity PRON.1PL go.NONFIN to Builth
 %eng:	we'll have to go to Builth
@@ -512,7 +512,7 @@
 *DEW:	mae (y)na (.) sioe (.) fel (y)ma yeah@s:cym&eng pedwar diwrnod yeah@s:cym&eng . 323024_326305
 %gls:	be.3S.PRES there show like here yeah four.M day yeah
 %eng:	there's a show like this, yeah, four days, yeah
-%com:	3 seconds bleeped out. None of speakers' speech has been edited out here
+@Comment:	3 seconds bleeped out. None of speakers' speech has been edited out here
 *DEW:	ia ? 329997_330751
 %gls:	yes
 %eng:	yes?
@@ -520,7 +520,7 @@
 %gls:	yeah NEG PRT know.NONFIN
 %eng:	yeah, don't know
 *DEW:	xxx . 332400_334153
-%com:	24 seconds bleeped out
+@Comment:	24 seconds bleeped out
 *DEW:	gobeithio bod o (ddi)m yn mynd ar [//] allan ar y (.) wireless@s:cym&eng yeah@s:cym&eng . 358441_362725
 %gls:	hope.NONFIN be.NONFIN PRON.3SM NEG PRT go.NONFIN on out on DET wireless yeah
 %eng:	hope it doesn't go on...out on the wireless, yeah
@@ -670,7 +670,7 @@
 *DEW:	<i Bulgaria@s:cym&eng ti isio mynd ar dy wyliau yeah@s:cym&eng> [=! laughs] &=laugh ? 441603_444738
 %gls:	to Bulgaria PRON.2S want go.NONFIN on POSS.2S holidays yeah
 %eng:	it's Bulgaria you want to go on your holiday, yeah?
-%com:	Dewi starts conversing with a passer-by. The recording equipment has not picked up the voice of the passer-by
+@Comment:	Dewi starts conversing with a passer-by. The recording equipment has not picked up the voice of the passer-by
 *DEW:	be sy matter@s:cym&eng ? 444738_445690
 %gls:	what be.PRES.REL matter
 %eng:	what's wrong?
@@ -709,13 +709,13 @@
 *DEW:	yeah@s:cym&eng [?] . 480857_481321
 %gls:	yeah
 %eng:	yeah
-%com:	stops conversing with the passer-by
+@Comment:	stops conversing with the passer-by
 *DEW:	we@s:eng on@s:eng a@s:eng break@s:cym&eng now@s:eng ? 481321_484549
 %gls:	we on a break now
 %eng:	we on a break now
 %com:	addresses researcher. It seems the researcher has come to fix Ceiriog's mic
 *CEI:	&=laugh . 484549_487173
-%com:	Dewis starts talking to the researcher
+@Comment:	Dewi starts talking to the researcher
 *DEW:	[- eng] are we going well ? 502865_504200
 %gls:	are we going well
 %eng:	are we going well?
@@ -935,7 +935,7 @@
 %gls:	be.3S.PRES lot PRT work.NONFIN here also be.3S.PRES
 %eng:	there are a lot working here too, aren't there
 *DEW:	xxx . 612877_614305
-%com:	2 seconds bleeped out
+@Comment:	2 seconds bleeped out
 *DEW:	&=laugh pawb siarad . 616046_617312
 %gls:	everybody speak.NONFIN
 %eng:	everybody talking
@@ -1153,7 +1153,7 @@
 *DEW:	ia . 734649_735311
 %gls:	yes
 %eng:	yes
-%com:	8 seconds bleeped out
+@Comment:	8 seconds bleeped out
 *DEW:	mae dda bod bobl yn dysgu (y)r iaith yndy (.) eh@s:cym&eng . 743786_746990
 %gls:	be.3S.PRES good be.NONFIN people PRT learn.NONFIN DET language be.3S.PRES IM
 %eng:	it's good that people learn the language, isn't it, eh
@@ -1951,7 +1951,7 @@
 %gls:	be.1S.PRES
 %eng:	yes
 *DEW:	(r)aid ni gychwyn o (y)ma hanner (we)di tri yeah@s:cym&eng ? 1223845_1226202
-%gls:	necessity PRON.1PL start.NONFIN from here half after three.M yeah
+%gls:	necessity PRON.1PL start.NONFIN from here half past three.M yeah
 %eng:	we'll have to head off at half past three, yeah?
 *DEW:	ia ? 1226202_1228048
 %gls:	yes
@@ -1978,7 +1978,7 @@
 %gls:	and
 %eng:	and...
 *CEI:	a dan ni (y)n fflio chwarter wedi wyth . 1241331_1243107
-%gls:	and be.1PL.PRES PRON.1PL PRT fly.NONFIN quarter after eight
+%gls:	and be.1PL.PRES PRON.1PL PRT fly.NONFIN quarter past eight
 %eng:	and we're flying at quarter past eight
 *DEW:	ia ? 1243107_1243989
 %gls:	yes
@@ -2437,6 +2437,6 @@
 %eng:	yes they're coming down in the prices of thingy though, aren't they
 *DEW:	oh@s:cym&eng (i)s@s:eng good@s:eng . 1512825_1514358
 %gls:	oh is good
-%eng:	oh, that's/it's good
+%eng:	oh, that's good
 %com:	addresses researcher
 @End
