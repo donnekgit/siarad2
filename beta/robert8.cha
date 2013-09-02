@@ -2173,7 +2173,7 @@
 %gls:	be.1S.IMP PRON.1S get.NONFIN things from Harri Vaults
 %eng:	I'd get things from Harri Vaults
 *EML:	os oe(dd)l (.) isio cau (.) ddeudan ni hanner (we)di deg yn_de +/. 1148837_1152425
-%gls:	if be.3S.IMP want close.NONFIN say.1PL.NONPAST PRON.1PL half after ten TAG
+%gls:	if be.3S.IMP want close.NONFIN say.1PL.NONPAST PRON.1PL half past ten TAG
 %eng:	if he wanted to close, at half past ten, say
 *GOR:	mmm@s:cym&eng . 1152425_1153168
 %gls:	IM
@@ -3088,7 +3088,7 @@
 *GOR:	ew mae (y)r whisky@s:cym&eng (y)n dod hogiau . 1617397_1619115
 %gls:	IM be.3S.PRES DET whisky PRT come.NONFIN boys
 %eng:	gosh, the whisky's coming lads
-%com:	Sound of dishes being set on the table
+@Comment:	Sound of dishes being set on the table
 *EML:	oes . 1619115_1619556
 %gls:	be.3S.PRES
 %eng:	yes
@@ -3118,7 +3118,6 @@
 *GOR:	oh (dy)na chdi ta . 1630632_1632095
 %gls:	IM there PRON.2S then
 %eng:	oh, there you are then
-%com:	sound of something clinking
 *GOR:	paid â yfed o gyd ar unwaith &=laugh . 1632095_1634277
 %gls:	desist.2S.IMPER with drink.NONFIN PRON.3SM all at once
 %eng:	don't drink it all at once
@@ -3159,7 +3158,6 @@
 *EML:	wn i (ddi)m <lle mae> [/] lle mae (we)di roid o . 1650322_1652610
 %gls:	know.1S.NONPAST PRON.1S NEG where be.3S.PRES where be.3S.PRES PRT.PAST put.NONFIN PRON.3SM
 %eng:	I don't know where...where she's put it
-%com:	sound of going through cutlery drawer
 *GOR:	&=laugh . 1652610_1655744
 *EML:	&ɔ oes gyn i un ar_ôl ? 1655744_1657451
 %gls:	be.3S.PRES with PRON.1S one after
@@ -3173,7 +3171,6 @@
 *EML:	oes (yn)a ? 1660005_1661572
 %gls:	be.3S.PRES there
 %eng:	is there?
-%com:	sound of somethin cliking
 @Comment:	Next 19 seconds bleeped out
 *EML:	xxx . 1680996_1683004
 *INT:	very@s:cym&eng nice@s:cym&eng . 1683004_1685431
@@ -3255,7 +3252,6 @@
 *EML:	dy(ma) [/] dyma ni . 1740816_1748165
 %gls:	here here PRON.1PL
 %eng:	here...here we are
-%com:	sound of liquid being poured
 @Comment:	Next 2 seconds bleeped out
 *EML:	dyma ni (we)di bod yn gweithio mor galed de [?] . 1749245_1751625
 %gls:	here PRON.1PL PRT.PAST be.NONFIN PRT work.NONFIN so hard TAG
@@ -3470,7 +3466,7 @@
 *GOR:	xxx fan (a)cw (we)di mynd dwch ? 1885185_1887611
 %gls:	xxx place there PRT.PAST go.NONFIN say.2PL.IMPER
 %eng:	[...] there has gone, say?
-%com:	sound of footsteps, probably Gordon's
+@Comment:	sound of footsteps, probably Gordon's
 *EML:	poison@s:eng de . 1887669_1889457
 %gls:	poison TAG
 %eng:	poison, isn't it

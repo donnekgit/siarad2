@@ -217,7 +217,7 @@
 *ENA:	oedd o (y)n gofyn os o'n i (we)di siarad efo Chris@s:cym&eng (.) ond dydw i heb . 210042_212689
 %gls:	be.3S.IMP PRON.3SM PRT ask.NONFIN if be.1S.IMP PRON.1S PRT.PAST talk.NONFIN with Chris but be.1S.PRES.NEG PRON.1S without
 %eng:	he was asking if I'd talked with Chris, but I haven't
-%com:	There is a knock at the door.
+@Comment:	There is a knock at the door.
 *ENA:	hello@s:cym&eng ! 212655_213131
 *DYF:	hello@s:cym&eng ? 213929_214254
 *ENA:	hello@s:cym&eng Dyfed@s:cym&eng sut wyt ti ? 213943_215509
@@ -2199,7 +2199,7 @@
 *DYF:	+< ie . 1602236_1602712
 %gls:	yes
 %eng:	yes.
-%com:	phone rings.
+@Comment:	phone rings.
 *DYF:	+< ie . 1605057_1605499
 %gls:	yes
 %eng:	yes.
@@ -2260,7 +2260,7 @@
 *DYF:	a wedyn os wyt ti (y)n gweld unrhyw beth special@s:cym&eng ti isio i (.) gwcio (..) tra dan ni lawr yna (.) well@s:cym&eng xxx timod . 1631520_1638242
 %gls:	and then if be.2S.PRES PRON.2S PRT see.NONFIN any thing special PRON.2S want to cook.NONFIN while be.1PL.PRES PRON.1PL down there well xxx know.2S
 %eng:	and then if you see anything special that you want to cook while we're down there, well [..] you know.
-%com:	ENA replaces phone receiver, which beeps.
+@Comment:	ENA replaces phone receiver, which beeps.
 *GWE:	+< yeah@s:cym&eng . 1637092_1637557
 *GWE:	o lle ti (y)n cael (.) yr arian i wneud hynny ta ? 1638486_1641539
 %gls:	from where PRON.2S PRT get.NONFIN DET money to do.NONFIN that then
@@ -2463,7 +2463,6 @@
 *GWE:	ella . 1781792_1782593
 %gls:	maybe
 %eng:	maybe.
-%com:	sound of leafing through a newspaper.
 *DYF:	<well@s:cym&eng dw i (y)n gwybod fi [//] rei> [?] (y)n cael dwy fil dw i (y)n cael cant pum_deg xxx . 1784535_1789058
 %gls:	well be.1S.PRES PRON.1S PRT know.NONFIN PRON.1S some PRT get.NONFIN two.F thousand be.1S.PRES PRON.1S PRT get.NONFIN hundred fifty xxx
 %eng:	well, I know I...some get two thousand, I get a hundred and fifty [...]
@@ -2598,7 +2597,7 @@
 *ENA:	dw (ddi)m yn gwybod . 1925258_1925943
 %gls:	be.1S.PRES NEG PRT know.NONFIN
 %eng:	I don't know.
-%com:	At this point DYF starts a phonecall separate from the other two speakers.
+@Comment:	At this point DYF starts a phonecall separate from the other two speakers.
 *DYF:	hello@s:cym&eng ti iawn ? 1927102_1927961
 %gls:	hello PRON.2S right
 %eng:	hello, you alright?

@@ -2,10 +2,10 @@
 @UTF8
 @Begin
 @Languages:	cym, eng
-@Participants:	LLA Llawdden Adult, IFO Ifor Adult, MAD Madlen Adult, RES Researcher Adult
+@Participants:	LLA Llawdden Adult, IFO Ifor Adult, OSE Other_Speaker Adult, RES Researcher Adult
 @ID:	cym|siarad|LLA|21;|male|||Adult||
 @ID:	cym|siarad|IFO|30;|male|||Adult||
-@ID:	cym|siarad|MAD||female|||Adult||
+@ID:	cym|siarad|OSE||female|||Adult||
 @Situation:	recording of speakers' activity at their workplace, a tile shop. The three speakers are colleagues
 @Comment:	LLA was born and brought up in north-west Wales where he is now living, after spending some years in south-west Wales
 @Comment:	IFO was born in north-west Wales and has lived there all his life
@@ -15,7 +15,7 @@
 @Time Duration:	00:20:12
 @Media:	fusser28, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
-@Comment:	Llawdden and Ifor are the main speakers. No information was collected for Madlen. She is only transcribed when in conversation  with one or both of the other speakers. She is usually heard speaking from afar, and so some of her utterances may have been lost.
+@Comment:	Llawdden and Ifor are the main speakers. No information was collected for Madlen. She is only transcribed (as OSE) when in conversation  with one or both of the other speakers. She is usually heard speaking from afar, and so some of her utterances may have been lost.
 @Comment:	Radio can be heard in the background through much of the recording
 *IFO:	na dan ni isio um@s:cym&eng (.) ffonio pobl xxx . 0_4923
 %gls:	no be.1PL.PRES PRON.1PL want IM phone.NONFIN people xxx
@@ -32,13 +32,13 @@
 *LLA:	Danny_Maelor@s:cym&eng oedd o de Madlen@s:cym&eng ? 11738_13986
 %gls:	Danny_Maelor be.3S.IMP PRON.3SM TAG Madlen
 %eng:	it was Danny Maelor, wasn't it, Madlen?
-*MAD:	eh@s:cym&eng ? 14002_14733
+*OSE:	eh@s:cym&eng ? 14002_14733
 %gls:	IM
 %eng:	eh?
 *LLA:	ffoniodd [?] neithiwr Danny_Maelor@s:cym&eng . 14733_16324
 %gls:	phone.3S.PAST last_night Danny_Maelor
 %eng:	phoned last night, Danny Maelor
-*MAD:	ia . 16324_18054
+*OSE:	ia . 16324_18054
 %gls:	yes
 %eng:	yes
 *IFO:	+< efo [?] be ? 17636_18030
@@ -57,11 +57,11 @@
 *IFO:	dim Danny_Edmunds@s:cym&eng ? 20770_21722
 %gls:	NEG Danny_Edmunds
 %eng:	not Danny Edmunds?
-*MAD:	xxx . 21722_23812
+*OSE:	xxx . 21722_23812
 *IFO:	+< dim [?] Danny@s:cym&eng +/? 22872_23591
 %gls:	NEG Danny
 %eng:	not Danny..?
-*MAD:	<“Maelor@s:cym&eng” (y)dy enw (e)i> [?] dŷ fo de . 23777_25646
+*OSE:	<“Maelor@s:cym&eng” (y)dy enw (e)i> [?] dŷ fo de . 23777_25646
 %gls:	Maelor be.3S.PRES name POSS.3SM house PRON.3SM TAG
 %eng:	Maelor is the name of his house, isn't it
 *IFO:	+< Danny_Edmunds@s:cym&eng ? 23859_24776
@@ -70,7 +70,7 @@
 *IFO:	eh@s:cym&eng ? 25646_26250
 %gls:	IM
 %eng:	eh?
-*MAD:	“Maelor@s:cym&eng” (y)dy enw (e)i dŷ fo . 26146_27667
+*OSE:	“Maelor@s:cym&eng” (y)dy enw (e)i dŷ fo . 26146_27667
 %gls:	Maelor be.3S.PRES name POSS.3SM house PRON.3SM
 %eng:	Maelor is the name of his house
 *IFO:	oh@s:cym&eng ia Danny_Edmunds@s:cym&eng ia . 27667_29176
@@ -82,7 +82,7 @@
 *IFO:	mae xxx yna . 29176_30221
 %gls:	be.3S.PRES xxx there
 %eng:	[...] is there
-*MAD:	lle [?] ? 30093_30465
+*OSE:	lle [?] ? 30093_30465
 %gls:	where
 %eng:	where?
 *LLA:	ah@s:cym&eng yeah@s:cym&eng (dy)na chdi . 30314_31475
@@ -115,7 +115,7 @@
 %gls:	be.3S.PRES
 %eng:	yes
 *LLA:	xxx . 53092_54544
-%com:	Ifor waits for phone to be picked up then starts talking to the person on the other end. Llawdden is quiet during this conversation and seems to be rummaging through some things
+@Comment:	Ifor waits for phone to be picked up then starts talking to the person on the other end. Llawdden is quiet during this conversation and seems to be rummaging through some things
 *IFO:	[- eng] good evening . 60616_61556
 *IFO:	er@s:cym&eng it's@s:eng Ifor@s:cym&eng here@s:eng from@s:eng xxx up@s:eng in@s:eng north@s:eng Wales@s:eng . 61556_64644
 %com:	company name bleeped out
@@ -125,10 +125,9 @@
 *IFO:	yeah@s:cym&eng no@s:eng problem@s:cym&eng . 74966_79087
 *IFO:	I@s:eng can@s:eng get@s:eng some@s:eng samples@s:cym&eng to@s:eng you@s:eng . 79087_80457
 *IFO:	sorry@s:cym&eng ? 80457_83313
-*IFO:	Sahara@s:cym&eng yeah@s:cym&eng . 83313_89223
-%com:	writes down order
+*IFO:	Sahara@s:cym&eng yeah@s:cym&eng . 87492_89223
 *IFO:	Silver_Sunset@s:cym&eng yeah@s:cym&eng . 89223_94389
-%com:	seems to be still writing down the order
+@Comment:	seems to be writing down the order
 *IFO:	Tropical_Haze@s:cym&eng . 94389_97965
 *IFO:	o_k@s:cym&eng . 97965_100426
 *IFO:	they'll@s:eng be@s:eng (.) either@s:eng four@s:eng or@s:eng six@s:eng inch@s:eng samples@s:cym&eng . 100426_103410
@@ -150,12 +149,12 @@
 *LLA:	+< hiya@s:cym&eng dach chi (y)n o lew ? 147101_148320
 %gls:	hiya be.2PL.PRES PRON.2PL PRT rather right
 %eng:	hiya, are you alright?
-%com:	Section blanked out of Ifor's track where Ifor takes customer's address
+@Comment:	Section blanked out of Ifor's track where Ifor takes customer's address
 *IFO:	[- eng] crikey that's far [=! laughs] . 182941_185623
 *IFO:	that's@s:eng not@s:eng far@s:eng from@s:eng Norwich@s:cym&eng is@s:eng it@s:eng . 185623_187899
 *IFO:	Great_Yarmouth@s:cym&eng yeah@s:cym&eng . 187899_191150
 *IFO:	yeah@s:cym&eng . 191150_195016
-%com:	Secion blanked out where Ifor takes customer's post code
+@Comment:	Section blanked out where Ifor takes customer's post code
 *IFO:	[- eng] brilliant . 200763_201738
 *IFO:	that's@s:eng great@s:cym&eng . 201738_203584
 *IFO:	o_k@s:cym&eng . 203584_204060
@@ -183,7 +182,7 @@
 *IFO:	hi@s:cym&eng iawn ? 279734_281343
 %gls:	hi right
 %eng:	hi, alright?
-%com:	Llawdden comes back from dealing with the customer in the store. Ifor continues conversing over the phone whilst Llawdden converses a little with Madlen
+@Comment:	Llawdden comes back from dealing with the customer in the store. Ifor continues conversing over the phone whilst Llawdden converses a little with Madlen
 *IFO:	aye@s:cym&eng . 281343_282713
 *IFO:	oes . 282713_284803
 %gls:	be.3S.PRES
@@ -201,7 +200,7 @@
 *LLA:	&s fynedd efo fo does . 291688_293174
 %gls:	patience with PRON.3SM be.3S.PRES.NEG
 %eng:	he's got patience, hasn't he/you need patience with it, don't you
-*MAD:	eh@s:cym&eng ? 293174_293603
+*OSE:	eh@s:cym&eng ? 293174_293603
 %gls:	IM
 %eng:	eh?
 *LLA:	<(oe)s (yn)a> [?] fynedd efo fo does . 293603_295264
@@ -210,10 +209,10 @@
 *IFO:	+< ia . 294068_294451
 %gls:	yes
 %eng:	yes
-*MAD:	Duw chwarae teg xxx (ddi)m amser . 295264_297504
+*OSE:	Duw chwarae teg xxx (ddi)m amser . 295264_297504
 %gls:	God play fair xxx NEG time
 %eng:	God, fair play [...] no time
-*MAD:	xxx . 297504_299641
+*OSE:	xxx . 297504_299641
 *IFO:	+< ia yeah@s:cym&eng . 298863_299617
 %gls:	yes yeah
 %eng:	yes yeah
@@ -223,7 +222,7 @@
 *IFO:	+< ia . 301823_302206
 %gls:	yes
 %eng:	yes
-*MAD:	yeah@s:cym&eng na <am y> [?] tiles@s:cym&eng yn ganol llawr dw i feddwl . 303437_306641
+*OSE:	yeah@s:cym&eng na <am y> [?] tiles@s:cym&eng yn ganol llawr dw i feddwl . 303437_306641
 %gls:	yeah no about DET tiles in middle floor be.1S.PRES PRON.1S think.NONFIN
 %eng:	yeah, no, I mean the tiles in the middle of the floor
 *IFO:	yeah@s:cym&eng . 306502_306978
@@ -244,7 +243,7 @@
 *LLA:	<sut goblin@s:cym&eng> [?] mae hwn yn gweithio dŵad (.) Madlen@s:cym&eng ? 316440_319122
 %gls:	how goblin be.3S.PRES this PRT work.NONFIN say.2S.IMPER Madlen
 %eng:	how the hell does this work, Madlen?
-*MAD:	be [?] ? 319122_320411
+*OSE:	be [?] ? 319122_320411
 %gls:	what
 %eng:	what?
 *LLA:	&s &s (.) (oe)s gyn ti syniad sut mae hwn yn gweithio ? 320411_322779
@@ -361,7 +360,7 @@
 *IFO:	mae (we)di gofyn ers un awr . 409596_411233
 %gls:	be.3S.PRES PRT.PAST ask.NONFIN since one hour
 %eng:	he asked an hour ago
-%com:	Ifor goes outside to talk to Tim (Ifor's mic blanked out here) while Llawdden continues with his work in silence, listening to the radio. Ifor re-enters room a minute or so later
+@Comment:	Ifor goes outside to talk to Tim (Ifor's mic blanked out here) while Llawdden continues with his work in silence, listening to the radio. Ifor re-enters room a minute or so later
 *LLA:	xxx hwn ? 491790_493334
 %gls:	xxx this
 %eng:	[...] this?
@@ -430,7 +429,6 @@
 %eng:	only [...]
 *LLA:	+< &=laugh . 523416_524530
 *IFO:	<oh@s:cym&eng God@s:eng> [=! laughs] . 524530_527247
-%com:	pours the researcher a cuppa
 *LLA:	&=laugh . 527050_527955
 *RES:	xxx torri fo allan . 527793_529360
 %gls:	xxx cut.NONFIN PRON.3SM out
@@ -457,10 +455,10 @@
 %gls:	no job done
 %eng:	no, job done
 *IFO:	job@s:cym&eng done@s:eng . 539647_541760
-*IFO:	(dy)na chdi . 541760_549503
+*IFO:	(dy)na chdi . 548395_549231
 %gls:	there PRON.2S
 %eng:	there you go
-%com:	takes the researcher her cuppa
+%com:	takes the researcher her tea
 *RES:	diolch yn fawr iawn . 549503_550444
 %gls:	thanks PRT big very
 %eng:	thank you very much
@@ -690,7 +688,7 @@
 *LLA:	yeah@s:cym&eng (dy)na chdi o_k@s:cym&eng ta . 694199_695778
 %gls:	yeah there PRON.2S o_k then
 %eng:	yeah, that's it, ok then
-%com:	long silence as they go about their work
+@Comment:	pause
 *IFO:	<yeah@s:cym&eng dyn nhw (ddi)m> [?] bethau mawr iawn na(g) (y)dyn . 716292_717895
 %gls:	yeah be.3PL.PRES.NEG PRON.3PL NEG things big very NEG be.3PL.PRES
 %eng:	yeah, they're not very big things, are they
@@ -751,7 +749,7 @@
 *LLA:	+< yn_hytrach na roid rywbeth +... 751745_753254
 %gls:	rather PRT put.NONFIN something
 %eng:	rather than putting something...
-*MAD:	xxx be arall s(y) isio wneud gorffen y step@s:cym&eng (y)na de . 753184_755367
+*OSE:	xxx be arall s(y) isio wneud gorffen y step@s:cym&eng (y)na de . 753184_755367
 %gls:	xxx what other be.PRES.REL want do.NONFIN finish.NONFIN DET step there TAG
 %eng:	[...] what else needs doing, finishing that step, isn't it
 *IFO:	ia . 755367_756017
@@ -807,7 +805,7 @@
 %gls:	IM yeah there PRON.2S
 %eng:	oh yeah, that's it
 *IFO:	talking@s:eng of@s:eng which@s:eng (..) um@s:cym&eng +... 795660_803416
-%com:	Long silence as Ifor waits for phone to be picked up at the other end, and Llawdden goes about his work
+@Comment:	pause as Ifor waits for phone to be picked up at the other end, and Llawdden goes about his work
 *IFO:	Geraint@s:cym&eng ! 826341_827305
 *IFO:	sut mae dyn ? 827305_828977
 %gls:	how be.3S.PRES man
@@ -840,7 +838,7 @@
 *LLA:	mae hwn (we)di treulio tua tri diwrnod ar y van@s:cym&eng (y)ma wan do . 856411_863772
 %gls:	be.3S.PRES this PRT.PAST spend.NONFIN approximately three.M day on DET van here now yes
 %eng:	this has been on this van about three days now, hasn't it
-%com:	long silence
+@Comment:	pause
 *IFO:	be (dde)udaist ti am tri diwrnod sorry@s:cym&eng ? 872526_877379
 %gls:	what say.2S.PAST PRON.2S about three.M day sorry
 %eng:	what did you say about three days, sorry?
@@ -853,7 +851,7 @@
 *LLA:	oh@s:cym&eng na . 881953_882928
 %gls:	IM no
 %eng:	oh no
-%com:	long silence
+@Comment:	pause
 *IFO:	<wnes i wneud> [?] refund@s:eng hefyd . 897243_899217
 %gls:	do.1S.PAST PRON.1S do.NONFIN refund also
 %eng:	I did a refund too
@@ -890,7 +888,7 @@
 *IFO:	yeah@s:cym&eng waetsiad tan hynna (fe)lly i [?] wneud o . 920777_923586
 %gls:	yeah wait.NONFIN until that thus to do.NONFIN PRON.3SM
 %eng:	yeah, wait until then to do it, then
-%com:	silence
+@Comment:	pause
 *IFO:	&t timod [?] (.) (dy)dy o wneud dim gwahaniaeth ydy [?] timod . 929310_931690
 %gls:	know.2S be.3S.PRES.NEG PRON.3SM do.NONFIN NEG difference be.3S.PRES know.2S
 %eng:	you know, it makes no difference, does it, you know
@@ -970,7 +968,7 @@
 *IFO:	um@s:cym&eng dw (ddi)m yn sure@s:cym&eng sut i (.) xxx wan . 975077_979117
 %gls:	IM be.1S.PRES NEG PRT sure how to xxx now
 %eng:	um, I'm not sure how to [...] now
-%com:	Ifor types something into the till
+@Comment:	Ifor types something into the till
 *IFO:	(dy)na hi . 982565_983494
 %gls:	there PRON.3SF
 %eng:	that's it
@@ -981,7 +979,7 @@
 *IFO:	+< ia (.) (dy)na chdi . 986872_988045
 %gls:	yes there PRON.2S
 %eng:	yes, that's it
-%com:	Ifor types something into the till
+@Comment:	Ifor types something into the till
 *LLA:	mond efo cred(it)@s:cym&eng +//. 998215_999051
 %gls:	only with credit
 %eng:	only with credit...
@@ -1064,7 +1062,7 @@
 *IFO:	es i â fo i (.) Alan@s:cym&eng yn Port@s:cym&eng de . 1062999_1068440
 %gls:	go.1S.PAST PRON.1S with PRON.3SM to Alan in Port TAG
 %eng:	I took it to Alan in Port, right
-%com:	phone starts ringing
+@Comment:	phone starts ringing
 *LLA:	yeah@s:cym&eng . 1068440_1068997
 *IFO:	wnaeth o wneud o am ddim i fi . 1068858_1069717
 %gls:	do.3S.PAST PRON.3SM do.NONFIN PRON.3SM for NEG for PRON.1S
@@ -1081,19 +1079,19 @@
 *IFO:	wnaeth o wneud o ddim . 1072294_1073200
 %gls:	do.3S.PAST PRON.3SM do.NONFIN PRON.3SM NEG
 %eng:	he did it for free
-%com:	Ifor picks up the phone
+@Comment:	Ifor picks up the phone
 *IFO:	noswaith dda xxx . 1073200_1075324
 %gls:	evening good xxx
 %eng:	good evening [...]
-%com:	section bleeped out where Ifor says the company name
+@Comment:	section bleeped out where Ifor says the company name
 *IFO:	yeah@s:cym&eng who's@s:eng speaking@s:eng please@s:cym&eng ? 1075324_1077704
 *IFO:	[- eng] I'll go and get her for you now . 1077704_1079423
-%com:	Ifor takes Madlen the phone
-*MAD:	xxx . 1079423_1082163
+@Comment:	Ifor takes Madlen the phone
+*OSE:	xxx . 1079423_1082163
 *IFO:	ia . 1082163_1083173
 %gls:	yes
 %eng:	yes
-%com:	silence
+@Comment:	pause
 *LLA:	(y)dy Eilir@s:cym&eng (we)di talu wan ? 1091718_1094098
 %gls:	be.3S.PRES Eilir PRT.PAST pay.NONFIN now
 %eng:	has Eilir paid now?
@@ -1170,13 +1168,13 @@
 *IFO:	ia . 1142209_1143034
 %gls:	yes
 %eng:	yes
-%com:	long silence. Sound of Llawdden possibly rummaging through some things and occasionally muttering and whistling to himself
+@Comment:	long pause. Sound of Llawdden possibly rummaging through some things and occasionally muttering and whistling to himself
 *LLA:	be [/] be mae nhw (y)n da fa(n) (y)ma anyway@s:eng ? 1191447_1193514
 %gls:	what what be.3PL.PRES PRON.3PL PRT good place here anyway
 %eng:	what are they doing here anyway?
-*MAD:	xxx . 1193514_1194942
+*OSE:	xxx . 1193514_1194942
 *LLA:	ah@s:cym&eng . 1194942_1196115
-%com:	long silence. One section of Llawdden's track blanked out where he's outside talking to some customers, and his mic cuts out a lot
+@Comment:	long pause. One section of Llawdden's track blanked out where he's outside talking to some customers, and his mic cuts out a lot
 *IFO:	right@s:cym&eng . 1303751_1305179
 *IFO:	xxx hen pad@s:cym&eng (y)na [?] wnaethon ni ddechrau +//? 1305179_1312110
 %gls:	xxx old pad there do.1PL.PAST PRON.1PL start.NONFIN
@@ -1216,7 +1214,7 @@
 *LLA:	xxx fath â (.) manna@s:cym&eng (y)r nefoedd . 1331634_1336649
 %gls:	xxx kind with manna DET heavens
 %eng:	[...] like manna from heaven
-%com:	silence
+@Comment:	pause
 *LLA:	(a)chos [?] mae (y)r llall yn dod i ben wan dydy . 1350082_1353600
 %gls:	because be.3S.PRES DET other PRT come.NONFIN to end now be.3S.PRES.NEG
 %eng:	because the other one's coming to an end now, isn't it
@@ -1269,13 +1267,13 @@
 *LLA:	ah@s:cym&eng yeah@s:cym&eng (dy)na chdi . 1387949_1389122
 %gls:	IM yeah there PRON.2S
 %eng:	ah yeah, that's it
-%com:	long silence. Ifor flick through some pages
+@Comment:	long pause. Ifor flick through some pages
 *IFO:	hwn o'n isio . 1438244_1439556
 %gls:	this be.1S.IMP want
 %eng:	this is what I wanted
-%com:	long silence. Llawdden sings along to the radio a little. Ifor dials a telephone number
+@Comment:	pause. Llawdden sings along to the radio a little. Ifor dials a telephone number
 *LLA:	ti ffonio fo ? 1453430_1454498
 %gls:	PRON.2S phone.NONFIN PRON.3SM
 %eng:	you phoning him?
-%com:	Researcher comes to end the recording
+@Comment:	Researcher comes to end the recording
 @End

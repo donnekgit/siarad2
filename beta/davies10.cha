@@ -1414,7 +1414,7 @@
 %eng:	right in its way, eh.
 *HIL:	&=sigh . 584774_585561
 *MIC:	ac (.) chwarter wedi naw xxx . 584888_586653
-%gls:	and quarter after nine xxx
+%gls:	and quarter past nine xxx
 %eng:	and quarter past nine [...].
 *MIC:	(fa)sai fo (we)di bod hanner awr yn gynt . 586701_587930
 %gls:	be.3S.CONDIT PRON.3SM PRT.PAST be.NONFIN half hour PRT sooner
@@ -2865,7 +2865,6 @@
 *HIL:	+< yndy . 1216464_1216964
 %gls:	be.3S.PRES
 %eng:	yes.
-%com:	laughter in next room audible in background.
 *CLE:	mae (y)n dda bod <hi (y)n> [?] cael &de +/. 1218228_1219144
 %gls:	be.3S.PRES PRT good be.NONFIN PRON.3SF PRT get.NONFIN
 %eng:	it's good that it gets ...
@@ -2927,7 +2926,7 @@
 *MIC:	+< oh@s:cym&eng right@s:cym&eng . 1237366_1238214
 *HIL:	+< yeah@s:cym&eng yeah@s:cym&eng oh@s:cym&eng right@s:cym&eng . 1238808_1240408
 *MIC:	+< mmm@s:cym&eng . 1239329_1239897
-%com:	voices audible in next room.
+@Comment:	voices are audible from the next room
 *MIC:	yeah@s:cym&eng . 1241084_1241502
 *CLE:	a dw i (ddi)m (we)di clywed er@s:cym&eng (.) bod (y)na rywun gwahanol (y)ma de . 1241424_1243812
 %gls:	and be.1S.PRES PRON.1S NEG PRT.PAST hear.NONFIN IM be.NONFIN there someone different here TAG
@@ -2941,7 +2940,6 @@
 *MIC:	mmm@s:cym&eng dw i (ddi)m yn gwybod . 1246468_1247571
 %gls:	IM be.1S.PRES PRON.1S NEG PRT know.NONFIN
 %eng:	mmm, I don't know.
-%com:	voices audible in next room.
 *CLE:	faint sy (y)n dod yma dyw(ed)a (.) i ysgol feithrin ? 1248413_1250582
 %gls:	amount be.PRES.REL PRT come.NONFIN here say.2S.IMPER to school nurture
 %eng:	how many come here, say, to the nursery?
@@ -3075,7 +3073,6 @@
 *HIL:	anhygoel (y)dy ? 1309199_1310407
 %gls:	amazing be.3S.PRES
 %eng:	amazing, isn't it?
-%com:	voices audible in next room.
 *CLE:	wedyn mae Cantax@s:cym&eng [?] isio defnyddio (.) yr hen le Octel@s:cym&eng (yn)dyn ? 1311140_1314389
 %gls:	after be.3S.PRES Cantax want use.NONFIN DET old place Octel be.3PL.PRES
 %eng:	also Cantax want to use the old Octel place, don't they?
@@ -3362,7 +3359,6 @@
 *CLE:	yeah@s:cym&eng yeah@s:cym&eng . 1429650_1430521
 *HIL:	mmm@s:cym&eng . 1430103_1430822
 *MIC:	mmm@s:cym&eng . 1430511_1431055
-%com:	voices audible in next room.
 *HIL:	mae (y)n odd@s:cym&eng [?] &f +//. 1431619_1432153
 %gls:	be.3S.PRES PRT odd
 %eng:	it's odd...
@@ -3496,7 +3492,7 @@
 *CLE:	ond wn i (ddi)m faint o wir +... 1484984_1486226
 %gls:	but know.1S.NONPAST PRON.1S NEG amount of truth
 %eng:	but I don't know how much truth ...
-%com:	researcher (RES) enters room at this point.
+@Comment:	researcher (RES) enters room at this point.
 *CLE:	stop@s:cym&eng &=laugh ! 1486679_1488037
 *HIL:	dan ni (y)n iawn ? 1487893_1488420
 %gls:	be.1PL.PRES PRON.1PL PRT alright

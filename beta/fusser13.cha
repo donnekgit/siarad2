@@ -325,7 +325,7 @@
 *CRI:	xxx a wedyn xxx [//] (.) oedd (y)na wahoddiad (.) i (.) ryw ginio bach a mynd round@s:cym&eng y lle a ryw gyngerdd wedyn amser cinio (fe)lly . 230175_241716
 %gls:	xxx and then xxx be.3S.IMP there invitation to some dinner small and go.NONFIN round DET place and some concert then time lunch thus
 %eng:	[...] and then [...] ...there was an invitation to some small dinner and to go round the place and some concert afterwards, like
-%com:	clock chimes eleven times
+@Comment:	clock chimes eleven times
 *BEI:	+< oh@s:cym&eng . 232683_233322
 %gls:	IM
 %eng:	oh
@@ -1735,7 +1735,7 @@
 %gls:	yes
 %eng:	yes
 *ANN:	xxx felly oedden nhw (y)n dechrau fo ar newyddion saith o gloch neithiwr hefyd (.) neu hanner (we)di saith neu faint bynnag o gloch mae o . 1247261_1252974
-%gls:	xxx thus be.3PL.IMP PRON.3PL PRT start.NONFIN PRON.3SM on news seven of clock last_night also or half after seven or how_much ever of clock be.3S.PRES PRON.3SM
+%gls:	xxx thus be.3PL.IMP PRON.3PL PRT start.NONFIN PRON.3SM on news seven of clock last_night also or half past seven or how_much ever of clock be.3S.PRES PRON.3SM
 %eng:	[...] that's how they started it on the seven o'clock news last night too, or half past seven or whatever time it is
 *ANN:	felly (y)n union oedd (r)heiny (y)n deud hefyd . 1252974_1255214
 %gls:	thus PRT exact be.3S.IMP those PRT say.NONFIN also
@@ -2225,7 +2225,7 @@
 *ANN:	mae nhw (.) yn cadw +... 1573225_1575535
 %gls:	be.3PL.PRES PRON.3PL PRT keep.NONFIN
 %eng:	they keep...
-%com:	phone rings
+@Comment:	phone rings
 *CRI:	+< oh@s:cym&eng yeah@s:cym&eng ? 1573376_1573805
 %gls:	IM yeah
 %eng:	oh yeah?
@@ -2238,7 +2238,7 @@
 *CRI:	+< oh@s:cym&eng right@s:cym&eng . 1581329_1582316
 %gls:	IM right
 %eng:	oh right
-%com:	a door is opened and Beinon goes out to answer the phone
+@Comment:	a door is opened and Beinon goes out to answer the phone
 *ANN:	um@s:cym&eng wedyn [?] dan ni mynd i fan (y)no fel arfer . 1586752_1588923
 %gls:	IM then be.1PL.PRES PRON.1PL go.NONFIN to place there like habit
 %eng:	um, so we go there usually
@@ -3120,7 +3120,7 @@
 *CRI:	na [?] just@s:cym&eng fath â wneud o gongl i gongl neu (ryw)beth oeddech chi dw i sure@s:cym&eng yeah@s:cym&eng ? 2249174_2252866
 %gls:	no just kind with do.NONFIN from corner to corner or something be.2PL.IMP PRON.2PL be.1S.PRES PRON.1S sure yeah
 %eng:	no, you just, like, did from corner to corner or something, I'm sure, yeah?
-%com:	long pause
+@Comment:	pause
 *ANN:	argoel wsti be dw i (ddi)m yn cofio . 2263338_2265021
 %gls:	lord know.2S what be.1S.PRES PRON.1S NEG PRT remember.NONFIN
 %eng:	God, you know what, I don't remember
@@ -4512,5 +4512,5 @@
 %eng:	there'll be a storm coming in now in two minutes
 *BEI:	&=laugh . 3310077_3311795
 *CRI:	+< &=laugh . 3310553_3313769
-%com:	Beinon opens door and goes into other room to end the recording
+@Comment:	Beinon opens door and goes into other room to end the recording
 @End

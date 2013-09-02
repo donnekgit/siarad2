@@ -275,7 +275,6 @@
 %gls:	be.1S.IMP PRON.1S with active reload place there also
 %eng:	I had an active reload there too.
 *HYW:	xxx (.) eh@s:cym&eng [?] ? 160282_161325
-%com:	sound of joypad (controller) button being hit repeatedly.
 *HYW:	cod fi ! 163449_164065
 %gls:	lift.2S.IMPER PRON.1S
 %eng:	lift me!
@@ -552,7 +551,6 @@
 %gls:	and PRON.2S do.3S.PAST kill.NONFIN PRON.3SM
 %eng:	and it was you who killed him.
 *HYW:	xxx . 348941_350356
-%com:	sound of chair creaking.
 *ADA:	<ti (we)di meddwl> [=! laugh] mae bob un [//] (.) mae (y)r ddau kill@s:eng dwytha bod yn lwcus <just@s:cym&eng troi round@s:cym&eng a saethu> [=! laugh] . 351432_356525
 %gls:	PRON.2S PRT.PAST think.NONFIN be.3S.PRES every one be.3S.PRES DET two kill last be.NONFIN PRT lucky just turn.NONFIN round and shoot.NONFIN
 %eng:	have you thought, the last two kills have been lucky, just turn around and shoot.
@@ -1012,7 +1010,7 @@
 *HYW:	&=laugh . 682438_683111
 *ADA:	&=laugh . 683901_684481
 *ADA:	yeah@s:cym&eng boy@s:cym&eng ! 689358_690414
-%com:	slapping sound.
+@Comment:	slapping sound.
 *HYW:	[- eng] <close my xxx> [=! singing] . 693317_696428
 *HYW:	ti dal efo loads@s:eng o Playstation@s:cym&eng games@s:cym&eng Adam@s:cym&eng . 697090_698680
 %gls:	PRON.2S hold.NONFIN with loads of Playstation games Adam
@@ -1234,8 +1232,8 @@
 *HYW:	dw i o_dan bont . 822741_823946
 %gls:	be.1S.PRES PRON.1S under bridge
 %eng:	I'm under the bridge.
-*HYW:	paid ti a mynd ffordd (y)na . 824306_825073
-%gls:	desist.2S.IMPER PRON.2S and go.NONFIN way there
+*HYW:	paid ti â mynd ffordd (y)na . 824306_825073
+%gls:	desist.2S.IMPER PRON.2S with go.NONFIN way there
 %eng:	don't you go that way.
 *HYW:	o_k@s:cym&eng dw i mynd ar yr (..) ochr tu_fewn . 825121_827151
 %gls:	o_k be.1S.PRES PRON.1S go.NONFIN on DET side inside
@@ -1260,7 +1258,7 @@
 *ADA:	ti weld ? 833467_834256
 %gls:	PRON.1S see.NONFIN
 %eng:	you see?
-%com:	sound of another player speaking via headset.
+@Comment:	Sound of other player speaking via headset frequently from here onwards
 *HYW:	&=sniff . 834651_835452
 *ADA:	dw i (y)n awesome@s:eng ? 835500_836381
 %gls:	be.1S.PRES PRON.1S PRT awesome
@@ -1275,7 +1273,6 @@
 *HYW:	ti wneud fi edrych yn rubbish@s:cym&eng . 839330_840433
 %gls:	PRON.2S do.NONFIN PRON.1S look.NONFIN PRT rubbish
 %eng:	you make me look rubbish.
-%com:	sound of another player speaking via headset.
 *HYW:	paid â crio . 843929_844659
 %gls:	desist.2S.IMPER with cry.NONFIN
 %eng:	don't cry.
@@ -1366,7 +1363,6 @@
 *ADA:	mae hynna (we)di digwydd fan (y)ma ac yn mansion@s:eng rwan . 891439_893550
 %gls:	be.3S.PRES that PRT.PAST happen.NONFIN place here and in mansion now
 %eng:	that's happened here and in the mansion now.
-%com:	voice of other player (William) audible over headset.
 *ADA:	yndy . 895210_895860
 %gls:	be.3S.PRES
 %eng:	yes.
@@ -1455,11 +1451,9 @@
 %eng:	take it.
 *ADA:	&=laugh <nice@s:cym&eng one@s:eng> [=! laugh] Hywel@s:cym&eng . 949291_951994
 *HYW:	+< &=laugh . 949707_950392
-%com:	voice of other player audible over headset.
 *ADA:	(be)cause@s:eng o'n i (y)n cover_o@s:eng+cym . 959808_960899
 %gls:	because be.1S.IMP PRON.1S PRT cover.NONFIN
 %eng:	because I was covering.
-%com:	voice of other player (William) audible over headset.
 *ADA:	<sut dw i (y)n cael nhw> [=! laugh] mor fast@s:cym&eng . 961692_963453
 %gls:	how be.1S.PRES PRON.1S PRT get.NONFIN PRON.3PL so fast
 %eng:	how do I get them so fast.
@@ -1648,12 +1642,10 @@
 *ADA:	ah@s:cym&eng finally@s:eng (.) wnes i fedru kerb_stomp_io@s:eng+cym fo tro (y)na . 1084304_1086543
 %gls:	IM finally do.1S.PAST PRON.1S can.NONFIN kerb_stomp.NONFIN PRON.3SM time there
 %eng:	ah, finally, I managed to kerb-stomp him that time.
-%com:	sound of other player speaking over headset.
-*HYW:	paid a crio . 1092131_1092824
-%gls:	desist.2S.IMPER PRT cry.NONFIN
+*HYW:	paid â crio . 1092131_1092824
+%gls:	desist.2S.IMPER with cry.NONFIN
 *ADA:	&=laugh . 1092894_1093265
 *HYW:	+< &=laugh . 1093044_1093776
-%com:	sound of other player speaking over headset.
 *HYW:	&=sigh sbia hynna xxx dau xxx . 1096879_1098826
 %gls:	look.2S.IMPER that xxx two xxx
 %eng:	look at that [..] two [...].
@@ -1738,37 +1730,30 @@
 *HYW:	ooh@s:cym&eng . 1135678_1136419
 *HYW:	<(o)_k@s:cym&eng hang@s:eng on@s:eng> [?] xxx +... 1137440_1138588
 *ADA:	nice@s:cym&eng one@s:eng Hywel@s:cym&eng . 1139797_1140585
-%com:	sound of other player speaking over headset.
 *ADA:	ti (y)n gweld be . 1143861_1144834
 %gls:	PRON.2S PRT see.NONFIN what
 %eng:	you see what?
-%com:	sound of other player speaking over headset.
 *HYW:	<ti (y)n> [=! laugh] (.) tynnu (y)r trigger@s:cym&eng . 1147321_1148863
 %gls:	PRON.2S PRT pull.NONFIN DET trigger
 %eng:	you pull the trigger.
 *HYW:	a mae (y)r (.) gelyn yn marw . 1148818_1150883
 %gls:	and be.3S.PRES DET enemy PRT die
 %eng:	and the enemy dies.
-%com:	sound of other player speaking over headset.
 *ADA:	(be)cause@s:eng dw i digon agos i chdi . 1153694_1155156
 %gls:	because be.1S.PRES PRON.1S enough close to PRON.2S
 %eng:	because I'm close enough to you.
-%com:	this last utterance spoken to a player over the headset.
 *ADA:	a dim fi wnaeth ladd chdi . 1155283_1156746
 %gls:	and NEG PRON.1S do.3S.PAST kill.NONFIN PRON.2S
 %eng:	and it wasn't me who killed you.
-%com:	sound of other player speaking over headset.
 *ADA:	yeah@s:cym&eng Hywel@s:cym&eng wnaeth ladd chdi . 1161936_1163341
 %gls:	yeah Hywel do.3S.PAST kill.NONFIN PRON.2S
 %eng:	yeah, it was Hywel who killed you.
-%com:	sound of other player speaking over headset.
 *HYW:	naci (.) <yndy mae (y)n cael kill@s:eng> [=! laugh] . 1164948_1166928
 %gls:	no be.3S.PRES be.3S.PRES PRT get.NONFIN kill.NONFIN
 %eng:	no, yes, he gets a kill.
 *ADA:	Hywel@s:cym&eng aeth . 1166918_1167857
 %gls:	Hywel go.3S.PAST
 %eng:	Hywel did it.
-%com:	sound of other player speaking over headset.
 *ADA:	tiwel mae Dafydd@s:cym&eng yn dweud +"/. 1169832_1170922
 %gls:	see.2S be.3S.PRES Dafydd PRT say.NONFIN
 %eng:	you see, Dafydd says:
@@ -1786,7 +1771,6 @@
 *ADA:	oedd . 1173255_1174010
 %gls:	be.3S.IMP
 %eng:	yes.
-%com:	sound of other player speaking over headset.
 *ADA:	tiwel mae Dafydd@s:cym&eng even@s:eng yn dweud na chdi wnaeth . 1174792_1176714
 %gls:	see.2S be.3S.PRES Dafydd even PRT say.NONFIN NEG PRON.2S do.3S.PAST
 %eng:	you see, even Dafydd says that it was you who did.
@@ -1853,7 +1837,6 @@
 *ADA:	I@s:eng thought@s:eng I@s:eng saw@s:eng a@s:eng pussy@s:cym&eng cat@s:cym&eng . 1211104_1213031
 %com:	in the lisping voice of the cartoon character Tweety-Pie the bird.
 *HYW:	+< [- eng] absolutely not . 1211975_1213380
-%com:	sound of other player speaking over headset.
 *ADA:	er@s:cym&eng disgwyl tan mae [//] (.) tan dan ni (we)di gorffen (.) y peth . 1217135_1220578
 %gls:	IM wait.NONFIN until be.3S.PRES until be.1PL.PRES PRON.1PL PRT.PAST finish.NONFIN DET thing
 %eng:	wait until we've finished the thing.
@@ -1907,7 +1890,6 @@
 %gls:	do.1S.PAST PRON.1S shoot.NONFIN PRON.3SM place
 %eng:	I shot him there.
 *HYW:	[- eng] twat . 1254154_1254827
-%com:	sound of other player speaking over headset.
 *ADA:	mae hynna rubbish@s:cym&eng hynna . 1256156_1257317
 %gls:	be.3S.PRES that rubbish that
 %eng:	that's rubbish, that is.
@@ -1981,11 +1963,9 @@
 *ADA:	mae (y)n unsporting@s:eng conduct@s:eng <meddai Hywel@s:cym&eng> [=! laugh] . 1312146_1314282
 %gls:	be.3S.PRES PRT unsporting conduct say.NONFIN Hywel
 %eng:	Hywel says it's unsporting conduct.
-%com:	sound of other player speaking over headset.
 *HYW:	newid subject@s:eng straight@s:cym&eng away@s:eng eh@s:cym&eng &=laugh . 1317225_1318821
 %gls:	change.NONFIN subject straight away TAG
 %eng:	changing subject straight away, eh.
-%com:	sound of other player speaking over headset.
 *ADA:	es i perchynu fan (y)na by@s:eng the@s:eng way@s:eng . 1322873_1324461
 %gls:	go.1S.PAST PRON.1S own.NONFIN place there by the way
 %eng:	I owned there, by the way.
@@ -2152,7 +2132,6 @@
 *ADA:	oedd bwtwm yn stuck@s:cym&eng ! 1444707_1446341
 %gls:	be.3S.IMP button PRT stuck
 %eng:	the button was stuck.
-%com:	sound of other player speaking over headset.
 *HYW:	mae newid subject@s:eng straight@s:cym&eng away@s:eng . 1449928_1451251
 %gls:	be.3S.PRES change.NONFIN subject straight away
 %eng:	he changes the subject straight away.
@@ -2179,8 +2158,8 @@
 %gls:	go.1S.NONPAST PRON.1S then
 %eng:	I'll go, then.
 *HYW:	(o)_k@s:cym&eng . 1465921_1466420
-*HYW:	paid a mynd rhy sydyn . 1466770_1467802
-%gls:	desist.2S.IMPER PRT go.NONFIN too quick
+*HYW:	paid â mynd rhy sydyn . 1466770_1467802
+%gls:	desist.2S.IMPER with go.NONFIN too quick
 %eng:	don't go too quickly.
 *HYW:	oh@s:cym&eng (doe)s (yn)a neb yna . 1468071_1468916
 %gls:	IM be.3S.IMP.NEG there nobody there
@@ -2199,7 +2178,7 @@
 %eng:	Dafydd is coming after you behind him.
 *ADA:	nice@s:cym&eng one@s:eng Hywel@s:cym&eng hmm@s:cym&eng . 1480375_1481293
 *HYW:	+< &=laugh . 1480888_1481397
-%com:	slapping sound.
+@Comment:	slapping sound.
 *HYW:	&=laugh hwnna easiest@s:eng kill@s:eng dw i erioed (we)di gael . 1482409_1485461
 %gls:	that_one easiest kill be.1S.PRES PRON.1S ever PRT.PAST get.NONFIN
 %eng:	that's the easiest kill I've ever got.
@@ -2283,7 +2262,7 @@
 *ADA:	ond [?] doedd Dafydd@s:cym&eng methu chainsaw_io@s:eng+cym fi o mor bell â hynna nag oedd . 1536153_1538533
 %gls:	but be.3S.IMP.NEG Dafydd fail.NONFIN chainsaw.NONFIN PRON.1S from so far with that NEG be.3S.IMP
 %eng:	but Dafydd couldn't chainsaw me from that far away couldn't he.
-%com:	farting sound.
+@Comment:	farting sound.
 *HYW:	&=laugh (.) sorry@s:cym&eng &=sigh . 1538559_1541226
 *HYW:	xxx +/. 1541570_1542255
 *ADA:	+< oh@s:cym&eng oedden ni (y)n chwarae Balderdash@s:cym&eng neithiwr . 1541827_1543265
@@ -2324,7 +2303,6 @@
 *HYW:	wnaeth o (.) um@s:cym&eng [///] (.) deud (wr)tho fo stopio iwsio moonwalk@s:eng . 1563321_1566628
 %gls:	do.3S.PAST PRON.3SM IM say.2S.IMPER to.3SM PRON.3SM stop.NONFIN use.NONFIN moonwalk
 %eng:	tell him to stop using [the] moonwalk.
-%com:	sound of another player speaking over headset.
 *HYW:	deud (wr)tho fo stopio iwsio moonwalk@s:eng . 1571023_1572472
 %gls:	say.2S.IMPER to.3SM PRON.3SM stop.NONFIN use.NONFIN moonwalk
 %eng:	tell him to stop using [the] moonwalk.
@@ -2356,7 +2334,6 @@
 *ADA:	mae hyn mynd i swnio mor weird@s:eng ar yr um@s:cym&eng +... 1585736_1587650
 %gls:	be.3S.PRES this go.NONFIN PRT sound.NONFIN so weird on DET IM
 %eng:	this is going to sound so weird on the...
-%com:	some interference with microphone (rustling).
 *HYW:	dw i gwybod &=laugh . 1588126_1589612
 %gls:	be.1S.PRES PRON.1S know.NONFIN
 %eng:	I know.
@@ -2418,7 +2395,6 @@
 *HYW:	+< oedd &br [/] oedd William@s:cym&eng yn meddwl [/] oedd William@s:cym&eng yn meddwl bod o efo fi fan (y)na rwan . 1631878_1634379
 %gls:	be.3S.IMP be.3S.IMP William PRT think.NONFIN be.3S.IMP William PRT think.NONFIN be.NONFIN PRON.3SM with PRON.1S place there now
 %eng:	William thought he had me there.
-%com:	sound of another player speaking over headset.
 *HYW:	xxx wnes i just@s:cym&eng troi round@s:cym&eng . 1634876_1636118
 %gls:	xxx do.1S.PAST PRON.1S just turn.NONFIN round
 %eng:	[...] I just turned round.
@@ -2428,11 +2404,9 @@
 *HYW:	<wnes i just@s:cym&eng> [?] &=gasp &=gun_sound boom@s:cym&eng . 1636841_1639752
 %gls:	do.1S.PAST PRON.1S just boom
 %eng:	I just did, boom.
-%com:	sound of another player speaking over headset.
 *ADA:	mae o (y)n deud wnaeth o tagio chdi . 1640350_1641916
 %gls:	be.3S.PRES PRON.3SM PRT say.NONFIN do.3S.PAST PRON.3SM tag.NONFIN PRON.2S
 %eng:	he said that he tagged you.
-%com:	sound of another player speaking over headset.
 *HYW:	be (e)fo shotgun@s:eng ? 1642626_1643344
 %gls:	what with shotgun
 %eng:	what, with a shotgun?
@@ -2444,16 +2418,13 @@
 *ADA:	oedda chdi efo shotgun@s:eng chdi allan . 1648138_1649682
 %gls:	be.2S.IMP PRON.2S with shotgun PRON.2S out
 %eng:	you had your shotgun out.
-%com:	sound of another player speaking over headset.
 *ADA:	[- eng] hang on . 1652900_1653316
 *ADA:	(oe)s (y)na rywun (we)di joinio (y)r game@s:cym&eng ? 1653237_1654303
 %gls:	be.3S.PRES there someone PRT.PAST join.NONFIN DET game
 %eng:	has someone joined the game?
-%com:	sound of another player speaking over headset.
 *HYW:	saith group@s:cym&eng [=! laugh] [?] . 1655027_1656083
 %gls:	seven group
 %eng:	seven groups.
-%com:	sound of another player speaking over headset.
 *ADA:	wna i gael gwared o nhw . 1656840_1657697
 %gls:	do.1S.PAST PRON.1S get.NONFIN rid of PRON.3PL
 %eng:	I'll get rid of them.
@@ -2569,7 +2540,6 @@
 *HYW:	be ? 1735588_1736227
 %gls:	what
 %eng:	what?
-%com:	sound of another player speaking over headset.
 *HYW:	ha@s:cym&eng [?] ? 1742373_1743569
 *ADA:	mae newydd ddeud +"/. 1744184_1744672
 %gls:	be.3S.PRES new say.NONFIN
@@ -2596,11 +2566,9 @@
 %eng:	OK, I'll come up towards you.
 *HYW:	&=sigh Adam@s:cym&eng . 1767067_1767925
 *ADA:	boom@s:cym&eng (.) headshot@s:eng . 1768832_1770490
-%com:	sound of another player speaking over headset.
 *ADA:	aeth o no@s:eng way@s:eng methu . 1780098_1781627
 %gls:	go.3S.PAST PRON.3SM no way miss.NONFIN
 %eng:	he no way missed.
-%com:	sound of another player speaking over headset.
 *HYW:	&=laugh yn taeru [?] [///] mae dal [//] mae (y)n dal i daeru rwan . 1783488_1787432
 %gls:	PRT insist.NONFIN be.3S.PRES still be.3S.PRES PRT still PRT insist.NONFIN now
 %eng:	he's still insisting now.
@@ -2802,7 +2770,6 @@
 %eng:	it was William chainsawing.
 *HYW:	oh@s:cym&eng . 1909127_1909836
 *HYW:	surprise@s:cym&eng surprise@s:cym&eng . 1910370_1912216
-%com:	sound of other player speaking over headset.
 *ADA:	(be)cause@s:eng dan ni lot@s:cym&eng gwell . 1920563_1921655
 %gls:	because be.1PL.PRES PRON.1PL lot better
 %eng:	because we're much beter.
@@ -2845,14 +2812,12 @@
 %gls:	xxx behind
 %eng:	[...] behind.
 *HYW:	oh@s:cym&eng Adam@s:cym&eng ! 1947835_1948694
-%com:	sound of other player speaking over headset.
 *HYW:	Dafydd@s:cym&eng (.) waeddi hynna . 1950960_1952305
 %gls:	Dafydd shout.NONFIN that
 %eng:	Dafydd shout[ed?] that.
 *ADA:	+< pam wnes i jump_io@s:eng+cym pasio chainsaw@s:eng chdi ? 1951705_1953849
 %gls:	why do.1S.PAST PRON.1S jump.NONFIN pass.NONFIN chainsaw PRON.2S
 %eng:	why did I jump past your chainsaw?
-%com:	sound of other player speaking over headset.
 *ADA:	es i saethu chdi cyn y melee@s:eng attack@s:eng ac ar_ôl y melee@s:eng attack@s:eng . 1956894_1960084
 %gls:	go.1S.PAST PRON.1S shoot.NONFIN PRON.2S before DET melee attack and after DET melee attack
 %eng:	I shot you before the melee attack and after the melee attack.
@@ -2924,19 +2889,15 @@
 *ADA:	eith o cwyno amdan hynna . 2000024_2001589
 %gls:	go.3S.NONPAST PRON.3SM complain.NONFIN about that
 %eng:	he'll complain about that.
-%com:	sound of other player speaking over headset.
 *HYW:	ah@s:cym&eng cau dy geg . 2009149_2010715
 %gls:	IM shut.2S.IMPER POSS.2S mouth
 %eng:	ah, shut your mouth.
-%com:	sound of other player speaking over headset.
 *ADA:	mae dal i gwyno . 2011878_2013002
 %gls:	be.3S.PRES still PRT complain.NONFIN
 %eng:	he's still complaining.
-%com:	sound of other player speaking over headset.
 *HYW:	o'n i (y)n [///] timod pan [/] (.) pan ti methu siarad y game@s:cym&eng (y)na fath â neithiwr neu rywbeth neu (..) dau ddiwrnod yn_ôl de . 2015480_2020293
 %gls:	be.1S.IMP PRON.1S PRT 2S.know when when PRON.2S fail.NONFIN talk.NONFIN DET game there kind with last_night or something or two day back TAG
 %eng:	I was, you know, when you can't talk [? in] the game like last night or something, or two days ago, eh.
-%com:	sound of other player speaking over headset.
 *HYW:	o'n i wallgo . 2021131_2021942
 %gls:	be.1S.IMP PRON.1S crazy
 %eng:	I was crazy.

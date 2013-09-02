@@ -2,14 +2,13 @@
 @UTF8
 @Begin
 @Languages:	cym, eng
-@Participants:	ANE Aneira Adult, BLO Blodwen Adult, CIG Cigfa Adult
+@Participants:	ANE Aneira Adult, BLO Blodwen Adult, OSE Other_Speaker Adult
 @ID:	cym|siarad|ANE|39;|female|||Adult||
 @ID:	cym|siarad|BLO|36;|female|||Adult||
-@ID:	cym|siarad|CIG|35;|female|||Adult||
+@ID:	cym|siarad|OSE||female|||Adult||
 @Situation:	Informal conversation between work colleagues, recorded at their office
 @Comment:	ANE was born in England, but has lived in north-west Wales since the age of 8
 @Comment:	BLO is was born in north-west Wales a nd has lived there all her life
-@Comment:	CIG is from north-west Wales. She is not a main speaker, only appearing very briefly.
 @Transcriber:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Time Duration:	00:25:45
@@ -236,7 +235,6 @@
 *ANE:	yeah@s:cym&eng . 117613_118054
 *BLO:	&sm &s &=hum &=sniff . 118056_120208
 *ANE:	yeah@s:cym&eng (be)cause@s:eng um@s:cym&eng +... 119960_121667
-%com:	bang from pool table
 *ANE:	mae (y)n haws &a +//. 123111_123912
 %gls:	be.3S.PRES PRT easier
 %eng:	it's easier...
@@ -665,14 +663,14 @@
 *ANE:	efo be ? 362496_364028
 %gls:	with what
 %eng:	with what?
-%com:	door opens.
+@Comment:	door opens.
 *BLO:	ia ? 366558_366860
 %gls:	yes
 %eng:	yes?
 *ANE:	(..) dw (ddi)m gwybod . 371283_372595
 %gls:	be.1S.PRES NEG know.NONFIN
 %eng:	dunno.
-%com:	a colleague peers through the window at this point.
+@Comment:	a colleague peers through the window at this point.
 *BLO:	&=laugh . 374139_374673
 *BLO:	fi a Aneira@s:cym&eng sy (y)n siarad . 378644_380153
 %gls:	PRON.1S and Aneira be.PRES.REL PRT talk.NONFIN
@@ -687,14 +685,14 @@
 *BLO:	sut dan ni (y)n siarad . 384449_385494
 %gls:	how be.1PL.PRES PRON.1PL PRT talk.NONFIN
 %eng:	the way we talk.
-%com:	the colleague whispers something unintelligible.
+@Comment:	the colleague whispers something unintelligible.
 *BLO:	wan ! 386963_387509
 %gls:	now
 %eng:	now!
 *BLO:	ymlaen â ni siarad yn eu plith . 388625_390157
 %gls:	forward with PRON.1PL talk.NONFIN in POSS.3PL midst
 %eng:	we'll carry on talking in their midst.
-%com:	the colleague again says something indistinguishable, laughs, and exits.
+@Comment:	the colleague again says something indistinguishable, laughs, and exits.
 *ANE:	xxx pa grant@s:cym&eng ? 394848_395974
 %gls:	xxx which grant
 %eng:	[...] which grant?
@@ -1562,7 +1560,7 @@
 %gls:	then be.3S.IMP PRON.3SF PRT.PAST take.NONFIN on with Daniel be.3S.IMP
 %eng:	then she'd been Daniel pretending [?] with hadn't she?
 *ANE:	oedd o (y)n cysgu erbyn ten@s:eng past@s:eng nine@s:eng . 943264_944750
-%gls:	be.3S.IMP PRON.3SM PRT sleep.NONFIN by ten after nine
+%gls:	be.3S.IMP PRON.3SM PRT sleep.NONFIN by ten past nine
 %eng:	he was asleep by ten past nine.
 *BLO:	oh@s:cym&eng yeah@s:cym&eng ? 944799_945264
 *ANE:	oedd o (we)di roid o +"/. 944869_945863
@@ -1590,7 +1588,7 @@
 %gls:	and do.3S.PAST PRON.3SM NEG
 %eng:	and he didn't.
 *ANE:	aeth o straight@s:cym&eng i wely ten@s:eng past@s:eng nine@s:eng . 952968_954698
-%gls:	go.3S.PAST PRON.3SM straight to bed.POSSD.3SM ten after nine
+%gls:	go.3S.PAST PRON.3SM straight to bed.POSSD.3SM ten past nine
 %eng:	he went straight to bed at ten past nine.
 *ANE:	a: (.) (dy)na fo . 954895_956639
 %gls:	and there PRON.3SM
@@ -2218,8 +2216,8 @@
 *ANE:	fath â ti (y)n deud swimming@s:eng pool@s:cym&eng ar lawr . 1365882_1367681
 %gls:	kind with PRON.2S PRT say.NONFIN swimming pool on floor
 %eng:	like you were saying, a swimming pool on the floor.
-%com:	Door opens and CIG enters.
-*CIG:	sorry@s:cym&eng xxx . 1367580_1369696
+@Comment:	Door opens and OSE enters.
+*OSE:	sorry@s:cym&eng xxx . 1367580_1369696
 *BLO:	&=laugh . 1369661_1371663
 *ANE:	&=laugh ia fath â swimming@s:eng pool@s:cym&eng ar [/] ar llawr (.) bathroom@s:cym&eng . 1372603_1375819
 %gls:	yes kind with swimming pool on on floor bathroom
@@ -2233,7 +2231,7 @@
 *ANE:	a fydd y bath@s:cym&eng yn dod <i_lawr xxx> [=! laughs] ! 1380654_1383800
 %gls:	and be.3S.FUT DET bath PRT come.NONFIN down
 %eng:	and the bath will come down [...] !
-*CIG:	chi [?] gorffen tapio ? 1384015_1385211
+*OSE:	chi [?] gorffen tapio ? 1384015_1385211
 %gls:	PRON.2PL finish.NONFIN tape.NONFIN
 %eng:	you finished taping?
 *BLO:	na mae xxx tapio . 1385199_1386979
@@ -2242,21 +2240,21 @@
 *BLO:	dan ni just@s:cym&eng yn siarad am +/. 1387014_1388474
 %gls:	be.1PL.PRES PRON.1PL just PRT talk.NONFIN about
 %eng:	we're just talking about...
-*CIG:	xxx yn gwybod lle mae (y)r goriad nag oes ? 1387819_1389890
+*OSE:	xxx yn gwybod lle mae (y)r goriad nag oes ? 1387819_1389890
 %gls:	xxx PRT know.NONFIN where be.3S.PRES DET key NEG be.3S.PRES
 %eng:	[...] know where the key is, no?
-*CIG:	xxx . 1389983_1391790
+*OSE:	xxx . 1389983_1391790
 *ANE:	+< xxx box@s:cym&eng . 1391063_1392340
 %gls:	xxx box
 %eng:	[...] box.
 *BLO:	Margaret@s:cym&eng (.) office@s:cym&eng +/. 1392456_1394151
-*CIG:	+< xxx goriad [?] bach i [/] i [/] i um@s:cym&eng (..) cwpwrdd ni . 1393520_1397959
+*OSE:	+< xxx goriad [?] bach i [/] i [/] i um@s:cym&eng (..) cwpwrdd ni . 1393520_1397959
 %gls:	xxx key little to to to IM cupboard PRON.1PL
 %eng:	[...] a little key to our cupboard.
 *BLO:	(dy)dy o (ddi)m yn stuck@s:cym&eng efo fo ? 1397947_1399605
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT stuck with PRON.3SM
 %eng:	is it not stuck with it?
-*CIG:	naci [?] . 1399407_1400278
+*OSE:	naci [?] . 1399407_1400278
 %gls:	no
 %eng:	no.
 *ANE:	mae fod yn y box@s:cym&eng tibod . 1400294_1401989
@@ -2265,8 +2263,8 @@
 *BLO:	oh@s:cym&eng iawn . 1401876_1402573
 %gls:	IM alright
 %eng:	oh, okay.
-*CIG:	o_k@s:cym&eng xxx . 1402307_1404513
-%com:	CIG leaves.
+*OSE:	o_k@s:cym&eng xxx . 1402307_1404513
+@Comment:	OSE leaves.
 *BLO:	<faint o gloch dydd Mercher> [?] ? 1409494_1410903
 %gls:	how_much of bell day Wednesday
 %eng:	what time on Wednesday?
@@ -2465,5 +2463,5 @@
 *ANE:	wnes i brynu pumps@s:cym&eng i James@s:cym&eng yeah@s:cym&eng um@s:cym&eng (.) diwrnod o blaen +/. 1541224_1545383
 %gls:	do.1S.PAST PRON.1S buy.NONFIN pumps for James yeah IM day of front
 %eng:	I bought some pumps for James, yeah, the other day.
-%com:	Here Marika enters to end the conversation.
+@Comment:	Researcher enters to end the conversation.
 @End

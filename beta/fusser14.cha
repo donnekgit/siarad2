@@ -50,7 +50,7 @@
 *BEL:	dyd(yn) ni (ddi)m yn siarad (.) digon gyda (e)i_gilydd dw meddwl . 17032_20410
 %gls:	be.1PL.PRES.NEG PRON.1PL NEG PRT speak.NONFIN enough with together be.1S.PRES think.NONFIN
 %eng:	we're not speaking with each other enough, I think
-%com:	laughter can be heard but uncertain whose
+@Comment:	laughter can be heard but uncertain whose
 *AWE:	syniad pwy oedd mynd i Llydaw ? 20410_22860
 %gls:	idea who be.3S.IMP go.NONFIN to Brittany
 %eng:	whose idea was it to go to Brittany?
@@ -277,14 +277,14 @@
 *BEL:	ond er@s:cym&eng (.) <oedd e (y)n> [/] (.) oedd e (y)n hollol wag . 177645_181824
 %gls:	but IM be.3S.IMP PRON.3SM PRT be.3S.IMP PRON.3SM PRT complete empty
 %eng:	but er, it was...it was completely empty
-%com:	telephone rings
+@Comment:	telephone rings
 *BEL:	xxx gallu siarad xxx . 181824_184576
 %gls:	xxx can.NONFIN speak.NONFIN
 %eng:	[...] can speal [...]
 *BEL:	ti isio siarad efo fi rŵan ? 184576_186492
 %gls:	PRON.2S want speak.NONFIN with PRON.1S now
 %eng:	do you want to speak to me now
-%com:	footsteps heard, presumably Awel going to answer the phone. Beli addresses Cywryd
+@Comment:	footsteps heard, presumably Awel going to answer the phone. Beli addresses Cywryd
 *CYW:	yeah@s:cym&eng [?] . 186492_187095
 %gls:	yeah
 %eng:	yeah
@@ -300,7 +300,7 @@
 *BEL:	aethon ni (.) i (y)r (.) cafe@s:cym&eng . 192158_195513
 %gls:	go.1PL.PAST PRON.1PL to DET cafe
 %eng:	we went to the cafe
-%com:	Awel is heard speaking on the phone in another room in the following section. This hasn't been transcribed
+@Comment:	Awel is heard speaking on the phone in another room in the following section. This hasn't been transcribed
 *CYW:	do . 195513_195966
 %gls:	yes
 %eng:	yes
@@ -338,7 +338,7 @@
 *BEL:	lot@s:cym&eng o arwyddion ar yr (.) hen adeiladau . 212732_215819
 %gls:	lot of signs on DET old buildings
 %eng:	a lot of signs on the old buildings
-%com:	Awel comes back in
+@Comment:	Awel comes back in
 *AWE:	<dw i (y)n y golwg wan> [?] . 215819_218269
 %gls:	be.1S.PRES PRON.1S in DET view now
 %eng:	I'm in view now
@@ -908,7 +908,7 @@
 *BEL:	o'n i lico Rennes@s:cym&eng [?] (.) yn [/] yn [/] er@s:cym&eng (.) yn arw . 582454_586691
 %gls:	be.1S.IMP PRON.1S like.NONFIN Rennes PRT PRT IM PRT harsh
 %eng:	I liked Rennes, er, a lot
-%com:	Banging noise
+@Comment:	banging noise in background
 *CYW:	+< xxx . 582883_584822
 *CYW:	xxx . 585484_590070
 *BEL:	+< oedd e (y)n pentre nice@s:cym&eng iawn . 587760_588932
@@ -1063,7 +1063,7 @@
 *BEL:	ac um@s:cym&eng oedd um@s:cym&eng (.) lluniau +/. 672663_675357
 %gls:	and IM be.3S.IMP IM pictures
 %eng:	and, um, there were, um pictures
-%com:	Banging noise
+@Comment:	Banging noise
 *AWE:	oes mae (y)na rywun curo . 674869_676297
 %gls:	be.3S.PRES be.3S.PRES there somebody bang.NONFIN
 %eng:	yes, there's somebody banging
@@ -1120,7 +1120,7 @@
 *AWE:	a oedd un iâr yn (.) gwthio (e)i phen trwy twll doedd (.) i ddeud hello@s:cym&eng (wr)tha chdi . 714715_719801
 %gls:	and be.3S.IMP one chicken PRT push.NONFIN POSS.3SF head through hole be.3S.IMP to say.NONFIN hello to.2S PRON.2S
 %eng:	and one chicken was pushing her head through the hole, wasn't she, to say hello to you
-%com:	Banging noise
+@Comment:	Banging noise
 *BEL:	a +/. 722192_722959
 %gls:	and
 %eng:	and
@@ -1457,10 +1457,10 @@
 *CYW:	+< na ! 956381_957170
 %gls:	no
 %eng:	no!
-*AWE:	<dim hwnna (y)dy o> [?] ? 957461_959608
+@Comment:	Something metal falls and bangs
+*AWE:	<dim hwnna (y)dy o> [?] ? 958287_959608
 %gls:	NEG that be.3S.PRES PRON.3SM
 %eng:	it's not that one?
-%com:	Something metal falls and bangs
 *AWE:	xxx . 959608_960189
 *CYW:	xxx . 960189_960967
 *BEL:	ac oedden nhw (y)n (.) sôn am wneud (y)r un peth efo (y)r er@s:cym&eng (.) afon um@s:cym&eng +/. 960270_964310
@@ -2114,7 +2114,7 @@
 *AWE:	<be sy (y)na> [?] ? 1366864_1367574
 %gls:	what be.PRES.REL there
 %eng:	what's there?
-%com:	In the following section, it seems that Awel is showing pictures of animals and objects to Cywryd and Cywryd notes the name of what he sees
+@Comment:	In the following section, it seems that Awel is showing pictures of animals and objects to Cywryd and Cywryd notes the name of what he sees
 *CYW:	ceffyl sbia [?] . 1367318_1369455
 %gls:	horse look.2S.IMPER
 %eng:	horse, look

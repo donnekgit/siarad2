@@ -329,8 +329,8 @@
 *CEW:	ond mae (r)hein yn fwy diweddar . 194956_197627
 %gls:	but be.3S.PRES these PRT more recent
 %eng:	but these are more recent
-%com:	long pause
-*WEN:	xxx . 197627_207491
+@Comment:	pause
+*WEN:	xxx . 206285_207609
 *CEW:	+< (ba)sai hwnna (we)di gallu bod (.) gyn rywun &=clears_throat . 206307_208931
 %gls:	be.3S.CONDIT that PRT.PAST can.NONFIN be.NONFIN from somebody
 %eng:	that could have been by anybody
@@ -858,10 +858,10 @@
 *WEN:	wedyn mae (y)r British_Museum@s:cym&eng +... 464982_467153
 %gls:	then be.3S.PRES DET British_Museum
 %eng:	then, the British Museum...
-*CEW:	mmm@s:cym&eng . 467153_470647
+*CEW:	mmm@s:cym&eng . 469952_470660
 %gls:	IM
 %eng:	mmm
-%com:	long pause
+@Comment:	pause
 *CEW:	bobl mynd i (y)r eglwys . 473468_476116
 %gls:	people go.NONFIN to DET church
 %eng:	people going to church
@@ -2122,12 +2122,10 @@
 *WEN:	ia . 1223763_1224332
 %gls:	yes
 %eng:	yes
-%com:	bottle is placed on the table
 *LNW:	&=laugh . 1224332_1225330
 *WEN:	tropyn . 1225330_1226584
 %gls:	drop
 %eng:	a drop
-%com:	sound of bottle being opened
 *LNW:	yeah@s:cym&eng tropyn xxx . 1226584_1227977
 %gls:	yeah drop xxx
 %eng:	yeah a drop [...]
@@ -2144,7 +2142,7 @@
 *WEN:	oh@s:cym&eng (.) (ba)swn i (ddi)m yn synnu . 1235431_1237532
 %gls:	IM be.1S.CONDIT PRON.1S NEG PRT wonder.NONFIN
 %eng:	oh, I wouldn't be surprised
-%com:	sound of wine being poured
+@Comment:	sound of wine being poured
 *LNW:	na (.) yn enwedig i ferched . 1237532_1239738
 %gls:	no PRT particular for girls
 %eng:	no, especially for women
@@ -2161,7 +2159,7 @@
 *LNW:	ie a finnau mond mymryn . 1241851_1243477
 %gls:	yes and PRON.1S only a_little
 %eng:	yes, and only a little for me
-%com:	wine poured for Lunwen
+@Comment:	wine poured for Lunwen
 *LNW:	stop@s:cym&eng . 1243477_1244243
 %gls:	stop
 %eng:	stop
@@ -2172,7 +2170,6 @@
 *WEN:	diolch . 1245357_1247285
 %gls:	thanks
 %eng:	thanks
-%com:	bottle placed back on table
 *WEN:	right@s:cym&eng (.) dan ni (we)di trafod +/. 1247285_1250067
 %gls:	right be.1PL.PRES PRON.1PL PRT.PAST discuss.NONFIN
 %eng:	right, we've discussed...

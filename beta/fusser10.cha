@@ -1834,7 +1834,7 @@
 *BAR:	oh@s:cym&eng . 1191380_1191833
 %gls:	IM
 %eng:	oh
-%com:	Answers phone and converses with third person.
+@Comment:	Answers phone and converses with third person.
 *ADD:	bore da xxx . 1191879_1195169
 %gls:	morning good xxx
 %eng:	good morning [...]
@@ -1851,7 +1851,7 @@
 *ADD:	mae Barri@s:cym&eng wedi ffonio fo (.) a (we)di gadael neges iddo fo . 1204276_1208269
 %gls:	be.3S.PRES Barri PRT.PAST phone.NONFIN PRON.3SM and PRT.PAST leave.NONFIN message to.3SM PRON.3SM
 %eng:	Barri has phoned him and has left him a message
-*ADD:	yng(lŷn) [/] ynglŷn a (y)r e_bost (y)ma ballu (y)dy hyn yeah@s:cym&eng (.) a Power_Point@s:cym&eng ? 1208280_1212082
+*ADD:	yng(lŷn) [/] ynglŷn â (y)r e_bost (y)ma ballu (y)dy hyn yeah@s:cym&eng (.) a Power_Point@s:cym&eng ? 1208280_1212082
 %gls:	concerning concerning with DET e_mail here such be.3S.PRES this yeah and PowerPoint
 %eng:	this is about the e-mail and so on, yeah, and PowerPoint?
 *ADD:	oh@s:cym&eng (dy)na chdi . 1212059_1213592
@@ -1872,7 +1872,7 @@
 *ADD:	(dy)ma o (y)li . 1223233_1224196
 %gls:	here PRON.3SM see.2S.IMPER
 %eng:	here he is
-%com:	passes phone to Barri
+@Comment:	passes phone to Barri
 *BAR:	&=clears_throat (.) hello@s:cym&eng (y)r aur (.) sut dach chi ? 1224339_1228557
 %gls:	hello DET gold how be.2PL.PRES PRON.2PL
 %eng:	hello darling, how are you ?
@@ -1882,7 +1882,6 @@
 *BAR:	Arglwydd annwyl [?] . 1232094_1234184
 %gls:	Lord dear
 %eng:	dear Lord
-%com:	Background noise chairs moving and shuffling papers .
 *ADD:	<ydy o (y)n iawn> [?] ? 1234207_1234880
 %gls:	be.3S.PRES PRON.3SM PRT fine
 %eng:	is he ok?
@@ -2032,7 +2031,6 @@
 %gls:	ok then
 %eng:	ok then
 *BAR:	xxx . 1404934_1409995
-%com:	Chair creakes .
 *BAR:	oh@s:cym&eng yeah@s:cym&eng (dy)ma chdi . 1409968_1412986
 %gls:	IM yeah here PRON.2S
 %eng:	oh yeah here you are
@@ -2048,7 +2046,7 @@
 *BAR:	+" angen restr o ddyddiadau dydd Llun dydd Mawrth (.) yn Gaernarfon@s:cym&eng . 1423307_1428032
 %gls:	need list of dates day Monday day Tuesday in Caernarfon
 %eng:	need a list of dates for Monday and Tuesday in Caernarfon
-%com:	Reads
+%com:	reading
 *ADD:	+" ac xxx (.) (be)cause@s:eng mae Caerdydd Chwefror a Gaernarfon@s:cym&eng Mawrth . 1427996_1433344
 %gls:	and xxx because be.3S.PRES Cardiff February and Caernarfon March
 %eng:	and [...] because Cardiff's in February and Caernarfon in March
@@ -2064,7 +2062,7 @@
 *BAR:	argian annwyl xxx ddipyn o waith hwnna [?] does ? 1452018_1456464
 %gls:	lord dear xxx a_little of work that be.3S.PRES.NEG
 %eng:	goodness gracious there's quite a lote of work there isn't there?
-%com:	Background beeping .
+%com:	background beeping .
 *BAR:	o_k@s:cym&eng well i mi ffonio hi [?] felly . 1456456_1459696
 %gls:	ok better for PRON.1S phone.NONFIN PRON.3SF thus
 %eng:	ok I'd better phone her then
@@ -2124,7 +2122,7 @@
 %eng:	bye now bye now
 %com:	End of phone call.
 *BAR:	Siân@s:cym&eng (we)di cychwyn am Gaerdydd han(ner) (we)di chwech bore (y)ma (.) (we)di cyraedd han(ner) wedi deg . 1514005_1519252
-%gls:	Siân PRT.PAST start.NONFIN for Cardiff half after six morning here PRT.PAST arrive.NONFIN half past ten
+%gls:	Siân PRT.PAST start.NONFIN for Cardiff half past six morning here PRT.PAST arrive.NONFIN half past ten
 %eng:	Siân started for Cardiff at half past six this morning, arrived at half past ten
 *ADD:	Ies:gob . 1519255_1520439
 %gls:	blimey
@@ -2381,7 +2379,7 @@
 %gls:	and be.3S.IMP DET film PRT start.NONFIN quarter to nine
 %eng:	and the film was starting at quarter to nine
 *ADD:	ac oedd hi (y)n (.) hanner (we)di wyth . 1706004_1707421
-%gls:	and be.3S.IMP PRON.3SF PRT half after eight
+%gls:	and be.3S.IMP PRON.3SF PRT half past eight
 %eng:	and it was half past eight
 *ADD:	(fa)sen ni byth (we)di cyrraedd (.) i weld (e)i ddechrau fo . 1707421_1709499
 %gls:	be.1PL.CONDIT PRON.1PL never PRT.PAST arrive.NONFIN to see.NONFIN POSS.3SM start PRON.3SM

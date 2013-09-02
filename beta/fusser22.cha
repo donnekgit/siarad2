@@ -97,7 +97,7 @@
 *EVA:	<it's@s:eng still@s:cym&eng> [?] [///] yeah@s:cym&eng mae (y)n dal i_fyny yeah@s:cym&eng . 52298_54016
 %gls:	it's still yeah be.3S.PRES PRT still up yeah
 %eng:	it's still...yeah, it's still up, yeah
-%com:	not sure of her meaning here, either "it's still up" or@1 "it's holding up" or perhaps "it's catching up"
+%com:	not sure of her meaning here, either "it's still up" or "it's holding up" or perhaps "it's catching up"
 *WYN:	+< yeah@s:cym&eng . 53076_53436
 %gls:	yeah
 %eng:	yeah
@@ -529,12 +529,12 @@
 *EVA:	er mae o (y)n er@s:cym&eng <brysur efo> [/] brysur efo um:@s:cym&eng ddysgu Ffrainc [*] +... 360673_366164
 %gls:	althoug be.3S.PRES PRON.3SM PRT IM busy with busy with IM learn.NONFIN France
 %eng:	although he's busy with...busy with learning/teaching France
-%com:	Wyn's mobile phone starts ringing
+@Comment:	Wyn's mobile phone starts ringing
 *WYN:	+< xxx . 364128_365103
 *EVA:	um@s:cym&eng (.) phone@s:cym&eng symudol . 366164_369759
 %gls:	phone mobile
 %eng:	um, mobile phone
-%com:	Wyn takes out his mobile phone
+@Comment:	Wyn takes out his mobile phone
 *WYN:	phone@s:cym&eng symudol . 369759_371605
 %gls:	phone mobile
 %eng:	mobile phone
@@ -551,7 +551,7 @@
 *EVA:	yeah@s:cym&eng . 376202_376551
 %gls:	yeah
 %eng:	yeah
-%com:	Wyn answers the phone
+@Comment:	Wyn answers the phone
 *WYN:	hello@s:cym&eng ! 376551_377224
 %gls:	hello
 %eng:	hello!
@@ -680,7 +680,7 @@
 *WYN:	ta_ra@s:cym&eng . 468060_468978
 %gls:	ta_ra
 %eng:	ta-ra
-%com:	Wyn hangs up phone
+@Comment:	Wyn hangs up phone
 *EVA:	mmm@s:cym&eng . 468978_469488
 %gls:	IM
 %eng:	mmm

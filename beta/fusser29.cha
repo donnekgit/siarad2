@@ -757,9 +757,8 @@
 *MAG:	&=sigh . 446941_448207
 *MAG:	oops@s:cym&eng ! 448380_449018
 *MAG:	&=sniff . 449471_450040
-%com:	pause
+@Comment:	pause. Lois' mic cut off for a short while. She may have said something which wasn't picked up.
 *MAG:	oh@s:cym&eng yeah@s:cym&eng ? 456685_457309
-%com:	Lois' mic cut off for a short while. She may have said something which wasn't picked up.
 *LOI:	yeah@s:cym&eng . 457293_457885
 *MAG:	oh@s:cym&eng ! 459062_459782
 *MAG:	ti Bangor@s:cym&eng trwy dydd heddiw ? 459750_460934
@@ -1209,7 +1208,7 @@
 *MAG:	well@s:cym&eng (.) os ti isio dod am ginio efo fi a Bridget@s:cym&eng mae croeso chdi ddod yeah@s:cym&eng . 757585_760882
 %gls:	well if PRON.2S want come.NONFIN for lunch with PRON.1S and Bridget be.3S.PRES welcome PRON.2S come.NONFIN yeah
 %eng:	well, if you want to come for lunch with me and Bridget you're welcome to come, yeah.
-%com:	Note: at this point MAG's radio-mike cuts out.
+@Comment:	at this point MAG's radio-mike cuts out.
 *LOI:	cool@s:cym&eng ! 761350_761878
 *MAG:	timod . 762345_762681
 %gls:	know.2S

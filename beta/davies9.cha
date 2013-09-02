@@ -14,7 +14,7 @@
 @Time Duration:	00:18:19
 @Media:	davies9, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
-@Comment:	much background noise, particularly music being performed at the location of recording. Technical difficulties from approximately 00:13:23 to 00:15:22 due to speakers walking away from radio transmitter. Some parts of recording bleeped out because of consent issues.
+@Comment:	lots of background noise, particularly music being performed at the location of recording. Technical difficulties from approximately 00:13:23 to 00:15:22 due to speakers walking away from radio transmitter. Some parts of recording bleeped out because of consent issues.
 *MOS:	edrych ar gwallt (y)na ! 12_1950
 %gls:	look.2S.IMPER on hair there
 %eng:	look at that hair!
@@ -163,7 +163,7 @@
 *MOS:	oddeutu . 63746_64988
 %gls:	approximately
 %eng:	approximately
-%com:	throughout the recording both speakers joke about the word "oddeutu" used by the researcher in setting up the recording@ its use is considered by them to be high brow
+@Comment:	throughout the recording both speakers joke about the word "oddeutu" used by the researcher in setting up the recording@ its use is considered by them to be high brow
 *LLE:	oddeutu . 64988_65940
 %gls:	approximately
 %eng:	approximately
@@ -246,7 +246,7 @@
 %gls:	o_k
 %eng:	ok
 *LLE:	xxx [=! laughs] . 113579_114624
-%com:	speakers start reading from university marketing material
+@Comment:	speakers start reading from university marketing material
 *MOS:	xxx ei sefydlu ym mil wyth wyth pedwar . 114206_116632
 %gls:	xxx POSS.3S establish.NONFIN in thousand eight eight four
 %eng:	[...] established in eighteen-eighty-four
@@ -462,7 +462,7 @@
 *LLE:	a <wedyn wna i ddeud gair> [?] . 246342_246922
 %gls:	and then do.1S.NONPAST PRON.1S say.NONFIN word
 %eng:	and then I'll say a word
-%com:	both start a sentence string to which each speaker in turn adds one word
+@Comment:	both start a sentence string to which each speaker in turn adds one word
 *MOS:	rydw +... 246922_247665
 %gls:	be.1S.PRES
 %eng:	I...
@@ -599,10 +599,10 @@
 *LLE:	great@s:cym&eng . 327591_328021
 %gls:	great
 %eng:	great
-*MOS:	wow@s:cym&eng mae rywun yn ffono fi . 328021_331724
+*MOS:	wow@s:cym&eng mae rywun yn ffono fi . 330461_331724
 %gls:	IM be.3S.PRES somebody PRT phone.NONFIN PRON.1S
 %eng:	wow, somebody's phoning me
-%com:	long pause .
+@Comment:	pause
 *MOS:	oh@s:cym&eng hello@s:cym&eng . 338981_339828
 %gls:	IM hello
 %eng:	oh hello
@@ -710,7 +710,7 @@
 *MOS:	ta_ra@s:cym&eng . 428308_429573
 %gls:	ta_ra
 %eng:	ta-ra
-%com:	next 50 seconds bleeped out
+@Comment:	next 50 seconds bleeped out
 *MOS:	be ti wneud ? 479752_480785
 %gls:	what PRON.2S do.NONFIN
 %eng:	what you doing?
@@ -1319,7 +1319,7 @@
 %gls:	buy a cottage somewhere
 %eng:	buy a cottage somewhere
 *MOS:	xxx . 802007_804503
-%com:	as both speakers walk away from the recorder, the reception becomes very bad, especially from Llewelyn's mic. Only audible utterances have been transcribed for the next two minutes of the recording
+@Comment:	as both speakers walk away from the recorder, the reception becomes very bad, especially from Llewelyn's mic. Only audible utterances have been transcribed for the next two minutes of the recording
 *MOS:	B_B_C@s:cym&eng yw hwnna . 806895_807661
 %gls:	B_B_C be.3S.PRES that
 %eng:	that's the BBC
@@ -1382,7 +1382,7 @@
 *MOS:	su(t) mae . 923180_924492
 %gls:	how be.3S.PRES
 %eng:	hi
-%com:	the reception improves from here and normal transcription resumes
+@Comment:	the reception improves from here and normal transcription resumes
 *LLE:	be ? 924492_925201
 %gls:	what
 %eng:	what?
@@ -1407,7 +1407,7 @@
 *MOS:	su(t) mae . 932085_933304
 %gls:	how be.3S.PRES
 %eng:	hi
-%com:	next 3 minutes 10 seconds bleeped out.
+@Comment:	next 3 minutes 10 seconds bleeped out.
 *LLE:	&=clears_throat . 1123076_1124586
 *MOS:	well@s:cym&eng . 1124586_1126617
 %gls:	well
@@ -1422,7 +1422,7 @@
 %gls:	PRON.2S want just stalk.NONFIN PRON.3SM again
 %eng:	you want to just stalk him again?
 *LLE:	&=laugh . 1130158_1131041
-%com:	Speakers re-enter the university tent
+@Comment:	Speakers re-enter the university tent
 *MOS:	&=imit:choking . 1131041_1137020
 %com:	commenting on the music
 *MOS:	xxx . 1137020_1138808
