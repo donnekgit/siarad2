@@ -2,13 +2,14 @@
 @UTF8
 @Begin
 @Languages:	cym, eng
-@Participants:	ANE Aneira Adult, BLO Blodwen Adult, OSE Other_Speaker Adult
+@Participants:	ANE Aneira Adult, BLO Blodwen Adult, CIG Cigfa Adult
 @ID:	cym|siarad|ANE|39;|female|||Adult||
 @ID:	cym|siarad|BLO|36;|female|||Adult||
-@ID:	cym|siarad|OSE||female|||Adult||
+@ID:	cym|siarad|CIG|35;|female|||Adult||
 @Situation:	Informal conversation between work colleagues, recorded at their office
 @Comment:	ANE was born in England, but has lived in north-west Wales since the age of 8
 @Comment:	BLO is was born in north-west Wales a nd has lived there all her life
+@Comment:	CIG is from north-west Wales. She is not a main speaker, only appearing very briefly.
 @Transcriber:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Marika Fusser, Bangor University
 @Time Duration:	00:25:45
@@ -2216,8 +2217,8 @@
 *ANE:	fath â ti (y)n deud swimming@s:eng pool@s:cym&eng ar lawr . 1365882_1367681
 %gls:	kind with PRON.2S PRT say.NONFIN swimming pool on floor
 %eng:	like you were saying, a swimming pool on the floor.
-@Comment:	Door opens and OSE enters.
-*OSE:	sorry@s:cym&eng xxx . 1367580_1369696
+@Comment:	Door opens and CIG enters.
+*CIG:	sorry@s:cym&eng xxx . 1367580_1369696
 *BLO:	&=laugh . 1369661_1371663
 *ANE:	&=laugh ia fath â swimming@s:eng pool@s:cym&eng ar [/] ar llawr (.) bathroom@s:cym&eng . 1372603_1375819
 %gls:	yes kind with swimming pool on on floor bathroom
@@ -2231,7 +2232,7 @@
 *ANE:	a fydd y bath@s:cym&eng yn dod <i_lawr xxx> [=! laughs] ! 1380654_1383800
 %gls:	and be.3S.FUT DET bath PRT come.NONFIN down
 %eng:	and the bath will come down [...] !
-*OSE:	chi [?] gorffen tapio ? 1384015_1385211
+*CIG:	chi [?] gorffen tapio ? 1384015_1385211
 %gls:	PRON.2PL finish.NONFIN tape.NONFIN
 %eng:	you finished taping?
 *BLO:	na mae xxx tapio . 1385199_1386979
@@ -2240,21 +2241,21 @@
 *BLO:	dan ni just@s:cym&eng yn siarad am +/. 1387014_1388474
 %gls:	be.1PL.PRES PRON.1PL just PRT talk.NONFIN about
 %eng:	we're just talking about...
-*OSE:	xxx yn gwybod lle mae (y)r goriad nag oes ? 1387819_1389890
+*CIG:	xxx yn gwybod lle mae (y)r goriad nag oes ? 1387819_1389890
 %gls:	xxx PRT know.NONFIN where be.3S.PRES DET key NEG be.3S.PRES
 %eng:	[...] know where the key is, no?
-*OSE:	xxx . 1389983_1391790
+*CIG:	xxx . 1389983_1391790
 *ANE:	+< xxx box@s:cym&eng . 1391063_1392340
 %gls:	xxx box
 %eng:	[...] box.
 *BLO:	Margaret@s:cym&eng (.) office@s:cym&eng +/. 1392456_1394151
-*OSE:	+< xxx goriad [?] bach i [/] i [/] i um@s:cym&eng (..) cwpwrdd ni . 1393520_1397959
+*CIG:	+< xxx goriad [?] bach i [/] i [/] i um@s:cym&eng (..) cwpwrdd ni . 1393520_1397959
 %gls:	xxx key little to to to IM cupboard PRON.1PL
 %eng:	[...] a little key to our cupboard.
 *BLO:	(dy)dy o (ddi)m yn stuck@s:cym&eng efo fo ? 1397947_1399605
 %gls:	be.3S.PRES.NEG PRON.3SM NEG PRT stuck with PRON.3SM
 %eng:	is it not stuck with it?
-*OSE:	naci [?] . 1399407_1400278
+*CIG:	naci [?] . 1399407_1400278
 %gls:	no
 %eng:	no.
 *ANE:	mae fod yn y box@s:cym&eng tibod . 1400294_1401989
@@ -2263,8 +2264,8 @@
 *BLO:	oh@s:cym&eng iawn . 1401876_1402573
 %gls:	IM alright
 %eng:	oh, okay.
-*OSE:	o_k@s:cym&eng xxx . 1402307_1404513
-@Comment:	OSE leaves.
+*CIG:	o_k@s:cym&eng xxx . 1402307_1404513
+@Comment:	CIG leaves.
 *BLO:	<faint o gloch dydd Mercher> [?] ? 1409494_1410903
 %gls:	how_much of bell day Wednesday
 %eng:	what time on Wednesday?
