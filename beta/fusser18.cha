@@ -27,8 +27,8 @@
 *ARD:	+< ia . 2159_2554
 %gls:	yes
 %eng:	yes
-*ARD:	well@s:cym&eng na ddim yn ystod yr wsnos just@s:cym&eng dydd Llun a dydd Mawrth . 2961_5433
-%gls:	well no NEG in range DET week just day Monday and day Tuesday
+*ARD:	well@s:cym&eng na ddim yn_ystod yr wsnos just@s:cym&eng dydd Llun a dydd Mawrth . 2961_5433
+%gls:	well no NEG in_range DET week just day Monday and day Tuesday
 %eng:	well no not during the week, just Monday and Tuesday
 *BEU:	right@s:cym&eng . 5433_5909
 %gls:	right
@@ -2479,8 +2479,8 @@
 *BEU:	yndy . 1674729_1675136
 %gls:	be.3S.PRES
 %eng:	yes
-*BEU:	well@s:cym&eng maen nhw gael fwy o olau (y)n ystod y dydd yndy . 1675136_1676831
-%gls:	well be.3PL.PRES PRON.3PL get.NONFIN more of light in range DET day be.3S.PRES
+*BEU:	well@s:cym&eng maen nhw gael fwy o olau (y)n_ystod y dydd yndy . 1675136_1676831
+%gls:	well be.3PL.PRES PRON.3PL get.NONFIN more of light in_range DET day be.3S.PRES
 %eng:	well they get more light during the day, don't they
 *ARD:	+< yndy xxx yndy . 1676146_1677585
 %gls:	be.3S.PRES xxx be.3S.PRES
