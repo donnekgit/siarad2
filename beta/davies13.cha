@@ -15,7 +15,7 @@
 @Media:	davies13, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
-*JAM:	mmm@s:cym&eng yeah@s:cym&eng well@s:cym&eng gawn ni session@s:cym&eng fach (.) tri awr heddiw nawr [?] (.) neu (.) dwy awr falle . 85_5068
+*JAM:	mmm@s:cym&eng yeah@s:cym&eng well@s:cym&eng gawn ni session@s:cym&eng fach (.) tri awr heddiw nawr [?] (.) neu (.) dwy awr (e)fallai . 85_5068
 %gls:	IM yeah well get.1PL.NONPAST PRON.1PL session little three.M hour today now or two.F hour maybe
 %eng:	mm, yeah, well, we'll have a little session, three hours today now, or two hours maybe.
 *MEI:	xxx dechrau gwaith hefyd wedyn xxx . 5820_7959
@@ -779,7 +779,7 @@
 *JAM:	xxx fel arfer (.) timod pâr o jeans@s:cym&eng a top@s:cym&eng nice@s:cym&eng . 544645_548631
 %gls:	xxx like habit know.2S pair of jeans and top nice
 %eng:	[..] as usual, you know, a pair of jeans a nice top.
-*JAM:	falle pâr o sgidie (..) a (.) bits@s:cym&eng fel +... 549162_553410
+*JAM:	(e)fallai pâr o sgidie (..) a (.) bits@s:cym&eng fel +... 549162_553410
 %gls:	maybe pair of shoes and bits like
 %eng:	maybe a pair of shoes and bits like...
 *JAM:	&=laugh &ba [/] (.) bach yn sad@s:cym&eng ond fi (y)n (.) casglu Guinness@s:cym&eng (.) World@s:eng &reco [//] (.) timod Guinness@s:cym&eng Book_Of_Records@s:cym&eng . 553610_560259
@@ -1173,7 +1173,7 @@
 *MEI:	+< y thing@s:eng yeah@s:cym&eng yn [?] &kons [///] ond dw i (ddi)m yn meddwl bod o . 832052_834655
 %gls:	DET thing yeah PRT but be.1S.PRES PRON.1S NEG PRT think.NONFIN be.NONFIN PRON.3SM
 %eng:	the thing yeah...but I don't think he is.
-*MEI:	dw i meddwl falle bod nhw just@s:cym&eng wneud o . 835510_837105
+*MEI:	dw i meddwl (e)fallai bod nhw just@s:cym&eng wneud o . 835510_837105
 %gls:	be.1S.PRES PRON.1S think.NONFIN maybe be.NONFIN PRON.3PL just do.NONFIN PRON.3SM
 %eng:	I just think that maybe they just do it.
 *JAM:	+< o'n i byth +/. 836042_836814
@@ -1978,13 +1978,13 @@
 %gls:	yeah be.3S.PRES PRT depend.NONFIN which so strict PRON.2S also
 %eng:	yeah, it depends on how strict you are too.
 *JAM:	yeah@s:cym&eng . 1411794_1412520
-*MEI:	+< a falle wnaeth mam@s:cym&eng (..) fi ddim wneud Weight_Watchers@s:cym&eng yn iawn . 1412243_1416032
+*MEI:	+< a (e)fallai wnaeth mam@s:cym&eng (..) fi ddim wneud Weight_Watchers@s:cym&eng yn iawn . 1412243_1416032
 %gls:	and maybe do.3S.PAST mother PRON.1S NEG do.NONFIN Weight_Watchers PRT right
 %eng:	and maybe my mother didn't do Weight Watchers properly.
-*MEI:	neu falle wnaeth mam@s:cym&eng ti (ddi)m wneud Slimmers_World@s:cym&eng . 1416893_1418969
+*MEI:	neu (e)fallai wnaeth mam@s:cym&eng ti (ddi)m wneud Slimmers_World@s:cym&eng . 1416893_1418969
 %gls:	or maybe do.3S.PAST mother PRON.2S NEG do.NONFIN Slimmers_World
 %eng:	or maybe your mother didn't do Slimmers World.
-*MEI:	falle wnaeth hi (ddi)m dilyn o (y)n iawn . 1418880_1420548
+*MEI:	(e)fallai wnaeth hi (ddi)m dilyn o (y)n iawn . 1418880_1420548
 %gls:	maybe do.3S.PAST PRON.3SF NEG follow.NONFIN PRON.3SM PRT right
 %eng:	maybe she didn't follow it properly.
 *MEI:	a dyna (y)r rheswm . 1420625_1421535
