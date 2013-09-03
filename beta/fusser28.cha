@@ -386,24 +386,19 @@
 %eng:	do you want a cuppa?
 %com:	addresses researcher
 *LLA:	&=laugh . 508741_509461
-*RES:	oes (.) diolch . 509379_510645
-%gls:	be.3S.PRES thanks
-%eng:	yes, thanks
+*RES:	www . 509379_510645
+%com:	accepts
 *IFO:	llefrith ? 510645_511446
 %gls:	milk
 %eng:	milk?
 *IFO:	siwgr ? 511446_512119
 %gls:	sugar
 %eng:	sugar?
-*RES:	sorry@s:cym&eng ? 512119_513129
-%gls:	sorry
-%eng:	sorry?
+*RES:	www ? 512119_513129
 *IFO:	llefrith a siwgr ? 513129_514209
 %gls:	milk and sugar
 %eng:	milk and sugar?
-*RES:	dim ond llefrith please@s:cym&eng [?] . 514209_515486
-%gls:	NEG but milk please
-%eng:	only milk please
+*RES:	www . 514209_515486
 *IFO:	dim ond llefrith . 515486_516310
 %gls:	NEG but milk
 %eng:	only milk
@@ -415,33 +410,22 @@
 %gls:	yes
 %eng:	did you!?
 *IFO:	oh@s:cym&eng my@s:eng God@s:eng ! 520316_521825
-*RES:	+< na na na na na na na . 520780_522313
-%gls:	no no no no no no no
-%eng:	no no no no no no no
+*RES:	+< www . 521801_522313
 *IFO:	oh@s:cym&eng na ? 522313_522835
 %gls:	IM no
 %eng:	oh no?
-*RES:	+< xxx clywed . 522394_523393
-%gls:	xxx hear.NONFIN
-%eng:	[...] hear
-*RES:	dim ond xxx . 523393_524855
-%gls:	NEG but xxx
-%eng:	only [...]
+*RES:	www . 522753_523415
 *LLA:	+< &=laugh . 523416_524530
 *IFO:	<oh@s:cym&eng God@s:eng> [=! laughs] . 524530_527247
 *LLA:	&=laugh . 527050_527955
-*RES:	xxx torri fo allan . 527793_529360
-%gls:	xxx cut.NONFIN PRON.3SM out
-%eng:	[...] cut it out
-*RES:	xxx . 529360_530138
+*RES:	www . 528047_529360
+*RES:	www . 529360_530009
 *LLA:	&=laugh . 529871_531868
 *IFO:	&=laugh . 530985_531868
 *IFO:	sorry@s:cym&eng llefrith yeah@s:cym&eng ? 531868_533145
 %gls:	sorry milk yeah
 %eng:	sorry, milk yeah?
-*RES:	yeah@s:cym&eng . 533145_533493
-%gls:	yeah
-%eng:	yeah
+*RES:	www . 533145_533493
 *IFO:	siwgr ? 533493_534213
 %gls:	sugar
 %eng:	sugar?
@@ -459,9 +443,8 @@
 %gls:	there PRON.2S
 %eng:	there you go
 %com:	takes the researcher her tea
-*RES:	diolch yn fawr iawn . 549503_550444
-%gls:	thanks PRT big very
-%eng:	thank you very much
+*RES:	www . 549503_550444
+%com:	researcher thanks Ifor
 *LLA:	wnes i losgi (y)n llaw ar y slyfaeth yna wan (he)fyd . 550444_556121
 %gls:	do.1S.PAST PRON.1S burn.NONFIN POSS.1S hand on DET prey there now also
 %eng:	I just burnt my hand on that bastard too

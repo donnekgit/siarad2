@@ -34,15 +34,11 @@
 %gls:	so you Bangor are you university
 %eng:	so you're Bangor, are you, university?
 %com:	addresses the researcher
-*RES:	+< yeah@s:cym&eng . 6792_7326
-%gls:	yeah
-%eng:	yeah
+*RES:	+< www . 6861_7221
 *DEW:	thank@s:eng you@s:eng very@s:cym&eng much@s:eng . 7628_9079
 %gls:	thank you very much
 %eng:	thank you very much
-*RES:	diolch . 9079_9567
-%gls:	thanks
-%eng:	thanks
+*RES:	www . 9114_9427
 *CEI:	+< thanks@s:eng [?] diolch . 9172_10298
 %gls:	thanks thanks
 %eng:	thanks, thanks
@@ -719,9 +715,7 @@
 *DEW:	[- eng] are we going well ? 502865_504200
 %gls:	are we going well
 %eng:	are we going well?
-*RES:	[- eng] dunno [?] . 504200_506227
-%gls:	dunno
-%eng:	dunno
+*RES:	www . 505402_505982
 *DEW:	[- eng] are we ? 506227_506761
 %gls:	are we
 %eng:	are we?
@@ -731,9 +725,7 @@
 *DEW:	[- eng] do we get paid today or send it ? 509327_511266
 %gls:	do we get paid today or send it
 %eng:	do we get paid today or send it?
-*RES:	[- eng] no cash . 511266_512114
-%gls:	no cash
-%eng:	no, cash
+*RES:	www . 511266_512114
 *DEW:	[- eng] xxx that's good . 512114_513089
 %gls:	xxx that's good
 %eng:	[...] that's good
@@ -2273,9 +2265,7 @@
 %gls:	IM
 %eng:	eh?
 *DEW:	xxx +/. 1422894_1423544
-*RES:	couple@s:cym&eng more@s:eng minutes@s:eng . 1423312_1424043
-%gls:	couple more minutes
-%eng:	couple more minutes
+*RES:	www . 1423384_1424043
 *DEW:	yeah@s:cym&eng ? 1424043_1424334
 %gls:	yeah
 %eng:	yeah?

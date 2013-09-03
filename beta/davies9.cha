@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -791,21 +790,15 @@
 *LLE:	ydyn ni ? 523552_525073
 %gls:	be.1PL.PRES PRON.1PL
 %eng:	are we?
-*RES:	(y)chydig yeah@s:cym&eng . 525073_526013
-%gls:	a_little yeah
-%eng:	a little, yeah
-*RES:	wna i probably@s:eng ddelete_io@s:eng+cym [=? delete_io@s:eng+cym] fo xxx . 526013_527627
-%gls:	do.1S.NONPAST PRON.1S probably delete.NONFIN PRON.3SM xxx
-%eng:	I'll probably delete it [...]
+*RES:	www . 525269_526013
+*RES:	www . 526013_527324
 *LLE:	oh@s:cym&eng right@s:cym&eng . 527244_527836
 %gls:	IM right
 %eng:	oh right
 *LLE:	oddeutu faint o weithiau dan ni (y)n gallu siarad efo chdi ? 527836_530042
 %gls:	approximately how_much of times be.1PL.PRES PRON.1PL PRT can.NONFIN speak.NONFIN with PRON.2S
 %eng:	approximately how many times can we talk to you?
-*RES:	pam be ti isio xxx ? 530042_531737
-%gls:	why what PRON.2S want xxx
-%eng:	why, what do you want to [...] ?
+*RES:	www ? 530485_531554
 *MOS:	oddeutu [=! laughs] +... 531249_532143
 %gls:	approximately
 %eng:	approximately...
@@ -818,9 +811,7 @@
 *MOS:	+< oddeutu xxx . 533304_534198
 %gls:	approximately xxx
 %eng:	approximately [...]
-*RES:	xxx iawn ? 534198_536044
-%gls:	xxx right
-%eng:	[...] alright?
+*RES:	www ? 535455_535919
 *LLE:	&g oh@s:cym&eng mae (y)n great@s:cym&eng . 536044_537008
 %gls:	IM be.3S.PRES PRT great
 %eng:	oh, it's great
@@ -834,42 +825,28 @@
 *LLE:	ti mynd “ha@s:cym&eng ha@s:cym&eng ha@s:cym&eng ha@s:cym&eng ha@s:cym&eng ha@s:cym&eng ha@s:cym&eng” ? 539945_541744
 %gls:	PRON.2S go IM IM IM IM IM IM IM
 %eng:	do you go "ha ha ha ha ha ha ha"?
-*RES:	er@s:cym&eng na (.) “ampersand@s:cym&eng laugh@s:eng” . 541744_544670
-%gls:	IM no ampersand laugh
-%eng:	er, no, "ampersand laugh"
+*RES:	www . 541744_544670
 *LLE:	gwych . 544670_545367
 %gls:	brilliant
 %eng:	brilliant
 *MOS:	<beth yw> [?] ampersand@s:cym&eng ? 545367_546767
 %gls:	what be.3S.PRES ampersand
 %eng:	what's an ampersand?
-*RES:	ampersand@s:cym&eng ydy sort@s:cym&eng of@s:eng fath â +//. 546767_548126
-%gls:	ampersand be.3S.PRES sort of kind with
-%eng:	ampersand is a sort of, like...
-*RES:	mae o (.) ar (.) sort@s:cym&eng of@s:eng +//. 548126_549589
-%gls:	be.3S.PRES PRON.3SM on sort of
-%eng:	it's on, sort of...
-*RES:	<alt@s:eng five@s:eng> [//] shift@s:cym&eng five@s:eng rywbeth (y)dy o . 549589_551539
-%gls:	alt five shift five something be.3S.PRES PRON.3SM
-%eng:	it's alt five...shift five, something
-*RES:	mae (y)n un o rei ar top@s:cym&eng uwchben y rhifau fath â (.) sort@s:cym&eng of@s:eng fath â wyth (.) ish@s:eng . 551539_555324
-%gls:	be.3S.PRES PRT one of some on top above DET numbers kind with sort of kind with eight ish
-%eng:	it's one of the ones on the top, above the numbers, like, sort of like an eight, ish
+*RES:	www +//. 546767_548126
+*RES:	www +//. 548126_549589
+*RES:	www . 549589_551539
+*RES:	www . 551539_555324
 *MOS:	+< oh@s:cym&eng . 553385_553768
 %gls:	IM
 %eng:	oh
 *MOS:	oh@s:cym&eng fi gwybod yeah@s:cym&eng . 555324_556694
 %gls:	IM PRON.1S know.NONFIN yeah
 %eng:	oh I know, yeah
-*RES:	xxx “and@s:eng” yeah@s:cym&eng . 556520_557332
-%gls:	xxx and yeah
-%eng:	[...] 2and", yeah
+*RES:	www . 556520_557332
 *MOS:	“and@s:eng” yeah@s:cym&eng . 557007_557739
 %gls:	and yeah
 %eng:	"and" yeah
-*RES:	“ampersand@s:cym&eng” (y)dy enw (y)r gair [?] . 557739_559724
-%gls:	ampersand be.3S.PRES name DET word
-%eng:	"ampersand" is the name of the word
+*RES:	www . 557739_559724
 *LLE:	cock@s:cym&eng y gath ! 559724_560850
 %gls:	cock DET cat
 %eng:	bloody hell!
@@ -1245,9 +1222,7 @@
 *LLE:	um@s:cym&eng ydyn ni (we)di siarad am hanner awr [=! laughs] ? 766585_768501
 %gls:	IM be.1PL.PRES PRON.1PL PRT.PAST speak.NONFIN for half hour
 %eng:	um, have we spoken for half an hour?
-*RES:	na . 768501_768861
-%gls:	no
-%eng:	no
+*RES:	www . 768501_768861
 *LLE:	oh@s:cym&eng naddo ? 768861_769476
 %gls:	IM no
 %eng:	oh, haven't we?
@@ -1257,7 +1232,7 @@
 *LLE:	gawn ni just@s:cym&eng <mynd round@s:cym&eng y mouse@s:eng [*] [//] mae(s) [//] mouse@s:eng [*]> [///] (.) xxx cerdded o_gwmpas y maes a wedyn +/. 770254_773667
 %gls:	get.1PL.NONPAST PRON.1PL just go.NONFIN round DET mouse field mouse xxx walk.NONFIN around DET field and then
 %eng:	can we just go round the mouse...field...mouse [...] walk around the field, and then...
-*RES:	+< just@s:cym&eng cerdded o_gwmpas xxx . 771659_772854
+*RES:	+< just@s:cym&eng cerdded o_gwmpas xxx . 771808_772366
 %gls:	just walk.NONFIN around xxx
 %eng:	just walk around
 *MOS:	ti actually@s:eng <mynd i> [//] dal mynd i <bigo ti lan> [//] bigo ni lan ? 773238_775258
@@ -1269,16 +1244,16 @@
 *LLE:	<faint mor &b> [//] <faint o> [/] faint o bell [/] bell i_ffwrdd dan ni gallu mynd ? 775200_777673
 %gls:	how_much so how_much of how_much of far far away be.1PL.PRES PRON.1PL can.NONFIN go.NONFIN
 %eng:	how...how...how far...far away can we go?
-*RES:	just@s:cym&eng cerdded o_gwmpas +//. 777673_779797
+*MOS:	just@s:cym&eng cerdded o_gwmpas +//. 777673_779797
 %gls:	just walk.NONFIN around
 %eng:	just walk around...
-*RES:	paid â mynd yn bellach +/. 779797_781399
+*MOS:	paid â mynd yn bellach +/. 779797_781399
 %gls:	desist.2S.IMPER PRT go.NONFIN PRT further
 %eng:	don't go further...
 *LLE:	gawn ni mynd am bint@s:cym&eng ? 781179_782038
 %gls:	get.1PL.NONPAST PRON.1PL go.NONFIN for pint
 %eng:	can we go for a pint?
-*RES:	na mae rhy bell . 782038_783025
+*LLE:	na mae rhy bell . 782038_783025
 %gls:	no be.3S.PRES too far
 %eng:	no it's too far
 *LLE:	na [=? ah@s:cym&eng] . 783025_783559
@@ -1290,9 +1265,7 @@
 *LLE:	+< mae ry bell ? 783652_784325
 %gls:	be.3S.PRES too far
 %eng:	it's too far?
-*RES:	+< xxx bellach na xxx . 783687_785567
-%gls:	xxx further PRT xxx
-%eng:	[...] further than [...]
+*RES:	+< www . 784150_784858
 *MOS:	+< xxx os awn ni am bint@s:cym&eng gawn ni lot@s:cym&eng <mwy o er@s:cym&eng> [/] mwy [/] mwy o siarad mas (oh)onon ni . 784778_788133
 %gls:	xxx if go.1PL.NONPAST PRON.1PL for pint get.1PL.NONPAST PRON.1PL lot more of IM mor more of speak.NONFIN out of.1PL PRON.1PL
 %eng:	[...] if we go for a pint, we'll get a lot more, er...more...more talking out of us
