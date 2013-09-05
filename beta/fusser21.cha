@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -2999,7 +2999,8 @@
 %gls:	and be.3S.IMP PRON.3SM kind with IM
 %eng:	and he was like oh...
 *ILI:	(ba)swn i (y)n meddwl na (we)di dysgu (.) Cymraeg <mae o (fe)lly> [?] . 1832898_1835405
-%gls:	be.1S.CONDIT PRT think.NONFIN PRT PRT.PAST learn.NONFIN Welsh be.3S.PRES PRON.3SM thus
+%gls:	be.1S.CONDIT PRON.1S PRT think.NONFIN PRT PRT.PAST learn.NONFIN
+	Welsh be.3S.PRES PRON.3SM thus
 %eng:	I'd think that he's learnt Welsh then.
 *HAW:	+< &kɛl [//] (we)di dysgu mae o yeah@s:cym&eng . 1834465_1835823
 %gls:	PRT.PAST learn.NONFIN be.3S.PRES PRON.3SM yeah
@@ -3507,7 +3508,8 @@
 %gls:	but just personal preference be.3S.PRES PRON.3SM know.2S what be.1S.PRES think.NONFIN
 %eng:	but that's just a personal preference, you know what I mean.
 *HAW:	ond [?] ddyla chdi (we)di dod ar rides@s:cym&eng efo ni sti . 2163002_2165823
-%gls:	but should.2S.CONDIT PRON.2S PRT.PRON come.NONFIN on rides with PRON.1PL know.2S
+%gls:	but should.2S.CONDIT PRON.2S PRT.PAST come.NONFIN on rides with
+	PRON.1PL know.2S
 %eng:	but you should have come on the rides with us, you know.
 *ILI:	ond oedd (.) e:r@s:cym&eng +/. 2165684_2167298
 %gls:	but be.3S.IMP IM

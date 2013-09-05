@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -202,7 +202,8 @@
 %gls:	IM right
 %eng:	Ah, right.
 *GRE:	um@s:cym&eng cofia ddeud (wr)thyn nhw (.) bod o (.) (we)di sgratsio pethau . 112972_116362
-%gls:	IM remember.2S.IMPER say.NONFIN to.3PL PRON.3PL be.NONFIN PRON.3SM prt.past scratch.NONFIN things
+%gls:	IM remember.2S.IMPER say.NONFIN to.3PL PRON.3PL be.NONFIN PRON.3SM
+	PRT.PAST scratch.NONFIN things
 %eng:	Remember to tell them that it was scratched and so on.
 *GWY:	mmhm@s:cym&eng . 116374_117001
 %gls:	IM
@@ -3155,7 +3156,7 @@
 %gls:	IM can.1PL.NONPAST PRON.1PL see.NONFIN how_much of time xxx
 %eng:	Oh, we can see how much time [...] .
 *GWY:	well@s:cym&eng mae (y)n hanner (we)di deg &=laugh ! 1708357_1710319
-%gls:	well be.3S.PRES PRT half after ten
+%gls:	well be.3S.PRES PRT half past ten
 %eng:	Well, it's half past ten!
 *GRE:	+< &=laugh . 1709634_1710447
 *GRE:	xxx sbïo faint o gloch oedd hi arno fo a wnes i just@s:cym&eng meddwl “oh@s:cym&eng iawn” &=laugh . 1710493_1713535

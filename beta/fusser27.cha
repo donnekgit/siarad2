@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1291,7 +1291,7 @@
 %gls:	Spain
 %eng:	Spain.
 *MAB:	yeah@s:cym&eng dw i (we)di meddwl . 865588_866412
-%gls:	yeah be.1S.PRES PRON.1S PRT think.NONFIN
+%gls:	yeah be.1S.PRES PRON.1S PRT.PAST think.NONFIN
 %eng:	yeah, I've thought.
 *LIS:	+< achos +/. 866044_866772
 %gls:	because
@@ -2096,7 +2096,9 @@
 %eng:	on Saturday, Lily and I are going to find running machines and see how long it takes just to jog three miles.
 *MAB:	+< mmm@s:cym&eng . 1380288_1380857
 *LIS:	a wedyn mewn tua (.) tair wythnos ni mynd i fynd ar hwnnw &hev [//] eto [//] unwaith eto (.) a gweld fel os mae fel (.) amserau ni (we)di dod lawr mwy . 1383680_1392172
-%gls:	and after in about three.F week PRON.1PL go.NONFIN PRT go.NONFIN on that_one again once again and see.NONFIN like if be.3S.PRES like times PRON.1PL PRT.PASTcome.NONFIN down more
+%gls:	and after in about three.F week PRON.1PL go.NONFIN PRT go.NONFIN on
+	that_one again once again and see.NONFIN like if be.3S.PRES like
+	times PRON.1PL PRT.PAST come.NONFIN down more
 %eng:	and then in about three weeks, we're going to go on it once more, and see like if our times have come down more.
 *MAB:	+< yeah@s:cym&eng . 1383933_1384258
 *MAB:	+< yeah@s:cym&eng . 1391665_1392246
@@ -2201,8 +2203,8 @@
 *LIS:	well@s:cym&eng o'n i [=? ni] (ddi)m yn gwybod ble o'n i [=? ni] . 1470511_1471914
 %gls:	well be.1S.IMP PRON.1S NEG PRT know.NONFIN place be.1S.IMP PRON.1S
 %eng:	well I didn't know where I was.
-*LIS:	o'n i fel (we)di cerdded tair awr . 1471856_1473725
-%gls:	be.1S.IMP PRON.1S [=? ni@1] like PRT.PAST walk.NONFIN three.F hour
+*LIS:	o'n i [=? ni] fel (we)di cerdded tair awr . 1471856_1473725
+%gls:	be.1S.IMP PRON.1S like PRT.PAST walk.NONFIN three.F hour
 %eng:	I'd like walked for three hours.
 *MAB:	+< oh@s:cym&eng . 1472123_1472657
 *LIS:	so@s:cym&eng <fyddai fe> [?] tair awr nôl i fynd y ffordd arall . 1473693_1475989

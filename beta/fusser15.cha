@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1767,7 +1767,8 @@
 %gls:	xxx maybe be.NONFIN PRON.2S PRT.PAST say.NONFIN
 %eng:	[..] maybe you did say.
 *GFR:	+< na xxx hwyrach bod ti [///] dw i meddwl bod ti (we)di deud . 1115200_1116759
-%gls:	no xxx maybe be.NONFIN PRON.2S be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.2S say.NONFIN
+%gls:	no xxx maybe be.NONFIN PRON.2S be.1S.PRES PRON.1S think.NONFIN
+	be.NONFIN PRON.2S PRT.PAST say.NONFIN
 %eng:	no, I think you did say.
 *MRL:	+< dw i (ddi)m yn gwybod . 1115588_1116178
 %gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN
@@ -2105,7 +2106,9 @@
 %gls:	no no sorry no no
 %eng:	no, no, sorry, no, no.
 *GFR:	+< mae raid bod ti xxx [///] hwyrach bod ti [///] dw i meddwl hwyrach bod ti (we)di sôn amdano fo xxx . 1323520_1326326
-%gls:	be.3S.PRES need be.NONFIN PRON.2S xxx perhaps be.NONFIN PRON.2S be.1S.PRES PRON.1S think.NONFIN perhaps be.NONFIN PRT.PAST mention.NONFIN about.3SM PRON.3SM xxx
+%gls:	be.3S.PRES need be.NONFIN PRON.2S xxx perhaps be.NONFIN PRON.2S
+	be.1S.PRES PRON.1S think.NONFIN perhaps be.NONFIN PRON.2S PRT.PAST
+	mention.NONFIN about.3SM PRON.3SM xxx
 %eng:	I think maybe you'd mentioned it [...].
 *MRL:	+< dw i wedi [///] achos wnes i sôn ynde [///] a dw i +//. 1325633_1327336
 %gls:	be.1S.PRES PRON.1S PRT.PAST because do.1S.PAST PRON.1S mention. NONFIN TAG and be.1S.PRES PRON.1S

@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -15,7 +15,8 @@
 @Media:	davies6, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Comment:	speakers had bought along tabloid newspapers which they read during the interview, and often quote headlines/stories from in the transcription.
-@Warning:	HEC's radio microphone cuts off (due to exhausted batteries) repeatedly during the first halt of the recording.
+@Warning:	HEC's radio microphone cuts off (due to exhausted batteries)
+	repeatedly during the first half of the recording.
 *DAN:	fod i gael un iddyn nhw ddoe tra o'n i (y)n fod yn Builth@s:eng . 0_2032
 %gls:	be.NONFIN PRT get.NONFIN one to.3PL PRON.3PL yesterday whilst be.1S.IMP PRON.1S PRT be.NONFIN in Builth
 %eng:	supposed to get one for them yesterday whilst I was in Builth.
@@ -562,7 +563,7 @@
 %com:	interference with microphone.
 *HEC:	+" [- eng] xxx speeds along . 436419_438829
 *DAN:	&=gasp dw i (ddi)m (we)di cael Wham@s:cym&eng ers_talwm (a)chan . 438587_440988
-%gls:	be.1S. PRES PRON.1S NEG PRT.PAST get.NONFIN Wham for_a_while boy
+%gls:	be.1S.PRES PRON.1S NEG PRT.PAST get.NONFIN Wham for_a_while boy
 %eng:	I haven't had a Wham for ages.
 %com:	A Wham is a type of confectionery bar.
 *HEC:	finnau chwaith . 440827_441464

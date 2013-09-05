@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1461,13 +1461,15 @@
 %gls:	IM
 %eng:	mmm
 *ADD:	(we)dyn dw meddwl bod hynna (y)n well . 962464_963892
-%gls:	then  be.1S.PRES PRON.1S think.NONFIN be.NONFIN that PRT better
+%gls:	then be.1S.PRES PRON.1S think.NONFIN be.NONFIN that PRT better
 %eng:	so I think that is better
 *ADD:	ond mae (y)na rei <sy (we)di> [///] (..) dw i meddwl bod nhw wneud drwg mawr i ni (fe)lly timod . 963927_967805
 %gls:	but be.3S.PRES there some be.PRES.REL PRT.PAST be.1S.PRES PRON.1S think.NONFIN be.NONFIN PRON.3PL do.NONFIN bad big to PRON.1PL thus know.2S
 %eng:	but there are some that have...I think they've done us harm, you know
 *BAR:	<xxx &ə wsti um@s:cym&eng a mae> [/] mae [///] (.) dw i just@s:cym&eng yn meddwl am y pethau dach chi (we)di wneud dach chi (y)n dal [!] i wneud rŵan de . 967803_975803
-%gls:	xxx know.2S and be.3S.PRES be.3S.PRES be.1S.PRES PRON.1S just PRT think.NONFIN about DET things be.2PL.PRES PRON.2PL PRT.PAST do.NONFIN be.2PL.PRES PRON.2PL PRT still to do.NONFIN now TAG
+%gls:	xxx know.2S IM and be.3S.PRES be.3S.PRES be.1S.PRES PRON.1S just PRT
+	think.NONFIN about DET things be.2PL.PRES PRON.2PL PRT.PAST
+	do.NONFIN be.2PL.PRES PRON.2PL PRT still to do.NONFIN now TAG
 %eng:	[...] you know and...I just keep thinking about the things that you have done that your still doing now, you know
 *BAR:	wsti a [?] wnaeth Dylan@s:cym&eng ddeud (wr)tha i +"/. 975701_977617
 %gls:	know.2S and do.3S.PAST Dylan say.NONFIN to.1S PRON.1S

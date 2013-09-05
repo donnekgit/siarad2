@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1387,7 +1387,7 @@
 *JAM:	+< yeah@s:cym&eng . 982530_983065
 *JAM:	xxx . 983854_984597
 *JAM:	&=sigh fi (ddi)m (we)di cael bwyd heddi &=groan . 986046_989063
-%gls:	PRON.1S NEG PRT get.NONFIN food today
+%gls:	PRON.1S NEG PRT.PAST get.NONFIN food today
 %eng:	I've not had food today.
 *MEI:	ti efo annwyd ? 989260_990346
 %gls:	PRON.2S with cold
@@ -1409,7 +1409,8 @@
 %gls:	because be.3S.PRES nose PRON.1S PRT quite snuffy
 %eng:	because my nose is quite snuffy.
 *JAM:	um@s:cym&eng (..) o'n i (we)di mynd i gwaith bore (y)ma hanner awr (we)di saith heb bwyd . 997190_1001473
-%gls:	IM be.1S.PRES PRON.1S PRT.PAST go.NONFIN to work morning here half hour after seven without food
+%gls:	IM be.1S.PRES PRON.1S PRT.PAST go.NONFIN to work morning here half
+	hour past seven without food
 %eng:	I'd gone to work this morning half past seven without food.
 *MEI:	+< xxx . 997299_997757
 *JAM:	so@s:cym&eng fi (we)di cael fel (.) darn o tost ar_ôl dod (y)n_ôl o gwaith . 1001366_1004532

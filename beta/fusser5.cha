@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -354,7 +354,7 @@
 %gls:	how_much of bell
 %eng:	what time?
 *DYF:	hanner (we)di saith . 292394_293798
-%gls:	half after seven
+%gls:	half past seven
 %eng:	7:30 .
 *DYF:	fydd (y)na (.) fwyd Arabeg . 293882_295635
 %gls:	be.3S.FUT there food Arabic

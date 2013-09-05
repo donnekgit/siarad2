@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1773,7 +1773,10 @@
 %gls:	be.3S.PRES PRON.3SM available
 %eng:	it is available.
 *OLW:	+< os ydyn nhw wrong@s:cym&eng neu mae (y)r (.) papurau newydd neu (y)r bobl news@s:cym&eng (we)di gael o (y)n wrong@s:cym&eng (.) maen nhw digon buan gorod ail (.) correct_io@s:eng+cym ei hunain ar y teledu . 1306591_1316898
-%gls:	if be.3PL.PRES PRON.3PL PRT wrong or be.3S.PRES DET papers news or DET people news PRT.PAST get.NONFIN PRON.3SM PRT wrong be.3PL.PRES PRON.3PL enough soon need second correct.NONFIN POSS.3S self on DET television
+%gls:	if be.3PL.PRES PRON.3PL wrong or be.3S.PRES DET papers news or DET
+	people news PRT.PAST get.NONFIN PRON.3SM PRT wrong be.3PL.PRES
+	PRON.3PL enough soon need.NONFIN second correct.NONFIN POSS.3S self
+	on DET television
 %eng:	if they're wrong, or the newspapers or the news people have got it wrong, they soon enough have to correct themselves on television.
 *OLW:	(be)cause@s:eng fydd rhywun yn ffindio allan bod nhw wedi deud rywbeth anghywir . 1316895_1320514
 %gls:	because be.3S.FUT someone PRT find.NONFIN out be.NONFIN PRON.3PL PRT.PAST say.NONFIN something wrong

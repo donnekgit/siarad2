@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -2257,7 +2257,7 @@
 %gls:	be.3S.PRES necessity be.NONFIN nest on DET building or something
 %eng:	there must be a nest on top of the building or something
 *ALY:	ac oedd e (we)di cwympo . 1600346_1601437
-%gls:	and be.3S.IMP PRON.3SM PRT fall.NONFIN
+%gls:	and be.3S.IMP PRON.3SM PRT.PAST fall.NONFIN
 %eng:	and it had fallen
 *ALY:	ac oedd e sort@s:eng of@s:eng (am)boutu lle funny@s:eng [?] o_flaen [/] o_flaen <drws yr um@s:cym&eng> [//] drws tân xxx . 1601426_1606372
 %gls:	and be.3S.IMP PRON.3SM sort of about place funny before before door DET IM door fire xxx
@@ -2587,7 +2587,7 @@
 %gls:	good very
 %eng:	very good
 *ALY:	so@s:cym&eng o'n nhw (we)di <mynd &m> [//] cyrraedd . 1821192_1822585
-%gls:	so be.3PL.IMP PRT.PAST go.NONFIN arrive.NONFIN
+%gls:	so be.3PL.IMP PRON.3PL PRT.PAST go.NONFIN arrive.NONFIN
 %eng:	so they'd arrived
 *ALY:	a o'n nhw (we)di gweud +"/. 1822585_1822933
 %gls:	and be.3PL.IMP PRON.3PL PRT.PAST say.NONFIN
@@ -2621,7 +2621,7 @@
 %gls:	there PRON.1PL PRT.PAST arrive.NONFIN
 %eng:	look, we've arrived
 *ALY:	+" mae (y)n hanner (we)di deg yn nos . 1836854_1838084
-%gls:	be.3S.PRES PRT half after ten in night
+%gls:	be.3S.PRES PRT half past ten in night
 %eng:	it's half past ten in the evening
 *ALY:	+" [- eng] it's not on . 1838073_1838885
 *ALY:	+" ŷn ni (y)n aros (y)ma . 1838885_1839791
@@ -2751,11 +2751,15 @@
 *ALY:	oh@s:cym&eng doniol (.) doniol ofnadwy . 1913189_1915581
 %gls:	IM funny funny awful
 %eng:	oh funny, really funny
-*BEC:	so@s:cym&eng [?] &b dibynnu [//] mae (y)n rhyfedd bod [/] (.) bod nhw (we)di gorfod talu mwy mewn ffordd dydy achos os (y)dy (y)r person@s:cym&eng tu ôl y ddesk@s:cym&eng de (.) wedi deud (.) yna er@s:cym&eng <rhyngthi hi> [//] (ba)set ti feddwl rhyngthi hi a (y)r rheolwr (y)dy o wedyn . 1915569_1928729
+*BEC:	so@s:cym&eng [?] &b dibynnu [//] mae (y)n rhyfedd bod [/] (.) bod
+	nhw (we)di gorfod talu mwy mewn ffordd dydy achos os (y)dy (y)r
+	person@s:cym&eng tu ôl y ddesk@s:cym&eng de (.) wedi deud (.) yna
+	er@s:cym&eng <rhyngthi hi> [//] (ba)set ti feddwl rhyngthi hi a (y)r
+	rheolwr (y)dy o wedyn . 1915569_1928729
 %gls:	so depend.NONFIN be.3S.PRES PRT strange be.NONFIN be.NONFIN PRON.3PL PRT.PAST must.NONFIN pay.NONFIN more in way be.3S.PRES.NEG because if be.3S.PRES DET person side behind DET desk TAG PRT.PAST say.NONFIN there IM between.3SF PRON.3SF be.2S.CONDIT PRON.2S think.NONFIN between.3SF PRON.3SF and DET manager be.3S.PRES PRON.3SM then
 %eng:	it's funny that they had to pay more in a way, isn't it, because if the person behind the desk has said, then er you'd think it was between her and the manager then
 *ALY:	+< wedi gweud . 1921938_1922959
-%gls:	PRT say.NONFIN
+%gls:	PRT.PAST say.NONFIN
 %eng:	has said
 *ALY:	+< yeah@s:cym&eng . 1923238_1923876
 *ALY:	+< xxx yeah@s:cym&eng . 1926988_1928799

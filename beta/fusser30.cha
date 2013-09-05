@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -400,7 +400,9 @@
 %gls:	and wait.NONFIN and phone.NONFIN wait.NONFIN for other arrive.NONFIN to phone.NONFIN
 %eng:	and wait...and phone...wait for the other to arrive to phone
 *MEL:	ie neu fasai [//] (e)fallai (ba)sai un (we)di ffonio (.) eich cartre chi a siarad efo mam@s:cym&eng neu be bynnag neges efo mam@s:cym&eng . 238644_244112
-%gls:	yes or perhaps be.3S.CONDIT one PRT.PAST phone.NONFIN POSS.2PL home PRON.2PL and speak.NONFIN with mum or what ever message with mum
+%gls:	yes or be.3S.CONDIT perhaps be.3S.CONDIT one PRT.PAST phone.NONFIN
+	POSS.2PL home PRON.2PL and speak.NONFIN with mum or what ever
+	message with mum
 %eng:	yes, or perhaps one would have phoned your home and spoken with mum or whatever, a message with mum
 *LON:	ia (.) a honno (y)n poeni wedyn +"/. 243207_244960
 %gls:	yes and that PRT worry.NONFIN then
@@ -1311,7 +1313,9 @@
 %gls:	yes
 %eng:	yes
 *MEL:	oedd gynni (y)r fath â (y)r frock@s:cym&eng silk@s:cym&eng (y)ma oedd hi (we)di cael (we)di wneud pan oedd hi (y)n byw Malaysia@s:cym&eng . 744685_748911
-%gls:	be.3S.IMP with.3SF DET kind with DET frock silk here be.3S.IMP PRON.3SF prt.psat get.NONFIN PRT.PAST do.NONFIN when be.3S.IMP PRON.3SF PRT live.NONFIN Malaysia
+%gls:	be.3S.IMP with.3SF DET kind with DET frock silk here be.3S.IMP
+	PRON.3SF PRT.PAST get.NONFIN PRT.PAST do.NONFIN when be.3S.IMP
+	PRON.3SF PRT live.NONFIN Malaysia
 %eng:	she had this, like, silk dress she had made when she was living in Malaysia
 *MEL:	oh@s:cym&eng (.) hyfryd . 748911_750780
 %gls:	IM lovely
@@ -2080,7 +2084,10 @@
 %gls:	then be.3S.PRES Wyn and PRON.1S
 %eng:	then Wyn and I...
 *MEL:	<y cyfamod o briodas &n> [//] un priodas o'n i chwarae (y)r delyn (y)no fo <oedden nhw (we)di cael y fath xxx> [//] y boy@s:cym&eng oedd yn priodi (.) oedd o (we)di cael y fath drafferth . 1165805_1173038
-%gls:	DET covenant of marriage one wedding be.1S.IMP PRON.1S play.NONFIN DET harp in.3SM PRON.3SM be.3PL.PRES PRT.PAST get.NONFIN DET kind xxx DET boy be.3S.IMP PRT marry.NONFIN be.3S.IMP PRON.3SM PRT.PAST get.NONFIN DET kind truoble
+%gls:	DET covenant of marriage one wedding be.1S.IMP PRON.1S play.NONFIN
+	DET harp in.3SM PRON.3SM be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN DET
+	kind xxx DET boy be.3S.IMP PRT marry.NONFIN be.3S.IMP PRON.3SM
+	PRT.PAST get.NONFIN DET kind trouble
 %eng:	the covenant of marriage... one wedding I was playing the harp in, they had such xxx...the guy who was getting married, he had so much trouble
 *LON:	&=laugh . 1172736_1173967
 *MEL:	ac oedd <y boy@s:cym&eng (we)di mynnu> [//] yr [/] yr vicar@s:cym&eng (we)di mynnu bod o (y)n deud o (y)n iawn +"/. 1173967_1177218
@@ -2741,7 +2748,7 @@
 %gls:	IM be.3S.PRES be.3S.PRES PRT fine
 %eng:	oh yes, she's fine
 *MEL:	+" mae (we)di dod fyny dros Dolig . 1567524_1568697
-%gls:	be.3S.PRES PRT come.NONFIN up over Christmas
+%gls:	be.3S.PRES PRT.PAST come.NONFIN up over Christmas
 %eng:	she's come up for Christmas
 *MEL:	+" oh@s:cym&eng great@s:cym&eng . 1568697_1569440
 %gls:	IM great

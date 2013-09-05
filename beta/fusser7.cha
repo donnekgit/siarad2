@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -8,7 +8,7 @@
 @ID:	cym|siarad|CIG|35;|female|||Adult||
 @Situation:	Informal conversation between work colleagues, recorded at their office
 @Comment:	ANE was born in England, but has lived in north-west Wales since the age of 8
-@Comment:	BLO is was born in north-west Wales a nd has lived there all her life
+@Comment:	BLO is was born in north-west Wales and has lived there all her life
 @Comment:	CIG is from north-west Wales. She is not a main speaker, only appearing very briefly.
 @Transcriber:	Jonathan Stammers, Bangor University
 @Comment:	Researcher: Marika Fusser, Bangor University
@@ -878,7 +878,10 @@
 %gls:	be.3S.PRES PRT sin
 %eng:	it's a pity.
 *BLO:	<oedd hi (y)n strancio (y)n tŷ> [//] oedd hi strancio (y)n tŷ noson cynt bod <o'n i> [?] (we)di deud bod hi (dd)im yn cael dŵad . 525512_529424
-%gls:	be.3S.IMP PRON.3SF prance.NONFIN in house be.3S.IMP PRON.3SF prance.NONFIN in house night before be.NONFIN be.1S.IMP PRON.1S PRT.PAST say.NONFIN be.NONFIN PRON.3SF NEG PRT have.NONFIN come.NONFIN
+%gls:	be.3S.IMP PRON.3SF PRT prance.NONFIN in house be.3S.IMP PRON.3SF
+	prance.NONFIN in house night before be.NONFIN be.1S.IMP PRON.1S
+	PRT.PAST say.NONFIN be.NONFIN PRON.3SF NEG PRT have.NONFIN
+	come.NONFIN
 %eng:	she was was in hysterics in the house the night before because I'd said she couldn't come.
 *ANE:	ie . 529354_529841
 %gls:	yes

@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng, lat
@@ -313,7 +313,7 @@
 %gls:	xxx well if_be.1S.CONDIT PRON.1S PRT.PAST go.NONFIN to.3SM PRON.3SM be.1S.CONDIT PRON.1S PRT.PAST recall.NONFIN PRON.3SM about DET eight million be.3S.PRES PRT.PAST have.NONFIN for DET xxx paint there
 %eng:	[...] well, if I had gone up to him I'd have reminded him about the eight million he's had for that paint [..] !
 *IOL:	y llun (y)na te mae (we)di werthu (.) yn Sotheby's@s:cym&eng . 282759_286567
-%gls:	DET picture then be.3S.PRES PRT.PAST sell.NONFIN in Sotheby's
+%gls:	DET picture there then be.3S.PRES PRT.PAST sell.NONFIN in Sotheby's
 %eng:	that picture, right, that he's sold at Sotheby's.
 *IOL:	ond dyna ni . 286684_287926
 %gls:	but there PRON.1PL
@@ -1194,10 +1194,14 @@
 *IOL:	well@s:cym&eng yfi (.) ydy hynny . 1059449_1061377
 %gls:	well PRON.1S be.3S.PRES that
 %eng:	well, me, this is.
-*IOL:	+, yn cysylltu eliffantod efo Kenya@s:cym&eng ac (.) De Africa@s:cym&eng a (y)r parciau genedlaethol (y)ma sy gynnyn nhw allan yna (fe)lly (.) ac y pobl (y)ma mynd ar safaris@s:cym&eng . 1061396_1072272
+*IOL:	+, yn cysylltu eliffantod efo Kenya@s:cym&eng ac (.) De
+	Africa@s:cym&eng a (y)r parciau genedlaethol (y)ma sy gynnyn nhw
+	allan yna (fe)lly (.) ac y pobl (y)ma mynd ar safaris@s:cym&eng . 1061396_1072272
 %gls:	PRT connect.NONFIN elephants with Kenya and South Africa and DET parks national here be.PRES.REL with.3PL PRON.3PL out there thus and DET people here go.NONFIN on safaris
 %eng:	...relate elephants to Kenya and South Africa and these national parks they have out there, and these people goin on safaris.
-*IOL:	ac (.) wedi bod yn Gogledd Africa@s:cym&eng um@s:cym&eng Tunis@s:cym&eng a llefydd fel yna (fe)lly (.) <dw i> [/] dw i (dd)im (we)di gweld eliffantod yn fan (y)no . 1072325_1079930
+*IOL:	ac (.) wedi bod yn Gogledd Africa@s:cym&eng um@s:cym&eng
+	Tunis@s:cym&eng a llefydd fel yna (fe)lly (.) <dw i> [/] dw i (dd)im
+	(we)di gweld eliffantod yn fan (y)no . 1072325_1079930
 %gls:	and after be.NONFIN in North Africa IM Tunis and places like there thus be.1S.PRES PRON.1S be.1S.PRES PRON.1S NEG PRT.PAST see.NONFIN elephants in place there
 %eng:	and having been to North Africa, Tunis and places like that, I've not seen elephants there.
 *IOL:	dim_ond &kam <camels@s:cym&eng wrth_gwrs> [//] camelod . 1079988_1082791
@@ -2089,7 +2093,7 @@
 %gls:	be.3S.PRES be.1S.PRES PRON.1S sure
 %eng:	yes, I'm sure.
 *IOL:	gosa dw i (we)di daflu do ? 1814762_1816132
-%gls:	unless be.3S.IMP be.1S.PRES PRON.1S PRT.PAST throw.NONFIN yes
+%gls:	unless be.1S.PRES PRON.1S PRT.PAST throw.NONFIN yes
 %eng:	unless I've thrown it away, right?
 *TEC:	xxx dw i (dd)im wedi gweld dim_byd (.) ers_talwm iawn . 1818515_1821360
 %gls:	be.1S.PRES PRON.1S NEG PRT.PAST see.NONFIN nothing since_while very

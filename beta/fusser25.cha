@@ -1,11 +1,11 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
 @Participants:	ALB Alban Adult, HUN Hunydd Adult
 @ID:	cym|siarad|ALB|25;|male|||Adult||
 @ID:	cym|siarad|HUN|25;|female|||Adult||
-@Situation:	informal conversation between friends at ALB's rkplace
+@Situation:	informal conversation between friends at ALB's workplace
 @Comment:	ALB was brought up in north-west Wales and has lived there all his life, but currently lives in England for part of the time
 @Comment:	HUN was brought up between north-west Wales and England, has recently moved back to north-west Wales
 @Date:	03-MAR-2006
@@ -2796,7 +2796,7 @@
 %gls:	yeah something thus
 %eng:	yeah, something like that
 *HUN:	o'n i (we)di ddeffro sti . 1746797_1747645
-%gls:	be.1S.IMP PRON.1S.PRT.PAST wake.NONFIN know.2S.IMPER
+%gls:	be.1S.IMP PRON.1S PRT.PAST wake.NONFIN know.2S.IMPER
 %eng:	I was awake, you know
 *HUN:	o'n i just@s:cym&eng gorwedd yn gwely . 1747645_1748910
 %gls:	be.1S.IMP PRON.1S just lie.NONFIN in bed
@@ -2809,7 +2809,7 @@
 %eng:	oh yeah?
 *ALB:	xxx +"/. 1751256_1751727
 *ALB:	+" oh@s:cym&eng damia dw i (we)di deffro Hunydd@s:cym&eng . 1751704_1753078
-%gls:	damn.NONFIN be.1S.PRES PRON.1S PRT.PAST wake.NONFIN Hunydd
+%gls:	IM damn.IMPER be.1S.PRES PRON.1S PRT.PAST wake.NONFIN Hunydd
 %eng:	oh damn, I've woken Hunydd up
 *ALB:	+" xxx . 1753078_1754588
 *HUN:	na o'n i fel hyn +"/. 1753996_1754518

@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -205,7 +205,8 @@
 %eng:	but, having said that, I'm sure there'd be, like, loads of Gavin's friends
 *TOS:	mae gynno gymaint o ffrindiau (.) ella xxx rhei pobl (.) fath â (.) ryw idiots@s:cym&eng o_gwmpas y lle xxx sure@s:cym&eng [?] . 163586_170529
 %gls:	be.3S.PRES with.3SM o_much of friends perhaps xxx some people kind with some idiots around DET place xxx sure
-%eng:	he's got so many friend, perhaps [...] some people, like some idiots around the place [...] sure
+%eng:	he's got so many friends, perhaps [...] some people, like some
+	idiots around the place [...] sure
 *HAR:	+< yeah@s:cym&eng . 169971_170424
 %gls:	yeah
 %eng:	yeah

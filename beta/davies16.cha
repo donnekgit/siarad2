@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -611,7 +611,9 @@
 %gls:	be.1S.PRES NEG know.NONFIN
 %eng:	dunno.
 *HYW:	+< (fa)sai fo (we)di newid i shotgun@s:eng i [?] fan (y)na &ʧ yn lle reload_io@s:eng+cym (fa)sai fo (we)di cael chdi . 407859_410702
-%gls:	be.3S.CONDIT PRON.3SM PRT.PAST change.NONFIN to shotgun place there PRT place reload.NONFIN be.3S.CONDIT PRON.3SM PRT.PAST get.NONFIN PRON.2S
+%gls:	be.3S.CONDIT PRON.3SM PRT.PAST change.NONFIN to shotgun in place
+	there in place reload.NONFIN be.3S.CONDIT PRON.3SM PRT.PAST
+	get.NONFIN PRON.2S
 %eng:	if he had changed to a shotgun there instead of reloading he would have got you.
 *ADA:	+< (fa)sai fo (we)di gallu lladd fi (y)n hawdd fan (y)na basai . 410169_412060
 %gls:	be.3S.CONDIT PRON.3SM PRT.PAST can.NONFIN kill.NONFIN PRON.1S PRT easy place there be.3S.CONDIT
@@ -647,7 +649,7 @@
 %gls:	every PRON.2S notice.NONFIN
 %eng:	have you noticed?
 *ADA:	bob tro mae (y)n colli yn_erbyn fi mae o (y)n deud bod o (we)di cymryd dim damage@s:eng yn y shot@s:cym&eng cynta . 436031_439406
-%gls:	every time be.3S.PRES PRT lose.NONFIN PRT against PRON.1S be.3S.PRES PRON.3SM PRT say.NONFIN be.NONFIN PRON.3SM PRT.PAST take.NONFIN NEG damage in DET shot first
+%gls:	every time be.3S.PRES PRT lose.NONFIN against PRON.1S be.3S.PRES PRON.3SM PRT say.NONFIN be.NONFIN PRON.3SM PRT.PAST take.NONFIN NEG damage in DET shot first
 %eng:	every time he loses against me he says he took no damage in the first shot.
 *ADA:	mae hynna (y)n profi rŵan . 439569_440567
 %gls:	be.3S.PRES that PRT prove.NONFIN now

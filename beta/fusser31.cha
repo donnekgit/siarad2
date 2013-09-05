@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -167,7 +167,9 @@
 %gls:	yeah
 %eng:	yeah
 *BRW:	a um@s:cym&eng (..) os ti (y)n clywed nhw eu hun yn chwarae fo [=? efo] (.) yn lle (.) <be fedri di &g> [//] rywbeth (.) sy (we)di bod o blaen . 120155_130603
-%gls:	and IM if PRON.2S PRT hear.NONFIN PRON.3PL POSS.3PL self PRT play.NONFIN PRON.3SM in place what can.2S.NONPAST PRON.2S something be.PRES.REL be.NONFIN of before
+%gls:	and IM if PRON.2S PRT hear.NONFIN PRON.3PL POSS.3PL self PRT
+	play.NONFIN PRON.3SM in place what can.2S.NONPAST PRON.2S something
+	be.PRES.REL PRT.PAST be.NONFIN of before
 %eng:	and, um, if you hear them themselves playing it instead what you can...something that's been before
 *ARF:	yeah@s:cym&eng . 130592_131416
 %gls:	yeah

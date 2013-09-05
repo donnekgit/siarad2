@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -7611,15 +7611,16 @@
 %gls:	xxx there be.3S.PRES DET thing
 %eng:	that's the thing
 *BRE:	(ba)sech chi meddwl (ba)sen nhw (we)di codi pan xxx rywun mynd i_mewn bysech . 3765016_3767930
-%gls:	be.2PL.CONDIT PRON.2PL think.NONFIN be.3PL.CONDIT PRT.PAST rise.NONFIN when xxx somebody go.NONFIN in be.2PL.CONDIT
+%gls:	be.2PL.CONDIT PRON.2PL think.NONFIN be.3PL.CONDIT PRON.3PL PRT.PAST
+	rise.NONFIN when xxx somebody go.NONFIN in be.2PL.CONDIT
 %eng:	you'd think they'd have gotten up when somebody went in, wouldn't you
 *MEN:	oh@s:cym&eng bysai . 3767733_3768650
 %gls:	IM be.3S.CONDIT
 %eng:	oh yes
 *MEN:	xxx +/. 3768650_3769799
 *BRE:	wnaethon nhw ddim . 3769408_3770205
-%gls:	do.3PL.CONDIT PRON.3PL NEG
-%eng:	they wouldn't
+%gls:	do.3PL.PAST PRON.3PL NEG
+%eng:	they didn't
 *BRE:	a xxx wchi (y)n (y)r un oed . 3770205_3771680
 %gls:	and xxx know.2PL in DET one age
 %eng:	and [...] you know, the same age
@@ -7628,7 +7629,8 @@
 %gls:	be.1S.PRES PRON.1S PRT remember.NONFIN child memory child
 %eng:	I remember a child...a child's memory...
 *BRE:	ond &ɔd [//] (.) <oedden nhw (we)di &p> [/] (.) oedden nhw (we)di priodi . 3773514_3775860
-%gls:	but be.3PL.IMP PRON.3PL PRT be.3PL.IMP PRON.3PL PRT.PAST marry.NONFIN
+%gls:	but be.3PL.IMP PRON.3PL PRT.PAST be.3PL.IMP PRON.3PL PRT.PAST
+	marry.NONFIN
 %eng:	but they were...they were married
 *BRE:	a mi oedd gynnyn nhw blentyn bach . 3775860_3777148
 %gls:	and PRT be.3S.IMP with.3PL PRON.3PL child small

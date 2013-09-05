@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -676,8 +676,10 @@
 *ARD:	oh@s:cym&eng dear@s:cym&eng . 449502_450988
 %gls:	IM dear
 %eng:	oh dear
-*BEU:	yeah@s:cym&eng xxx faint o flynyddoedd dw er@s:cym&eng [?] i ar y ffordd wan de a dim (we)di cael dim (.) dirwy o_gwbl . 450988_455748
-%gls:	yeah xxx how_much of years be.1S.PRES IM on DET road now TAG and NEG PRT.PAST get.NONFIN NEG fine at_all
+*BEU:	yeah@s:cym&eng xxx faint o flynyddoedd dw er@s:cym&eng [?] i ar y
+	ffordd ŵan de a dim (we)di cael dim (.) dirwy o_gwbl . 450988_455748
+%gls:	yeah xxx how_much of years be.1S.PRES IM PRON.1S on DET road now TAG
+	and NEG PRT.PAST get.NONFIN NEG fine at_all
 %eng:	yeah [...] how many years I've been on the road now, you know, and haven't had any fines at all
 *BEU:	a (we)dyn (.) wsnos i ddydd Sul +/. 455748_458674
 %gls:	and then week to day Sunday

@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -321,7 +321,7 @@
 %eng:	you know the Eurosports channels?
 *MER:	+< xxx . 159392_160448
 *MER:	+< Cartoon_Network@s:cym&eng na mae hwnna (we)di mynd . 160759_162502
-%gls:	Cartoon Network no be.3S.PRES that PRT.PAST go.NONFIN
+%gls:	Cartoon_Network no be.3S.PRES that PRT.PAST go.NONFIN
 %eng:	Cartoon Network, no that's gone
 *SIO:	+< ond <mae (y)n> [//] maen nhw (we)di tynnu nhw do . 161225_162789
 %gls:	but be.3S.PRES PRT be.3PL.PRES PRON.3PL PRT.PAST take.NONFIN PRON.3PL yes
@@ -439,7 +439,8 @@
 %gls:	yeah because if be.3S.PRES handy get.NONFIN car
 %eng:	yeah, because if...it's handy to have a car
 *MER:	fedra i (ddi)m disgwyl tan fydda i (we)di pasio test@s:cym&eng fi de . 238368_240724
-%gls:	can.1S.NONPAST PRON.1S NEG wait.NONFIN until be.1S.FUT PRT.PAST pass.NONFIN test PRON.1S TAG
+%gls:	can.1S.NONPAST PRON.1S NEG wait.NONFIN until be.1S.FUT
+	PRON.1S PRT.PAST pass.NONFIN test PRON.1S TAG
 %eng:	I can't wait until I've passed my test, you know
 *COL:	a wedyn os +/. 240724_242640
 %gls:	and then if
