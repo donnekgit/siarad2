@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -412,7 +412,9 @@
 %gls:	but IM
 %eng:	but um...
 *LER:	o'n i (y)n gwybod <bod yr actor@s:cym&eng yn> [//] (.) bod o (we)di deud bod o (.) yn bored@s:eng efo fo neu rywbeth . 188606_193634
-%gls:	be.1S.IMP PRON.1S PRT know.NONFIN be.NONFIN DET actor be.NONFIN PRON.3SM PRT.PAST say.NONFIN be.NONFIN PRON.3SM PRT bored with PRON.3SM or something
+%gls:	be.1S.IMP PRON.1S PRT know.NONFIN be.NONFIN DET actor PRT be.NONFIN
+	PRON.3SM PRT.PAST say.NONFIN be.NONFIN PRON.3SM PRT bored with
+	PRON.3SM or something
 %eng:	I knew the actor was...that he'd said that he was bored with it or something
 *MED:	ydy . 192913_194057
 %gls:	be.3S.PRES
@@ -523,7 +525,9 @@
 %gls:	yes yes
 %eng:	yes, yes
 *LER:	<maen nhw> [//] mae o (y)n deud ynd(y) [/] yndy ydy o mewn coma@s:cym&eng ydy o (we)di mynd yn (.) ond [//] yn_de . 251588_256376
-%gls:	be.3PL.PRES be.3S.PRES PRON.3SM PRT say.NONFIN be.3S.PRES be.3S.PRES be.3S.PRES PRON.3SM in coma be.3S.PRES PRON.3SM PRT.PAST go.NONFIN PRT but TAG
+%gls:	be.3PL.PRES PRON.3PL be.3S.PRES PRON.3SM PRT say.NONFIN be.3S.PRES
+	be.3S.PRES be.3S.PRES PRON.3SM in coma be.3S.PRES PRON.3SM PRT.PAST
+	go.NONFIN PRT but TAG
 %eng:	they...it says, doesn't it, is he in a coma, has he gone...but...isn't it
 *MED:	+< ia . 255655_256040
 %gls:	yes
@@ -2744,7 +2748,7 @@
 %gls:	yes
 %eng:	yes
 *MED:	a wsti maen nhw (we)di cael bywyd er@s:cym&eng caled (we)di cysgu mewn car@s:cym&eng a (we)di +... 1474264_1478409
-%gls:	and know.2S be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN life IM hard and PRT.PAST sleep.NONFIN in car and PRT.PAST
+%gls:	and know.2S be.3PL.PRES PRON.3PL PRT.PAST get.NONFIN life IM hard PRT.PAST sleep.NONFIN in car and PRT.PAST
 %eng:	and you know, they've had a, er, hard life, slept in a car and...
 *MED:	<pan (oe)dden> [=? bydden] nhw dod i tŷ Nain &m meddai Llinos@s:cym&eng xxx yn dechrau oedden nhw (y)n ll:owcio [!] (e)u bwyd fath â (.) hwn oedd y pryd ola . 1478409_1484750
 %gls:	when be.3PL.IMP PRON.3PL come.NONFIN to house Gran say.3S.PAST Llinos xxx in beginning be.3PL.IMP PRON.3PL PRT gobble.NONFIN POSS.3PL food kind with this be.3S.IMP DET meal final
@@ -3855,8 +3859,13 @@
 *MED:	a wedyn mae (r)heiny (y)n Wrexham@s:cym&eng yn yrru o i (y)r cyngor . 2243660_2246086
 %gls:	and then be.3S.PRES those in Wrexham PRT send.NONFIN PRON.3SM to DET council
 %eng:	and then those in Wrexham send it to the council
-*MED:	wedyn pan dan ni (y)n gwerthu (y)r tŷ wan fydd (r)hein gynnon ni (fe)lly (.) i brofi bod ni (we)di cael electrician@s:eng sy (y)n gymwys i wneud <y &gw> [/] y gwaith bod raid chdi +//. 2246086_2253331
-%gls:	then when be.1PL.PRES PRON.1PL PRT sell.NONFIN DET house now be.3S.FUT these with.1PL PRON.1PL thus to prove.NONFIN be.NONFIN PRON.1PL get.NONFIN electrician be.PRES.REL PRT qualified to do.NONFIN DET DET work be.NONFIN necessity PRON.2S
+*MED:	wedyn pan dan ni (y)n gwerthu (y)r tŷ ŵan fydd (r)hein gynnon ni
+	(fe)lly (.) i brofi bod ni (we)di cael electrician@s:eng sy (y)n
+	gymwys i wneud <y &gw> [/] y gwaith bod raid chdi +//. 2246086_2253331
+%gls:	then when be.1PL.PRES PRON.1PL PRT sell.NONFIN DET house now
+	be.3S.FUT these with.1PL PRON.1PL thus to prove.NONFIN be.NONFIN
+	PRON.1PL PRT.PAST get.NONFIN electrician be.PRES.REL PRT qualified
+	to do.NONFIN DET DET work be.NONFIN necessity PRON.2S
 %eng:	so when we sell the house, no, we'll have these, like, to prove that we got an electrician who's qualified to do the work, that you...
 *MED:	xxx yeah@s:cym&eng pethau fel (yn)a sti . 2253331_2254562
 %gls:	IM yeah things like there know.2S
