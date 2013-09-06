@@ -1,0 +1,26 @@
+In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
