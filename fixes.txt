@@ -2,9 +2,13 @@ In write_cgautogloss.php, add code to convert spaces to underscores, so that "th
 
 Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i" and "o'n ni" by "o(edde)n ni".
 
-Manual gloss: systematically replace PRT.PAST by PRT.PERF; also needs replacing in conventions file.
+Manual gloss: systematically replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
 
 ? Add "elwch" 'merriment' to autoglosser dictionary - or change gloss for davies9, 379 manually?
+
+Where changes have been made to xx/xxx on the main tier, sometimes the manual gloss doesn't match now. Can this be fixed by a programme?
+
+
 
 
 
