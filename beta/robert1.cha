@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -363,7 +363,8 @@
 %gls:	list of pictures formal
 %eng:	list of formal photographs
 *FLO:	&=turns_page hmm:@s:cym&eng oedd um@s:cym&eng (.) Els@s:cym&eng (we)di (.) awgrymu (.) bod ni (y)n benthyg ryw fath o (.) olau wrth (.) John_Warner@s:cym&eng . 314013_329536
-%gls:	be.3S.IMP IM Els PRT.PAST suggest.NONFIN be.NONFIN PRON.1PL PRT borrow.NONFIN some kind of light from John_Warner
+%gls:	IM be.3S.IMP IM Els PRT.PAST suggest.NONFIN be.NONFIN PRON.1PL PRT
+	borrow.NONFIN some kind of light from John_Warner
 %eng:	Els suggested we should borrow some sort of light from John Warner
 %com:	Els is the researcher, no pseudonym used
 *FLO:	am um@s:cym&eng (.) rhag ofn bod ni (y)n cael lluniau tu fas os yw e (y)n sych . 329534_335159

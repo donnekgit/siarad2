@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -19,7 +19,9 @@
 @Transcriber:	Elen Robert, Bangor University
 @Time Duration:	00:39:40
 @Media:	robert8, audio
-@Comment:	Most of the dialog is in Welsh (cy), @s:eng is English, @s:cym&eng is used for undetermined. English words with Welsh suffixes are marked as @s:eng+cym .
+@Comment:	Most of the dialog is in Welsh (cym), @s:eng is English,
+@s:cym&eng is used for undetermined. English words with Welsh suffixes are
+	marked as @s:eng+cym .
 @Warning:	Only two microphones were used to record all participants
 @Comment:	Sometimes difficult to determine the speaker, especially in the case of laughter and overlapping speech
 @Comment:	Beeping from some machinery sometimes heard in the background, and is quite loud
@@ -1284,7 +1286,7 @@
 %gls:	yes yes father yeah
 %eng:	yes, yes of course, yeah
 *INT:	+< well xxx (y)r un fath ag <o'n i (y)n> [?] deud (wr)thach chi rŵan (.) mae (y)r Sais fwy o jawnswr . 638209_642505
-%gls:	well xxx xx DET one kind with be.1S.IMP PRON.1S PRT say.NONFIN to.2PL PRON.2PL now be.3S.PRES DET Englishman more of chancer
+%gls:	well xxx DET one kind with be.1S.IMP PRON.1S PRT say.NONFIN to.2PL PRON.2PL now be.3S.PRES DET Englishman more of chancer
 %eng:	well [...] as I was telling you just now, the Englishman is more of a chancer
 *STN:	yndy . 642505_643213
 %gls:	be.3S.PRES
@@ -1721,8 +1723,8 @@
 *EML:	ia . 870747_871292
 %gls:	yes
 %eng:	yes
-*STN:	ew annwyl mae [/] <maen nhw (.) xxxxxx> [//] esgob maen nhw dda (y)na . 871292_875379
-%gls:	IM dear be.3PL.PRES be.3PL.PRES PRON.3PL xxx xx bishop be.3PL.PRES PRON.3PL good there
+*STN:	ew annwyl mae [/] <maen nhw (.) xxx> [//] esgob maen nhw dda (y)na . 871292_875379
+%gls:	IM dear be.3PL.PRES be.3PL.PRES PRON.3PL xxx bishop be.3PL.PRES PRON.3PL good there
 %eng:	God they're [...] [...] Jesus they're good there
 *GOR:	+< xxx (.) le da (y)na (a)chan xxx . 871780_874462
 %gls:	xxx place good there boy xxx
@@ -2652,7 +2654,8 @@
 %gls:	be.3S.IMP somebody in place here yesterday PRT mention.NONFIN about.3SM
 %eng:	somebody here yesterday was talking about him
 *EML:	ei fab o (.) dw i sure (.) wedi dod i_fewn i fa(n) (y)ma (.) <yn nos> [//] (.) gyda (y)r nos (fe)lly . 1377204_1385668
-%gls:	POSS.3SM son PRON.3SM be.1S.PRES PRON.1S PRT.PAST come.NONFIN in to place here in night with DET night thus
+%gls:	POSS.3SM son PRON.3SM be.1S.PRES PRON.1S sure PRT.PAST come.NONFIN
+	in to place here in night with DET night thus
 %eng:	his son, I'm sure, had come here in the night...in the evening, like
 *GOR:	oh yeah er@s:cym&eng (.) <beth (y)na> [?] (y)dy hwnnw . 1385668_1387549
 %gls:	IM yeah IM thing there be.3S.PRES that
@@ -3537,7 +3540,7 @@
 %eng:	oh
 *INT:	xxx . 1943587_1945735
 *STN:	xxx [/] (.) xxx te yn hwn (y)lwch . 1945735_1949218
-%gls:	xxx xx tea in this see.2PL.IMPER
+%gls:	xxx xxx tea in this see.2PL.IMPER
 %eng:	[...] tea in this, look
 *GOR:	ia xxx [=! laughs] . 1949218_1951819
 %gls:	yes xxx
@@ -3856,7 +3859,7 @@
 %gls:	xxx give.NONFIN best to.3SF
 %eng:	[...] given up
 *CLV:	xxx (.) xxx s(y) gyn Ianto . 2141682_2144027
-%gls:	xxx xx be.PRES.REL with Ianto
+%gls:	xxx xxx be.PRES.REL with Ianto
 %eng:	[...] Ianto's got a [...]
 *EML:	ah [?] . 2144027_2144549
 %gls:	IM
@@ -4133,7 +4136,7 @@
 %gls:	forty DET day be.1S.IMP PRON.1S smoke.NONFIN for senior service TAG
 %eng:	I smoked forty a day, for the senior service, isn't it
 *INT:	oh sbïwch xxx (.) xxx hen fynydd yn mynd te . 2309096_2313346
-%gls:	IM look.2S.IMPER xxx xx old mountain PRT go.NONFIN TAG
+%gls:	IM look.2S.IMPER xxx xxx old mountain PRT go.NONFIN TAG
 %eng:	oh look [...] an old mountain going, isn't it
 *EML:	ia . 2313346_2313752
 %gls:	yes

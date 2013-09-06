@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -785,8 +785,8 @@
 *GTH:	yeah@s:cym&eng . 661923_662445
 %gls:	yeah
 %eng:	yeah
-*EIF:	well@s:cym&eng [?] (.) <ddim bod xxxxxx> [//] (.) dw i (we)di trio golf@s:cym&eng cofiwch yn yn oes . 662445_666323
-%gls:	well NEG be.NONFIN xxx xx be.1S.PRES PRON.1S PRT.PAST try.NONFIN golf remember.2PL.IMPER in POSS.1S age
+*EIF:	well@s:cym&eng [?] (.) <ddim bod xxx> [//] (.) dw i (we)di trio golf@s:cym&eng cofiwch yn yn oes . 662445_666323
+%gls:	well NEG be.NONFIN xxx be.1S.PRES PRON.1S PRT.PAST try.NONFIN golf remember.2PL.IMPER in POSS.1S age
 %eng:	well, not that [...] ...remember, I've tried golf in my lifetime
 *EIF:	ond um@s:cym&eng dw i ddim (we)di cael (.) gafael arno fo (y)n iawn . 666323_668842
 %gls:	but IM be.1S.PRES PRON.1S NEG PRT.PAST get.NONFIN hold on.3SM PRON.3SM PRT right
@@ -1029,7 +1029,8 @@
 %gls:	and NEG in DET castle
 %eng:	and not in the castle
 *GTH:	mae (y)r castell wedi mynd i [/] (.) i National_Trust@s:eng ers blynyddoedd ti gweld . 855403_859234
-%gls:	be.3S.PRES castle PRT.PAST go.NONFIN to to National_Trust since years PRON.2S see.NONFIN
+%gls:	be.3S.PRES DET castle PRT.PAST go.NONFIN to to National_Trust since
+	years PRON.2S see.NONFIN
 %eng:	the castle went to the...the National Trust years ago, you see
 *EIF:	+< oh@s:cym&eng yndy sure@s:cym&eng yndy yndy (.) yndy yndy . 857864_859733
 %gls:	IM be.3S.PRES sure be.3S.PRES be.3S.PRES be.3S.PRES be.3S.PRES
@@ -1674,7 +1675,9 @@
 %gls:	PRT.PAST be.NONFIN in in London
 %eng:	who'd been in London
 *GTH:	ac oedd ei (.) wyres hi neu <wyrion hi> [//] ŵyr iddi (we)di bod (y)r er@s:cym&eng er@s:cym&eng mynd i (y)r ysgol Gymraeg yn Llundain . 1295088_1305978
-%gls:	and be.3S.IMP PRON.3SF granddaughter or grandsons PRON.3SM grandson to.3SF PRT.PAST be.NONFIN DET IM IM go.NONFIN to DET school Welsh in London
+%gls:	and be.3S.IMP POSS.3SF granddaughter PRON.3SF or grandsons PRON.3SF
+	grandson to.3SF PRT.PAST be.NONFIN DET IM IM go.NONFIN to DET school
+	Welsh in London
 %eng:	and her granddaughter or her grandsons...a grandson of hers had been, er, er, to the Welsh school in London
 *GTH:	a mi (.) oe(dd) hi (we)di cwrdd hogan (.) er@s:cym&eng o Llanfaircaereinion@s:cym&eng . 1305978_1313826
 %gls:	and PRT be.3S.IMP PRON.3SF PRT.PAST meet.NONFIN girl IM from Llanfaircaereinion

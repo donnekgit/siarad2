@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1433,7 +1432,7 @@
 *SAR:	so@s:cym&eng (hwn)na yw [?] (y)r trydydd . 1054230_1055390
 %gls:	so that be.3S.PRES DET third
 %eng:	so that's the third
-*SAR:	a (.) buais i gartre i hôl ball@s:cym&eng gown@s:cym&eng fi . 1055390_1059134
+*SAR:	a (.) bues i gartre i hôl ball@s:cym&eng gown@s:cym&eng fi . 1055390_1059134
 %gls:	and go.1S.PAST PRON.1S home to fetch.NONFIN ball gown PRON.1S
 %eng:	and I went home to get my ball gown
 *SAR:	so@s:cym&eng (.) pedwar . 1059134_1062438
@@ -2278,7 +2277,7 @@
 *SAR:	oedd gwaith sgwennu lan beth oedd pawb (we)di gweud a (.) xxx anfon [?] hwnna . 1645484_1651132
 %gls:	be.3S.IMP work write.NONFIN up what be.3S.IMP everybody PRT.PAST say.NONFIN and xxx send.NONFIN that
 %eng:	there was work writing up what everybody had said and [...] sending that
-*NON:	ond buais i (y)n lwcus really@s:eng . 1651132_1653452
+*NON:	ond bues i (y)n lwcus really@s:eng . 1651132_1653452
 %gls:	but be.1S.PAST PRON.1S PRT lucky really
 %eng:	but I was lucky, really
 *NON:	achos yn y cyfnod (.) pan o'n i (y)n captain@s:cym&eng steddfod@s:cym&eng <oedd (gy)da ni fel um@s:cym&eng> [//] (.) drama@s:cym&eng oedd (.) Ffermwyr_Ifanc . 1653452_1659716
@@ -2305,7 +2304,7 @@
 *SAR:	yeah@s:cym&eng . 1667276_1667668
 %gls:	yeah
 %eng:	yeah
-*NON:	so@s:cym&eng buais i (y)n lwcus really@s:eng . 1667668_1669036
+*NON:	so@s:cym&eng bues i (y)n lwcus really@s:eng . 1667668_1669036
 %gls:	so be.1S.PAST PRON.1S PRT lucky really
 %eng:	so I was lucky really
 *NON:	pan [?] gyda rywbeth fel panto@s:cym&eng maen nhw (y)n trial wneud rywbeth i gael (y)r aelodau gyd ynghlwm â fe . 1669036_1673340
@@ -2422,7 +2421,8 @@
 *SAR:	na . 1749709_1750533
 %gls:	no
 %eng:	no
-*NON:	a fi (y)n cofio buais i just@s:cym&eng yn sefyll yn rhai o (y)r ymarferion . 1750533_1753013
+*NON:	a fi (y)n cofio bues i just@s:cym&eng yn sefyll yn rhai o (y)r
+	ymarferion . 1750533_1753013
 %gls:	and PRON.1S PRT remember.NONFIN be.1S.PAST PRON.1S just PRT stand.NONFIN in some of DET practices
 %eng:	and I remember, I was just standing in some of the rehearsals
 *NON:	a o't ti just@s:cym&eng yn sefyll yn y background@s:eng yn y corws . 1753013_1755117
@@ -2437,10 +2437,10 @@
 *NON:	oh@s:cym&eng yeah@s:cym&eng ? 1766341_1767390
 %gls:	IM yeah
 %eng:	oh yeah?
-*NON:	do buais i (y)n mynd â peth (.) ar ryw boint@s:cym&eng xxx . 1767390_1770350
+*NON:	do bues i (y)n mynd â peth (.) ar ryw boint@s:cym&eng xxx . 1767390_1770350
 %gls:	yes be.1S.PAST PRON.1S PRT go.NONFIN with some on some point xxx
 %eng:	yes, I was taking some at some point
-*NON:	na leni buais i mynd â . 1770350_1773246
+*NON:	na leni bues i mynd â . 1770350_1773246
 %gls:	no this_year be.1S.PAST PRON.1S go.NONFIN with
 %eng:	no, it was this year I was taking it
 *NON:	oh@s:cym&eng amser Hanner_Awr_O_Adloniant leni o'n i mynd â theory@s:cym&eng cerdd (gy)da fi . 1773246_1777446
@@ -2724,7 +2724,8 @@
 *NON:	+< oh@s:cym&eng na: ! 1954426_1956298
 %gls:	IM no
 %eng:	oh no!
-*SAR:	so@s:cym&eng buais i (y)n eistedd yn surgery@s:cym&eng y doctor@s:cym&eng . 1955962_1958274
+*SAR:	so@s:cym&eng bues i (y)n eistedd yn surgery@s:cym&eng y
+	doctor@s:cym&eng . 1955962_1958274
 %gls:	so be.1S.PAST PRON.1S PRT sit.NONFIN in surgery DET doctor
 %eng:	so I was sitting in the doctor's surgery
 *SAR:	xxx fel [//] really@s:eng fel +"/. 1958274_1959466

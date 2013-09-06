@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1031,7 +1030,7 @@
 *GRE:	hogan really@s:eng clên . 509151_509999
 %gls:	girl really kind
 %eng:	A really kind girl.
-*GWY:	ac <oedd hi just@s:cym&eng> [///] (.) oedd o (y)n gwylltio fi achos oedd o just@s:cym&eng timod o'n i (y)n deud (wr)tha chdi (y)r amharch oedd (.) gyn bobl yno oedd o just@s:cym&eng +/. 510299_516406
+*GWY:	ac <oedd hi just@s:cym&eng> [///] (.) oedd o (y)n gwylltio fi achos oedd o just@s:cym&eng timod o'n i (y)n deud (wr)tha chdi (y)r amarch oedd (.) gyn bobl yno oedd o just@s:cym&eng +/. 510299_516406
 %gls:	and be.3S.IMP PRON.3SF just be.3S.IMP PRON.3SM PRT anger.NONFIN PRON.1S because be.3S.IMP  PRON.3SM just know.2S be.1S.IMP PRON.1S PRT say.NONFIN to.2S PRON.2S DET disrespect be.3S.IMP with people there be.3S.IMP PRON.3sm just
 %eng:	And she was just ... it angered me because it was just, you know, I was telling you, the disrespect people had there, it was just ...
 *GRE:	+< mmm@s:cym&eng . 516000_516452
@@ -1043,7 +1042,7 @@
 *GWY:	oh@s:cym&eng oedd . 519483_520086
 %gls:	IM be.3S.IMP
 %eng:	Oh, yes she was.
-*GRE:	pawb just@s:cym&eng timod bach yn dan dîn doedd . 520086_522107
+*GRE:	pawb just@s:cym&eng timod bach yn dan din doedd . 520086_522107
 %gls:	everyone just know.2S little PRT under arse be.3S.IMP.NEG
 %eng:	Everyone was a little bit underhanded, weren't they.
 *GWY:	+< oh@s:cym&eng yr [//] a (y)r darlithydd dipyn [?] bach <yn flin> [?] . 521259_523836
@@ -1213,7 +1212,9 @@
 *GWY:	um@s:cym&eng (.) ond (.) ia +/. 609521_611934
 %gls:	IM but yes
 %eng:	Um ... but ... yes ...
-*GRE:	oh@s:cym&eng yeah@s:cym&eng deud (wr)tha fo wneud o xxx pan fydd Mari@s:cym&eng yn cael babi so@s:cym&eng &ge geith hi gwrando arnof fi &=laugh . 611703_618350
+*GRE:	oh@s:cym&eng yeah@s:cym&eng deud (wr)tha fo wneud o xxx pan fydd
+	Mari@s:cym&eng yn cael babi so@s:cym&eng &ge geith hi gwrando arnaf
+	fi &=laugh . 611703_618350
 %gls:	IM yes say.2S.IMPER to.3SM PRON.3SM do.NONFIN PRON.3SM when be.3S.FUT Mari PRT get.NONFIN baby so get.3S.NONPAST PRON.3SF listen.NONFIN on.1S PRON.1S
 %eng:	Oh yes, tell him to do it when Mari has a baby so that she can listen to me!
 *GWY:	oh@s:cym&eng yeah@s:cym&eng &=laugh ! 616051_617061
@@ -4446,8 +4447,8 @@
 %gls:	but there be.1S.PRES PRON.1S PRT think.NONFIN about also
 %eng:	But that's what I'm thinking about as well.
 *GRE:	um@s:cym&eng (..) ydan ni (y)n mynd i newid i euros@s:cym&eng ? 2470238_2473071
-%gls:	IM be.1PL.PRES PRON.1PL PRT go.NONFIN to change.NONFIN to Euros
-%eng:	Um, are we going to change to Euros?
+%gls:	IM be.1PL.PRES PRON.1PL PRT go.NONFIN to change.NONFIN to euros
+%eng:	Um, are we going to change to euros?
 *GWY:	erm@s:cym&eng (.) well@s:cym&eng yeah@s:cym&eng . 2476008_2478528
 %gls:	IM well yes
 %eng:	Erm, well, yes.

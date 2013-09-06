@@ -1,4 +1,4 @@
-@Font:	Win95:Arial Unicode MS:-21:0
+@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1862,7 +1862,9 @@
 %gls:	well be.3S.PRES that PRT one cheap if PRON.2S want
 %eng:	well that's a cheap one if you want...
 *MEC:	achos <dw i> [/] <dw i> [///] (.) &dn [//] (.) <dw i mynd i> [///] <dw i yn defny(ddio)> [//] dw i (we)di &d wneud defnydd +//. 1103321_1107860
-%gls:	because be.1S.PRES PRON.1S be.1S.PRES PRON.1S be.1S.PRES go.NONFIN to be.1S.PRES PRON.1S PRT use.NONFIN be.1S.PRES PRON.1S do.NONFIN use
+%gls:	because be.1S.PRES PRON.1S be.1S.PRES PRON.1S be.1S.PRES
+	PRON.1S go.NONFIN to be.1S.PRES PRON.1S PRT use.NONFIN be.1S.PRES
+	PRON.1S do.NONFIN use
 %eng:	because I..I...I'm going to...I do use...I have made use...
 *MEC:	oedd bike@s:cym&eng dwytha fi (y)n costio drost ddau gan punt . 1107860_1110774
 %gls:	be.3S.IMP bike previous PRON.1S PRT cost.NONFIN over two.M hundred pound
@@ -3688,7 +3690,8 @@
 %gls:	be.3S.IMP IM be.3S.IMP there DET boy here IM there every day through DET day of DET name The_Wizard
 %eng:	um, there was this guy, um, there every day all day called The Wizard
 *LIL:	mae o just@s:cym&eng hen foy@s:cym&eng (we)di gwisgo fyny mewn &n het a clogyn a bob_dim . 2266451_2270886
-%gls:	be.3S.PRES just old boy PRT.PAST wear.NONFIN up in hat and cloak and everything
+%gls:	be.3S.PRES PRON.3S just old boy PRT.PAST wear.NONFIN up in hat and
+	cloak and everything
 %eng:	he's just an old guy dressed up in a hat and a cloak and everything
 *LIL:	mae gynno fo (.) ystol fach mae mynd fyny . 2270886_2273382
 %gls:	be.3S.PRES with.3SM PRON.3SM ladder small be.3S.PRES go.NONFIN up

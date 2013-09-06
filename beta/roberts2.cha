@@ -1,4 +1,3 @@
-@Font:	Win95:Arial Unicode MS:-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1030,7 +1029,8 @@
 %gls:	IM no be.1S.PRES NEG PRT go to nowhere
 %eng:	oh no, I'm not going anywhere
 *ION:	dw i (we)di [?] deud celwyddau (wr)tha chdi mae raid . 596992_598107
-%gls:	be.1S pres PRON.1S PRT.PAST say.NONFIN lies to.2S PRON.2S be.NONFIN necessity
+%gls:	be.1S.PRES PRON.1S PRT.PAST say.NONFIN lies to.2S PRON.2S
+	be.NONFIN necessity
 %eng:	I must have told you lies
 *IRW:	oh@s:cym&eng &=laugh . 598049_599465
 %gls:	IM
@@ -1667,7 +1667,7 @@
 *IRW:	timod y llun (y)na ohona fi (y)n trio mynd ar y Jet_Ski@s:cym&eng (y)na ? 1008755_1011356
 %gls:	know.2S DET picture there of.1S PRON.1S PRT try.NONFIN go.NONFIN on DET Jet_Ski there
 %eng:	you know that picture of me trying to get on that Jet Ski?
-*ION:	+< o:h@s:cym&eng asu dy dîn yn (y)r awyr . 1010822_1013202
+*ION:	+< o:h@s:cym&eng asu dy din yn (y)r awyr . 1010822_1013202
 %gls:	IM Jesus POSS.2S arse in DET air
 %eng:	oh Jesus, your arse in the air
 *IRW:	ia (.) hwnnw . 1013190_1014142
@@ -2409,7 +2409,8 @@
 *IRW:	dydy (ddi)m mor hawdd nac (y)dy . 1521279_1522766
 %gls:	be.3S.PRES.NEG NEG so easy NEG be.3S.PRES
 %eng:	it's not so yeasy, is it
-*ION:	<ond ar_ôl> [?] gweld dy dîn di dw i (ddi)m yn sure@s:cym&eng chwaith &=laugh . 1522766_1526051
+*ION:	<ond ar_ôl> [?] gweld dy din di dw i (ddi)m yn sure@s:cym&eng
+	chwaith &=laugh . 1522766_1526051
 %gls:	but after see.NONFIN POSS.2S arse PRON.2S be.1S.PRES PRON.1S NEG PRT sure either
 %eng:	but after seeing your arse, I'm not so sure either
 *IRW:	+< ond xxx +//. 1523323_1523718
