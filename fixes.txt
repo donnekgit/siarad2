@@ -1,4 +1,12 @@
-In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV".
+In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV". Also "throw_a_tantrum".
+
+Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i" and "o'n ni" by "o(edde)n ni".
+
+Manual gloss: systematically replace PRT.PAST by PRT.PERF; also needs replacing in conventions file.
+
+? Add "elwch" 'merriment' to autoglosser dictionary - or change gloss for davies9, 379 manually?
+
+
 
 
 
