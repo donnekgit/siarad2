@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -2784,9 +2783,10 @@
 %gls:	but when be.3S.IMP PRON.3SM PRT say.NONFIN PRON.3SF today be.1S.IMP PRON.1S can.NONFIN
 %eng:	but when he was saying it today, I could...
 *ANG:	+< xxx . 1358219_1364674
-*MEN:	+< oh@s:cym&eng lle mae hi Angharad@s:cym&eng yr bible@s:cym&eng (y)na ? 1362317_1364024
-%gls:	IM where be.3S.PRES PRON.3SF Angharad DET bible there
-%eng:	oh where is it, Angharad, that bible?
+*MEN:	+< oh@s:cym&eng lle mae hi Angharad@s:cym&eng yr Bible@s:cym&eng
+	(y)na ? 1362317_1364024
+%gls:	IM where be.3S.PRES PRON.3SF Angharad DET Bible there
+%eng:	oh where is it, Angharad, that Bible?
 *MEN:	+< dw i (we)di anghofio wan . 1363977_1364709
 %gls:	be.1S.PRES PRON.1S PRT.PAST forget.NONFIN now
 %eng:	I've forgotten now
@@ -2800,9 +2800,9 @@
 *ANG:	oh@s:cym&eng na dim psalm@s:cym&eng (y)dy hwnna . 1368250_1369724
 %gls:	IM no NEG psalm be.3S.PRES that
 %eng:	oh no, that's not a psalm
-*MEN:	naci yn lle (y)n y bible@s:cym&eng mae ? 1369724_1371245
-%gls:	no in where in DET bible be.3S.PRES
-%eng:	no, where in the bible is it?
+*MEN:	naci yn lle (y)n y Bible@s:cym&eng mae ? 1369724_1371245
+%gls:	no in where in DET Bible be.3S.PRES
+%eng:	no, where in the Bible is it?
 *MEN:	mae (y)n ymyl (.) er@s:cym&eng +/. 1371245_1372836
 %gls:	be.3S.PRES PRT side IM
 %eng:	it's by, er...
@@ -4314,15 +4314,16 @@
 *BRE:	deudwch bod chi isio gwneud cardyn (.) pen_blwydd (..) xxx felly [?] . 2131103_2135085
 %gls:	say.2PL.IMPER be.NONFIN PRON.2PL want do.NONFIN card birthday xxx thus
 %eng:	say you wanted to make a birthday card [...] like that
-*MEN:	+< oh@s:cym&eng fath â clip_art@s:cym&eng . 2133576_2134760
-%gls:	IM kind with clip_art
-%eng:	oh, like clip-art
+*MEN:	+< oh@s:cym&eng fath â clip@s:eng art@s:eng . 2133576_2134760
+%gls:	IM kind with clip art
+%eng:	oh, like clip art
 *BRE:	ia . 2135085_2135492
 %gls:	yes
 %eng:	yes
-*MEN:	yeah@s:cym&eng (ba)swn i licio cael er@s:cym&eng clip_art@s:cym&eng . 2135492_2138255
-%gls:	yeah be.1S.CONDIT PRON.1S like.NONFIN get.NONFIN IM clip_art
-%eng:	yeah, I'd like to have, er, clip-art
+*MEN:	yeah@s:cym&eng (ba)swn i licio cael er@s:cym&eng
+	clip@s:eng art@s:eng . 2135492_2138255
+%gls:	yeah be.1S.CONDIT PRON.1S like.NONFIN get.NONFIN IM clip art
+%eng:	yeah, I'd like to have, er, clip art
 *BRE:	<mae (y)na> [///] mi [/] mi &g gafodd o rei i rei . 2137256_2139694
 %gls:	be.3S.PRES there PRT PRT get.3S.PAST PRON.3SM some for some
 %eng:	there are...he got some for some
@@ -6771,7 +6772,7 @@
 *BRE:	oedd sure@s:cym&eng . 3346507_3347006
 %gls:	be.3S.IMP sure
 %eng:	yes, of course
-*ANG:	a mi oedd hi (we)di mynd i ditso i Penmachno@s:cym&eng . 3347006_3348899
+*ANG:	a mi oedd hi (we)di mynd i ditsio i Penmachno@s:cym&eng . 3347006_3348899
 %gls:	and PRT be.3S.IMP PRON.3SF PRT.PAST go.NONFIN to teach.NONFIN to Penmachno
 %eng:	and she'd started teaching at Penmachno
 *BRE:	mmm@s:cym&eng . 3348899_3349352

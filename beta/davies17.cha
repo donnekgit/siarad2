@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -379,9 +378,11 @@
 *ROB:	mmm@s:cym&eng . 276679_277073
 %gls:	IM
 %eng:	mm
-*GLA:	um@s:cym&eng um@s:cym&eng [=? a] doedd o ddim yn licio (y)r eglwys um@s:cym&eng anglicanaidd . 277073_281648
-%gls:	IM IM be.3S.IMP.NEG PRON.3SM NEG PRT like.NONFIN DET church IM anglican
-%eng:	um, um, he didn't like the, um, anglican church
+*GLA:	um@s:cym&eng um@s:cym&eng [=? a] doedd o ddim yn licio (y)r eglwys
+	um@s:cym&eng Anglicanaidd . 277073_281648
+%gls:	IM IM be.3S.IMP.NEG PRON.3SM NEG PRT like.NONFIN DET church IM
+	Anglican
+%eng:	um, um, he didn't like the, um, Anglican church
 *ROB:	+< mmm@s:cym&eng . 280696_281067
 %gls:	IM
 %eng:	mm
@@ -430,8 +431,11 @@
 *ROB:	+< ond dw [/] dw i (ddi)m yn cofio dim_byd fel (yn)a . 319461_320808
 %gls:	but be.1S.PRES be.1S.PRES PRON.1S NEG PRT remember.NONFIN nothing like there
 %eng:	but I...I don't remember anything like that
-*ROB:	ond (.) ar ddeud hynny <oedd o> [//] &ɔ [/] dw i (y)n cofio fel hogyn bach oedd (y)na (.) ambell i gapel cymraeg (.) yn Lerpwl . 320808_327739
-%gls:	but on say.NONFIN that be.3S.IMP PRON.3SM be.1S.PRES PRON.1S PRT remember.NONFIN like boy small be.3S.IMP there some to chapel welsh in Liverpool
+*ROB:	ond (.) ar ddeud hynny <oedd o> [//] &ɔ [/] dw i (y)n cofio fel
+	hogyn bach oedd (y)na (.) ambell i gapel Cymraeg (.) yn Lerpwl . 320808_327739
+%gls:	but on say.NONFIN that be.3S.IMP PRON.3SM be.1S.PRES PRON.1S PRT
+	remember.NONFIN like boy small be.3S.IMP there some to chapel Welsh
+	in Liverpool
 %eng:	but saying that, it was...I remember as a young lad there were a few Welsh chapels in Liverpool
 *GLA:	oh@s:cym&eng right@s:cym&eng . 327739_328842
 %gls:	IM right
@@ -565,8 +569,12 @@
 *ROB:	mae (we)di siarad Cymraeg adre (.) drwy gydol ei oes (.) timod ac yn yr ysgol hefyd . 439799_445487
 %gls:	be.3S.PRES PRT.PAST speak.NONFIN Welsh home through whole POSS.3S life know.2S and in DET school also
 %eng:	he's spoken Welsh at home all his life, you know, and at school too
-*ROB:	a dim ond mewn gwersi Saesneg neu wrth siarad efo Saeson <maen nhw (y)n> [//] (.) mae [/] mae (.) lot@s:cym&eng o Gymry cymraeg yn siarad Saesneg . 445487_452767
-%gls:	and NEG but in lessons English or by speak.NONFIN with English_people be.3PL.PRES PRON.3PL PRT be.3S.PRES be.3S.PRES lot of Welsh_people welsh PRT speak.NONFIN English
+*ROB:	a dim ond mewn gwersi Saesneg neu wrth siarad efo Saeson <maen nhw
+	(y)n> [//] (.) mae [/] mae (.) lot@s:cym&eng o Gymry Cymraeg yn
+	siarad Saesneg . 445487_452767
+%gls:	and NEG but in lessons English or by speak.NONFIN with
+	English_people be.3PL.PRES PRON.3PL PRT be.3S.PRES be.3S.PRES lot of
+	Welsh_people Welsh PRT speak.NONFIN English
 %eng:	and only in English lessons or when speaking with English people that they...that a lot of Welsh speakers speak English
 *GLA:	mmm@s:cym&eng . 452767_453208
 %gls:	IM
@@ -675,8 +683,10 @@
 *GLA:	yeah@s:cym&eng (.) a finnau . 535098_536339
 %gls:	yeah and PRON.1S
 %eng:	yeah, me too
-*ROB:	+, <oh@s:cym&eng na> [?] lle &d tydy Cymry cym(raeg) [/] cymraeg ddim yn poeni <am y> [/] am y math yna o beth . 535386_539032
-%gls:	IM no where be.3S.PRES.NEG Welsh_people welsh welsh NEG PRT worry.NONFIN about DET about DET kind there of thing
+*ROB:	+, <oh@s:cym&eng na> [?] lle &d tydy Cymry Cym(raeg) [/] Cymraeg
+	ddim yn poeni <am y> [/] am y math yna o beth . 535386_539032
+%gls:	IM no where be.3S.PRES.NEG Welsh_people Welsh Welsh NEG PRT
+	worry.NONFIN about DET about DET kind there of thing
 %eng:	oh no, where Welsh speakers don't worry about that kind of thing
 *GLA:	+< mmm@s:cym&eng . 536756_537221
 %gls:	IM
@@ -853,8 +863,11 @@
 *GLA:	mmm@s:cym&eng yeah@s:cym&eng . 692404_693426
 %gls:	IM yeah
 %eng:	mm, yeah
-*ROB:	+, sy (y)n Gymry cymraeg pur ond [/] ond just@s:cym&eng heb meddwl yn defnyddio geiriau Saesneg (.) lle dw i wastad yn meddwl +"/. 693182_698685
-%gls:	be.PRES.REL PRT Welsh_people welsh pure but but just without think.NONFIN PRT use.NONFIN words English where be.1S.PRES PRON.1S always PRT think.NONFIN
+*ROB:	+, sy (y)n Gymry Cymraeg pur ond [/] ond just@s:cym&eng heb meddwl
+	yn defnyddio geiriau Saesneg (.) lle dw i wastad yn meddwl +"/. 693182_698685
+%gls:	be.PRES.REL PRT Welsh_people Welsh pure but but just without
+	think.NONFIN PRT use.NONFIN words English where be.1S.PRES PRON.1S
+	always PRT think.NONFIN
 %eng:	who are pure Welsh speakers, but...but, just who use English words without thinking, where I always think:
 *ROB:	+" oh@s:cym&eng na dw i (we)di methu fan (y)na . 698685_700032
 %gls:	IM no be.1S.PRES PRON.1S PRT.PAST fail.NONFIN place there
@@ -2022,7 +2035,9 @@
 %eng:	so...
 *ROB:	&s dyna un peth sy (y)n dda am [/] am y gynulleidfa (.) um@s:cym&eng babyddol ym Mangor@s:cym&eng &s ydy <bod o (y)n> [/] bod o (y)n eitha iach o ran hynny xxx (.) dipyn o gymysgedd o ran oedran a ballu . 1537901_1547712
 %gls:	there one thing be.PRES.REL PRT good about about DET audience IM papist in Bangor be.3S.PRES be.NONFIN PRON.3SM PRT be.NONFIN PRON.3SM PRT quite healthy of part that xxx a_little of mixture of part age and such
-%eng:	that's one thing that's good about...about the um, catholic congregation in Bangor, is that it's...that it's quite healthy in those terms [...] quite a mixture in terms of age and so on
+%eng:	that's one thing that's good about...about the um, Catholic
+	congregation in Bangor, is that it's...that it's quite healthy in
+	those terms [...] quite a mixture in terms of age and so on
 *GLA:	+< mmm@s:cym&eng . 1546690_1547236
 %gls:	IM
 %eng:	mm
@@ -2163,7 +2178,8 @@
 %eng:	as I say, Bangor is a different situation for some reason
 *ROB:	ond eto mae gyn ti (.) plwy right@s:cym&eng mawr yn fan (y)na (y)n_does (.) <o &r> [/] o ran yn plwy (.) pabyddol ni (fe)lly . 1673489_1680467
 %gls:	but yet be.3S.PRES with PRON.2S parish right big in place there be.3S.PRES.NEG of of part POSS.1PL parish papist PRON.1PL thus
-%eng:	yet, you've got quite a big parish there, haven't you, in terms of our catholic parish, like
+%eng:	yet, you've got quite a big parish there, haven't you, in terms of
+	our Catholic parish, like
 *GLA:	+< mmm@s:cym&eng . 1676577_1677170
 %gls:	IM
 %eng:	mm
@@ -2185,9 +2201,15 @@
 *GLA:	<mae (y)n> [/] mae (y)n odd@s:cym&eng iawn . 1693772_1694910
 %gls:	be.3S.PRES PRT be.3S.PRES PRT odd very
 %eng:	it's...it's very strange
-*GLA:	um@s:cym&eng (.) <fyddech chi> [/] (.) fyddech chi (y)n (.) disgwyl mwy <o &b> [/] o [/] (.) <o (.) um@s:cym&eng> [/] (.) o um@s:cym&eng (.) catholigwyr yn [/] <yn (.) er@s:cym&eng> [/] (.) yn Lerpwl (.) na [/] (.) nac yn [/] (.) ym Mangor@s:cym&eng . 1694910_1707560
-%gls:	IM be.2PL.CONDIT PRON.2PL be.2PL.CONDIT PRON.2PL PRT expect.NONFIN more of of of IM of IM catholics in in IM in Liverpool PRT PRT in in Bangor
-%eng:	um, you'd...you'd expect more, um, um, catholics in...in er...in Liverpool than...than in...in Bangor
+*GLA:	um@s:cym&eng (.) <fyddech chi> [/] (.) fyddech chi (y)n (.) disgwyl
+	mwy <o &b> [/] o [/] (.) <o (.) um@s:cym&eng> [/] (.) o um@s:cym&eng
+	(.) Catholigwyr yn [/] <yn (.) er@s:cym&eng> [/] (.) yn Lerpwl (.)
+	na [/] (.) nac yn [/] (.) ym Mangor@s:cym&eng . 1694910_1707560
+%gls:	IM be.2PL.CONDIT PRON.2PL be.2PL.CONDIT PRON.2PL PRT expect.NONFIN
+	more of of of IM of IM Catholics in in IM in Liverpool PRT PRT in in
+	Bangor
+%eng:	um, you'd...you'd expect more, um, um, Catholics in...in er...in
+	Liverpool than...than in...in Bangor
 *ROB:	+< a mae (y)na ysgol hefyd (.) sy [/] sy (y)n +... 1695941_1698158
 %gls:	and be.3S.PRES there school also be.PRES.REL be.PRES.REL PRT
 %eng:	and there's a school too that...that's...
@@ -2238,7 +2260,8 @@
 %eng:	but that doesn't...doesn't happen by now, you know
 *ROB:	mae [/] <mae (y)n> [//] (.) mae xxx dal yn (.) ysgol babyddol (.) ond bod (y)na ddim (.) disgwyliadau (y)n [/] yn ran o hynny (.) dim mwy erbyn hyn <sy (y)n> [/] (.) sy (y)n odd@s:cym&eng braidd . 1754535_1763707
 %gls:	be.3S.PRES be.3S.PRES PRT be.3S.PRES xxx still PRT school papist but be.NONFIN there NEG expectations PRT PRT part of that NEG more by this be.PRES.REL PRT be.PRES.REL PRT odd rather
-%eng:	it's still a catholic school but that there are no expectations part of that any more by now, which is...which is a bit odd
+%eng:	it's still a Catholic school but that there are no expectations part
+	of that any more by now, which is...which is a bit odd
 *GLA:	+< mmm@s:cym&eng right@s:cym&eng . 1760630_1761722
 %gls:	IM right
 %eng:	IM right

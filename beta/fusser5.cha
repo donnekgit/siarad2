@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -856,7 +855,7 @@
 *DYF:	(be)cause@s:eng be wna i (y)dy wneud (.) tua [//] swp o bosteri (.) i fynd efo (y)r (.) c_ds@s:eng . 663503_669758
 %gls:	because what do.1S.NONPAST PRON.1S be.3S.PRES make.NONFIN about batch of posters to go.NONFIN with DET c_ds
 %eng:	because what I'll do is make about... a batch of posters to go with the CDs.
-*ENA:	+< ++ <y c_c@s:cym&eng> [?] . 668600_669500
+*ENA:	+< ++ <y c_d@s:cym&eng> [?] . 668600_669500
 %gls:	DET c_d
 %eng:	...the CD.
 *DYF:	so@s:cym&eng (.) poster@s:cym&eng yn y pen [?] y shop@s:cym&eng a wedyn timod [?] +... 669898_673972
@@ -2362,8 +2361,10 @@
 *DYF:	+, i: [/] (..) i hi hun . 1705297_1707654
 %gls:	for for PRON.3SF self
 %eng:	...for herself.
-*DYF:	a wedyn maen nhw (y)n gorod gwario deuddeg cant ar fflio ryw gitarydd@s:eng <drosor o> [/] drosodd o America@s:cym&eng . 1707631_1713112
-%gls:	and then be.3PL.PRES PRON.3PL PRT must.NONFIN spend.NONFIN twelve hundred on fly.NONFIN some guitarist over from over from America
+*DYF:	a wedyn maen nhw (y)n gorod gwario deuddeg cant ar fflio ryw
+	gitarydd@s:eng <&drosor o> [/] drosodd o America@s:cym&eng . 1707631_1713112
+%gls:	and then be.3PL.PRES PRON.3PL PRT must.NONFIN spend.NONFIN twelve
+	hundred on fly.NONFIN some guitarist from over from America
 %eng:	and then they've got to spend £1200 on flying some guitarist over from America.
 *DYF:	a dw (ddi)m yn dallt hynny . 1713914_1715214
 %gls:	and be.1S.PRES NEG PRT understand.NONFIN that
@@ -2384,7 +2385,7 @@
 *GWE:	club@s:cym&eng rugby@s:cym&eng . 1726104_1726870
 %gls:	club rugby
 %eng:	the rugby club.
-*DYF:	yn y clwb@s:cym&eng rugby@s:cym&eng efo (y)r tinsel@s:cym&eng (...) i_gyd . 1726824_1730713
+*DYF:	yn y clwb rugby@s:cym&eng efo (y)r tinsel@s:cym&eng (...) i_gyd . 1726824_1730713
 %gls:	in DET club rugby with DET tinsel all
 %eng:	at the rugby club, with all the tinsel.
 *ENA:	+< oh@s:cym&eng right@s:cym&eng ! 1727079_1727625

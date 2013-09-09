@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -2009,7 +2008,8 @@
 *MEI:	so@s:cym&eng (.) mewn ffordd (fa)set ti (y)n gallu dweud +"/. 1431028_1432466
 %gls:	so in way be.2S.CONDIT PRON.2S PRT can.NONFIN say.NONFIN
 %eng:	so in a way you could say.
-*MEI:	+" oh@s:cym&eng yeah@s:cym&eng dw i gallu bwyta chocolates@s:cym&eng i_gyd timod . 1432447_1434507
+*MEI:	+" oh@s:cym&eng yeah@s:cym&eng dw i gallu bwyta chocolates@s:eng
+	i_gyd timod . 1432447_1434507
 %gls:	IM yeah be.1S.PRES PRON.1S can.NONFIN eat.NONFIN chocolates all know.2S
 %eng:	"oh yeah, I can eat all the chocolates, you know" .
 *MEI:	+" <dw i (ddi)m yn roi> [?] +/. 1434293_1434722
@@ -2034,7 +2034,7 @@
 %gls:	PRON.3SM PRT say.NONFIN
 %eng:	he says.
 *MEI:	+" [- eng] hang on . 1446326_1446964
-*MEI:	+" are@s:eng you@s:eng eating@s:eng a@s:eng lot@s:cym&eng of@s:eng chocolates@s:cym&eng . 1447558_1449176
+*MEI:	+" are@s:eng you@s:eng eating@s:eng a@s:eng lot@s:cym&eng of@s:eng chocolates@s:eng . 1447558_1449176
 *MEI:	a wnes i ddweud +"/. 1449073_1449576
 %gls:	and do.1S.PAST PRON.1S say.NONFIN
 %eng:	and I said.
@@ -2052,7 +2052,8 @@
 %eng:	I liked it, though.
 *JAM:	+< &=hiss . 1458075_1459114
 *MEI:	xxx nice@s:cym&eng . 1458261_1459364
-*JAM:	well@s:cym&eng raid fod yn honest@s:cym&eng nag w i (y)n bwyta lot@s:cym&eng o chocolate@s:cym&eng <trwy adeg> [?] . 1459481_1462725
+*JAM:	well@s:cym&eng raid fod yn honest@s:cym&eng nag w i (y)n bwyta
+	lot@s:cym&eng o chocolate@s:cym&eng <trwy adeg> [?] . 1459481_1462725
 %gls:	well necessity be.NONFIN PRT honest NEG be.1S.PRES PRON.1S PRT eat.NONFIN lot of chocolate through period
 %eng:	well, must be honest, I don't eat a lot of chocolate all the time.
 *MEI:	+< na o'n i (y)n sylwi ar hynna . 1461755_1462783
@@ -2159,7 +2160,7 @@
 *JAM:	timod fel (..) fi (ddi)m (gwy)bod be ych chi (y)n wneud am Nadolig . 1522978_1525217
 %gls:	know.2S like PRON.1S NEG know.NONFIN what be.2PL.PRES PRON.2PL PRT do.NONFIN for Christmas
 %eng:	you know, like, I don't know what you do for Christmas.
-*JAM:	ond (.) ar er@s:cym&eng er@s:cym&eng timod (.) run_up@s:eng i Nadolig tua mis cyn mae Mam@s:cym&eng yn prynu box@s:cym&eng o chocolates@s:cym&eng fan hyn box@s:cym&eng o (.) mint@s:cym&eng chocolates@s:cym&eng fan (y)na a timod [//] (.) neu um@s:cym&eng (..) box@s:cym&eng o cashew@s:eng nuts@s:eng (.) neu [?] pethau fel (yn)a . 1525078_1539376
+*JAM:	ond (.) ar er@s:cym&eng er@s:cym&eng timod (.) run_up@s:eng i Nadolig tua mis cyn mae Mam@s:cym&eng yn prynu box@s:cym&eng o chocolates@s:eng fan hyn box@s:cym&eng o (.) mint@s:cym&eng chocolates@s:cym&eng fan (y)na a timod [//] (.) neu um@s:cym&eng (..) box@s:cym&eng o cashew@s:eng nuts@s:eng (.) neu [?] pethau fel (yn)a . 1525078_1539376
 %gls:	but on IM IM know.2S run_up to Christmas about month before be.3S.PRES Mam PRT buy.NONFIN box of chocolates place here box of mint chocolates place there and know.2S or IM box of cashew nuts or something like there
 %eng:	but on, you know, [the] run-up to Christmas, about a month before, Mam buys a box of chocolates here, a box of mint chocolates there, or a box of cashew nuts or things like that.
 *JAM:	a wedyn [=! laugh] ni (y)n cael nhw (.) timod (.) dros y tŷ amser Nadolig . 1539543_1542639

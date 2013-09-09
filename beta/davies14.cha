@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1332,13 +1331,13 @@
 *GWA:	well@s:cym&eng ti gwybod . 758662_759219
 %gls:	well PRON.2S know.NONFIN
 %eng:	well, you know.
-*GWA:	mae o bob amser “a_ha@s:cym&eng” . 759103_760247
-%gls:	be.3S.PRES PRON.3SM every time a_ha
-%eng:	he's always "a-ha"!
+*GWA:	mae o bob amser “aha@s:cym&eng” . 759103_760247
+%gls:	be.3S.PRES PRON.3SM every time aha
+%eng:	he's always "aha"!
 *GWA:	na &=laugh mae [=! laugh] hynna (y)n wir . 760343_761919
 %gls:	no be.3S.PRES that PRT true
 %eng:	no, that's true.
-*FRE:	+, a_ha@s:cym&eng . 760427_760938
+*FRE:	+, aha@s:cym&eng . 760427_760938
 *FRE:	well@s:cym&eng er@s:cym&eng (.) tua &p [//] mis yn_ôl oedd o yn cael gair efo (y)r esgob . 761963_766685
 %gls:	well IM about month back be.3S.IMP PRON.3SM PRT get.NONFIN word with DET bishop
 %eng:	well, about a month ago he was having a word with the bishop.
@@ -1852,7 +1851,8 @@
 *FRE:	gwneud eich hun yn iawn eto . 1123975_1125542
 %gls:	do.NONFIN POSS.2PL self PRT fine again
 %eng:	make yourself alright again.
-*GWA:	oh@s:cym&eng dw i (we)di cael antiobitic@s:cym&eng ers dydd Gwener dwytha . 1125428_1127696
+*GWA:	oh@s:cym&eng dw i (we)di cael antibiotic@s:cym&eng ers dydd Gwener
+	dwytha . 1125428_1127696
 %gls:	IM be.1S.PRES PRON.1S PRT.PAST get.NONFIN antibiotic since day Friday last
 %eng:	oh, I've had antibiotics since last Friday.
 *GWA:	ond um@s:cym&eng (.) (dy)dy o (ddi)m fel bod o (y)n gwella o_gwbl . 1127601_1130244

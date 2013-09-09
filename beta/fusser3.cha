@@ -1,4 +1,3 @@
-@Font:	Win95::-13:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1340,7 +1339,8 @@
 *BEC:	(dy)dyn nhw (ddi)m yn +//. 1039251_1040133
 %gls:	be.3PL.PRES.NEG PRON.3PL NEG PRT
 %eng:	they're not...
-*BEC:	oh@s:cym&eng silicon@s:cym&eng maen nhw fath â hen bleugh@s:cym&eng fel (yn)a i_gyd yn canol nappies@s:eng . 1040122_1043303
+*BEC:	oh@s:cym&eng silicon@s:cym&eng maen nhw fath â hen bleugh@s:cym&eng
+	fel (yn)a i_gyd yn canol nappies@s:eng . 1040122_1043303
 %gls:	IM silicon be.3PL.PRES PRON.3PL kind with old bleugh old like there all in middle nappies
 %eng:	oh silicon, they're like old bleugh like that in the middle of nappies
 *ALY:	oh@s:cym&eng . 1043297_1045132
@@ -2151,7 +2151,7 @@
 %gls:	NEG NEG seagull
 %eng:	not, not a seagull?
 *BEC:	&dɔl &vi +//. 1540903_1541437
-*ALY:	crechi [?] yeah@s:cym&eng ? 1541425_1542714
+*ALY:	crechy(dd) [?] yeah@s:cym&eng ? 1541425_1542714
 %gls:	heron yeah
 %eng:	heron yeah?
 *ALY:	&g &gəvɪ um@s:cym&eng heron@s:eng . 1542702_1544897
@@ -2170,9 +2170,9 @@
 *BEC:	heron@s:eng yeah@s:cym&eng [?] ? 1549065_1549935
 %gls:	heron yeah
 %eng:	heron yeah?
-*ALY:	crechi yw e yeah@s:cym&eng . 1549552_1551085
+*ALY:	crechy(dd) yw e yeah@s:cym&eng . 1549552_1551085
 %gls:	heron be.3S.PRES PRON.3SM yeah
-%eng:	it's "crechi" yeah
+%eng:	it's "crechydd" yeah
 *BEC:	dw i (ddi)m yn meddwl bod ni (y)n galw nhw (y)n hynna . 1551073_1552861
 %gls:	be.1S.PRES PRON.1S NEG PRT think.NONFIN be.NONFIN PRON.1PL PRT call.NONFIN PRON.3PL PRT that
 %eng:	I don't think we call them that
