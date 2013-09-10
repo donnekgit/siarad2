@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -113,9 +112,15 @@
 *MAT:	mmm@s:cym&eng . 51584_51899
 %gls:	IM
 %eng:	mmm
-*STE:	(fa)th â (..) amser yma blwyddyn dwytha oedd <rywun yn deud ar [/] ar um@s:cym&eng> [//] person@s:cym&eng tywydd yn deud um@s:cym&eng (.) oedd hi (y)n ugain gradd celsius@s:cym&eng yn [/] yn Llundain o leia . 51632_60781
-%gls:	kind DET time.NONFIN this year last be.3S.IMP someone PRT say.NONFIN on on IM person weather PRT say.NONFIN IM be.3S.IMP PRON.3SF PRT twenty degree celsius in in London of least
-%eng:	like this time last year someone was saying um...the weather person was saying um, it was twenty degrees celsius in London at least
+*STE:	(fa)th â (..) amser yma blwyddyn dwytha oedd <rywun yn deud ar [/]
+	ar um@s:cym&eng> [//] person@s:cym&eng tywydd yn deud um@s:cym&eng
+	(.) oedd hi (y)n ugain gradd Celsius@s:cym&eng yn [/] yn Llundain o
+	leia . 51632_60781
+%gls:	kind DET time.NONFIN this year last be.3S.IMP someone PRT say.NONFIN
+	on on IM person weather PRT say.NONFIN IM be.3S.IMP PRON.3SF PRT
+	twenty degree Celsius in in London of least
+%eng:	like this time last year someone was saying um...the weather person
+	was saying um, it was twenty degrees Celsius in London at least
 *STE:	oedd hi (y)n gynnes timod . 60733_61778
 %gls:	be.3S.IMP PRON.3SF PRT warm know.2S
 %eng:	it was warm you know
@@ -169,7 +174,7 @@
 *MAT:	y chwarel . 104719_106089
 %gls:	DET quarry
 %eng:	the quarry
-*MAT:	hen braich a chwrael lôn (fe)lly . 106063_108014
+*MAT:	hen braich a chwarel lôn (fe)lly . 106063_108014
 %gls:	old arm and quarry road thus
 %eng:	old ridge and road quarry like
 %com:	these may in fact be names of quarries, but uncertain
@@ -721,8 +726,10 @@
 *STE:	xxx nôl tâp ar_gyfer yr (.) camera@s:cym&eng video@s:cym&eng . 521798_525142
 %gls:	xxx fetch.NONFIN tape for DET camera video
 %eng:	[...] get a tape for the video camera
-*LOR:	dyna be ydy o achos mae (y)n (.) deu fis wan dydy ers iddyn nhw gychwyn [=! laughs] ar y gwaith . 525112_528944
-%gls:	there what be.3S.PRES PRON.3SM because be.3S.PRES PRT two.M month now be.3S.PRES.NEG since to.3PL PRON.3PL start.NONFIN on DET work
+*LOR:	dyna be ydy o achos mae (y)n (.) deu_fis wan dydy ers iddyn nhw
+	gychwyn [=! laughs] ar y gwaith . 525112_528944
+%gls:	there what be.3S.PRES PRON.3SM because be.3S.PRES PRT two_months
+	now be.3S.PRES.NEG since to.3PL PRON.3PL start.NONFIN on DET work
 %eng:	that's what it is, because it's two months now since they started on the work, isn't it
 *LOR:	dan ni dal heb fod fyny efo camera@s:cym&eng video@s:cym&eng . 528920_531958
 %gls:	be.1PL.PRES PRON.1PL still without be.NONFIN up with camera video
@@ -749,8 +756,8 @@
 *LOR:	(a)chos mewn ryw ffordd efo (y)r (.) camera@s:cym&eng video@s:cym&eng well@s:cym&eng (fa)sen ni (y)n gallu deud +"/. 542930_546389
 %gls:	because in some way with DET camera video well be.1PL.CONDIT PRON.1PL PRT can.NONFIN say.NONFIN
 %eng:	because in some way with the video camera well we could say:
-*LOR:	+" o_k@s:cym&eng dan ni (y)n mynd yna bob deu fis . 546419_547661
-%gls:	o_k be.1PL.PRES PRON.1PL PRT go.NONFIN there every two.M month
+*LOR:	+" o_k@s:cym&eng dan ni (y)n mynd yna bob deu_fis . 546419_547661
+%gls:	o_k be.1PL.PRES PRON.1PL PRT go.NONFIN there every two_months
 %eng:	ok we go there every two months
 *LOR:	<os (y)na> [?] ddigon o luniau (.) in_between@s:eng hefyd . 547649_550033
 %gls:	if there enough of pictures in_between also
@@ -905,7 +912,12 @@
 %gls:	and for more of tests
 %eng:	and for more tests
 *STE:	<a (we)dyn> [///] ond dw i meddwl be maen nhw isio wneud ydy gweld (..) um@s:cym&eng os o [?] digon cry (..) er_mwyn &gw [//] penderfynu pa fath o driniaeth mae (y)n mynd i dderbyn os (y)dy o mynd i cael (.) surgery@s:cym&eng neu (.) chemo@s:cym&eng cyfuniad o (y)r ddau neu radiotherapy@s:cym&eng a ballu . 655976_672196
-%gls:	and then but be.1S.PRES PRON.1S think.NONFIN what be.3PL.PRES PRON.3PL want do.NONFIN be.3S.PRES see.NONFIN IM if PRON.3SM enough strong for decide.NONFIN which kind of treatment be.3S.PRES PRT go.NONFIN to recieve.NONFIN if be.3S.PRES PRON.3SM go.NONFIN to get.NONFIN surgery or chemocombination of DET two.M or radiotherapy and such
+%gls:	and then but be.1S.PRES PRON.1S think.NONFIN what be.3PL.PRES
+	PRON.3PL want do.NONFIN be.3S.PRES see.NONFIN IM if PRON.3SM enough
+	strong for decide.NONFIN which kind of treatment be.3S.PRES PRT
+	go.NONFIN to recieve.NONFIN if be.3S.PRES PRON.3SM go.NONFIN to
+	get.NONFIN surgery or chemo combination of DET two.M or radiotherapy
+	and such
 %eng:	and then...but I think what they want to do is see um if he's strong enough in order to decide which treatment he's going to recieve, if he's going to have surgery or chemo a combination of the two or radiotherapy and so on
 *MAT:	+< mmm@s:cym&eng mmm@s:cym&eng &=coughs . 667865_671232
 %gls:	IM IM
@@ -1317,7 +1329,8 @@
 *LOR:	er cofia di <mi oedd gynnon ni un bach o> [///] dw i (y)n cofio pan oeddan ni (y)n arfer mynd (.) ffwrdd efo (.) squad@s:cym&eng Cymru . 998006_1004162
 %gls:	although remember.2S.IMPER PRON.2S PRT be.3S.IMP with.1PL PRON.1PL one small of be.1S.PRES PRON.1S PRT remember.NONFIN when be.1PL.IMP PRON.1PL PRT use.NONFIN go.NONFIN away with squad Wales
 %eng:	mind you, we had a small one...I remember when we used to go away with the Wales squad
-*LOR:	mi oedd gynnon ni bach o obsession@s:cym&eng am (.) bigo arwyddion ffordd a ryw bethe bach gwirion . 1004139_1008880
+*LOR:	mi oedd gynnon ni bach o obsession@s:cym&eng am (.) bigo arwyddion
+	ffordd a ryw bethau bach gwirion . 1004139_1008880
 %gls:	PRT be.3S.IMP with.1PL PRON.1PL small of obsesion for pick.NONFIN signs road and some things small silly
 %eng:	we had a little bit of an obsesion with picking road signs and some little daft things
 *STE:	mmm@s:cym&eng . 1008857_1009693
@@ -2008,7 +2021,7 @@
 *LOR:	timod a rhannu fo felly . 1654396_1655708
 %gls:	know.2S and divide.NONFIN PRON.3SM thus
 %eng:	you know and split it up like that
-*LOR:	timod <ac oedd um@s:cym&eng> [//] yn cyfarfod dwytha oedd Noel@s:cym&eng (we)di cynnig (.) y dylai ni (.) um@s:cym&eng (..) <gael rywun> [//] gofyn wrth rywun wneud o (y)n broffesiynnol (fe)lly . 1655703_1666259
+*LOR:	timod <ac oedd um@s:cym&eng> [//] yn cyfarfod dwytha oedd Noel@s:cym&eng (we)di cynnig (.) y dylai ni (.) um@s:cym&eng (..) <gael rywun> [//] gofyn wrth rywun wneud o (y)n broffesiynol (fe)lly . 1655703_1666259
 %gls:	know.2S and be.3S.IMP IM in meeting last be.3S.IMP Noel PRT.PAST offer.NONFIN PRT should.1PL.CONDIT PRON.1PL IM get.NONFIN someone ask.NONFIN to someone do.NONFIN PRON.3SM PRT professional thus
 %eng:	you know and um in the the last meeting Noel proposed that we should um get someone...ask someone to do it professionally
 *MAT:	+< &=coughs . 1656367_1657493

@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -15,7 +14,10 @@
 @Media:	fusser27, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 *MAB:	xxx well@s:cym&eng [?] +/. 25_1033
-*LIS:	+< well@s:cym&eng dywedodd Dad@s:cym&eng pan oedd e (y)n um@s:cym&eng (.) Singapore@s:cym&eng neu rhywle (wn)aethon [?] nhw ffindio fel coryn (.) timod (.) size@s:cym&eng pêl (.) yn cwpwrdd o . 592_8394
+*LIS:	+< well@s:cym&eng dywedodd Dad@s:cym&eng pan oedd e (y)n
+	um@s:cym&eng (.) Singapore@s:cym&eng neu rhywle (wn)aethon [?] nhw
+	ffindio fel corryn (.) timod (.) size@s:cym&eng pêl (.) yn cwpwrdd o
+	. 592_8394
 %gls:	well say.3S.PAST Dad when be.3S.IMP PRON.3SM in IM Singapore or somewhere do.3PL.PAST PRON.3PL find.NONFIN like spider know.2S size ball in cupboard PRON.3SM
 %eng:	well, Dad said when he was in Singapore or somewhere they found a spider the size of a ball in his cupboard.
 *MAB:	+< &=groan ych_a_fi ! 7966_9729
@@ -1976,7 +1978,8 @@
 %eng:	I'm sure they will.
 *LIS:	yeah@s:cym&eng . 1310193_1310623
 *MAB:	yeah@s:cym&eng . 1310484_1310960
-*LIS:	mae mam@s:cym&eng (we)di deud <bod hi &s> [//] bod hi (y)n fodlon sponsor_o@s:eng+cym fi degpunt . 1310890_1314512
+*LIS:	mae mam@s:cym&eng (we)di deud <bod hi &s> [//] bod hi (y)n fodlon
+	sponsor_o@s:eng+cym fi decpunt . 1310890_1314512
 %gls:	be.3S.PRES Mother PRT.PAST say.NONFIN be.NONFIN PRON.3SF be.NONFIN PRON.3SF PRT content sponsor.NONFIN PRON.1S ten_pounds
 %eng:	Mum has said she's happy to sponsor me ten pounds.
 *MAB:	+< wyt ti (we)di (.) cofrestru a bopeth felly er@s:cym&eng eto [=? timod] ? 1312898_1315557
@@ -2777,16 +2780,18 @@
 %gls:	IM yeah milk xxx
 %eng:	oh yeah, "llaeth" [..].
 *MAB:	&=laugh . 1897077_1897727
-*MAB:	fel “paned” a “disgled” . 1897565_1899480
+*MAB:	fel “paned” a “dysglaid” . 1897565_1899480
 %gls:	like cuppa and cuppa
-%eng:	like "paned" and "disgled" .
-%com:	"paned" is the Northern form whilst "disgled" is the southern form of the word for "milk", though the division is not as clear-cut as with some other words.
+%eng:	like "paned" and "dysglaid" .
+%com:	"paned" is the Northern form whilst "dysglaid" is the southern form
+	of the word for "cupful", though the division is not as clear-cut as
+	with some other words.
 *MAB:	yeah@s:cym&eng (.) mae [?] “paned” yn well . 1899295_1901129
 %gls:	yeah be.3S.PRES cuppa PRT better
 %eng:	yeah "paned" is better.
-*LIS:	na “disgled” . 1901350_1902104
+*LIS:	na “dysglaid” . 1901350_1902104
 %gls:	no cuppa
-%eng:	no, "disgled" .
+%eng:	no, "dysglaid" .
 *MAB:	&=laugh &=sigh . 1902151_1904380
 *MAB:	xxx yeah@s:cym&eng so@s:cym&eng Canaries@s:eng yn dda . 1904358_1905610
 %gls:	xxx yeah so Canaries PRT good

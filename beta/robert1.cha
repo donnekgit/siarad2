@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -1690,9 +1689,17 @@
 *FLO:	rywbeth neu gilydd . 1497762_1498882
 %gls:	something or other
 %eng:	something or other
-*FLO:	um@s:cym&eng (..) a (y)r unig story@s:cym&eng arall really@s:eng o ddiddordeb amdano fe fi gallu ffindo yw bod [/] um@s:cym&eng (..) bod e wedi (.) bod yn gyfrifol am ailgodi (.) carreg celtaidd yn Llanilltud_Fawr . 1498880_1513654
-%gls:	IM and DET only story other really of interest about.3SM PRON.3SM PRON.1S can.NONFIN find.NONFIN be.3S.PRES be.NONFIN IM be.NONFIN PRON.3SM PRT.PAST be.NONFIN PRT responsible for re_erect.NONFIN stone celtic in Llantwit_Major
-%eng:	um, and the only other story of interest really about him I've been able to find is that um, that he was responsible for re-erecting a celtic stone in Llantwit Major
+*FLO:	um@s:cym&eng (..) a (y)r unig story@s:cym&eng arall really@s:eng o
+	ddiddordeb amdano fe fi gallu ffindo yw bod [/] um@s:cym&eng (..)
+	bod e wedi (.) bod yn gyfrifol am ailgodi (.) carreg Celtaidd yn
+	Llanilltud_Fawr . 1498880_1513654
+%gls:	IM and DET only story other really of interest about.3SM PRON.3SM
+	PRON.1S can.NONFIN find.NONFIN be.3S.PRES be.NONFIN IM be.NONFIN
+	PRON.3SM PRT.PAST be.NONFIN PRT responsible for re_erect.NONFIN
+	stone Celtic in Llantwit_Major
+%eng:	um, and the only other story of interest really about him I've been
+	able to find is that um, that he was responsible for re-erecting a
+	Celtic stone in Llantwit Major
 *REG:	right@s:cym&eng . 1513652_1514709
 *FLO:	+< apparently@s:eng oedd ryw +//. 1514436_1515057
 %gls:	apparently be.3S.IMP some
@@ -1709,9 +1716,9 @@
 *FLO:	+" right@s:cym&eng fi isie cael y nghladdu pan y fi (y)n marw (.) ar_bwys drws eglwys (..) Llanilltud_Fawr . 1518270_1524691
 %gls:	right PRON.1S want get.NONFIN POSS.1S bury.NONFIN when be.1S.PRES PRON.1S PRT die.NONFIN near door church Llantwit_Major
 %eng:	"right, I want to be buried, when I die, by the door of Llantwit Major's church
-*FLO:	a (dy)na le oedd (.) y groes celtaidd (y)ma . 1524685_1528243
-%gls:	and there where be.3S.IMP DET cross celtic here
-%eng:	and that's where this celtic cross was
+*FLO:	a (dy)na le oedd (.) y groes Celtaidd (y)ma . 1524685_1528243
+%gls:	and there where be.3S.IMP DET cross Celtic here
+%eng:	and that's where this Celtic cross was
 *FLO:	a wrth bod nhw (y)n claddu fe dyma (y)r groes yn cwympo mewn i (y)r twll (.) ar ben y bedd . 1528230_1532909
 %gls:	and by be.NONFIN PRON.3PL PRT bury.NONFIN PRON.3SM here DET cross PRT fall.NONFIN in to DET hole on head DET grave
 %eng:	and as they were burying him, the cross fell into the hole on top of the grave
