@@ -18,7 +18,7 @@
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English, @s:bre = Breton. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
 @Comment:	Cywryd's speech is often difficult to understand. It has been transcribed where possible. It is recommended that Cywryd's speech is not used in analysis. If researchers are interested in his speech, it is recommended that his transcribed speech be reconsidered
-@Comment:	Cywryd doesn't seem to have learnt to pronounced [r] yet and uses [d] in its place. These cases have, however, been transcribed to represent [r] (e.g. [bada] has been transcribed as "bara" (bread)).
+@Comment:	Cywryd doesn't seem to have learnt to pronounce [r] yet and uses [d] in its place. These cases have, however, been transcribed to represent [r] (e.g. [bada] has been transcribed as "bara" (bread)).
 @Comment:	Beli learnt Welsh as an adult. Sometimes he inserts an epenthetic [r] in contexts where this is possible in English, although this is not usual in Welsh. This sound has not been transcribed.
 *AWE:	rhwng [?] xxx . 1800_2891
 %gls:	between xxx
@@ -1975,11 +1975,12 @@
 *AWE:	<oh@s:cym&eng yeah@s:cym&eng> [=! laughs] . 1285826_1287022
 %gls:	IM yeah
 %eng:	oh yeah
-*BEL:	ac oedd <y dynes> [//] (.) y tywysydd (.) yn sbïo arna ni (.) a deud “ssh@s:cym&eng” (.) Ffrangeg [?] +/. 1287022_1294185
+*BEL:	ac oedd <y dynes> [//] (.) y tywysydd (.) yn sbïo arnan ni (.) a
+	deud ssh@s:cym&eng ["] (.) Ffrangeg [?] +/. 1287022_1294185
 %gls:	and be.3S.IMP DET woman DET guide PRT look.NONFIN at.1PL PRON.1PL and say.NONFIN ssh French
 %eng:	and the woman...the guide was looking at us and saying "ssh" in French
 *AWE:	xxx +/. 1294185_1295114
-*BEL:	+, “ssh@s:cym&eng” ! 1294742_1295195
+*BEL:	+, ssh@s:cym&eng ["] ! 1294742_1295195
 %gls:	ssh
 %eng:	ssh
 *AWE:	aethon ni (ddi)m allan yn diwedd ? 1295195_1296321

@@ -179,7 +179,7 @@
 *WYN:	“swm” . 133022_133394
 %gls:	amount
 %eng:	swm
-*EVA:	+, swm u:m@s:cym&eng swm [/] swmau [* symiau] mawr . 133394_136830
+*EVA:	+, swm u:m@s:cym&eng swm [/] swmau mawr . 133394_136830
 %gls:	amount IM amount amounts big
 %eng:	um, big amounts
 *WYN:	swmiau mawr yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 136656_139141
@@ -2137,21 +2137,21 @@
 *WYN:	a (y)r um@s:cym&eng (.) prawns@s:cym&eng (.) a [/] a (y)r +//. 1512270_1515265
 %gls:	and DET IM prawns and and DET
 %eng:	and the, um, prawns, and...and the...
-*EVA:	+< prawns@s:cym&eng a: +... 1513767_1515985
+*EVA:	+< prawns@s:cym&eng a +... 1513767_1515985
 %gls:	prawns and
 %eng:	prawns and...
 *WYN:	be ti (y)n galw pethau [//] parseli um@s:cym&eng (.) xxx +... 1515265_1517517
 %gls:	what PRON.2S PRT call.NONFIN things parcels IM xxx
 %eng:	what do you call things...the parcels, um [...] ..?
 *EVA:	um@s:cym&eng pph@s:cym&eng +... 1516879_1518098
-*WYN:	samosas@s:cym&eng . 1518098_1518957
-*EVA:	samosas@s:cym&eng a: llysiau [/] llysiau . 1518957_1522498
+*WYN:	samosas@s:eng . 1518098_1518957
+*EVA:	samosas@s:eng a llysiau [/] llysiau . 1518957_1522498
 %gls:	samosas and vegetables vegetables
 %eng:	samosas and vegetables
 *WYN:	llysiau a pysgodyn . 1522382_1523659
 %gls:	vegetables and fish
 %eng:	vegetables and fish
-*EVA:	pysgodyn: curry:@s:cym&eng um@s:cym&eng ffrwythau . 1523659_1528024
+*EVA:	pysgodyn curry@s:cym&eng um@s:cym&eng ffrwythau . 1523659_1528024
 %gls:	fish curry IM fruits
 %eng:	fish, curry, um, fruit
 *WYN:	+< curry@s:cym&eng . 1524425_1524797
