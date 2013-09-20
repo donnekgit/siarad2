@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -626,7 +625,7 @@
 %gls:	xxx much of point xxx POSS.3SM repair.NONFIN PRON.3SM NEG be.3S.PRES
 %eng:	[...] much point [...] repair it, no
 *CLR:	yeah@s:cym&eng . 460301_460894
-*TWM:	na xxx [//] (.) planu <nhw (y)n> [?] tŷ xxx . 460626_462403
+*TWM:	na xxx [//] (.) plannu <nhw (y)n> [?] tŷ xxx . 460626_462403
 %gls:	no xxx plant.NONFIN PRON.3PL in house xxx
 %eng:	no [...] planting them in the house [...]
 *CLR:	ia (dy)na chi . 461497_462275
@@ -1683,12 +1682,12 @@
 *CLR:	+< dyna be fydd di roid i wartheg ia ? 1011843_1013399
 %gls:	there what be.2S.FUT PRON.2S give.NONFIN to cows yes
 %eng:	that's what you give cows, yes?
-*HUW:	hwnna [//] well@s:cym&eng ia neu [/] neu teramicin@s:cym&eng xxx . 1013399_1017044
-%gls:	that well yes or or teramicin xxx
-%eng:	that...well, yes, or...or teramicin [...]
-*CLR:	oh@s:cym&eng yeah@s:cym&eng dan ni (ddi)m yn roi teramicin@s:cym&eng i geffylau . 1017044_1019378
-%gls:	IM yeah be.1PL.PRES PRON.1PL NEG PRT give.NONFIN teramicin to horses
-%eng:	oh yeah, we don't give horses teramicin
+*HUW:	hwnna [//] well@s:cym&eng ia neu [/] neu Terramycin@s:cym&eng xxx . 1013399_1017044
+%gls:	that well yes or or Terramycin xxx
+%eng:	that...well, yes, or...or Terramycin [...]
+*CLR:	oh@s:cym&eng yeah@s:cym&eng dan ni (ddi)m yn roi Terramycin@s:cym&eng i geffylau . 1017044_1019378
+%gls:	IM yeah be.1PL.PRES PRON.1PL NEG PRT give.NONFIN Terramycin to horses
+%eng:	oh yeah, we don't give horses Terramycin
 *HUW:	+< xxx mae hwn gweithio dda [?] . 1017381_1019378
 %gls:	xxx be.3S.PRES this work.NONFIN good
 %eng:	[...] this works well

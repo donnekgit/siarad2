@@ -1315,9 +1315,10 @@
 *MER:	do . 704745_706777
 %gls:	yes
 %eng:	yes
-*SIO:	dw efo um@s:cym&eng (.) fel um@s:cym&eng viking@s:cym&eng coin@s:cym&eng . 706777_710701
-%gls:	be.1S.PRES with IM like IM viking coin
-%eng:	I've got, um, like, um, a viking coin
+*SIO:	dw efo um@s:cym&eng (.) fel um@s:cym&eng Viking@s:eng
+	coin@s:cym&eng . 706777_710701
+%gls:	be.1S.PRES with IM like IM Viking coin
+%eng:	I've got, um, like, um, a Viking coin
 *MER:	o:h@s:cym&eng o'ch chdi cael wneud y stampio dy hun . 710701_713986
 %gls:	IM be.2S.IMP PRON.2S get.NONFIN do.NONFIN DET stamp.NONFIN POSS.2S self
 %eng:	oh, you could do the stamping yourself

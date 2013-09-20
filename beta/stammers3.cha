@@ -41,7 +41,7 @@
 *GUT:	wedi meddwl bod nhw (y)n gallu canter_o@s:eng+cym . 12481_14083
 %gls:	PRT.PAST think.NONFIN be.NONFIN PRON.3PL PRT can.NONFIN canter.NONFIN
 %eng:	had thought they were able to canter.
-*GUT:	a pobl y stables@s:cym&eng wedi gadael nhw ganter_o@s:eng+cym . 14048_16173
+*GUT:	a pobl y stables@s:eng wedi gadael nhw ganter_o@s:eng+cym . 14048_16173
 %gls:	and people DET stables PRT.PAST leave.NONFIN PRON.3PL canter.NONFIN
 %eng:	and the stables people had let them canter.
 *GUT:	a nhw (fa)th â (we)di disgyn i_ffwrdd a siwio (.) y riding@s:eng stables@s:eng wedyn . 16202_19395
@@ -473,7 +473,9 @@
 *NER:	<yeah@s:cym&eng <fedri di &vi> [/] &vi &di fedri di> [?] +/. 347995_349987
 %gls:	yeah can.2S.NONPAST PRON.2S can.2S.NONPAST PRON.2S
 %eng:	yeah, you can... you can...
-*GUT:	ar un adeg oedda chdi sôn am bod yn educational@s:eng psychologist@s:eng (.) neu seicoloegwr neu &se seicolegwraig addysgol . 349092_355304
+*GUT:	ar un adeg oedda chdi sôn am bod yn educational@s:eng
+	psychologist@s:eng (.) neu seicolegwr neu &se seicolegwraig
+	addysgol . 349092_355304
 %gls:	on one period be.2S.IMP PRON.2S talk.NONFIN about be.NONFIN PRT educational psychologist or psychologist_man or psychologist_woman educational
 %eng:	at one time you we're talking about becoming an educational psychologist... or "educational psychologist woman" .
 *NER:	na “seicolegydd” (ba)set ti ddeud de . 354992_357185
@@ -602,7 +604,10 @@
 %gls:	because IM of_course background PRON.1S be.3S.PRES in art too TAG
 %eng:	because of course, my background's in art too, right
 *GUT:	yeah@s:cym&eng . 442616_442964
-*NER:	so@s:cym&eng timod <os mae> [/] os mae rywun yn wneud gwaith peintio efo [/] efo plant yeah@s:cym&eng maen nhw (y)n cael fath â pishyn bach o bapur a mae (y)n wneud dipyn bach o beintio wedyn cadw (y)r paent yn dwt . 442934_450195
+*NER:	so@s:cym&eng timod <os mae> [/] os mae rywun yn wneud gwaith peintio
+	efo [/] efo plant yeah@s:cym&eng maen nhw (y)n cael fath â pishyn
+	bach o bapur a mae (y)n wneud dipyn bach o beintio wedyn cadw (y)r
+	paent yn dwt . 442934_450195
 %gls:	so know.2S if be.3S.PRES if be.3S.PRES someone PRT do.NONFIN work paint.NONFIN with with children yeah be.3PL.PRES PRON.3PL PRT get.NONFIN kind with piece little of paper and be.3S.PRES PRT do.NONFIN a_bit little of paint.NONFIN then keep.NONFIN DET paint PRT tidy
 %eng:	so you know, if someone's doing painting work with the children, yeah, they get, like, a scrap of paper, and do a little bit of painting, then put the paint away tidily.
 *NER:	a (dy)na o de . 450195_451022
@@ -625,7 +630,8 @@
 %eng:	and also, like, when we do work with clay, we don't just get out a little roll of clay, and then that's it.
 *NER:	dw i (y)n dod â homer o bot@s:cym&eng allan a (.) powndio (y)r clai a blah@s:cym&eng blah@s:cym&eng blah@s:cym&eng <mae o> [?] de ? 462299_466630
 %gls:	be.1S.PRES PRON.1S PRT come.NONFIN with whopper of pot out and pound.NONFIN DET clay and blah blah blah be.3S.PRES PRON.3SM TAG
-%eng:	I get a whacking great pot out, and pound the caly, and it's blah blah blah, right...
+%eng:	I get a whacking great pot out, and pound the clay, and it's blah
+	blah blah, right...
 *GUT:	+< mmm@s:cym&eng . 464588_464948
 *GUT:	ia . 466573_466933
 %gls:	yes
@@ -1342,8 +1348,8 @@
 *GUT:	do . 1033343_1033853
 %gls:	yes
 %eng:	yes.
-*GUT:	o_k@s:cym&eng tara@s:cym&eng . 1035630_1036617
-*GUT:	tara@s:cym&eng . 1037081_1037464
+*GUT:	o_k@s:cym&eng ta_ra@s:cym&eng . 1035630_1036617
+*GUT:	ta_ra@s:cym&eng . 1037081_1037464
 *GUT:	yeah@s:cym&eng (.) so@s:cym&eng +... 1039589_1041435
 *NER:	be Adrian@s:cym&eng oedd hwnna ? 1041562_1042514
 %gls:	what Adrian be.3S.IMP that

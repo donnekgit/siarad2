@@ -870,7 +870,8 @@
 *MAG:	dw isio mynd de ? 521344_522352
 %gls:	be.1S.PRES want go.NONFIN TAG
 %eng:	I want to go, right?
-*LOI:	mae (y)na <“v_is_for_vendetta@s:cym&eng”> [//] “v_for_vendetta@s:cym&eng” . 522336_525184
+*LOI:	mae (y)na <v_is_for_vendetta@s:cym&eng> ["] [//]
+	v_for_vendetta@s:cym&eng ["]. 522336_525184
 %gls:	be.3S.PRES there v_is_for_vendetta v_for_vendetta
 %eng:	there's "V is for vendetta" ... "V for vendetta" .
 *MAG:	be (y)dy hwnna ? 525166_525726

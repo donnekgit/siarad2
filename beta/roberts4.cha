@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -141,7 +140,8 @@
 %gls:	IM yeah
 %eng:	oh yeah?
 *LIL:	&=clears_throat . 65680_67073
-*MEC:	so@s:cym&eng os dach chi (ddi)m yn chwarae gemau dach chi (ddi)m yn gael pointiau wedyn . 67073_70045
+*MEC:	so@s:cym&eng os dach chi (ddi)m yn chwarae gemau dach chi (ddi)m yn
+	gael pointiau wedyn . 67073_70045
 %gls:	so if be.2PL.PRES PRON.2PL NEG PRT play.NONFIN games be.2PL.PRES PRON.2PL NEG PRT get.NONFIN points then
 %eng:	so if you don't play games, you don't get points then?
 *LIL:	na (.) dw (ddi)m yn meddwl . 70045_71659

@@ -1,4 +1,3 @@
-@Font:	Win95::-21:0
 @UTF8
 @Begin
 @Languages:	cym, eng
@@ -14,7 +13,8 @@
 @Time Duration:	00:29:56
 @Media:	stammers1, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
-*GTH:	<oes a &də> [?] dan ni bod yn ffodus i gael &r y [/] (.) y rhai i ddod i_fewn i lenwi bylchau hefyd Eifion@s:cym&eng yn_do . 0_7152
+*GTH:	<oes a &də> [?] dan ni bod yn ffodus i gael &r y [/] (.) y rhai i
+	ddod i_fewn i lenwi bylchau hefyd Eifion@s:cym&eng yn_do . 0_7152
 %gls:	be.3S.PRES and be.1PL.PRES PRON.1PL be.NONFIN PRT fortunate to get.NONFIN DET DET ones to come.NONFIN in to fill.NONFIN gaps also Eifion yes
 %eng:	yes and...we've been very lucky to have the...the ones come in to fill the gaps too, Eifion, haven't we
 *EIF:	well@s:cym&eng mae hynny (y)n rhyfeddol weithiau de sut mae pobl yn fodlon gwneud weithiau . 7152_11238
@@ -562,7 +562,8 @@
 *GTH:	er@s:cym&eng fo oedd piau (y)r tir a phob_dim (fe)lly . 462891_466525
 %gls:	IM PRON.3SM be.3S.IMP own.NONFIN DET land and everything thus
 %eng:	er, he owned the land and everything, like
-*GTH:	ac er@s:cym&eng mi oedd (.) pobl (.) oedd yn gweithio iddo fo fel (.) er@s:cym&eng manager@s:cym&eng y: [/] yr ystâd wsti +//. 466525_477404
+*GTH:	ac er@s:cym&eng mi oedd (.) pobl (.) oedd yn gweithio iddo fo fel
+	(.) er@s:cym&eng manager@s:cym&eng y: [/] yr ystâd wsti +//. 466525_477404
 %gls:	and IM PRT be.3S.IMP people be.3S.IMP PRT work.NONFIN for.3SM PRON.3SM like IM manager DET DET estate know.2S
 %eng:	and, er, people who worked for him, like, er, the manager of the estate, you know...
 *GTH:	oe(dd) hwnnw ddyn pwysig yno [?] hefyd (y)n_de . 477404_479773
@@ -902,9 +903,12 @@
 *GTH:	<(dy)na chdi> [?] . 733022_733684
 %gls:	there PRON.2S
 %eng:	that's right
-*GTH:	ac er@s:cym&eng (.) i [/] (.) i ambell i glub@s:cym&eng er@s:cym&eng (.) (y)n enwedig yn Lloegr wsti mae raid [?] i ti wisgo (.) er@s:cym&eng collar@s:cym&eng a thie@s:cym&eng i mynd mewn xxx . 733684_744226
+*GTH:	ac er@s:cym&eng (.) i [/] (.) i ambell i glub@s:cym&eng er@s:cym&eng
+	(.) (y)n enwedig yn Lloegr wsti mae raid [?] i ti wisgo (.)
+	er@s:cym&eng collar@s:cym&eng a thie@s:cym&eng i mynd mewn xxx . 733684_744226
 %gls:	and IM for for some to club IM PRT particular in England know.2S be.3S.PRES necessity for PRON.2S wear.NONFIN IM collar and tie to go.NONFIN in xxx
-%eng:	and, er, for...for some clubs, er, especially in England, you know, you have to wear, er, a collar and tie to go in [...]
+%eng:	and, er, for...for some clubs, er, especially in England, you know,
+	you have to wear, er, a collar and tie to go in [...]
 *GTH:	oh@s:cym&eng mae xxx hollol wahanol fan hyn de . 744226_747012
 %gls:	IM be.3S.PRES xxx complete different place this TAG
 %eng:	oh, it's [...] totally different here, you know...
@@ -1444,8 +1448,10 @@
 *GTH:	a benderfynodd (.) y ddau basen nhw mynd allan efo (e)i_gilydd . 1160678_1164788
 %gls:	and decide.3S.PAST DET two.M be.3PL.CONDIT PRON.3PL go.NONFIN out with each_other
 %eng:	and both decided they'd go out together
-*GTH:	a wedyn mi [//] dyma Ischy_Polykoff@s:cym&eng yn tynnu ryw bêl i ganol ryw (.) er@s:cym&eng weiriach mawr wsti . 1164788_1174064
-%gls:	and then PRT here Ischy_Polykoff PRT draw.NONFIN some ball to middle some IM grass big know.2S
+*GTH:	a wedyn mi [//] dyma Ischy_Polykoff@s:cym&eng yn tynnu ryw bêl i
+	ganol ryw (.) er@s:cym&eng weiriach mawr wsti . 1164788_1174064
+%gls:	and then PRT here Ischy_Polykoff PRT draw.NONFIN some ball to middle
+	some IM grass big know.2S
 %eng:	and then Ischy Polykoff drew this ball to the middle of some tall grass, you know
 *EIF:	mmm@s:cym&eng . 1174064_1174610
 %gls:	IM
@@ -1533,7 +1539,7 @@
 *EIF:	oedd hogiau Maesgeirchen@s:cym&eng (ddi)m yn dwyn nhw amser hynny ? 1221723_1223569
 %gls:	be.3S.IMP boys Maesgeirchen NEG PRT steal.NONFIN PRON.3PL time that
 %eng:	the lads from Maesgeirchen didn't steal them at that time?
-*GTH:	well@s:cym&eng (.) xxx o'n nhw ffeindio nhw (y)n_do'n . 1223569_1226124
+*GTH:	well@s:cym&eng (.) xxx o'n nhw ffeindio nhw (y)n_do(edde)n . 1223569_1226124
 %gls:	well xxx be.3PL.IMP PRON.3PL find.NONFIN PRON.3PL be.3PL.IMP.NEG
 %eng:	well [...] they'd find them, wouldn't they
 *EIF:	&=laugh . 1225764_1228422
