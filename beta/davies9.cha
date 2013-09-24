@@ -192,9 +192,9 @@
 %gls:	Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 %eng:	Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 %com:	the longest place-name in Wales
-*LLE:	pavillion@s:cym&eng pink@s:cym&eng . 81284_82608
-%gls:	pavillion pink
-%eng:	pink pavillion
+*LLE:	pavilion@s:cym&eng pink@s:cym&eng . 81284_82608
+%gls:	pavilion pink
+%eng:	pink pavilion
 *LLE:	just@s:cym&eng (.) pethau hollol random@s:cym&eng . 82608_84546
 %gls:	just things complete random
 %eng:	just totally random things
@@ -646,8 +646,8 @@
 *MOS:	fi wneud er@s:cym&eng <be ti galw> [?] ymarfer linguistics@s:eng gyda (.) Peredur@s:cym&eng . 363280_367065
 %gls:	PRON.1S do.NONFIN IM what PRON.2S call.NONFIN exercise linguistics with Peredur
 %eng:	I'm doing, er, what you call it, a linguistics exercise with Peredur
-*MOS:	achos mae e wneud p_h_d@s:cym&eng ynddo fe . 367065_369213
-%gls:	because be.3S.PRES PRON.3SM do.NONFIN p_h_d in.3SM PRON.3SM
+*MOS:	achos mae e wneud P_h_D@s:eng ynddo fe . 367065_369213
+%gls:	because be.3S.PRES PRON.3SM do.NONFIN P_h_D in.3SM PRON.3SM
 %eng:	because he's doing a PhD in it
 *MOS:	a mae e isie (.) bobl i wneud ti(pyn) bach o ymchwil (gy)dag e . 369213_371674
 %gls:	and be.3S.PRES PRON.3SM want people to do.NONFIN a_little small of research with PRON.3SM

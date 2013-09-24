@@ -1,6 +1,6 @@
 In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV". Also "throw_a_tantrum".
 
-Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i" and "o'n ni" by "o(edde)n ni".
+Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".
 
 Manual gloss: systematically replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
 

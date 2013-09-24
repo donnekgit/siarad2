@@ -500,7 +500,7 @@
 *GRE:	<gutted@s:eng de> [=! laughs] . 258675_259592
 %gls:	gutted TAG
 %eng:	Gutted, yeah?
-*GWY:	(fa)swn i (y)n hollol <hollol gutted> [?] . 259453_261450
+*GWY:	(fa)swn i (y)n hollol <hollol gutted@s:eng> [?] . 259453_261450
 %gls:	be.1S.CONDIT PRON.1S PRT total total gutted
 %eng:	I'd be totally, totally gutted.
 *GRE:	&=laugh mae Nel@s:cym&eng (.) yn gwneud fi chwerthin gymaint . 261115_264540
@@ -756,7 +756,7 @@
 *GWY:	yeah@s:cym&eng . 387080_387672
 %gls:	yes
 %eng:	Yes.
-*GRE:	rai fath â (.) isdeitlau fath â . 387652_389370
+*GRE:	rai fath â (.) is_deitlau fath â . 387652_389370
 %gls:	ones kind with subtitles kind with
 %eng:	Ones [with], like, subtitles.
 *GWY:	oh@s:cym&eng right@s:cym&eng . 389811_391982
@@ -2006,7 +2006,7 @@
 *GWY:	well@s:cym&eng y peth ydy o'n i [/] (.) o'n i erioed really@s:eng (y)n gwatsiad lot@s:cym&eng [?] teledu . 1053510_1057434
 %gls:	well DET thing be.3S.PRES be.1S.IMP PRON.1S be.1S.IMP PRON.1S ever really PRT watch.NONFIN lot television
 %eng:	Well, the thing is I never really watched a lot of television.
-*GWY:	dw i (ddi)m yn (.) dilyn (.) timod yr operau sebon . 1057439_1059907
+*GWY:	dw i (ddi)m yn (.) dilyn (.) timod yr operâu sebon . 1057439_1059907
 %gls:	be.1S.PRES PRON.1S NEG PRT follow.NONFIN know.2S DET operas soap
 %eng:	I don't follow, you know, the soap operas.
 *GWY:	dw i (ddi)m [/] dw i (ddi)m really@s:eng (y)n dilyn unrhyw beth ar y teledu . 1059965_1062890
@@ -3446,8 +3446,10 @@
 *GRE:	oh@s:cym&eng yeah@s:cym&eng ? 1858923_1859515
 %gls:	IM yes
 %eng:	Oh, yes?
-*GRE:	oh@s:cym&eng yeah@s:cym&eng (fa)sa chdi ddim yn gweld hi heb Guto@s:cym&eng na (fa)sachd ? 1859866_1861433
-%gls:	IM yes be.2S.CONDIT PRON.2S NEG PRT see.NONFIN PRON.3SF without Guto NEG be.2S.CONDIT
+*GRE:	oh@s:cym&eng yeah@s:cym&eng (fa)sa chdi ddim yn gweld hi heb
+	Guto@s:cym&eng na (fa)sachd ? 1859866_1861433
+%gls:	IM yes be.2S.CONDIT PRON.2S NEG PRT see.NONFIN PRON.3SF without Guto
+	NEG be.2S.CONDIT
 %eng:	Oh yes, you wouldn't see her without Guto would you?
 *GWY:	na . 1861375_1861944
 %gls:	no
