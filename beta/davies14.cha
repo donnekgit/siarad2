@@ -732,11 +732,11 @@
 %gls:	PRT climb.NONFIN DET wall there
 %eng:	climbing that wall.
 *GWA:	yeah@s:cym&eng yeah@s:cym&eng . 398054_399093
-*GWA:	na (doe)s (yn)a (ddi)m wal yn fan (y)na nag_oes ? 399993_401241
-%gls:	no be.3S.PRES.NEG there NEG wall in place there be.3S.PRES.NEG
+*GWA:	na (doe)s (yn)a (ddi)m wal yn fan (y)na nac oes ? 399993_401241
+%gls:	no be.3S.PRES.NEG there NEG wall in place there NEG be.3S.PRES
 %eng:	no, there's no wall there, is there?
-*FRE:	nag_oes ? 401293_402053
-%gls:	be.3S.PRES.NEG
+*FRE:	nac oes ? 401293_402053
+%gls:	NEG be.3S.PRES
 %eng:	isn't there?
 *GWA:	mae (y)na wal yn rywle . 402042_403000
 %gls:	be.3S.PRES there wall in somewhere
@@ -1086,8 +1086,8 @@
 *GWA:	achos mae [/] mae diwedd xxx +/. 601167_602556
 %gls:	because be.3S.PRES be.3S.PRES end xxx
 %eng:	because the end is [...] ...
-*FRE:	+< does (y)na (ddi)m ots gennyt ti nag_oes ? 602065_603189
-%gls:	be.3S.PRES.NEG there NEG odds with.2S.PRES be.3S.PRES.NEG
+*FRE:	+< does (y)na (ddi)m ots gennyt ti nac oes ? 602065_603189
+%gls:	be.3S.PRES.NEG there NEG odds with.2S.PRES NEG be.3S.PRES
 %eng:	you don't care, do you?
 *GWA:	na . 603152_603735
 %gls:	no
@@ -1363,8 +1363,8 @@
 *GWA:	Bryn_Llifon@s:cym&eng yeah@s:cym&eng oedd o (ddi)m yn hapus o_gwbl . 779341_781369
 %gls:	Bryn_Llifon yeah be.3S.IMP PRON.3SM NEG PRT happy at_all
 %eng:	Bryn Llifon, yeah, he wasn't happy at all.
-*FRE:	nag_oedd . 781253_782112
-%gls:	be.3S.IMP.NEG
+*FRE:	nac oedd . 781253_782112
+%gls:	NEG be.3S.IMP
 %eng:	no.
 *GWA:	bod um@s:cym&eng +/. 782224_782757
 %gls:	be.NONFIN IM
@@ -2166,8 +2166,9 @@
 *FRE:	xxx mis yn_ôl efo (ei)ch er@s:cym&eng (.) um@s:cym&eng er@s:cym&eng sirioldeb chi . 1347913_1352909
 %gls:	xxx month back with POSS.2PL IM IM IM cheerfulness PRON.2PL
 %eng:	[...] a month ago with your cheerfulness.
-*FRE:	well@s:cym&eng yeah@s:cym&eng toedd o (ddi)m yn bad@s:eng nag_oedd . 1352940_1354838
-%gls:	well yeah be.3S.IMP.NEG PRON.3SM NEG PRT bad be.3S.IMP.NEG
+*FRE:	well@s:cym&eng yeah@s:cym&eng toedd o (ddi)m yn bad@s:eng nac oedd
+	. 1352940_1354838
+%gls:	well yeah be.3S.IMP.NEG PRON.3SM NEG PRT bad NEG be.3S.IMP
 %eng:	well, yeah, it wasn't bad, was it.
 *FRE:	a wedyn er@s:cym&eng +... 1354925_1355807
 %gls:	and after IM
