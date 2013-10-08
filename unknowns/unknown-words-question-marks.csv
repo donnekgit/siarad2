@@ -1,0 +1,69 @@
+Language,Speaker tier,Count,Lemma,English lemma,Clarifier,POS,Gender,Number,Tense,Notes,Your reply,Occurring in files …
+cym,"hena, henach",2,hen,old,,ADJ.SUP/COMP,,,,?! list as non-standard forms?,,davies1
+cym,"cyn_belled, gyn_belled",6,cyn_belled,as_far,,ADV,,,,? in doc file - but should it be there or rather two words?,,"davies10,fusser13,fusser17,fusser22,fusser4,stammers9"
+cym,co,1,dacw,there,,ADV,,,,"?! GPC mentions variant ""'co"" in ""dacw"" article - or change to ""(da)cw""?",,"fusser3,"
+cym,"trwadd, drwadd",3,trwadd,through,,ADV,,,,"? ! the -a- variant isn't in GPC => change to ""trwodd""?",,"davies11,robert7, davies11,fusser10,fusser13,fusser18,fusser26,fusser28,fusser30,fusser7,roberts1"
+cym,o_gloch,4,o_gloch,o_clock,,ADV?,,,,? take apart?,,"davies13,davies5,fusser17,fusser30"
+cym&eng,aargh,4,aargh,aargh,,IM,,,,"? in OED, not in Welsh dictionaries nor 2012 IM list => @eng??",,"fusser25,robert3"
+cym&eng,bleugh,1,bleugh,bleugh,,IM,,,,"? not in OED, Welsh dictionaries or 2012 IM list",,fusser3
+cym&eng,boing,1,boing,boing,,IM,,,,"? not on 2012 IM list; in OED, but no Welsh dictionaries => @eng?",,fusser14
+cym&eng,eugh,1,eugh,eugh,,IM,,,,"? not in OED, Welsh dictionaries or 2012 IM list",,robert3
+cym&eng,hehey,1,hehey,hehey,,IM,,,,? not in any dictionary or the 2012 IM list; seems to indicate approval,,fusser29
+cym&eng,oof,1,oof,oof,,IM,,,,"? in OED, but not Welsh dictionaries nor 2012 IM list => @eng?",,fusser7
+cym&eng,ph,2,ph,ph,,IM,,,,"? no mention of this in any dictionary nor 2012 IM list; seems to indicate insecurity in davies17, disapproval in fusser11",,"davies17,fusser11"
+cym&eng,phh,1,phh,phh,,IM,,,,? no mention of this in any dictionary nor 2012 IM list; seems to indicate disapproval,,davies12
+cym&eng,phoo,1,phoo,phoo,,IM,,,,"? seems to indicate relief; GPC has ""ffw"" 'away!', otherwise no record of it; not in 2012 IM list",,davies3
+cym&eng,phooph,3,phooph,phooph,,IM,,,,? no mention of this in any dictionary nor 2012 IM list; seems to indicate surprise and/or relief,,"fusser25,robert1,robert3"
+cym&eng,phwoah,1,phwoah,phwoah,,IM,,,,"? in OED, but no Welsh dictionaries => @eng??; not on 2012 IM list",,robert3
+cym&eng,pooph,1,pooph,pooph,,IM,,,,"? sign of relief, sounds more like ""poogh"" (not ""poof""); no trace in Welsh or English dictionaries or 2012 IM list",,fusser25
+cym&eng,sht,2,sht,sht,,IM,,,,"? not on 2012 IM list; OED has ""shh""; haven't found anything similar in Welsh dictionaries, but several instances of ""isht"" in text on the web",,"fusser14,robert8"
+cym&eng,ssh,2,ssh,ssh,,IM,,,,? not on IM list; in OED; not found in Welsh dictionaries,,fusser14
+cym&eng,uh_oh,2,uh_oh,uh_oh,,IM,,,,"? not on 2012 IM list; in OED, but not found in Welsh dictionaries => @eng?",,"robert7,stammers4"
+cym&eng,um_be_rum_be_dum,1,um_be_rum_be_dum,um_be_rum_be_dum,,IM,,,,? ad-hoc string of sounds while speaker is trying to remember a name,,fusser3
+cym&eng,wah,1,wah,wah,,IM,,,,"? in OED, but no Welsh dictionaries => @eng??; not on 2012 IM list",,davies16
+cym&eng,whoa,6,whoa,whoa,,IM,,,,"? not on 2012 IM list; in OED, but not Welsh dictionaries (GyA even has a translation for ""whoa"") => @eng?",,davies16
+cym&eng,woohoo,1,woohoo,woohoo,,IM,,,,? not found in any dictionaries nor 2012 IM list,,robert3
+cym&eng,yay,1,yay,yay,,IM,,,,"? in OED, but no Welsh dictionaries => @eng??; not on 2012 IM list",,fusser25
+cym&eng,yum,1,yum,yum,,IM,,,,"? in OED, but no Welsh dictionaries => @eng??; not on 2012 IM list",,robert4
+cym&eng,buh,6,buh,buh,,IM?,,,,? not in English nor Welsh dictionaries; used as wildcard in an enumeration; transcribe phonetically?,,fusser30
+cym&eng,waa,2,,,,IM?,,,,"? onomatopoetic imitating screaming; in no dictionary nor 2012 IM list (OED's ""wah"" is different)",,fusser31
+cym,fythefnos,2,bythefnos,fortnight,,N,MF,S,,"?! GPC has ""bythefnos"" listed as a variant under ""pythefnos"" - or just gloss as ""pythefnos""?",,"davies4,fusser8"
+cym,cesyn,1,cesyn,character,,N,M,S,,"? ! haven't found this in Welsh dictionaries => case_yn@cym+eng? (cf. ""cases/cesys"")",,fusser8
+cym,dauganmlwyddiant,1,dauganmlwyddiant,bicentenary,,N,M,S,,"?! GPC and GyA have ""daucanmlwyddiant"", but ""dauganmlwyddiant widely found on the web and in book title ""Dauganmlwyddiant Ellis Wynne"" - or change to ""daucanmlwyddiant""?",,
+cym&eng,hi_fi,3,hi_fi,hi_fi,,N,?,S,,"? ""system hi-fi"" on termau.org, but not in our reference dictionaries",,davies3
+cym,hompen,1,hompen,big_thing,,N,F,S,,"??? ! ""hompen o stafell fawr"" - haven't found this anywhere - seems to have some relation to ""homer""",,fusser3
+cym&eng,millimetres,1,millimetre,millimetre,,N,M,P,,"? English pronunciation => @eng? ( if so, also change tag of ""millimetre"")",,fusser3
+cym,fudwraig,1,mudwraig,midwife,,N,F,S,,"?! GPC has ""mudwraig"" as a variant in the body of the article for ""mydwraig"" - or just spell ""fydwraig""?",,fusser3
+cym,yn_rhaid,1,rhaid,necessity,,N,M,S.NEG,,?? does this gloss make any sense?,,lloyd1
+cym,sbyty,3,sbyty,hospital,,N,M,S,,"?! GPC has ""sbyty"" as second entry after ""ysbyty"", but no reference under ""s"" - or just spell (y)sbyty?",,roberts4
+cym,slobrwydd,1,slobrwydd,?,,N,M,S,,"? ! not in dictionaries - GPC has ""slob"" 'large fat person' and ""sloblyd"" 'sloppy' - ??",,roberts1
+cym,ticiâu,3,ticiâu,tubercolusis,,N,M,S,,"?! GPC only mentions the t- variant at the bottom of the article (as local to North Wales, spelt ""ticiáe"") - or change to ""diciâu""?",,fusser26
+cym&eng,i_Pod,1,i_Pod,i_Pod,,NAME,,,,"? ""Ipod"" in davies13 - and maybe elsewhere",,davies5
+cym,amddo,1,am,about,,PREP,M,3S,,? treat as error??,,fusser19
+cym,nace,4,nace,isn't_it,,TAG,,,,"? ! fusser22 is unclear, but the others definitely say ""nace"" - so far only ""nage"" and ""naci"" are in doc file",,"fusser13,fusser16,fusser22"
+cym,yn_te,27,yn_te,isn't_it,,TAG,,,,"? ! not in doc. file, ""yn_de"" is - make sure both glosses match (+ ""de"" + ""te""); GPC has ""yntê""",,"davies4,fusser12,fusser16,fusser8,robert7,robert8,stammers9"
+cym,ailsgwennu,2,ailsgrifennu,rewrite,,V,,,INFIN,"?! ""ail-"", ""sgwennu"" and ""ailysgrifennu"" in GPC",,"robert9,stammers9"
+cym,fyddach,4,bod,be,,V,,2P,FUT,"? ! form not covered by King nor Thomas as FUT - or change to ""fyddwch""?",,"davies5,fusser12,fusser25,fusser8"
+cym,odyw,8,bod,be,,V,,3S,PRES,"?! King doesn't seem to have ""odyw"", but cites ""yw"" and ""ody""",,"fusser3,robert1"
+cym,petasa etc,22,bod,if_be,,V,,3S,COND,"? King has this as two words ""pe tas-"", GPC as one (Thomas only has ""pe bawn"" and ""tawn"", nothing in between); -a ending covered by King",,"davies15,davies4,davies5,fusser19,fusser32,fusser7,robert3,roberts4,smith1,stammers6"
+cym,"chwerthais, chwerthon (and others)",1,chwerthin,laugh,,V,,,PAST,"?! stem should be ""chwardd-"": list in doc file or just treat as application of inflectional rule? Also applies to other verb forms that are formed regularly where they should be irregular",,fusser8
+cym,cym(er)a,5,cymryd,take,,V,,2S,IMPER,"? ! King mentions ""cymer"", but ""cymera"" would of course follow his general rule of ""stem + a"" (Another option would be to write all the ""cym-"" forms as spoken - including verb noun, which currently is transcribed ""cymryd"" - and list them in the doc file)",,"davies16, fusser15, fusser6, roberts3"
+cym,ddylien etc,1,dylu,should,,V,,13P,COND,"? ! not in grammars => change to ""ddylen"" etc?",,fusser10
+cym,ffotocopïo,2,ffotocopïo,ffotocopïo,,V,,,INFIN,"?! ""ffotocopïo"" is what the speakers say; GyA only has ""ffotogopïo"", but ""ffotocopïo/copio"" is found on the web (including official website of Aberystwyth university and WJEC website) - or change spelling?",,"fusser18,fusser29"
+cym,goffod,2,goffod,must,,V,,,INFIN,"?! listed on www.amgueddfacymru.ac.uk for dialects of Llansawel and Glynogwr; GPC only has ""gorffod -> gorfod"" - or change to ""gorffod""?",,robert9
+cym,gwed,2,gweud,say,,V,,2S,IMPER,"?! not covered by King, Thomas only has ""dywed"" - which one may take to licence ""gwed"" in conjunction with GPC's entry for ""gweud"" - ?",,davies1
+cym,wnaen,1,gwneud,do,,V,,1P,PAST,? ! (has [?] in the transcript),,stammers8
+cym,hefru,2,hefru,talk_rubbish,,V,,,INFIN,"?! not in dictionaries, but widely on the web, including golwg360; or change to ""(r)hefru"" ? ",,roberts2
+cym,pwp?o,1,pwp?o,pooh_pooh,,V,,,INFIN,"? ! GPC has this as meaning 'talking derogatively', but here it means 'shitting' (in which sense the OED doesn't have it either)",,stammers2
+cym,rhoth,1,roi,give,,V,,3S,PAST,"?! not covered by King or Thomas - change to ""rhodd""??",,stammers1
+cym,roethon,1,roi,give,,V,,3P,PAST,"?! not covered by King or Thomas - change to ""roeson""??",,fusser16
+cym,sbian,1,sbio,look,,V,,1P,PRES,"?! GPC (""-> ysbïo""); King has ""-an"" as 3P only, but instance in fusser8 is 1P - or change to ""sbiwn""?",,fusser8
+cym,droeo,1,,,,,,,,"? ""Cymru droeo neithiwr"", manual gloss ""draw.NONFIN""",,smith1
+cym&eng,galala,1,,,,,,,,"? no idea what this is; haven't found it in Welsh dictionaries - nor English for that matter; ""chicken galala"" seems to be a name of a dish, judging from the context",,davies4
+cym&eng,io,1,,,,,,,,"? metalinguistic citation of ending ""-io"" => @cym?",,davies7
+cym,lerych,1,,,,,,,,"? retraced by ""elyrch"" => mark as error?",,fusser17
+cym,ole,1,,,,,,,,"? change to ""olau""?? speaker is trying to (mistakenly) explain ""Pen yr Ole Wen"" as ""mountain of light""",,fusser17
+cym,ond_yndyn,1,,,,,,,,"? that's certainly what she says (not ""yn_dyndyn""), but it could be a retracing ""ond - yndyn - ond..."", which to me would make more sense in the context => split into two words?",,fusser23
+cym,plisman_pod,1,,,,,,,,"??? haven't been able to locate this anywhere; manual gloss ""policeman_pod""; split up into ""plisman@cym pod@eng""?",,fusser14
+cym&eng,steddfod,5,,,,,,,,"? changed to ""(ei)steddfod""; should this be marked @cym?",,"davies1,davies2"
+cym,"crancs, cobenni, e_byst etc",,,,,,,P,,? ! plural forms not listed in dictionaries (currently about 20): do we list those in the doc file? I'd suggest we just add a note similar to the one about different verb noun endings. (For undocumented derivations where the individual components are in GPC I have decided not to list them as the doc file has the potential to grow huge anyway - currently up to 200 potential entries),,
