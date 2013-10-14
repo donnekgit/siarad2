@@ -269,7 +269,7 @@
 *INT:	oh (.) unknown@s:eng i mi . 121464_123716
 %gls:	IM unknown to PRON.1S
 %eng:	oh, an unknown to me
-*EML:	yn_te . 123716_124390
+*EML:	yn_de . 123716_124390
 %gls:	TAG
 %eng:	isn't it
 *GOR:	&=laugh . 124390_125005
@@ -3032,9 +3032,9 @@
 *INT:	eh@s:cym&eng eh@s:cym&eng . 1588360_1589556
 %gls:	IM IM
 %eng:	eh, eh
-*STN:	sht@s:cym&eng . 1588673_1589707
+*STN:	ust . 1588673_1589707
 %gls:	IM
-%eng:	sht
+%eng:	shh
 *GOR:	&=laugh . 1589707_1590543
 *EML:	dim hopes@s:cym&eng xxx &=laugh . 1589974_1593004
 %gls:	NEG hopes xxx

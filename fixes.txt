@@ -32,6 +32,10 @@ Make sure the abbreviations in the manual gloss match those in the autogloss and
 
 Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
 
+Systematically replace "trwadd" by "trwodd" and "drwadd" by "drwodd"
+
+
+
 
 
 

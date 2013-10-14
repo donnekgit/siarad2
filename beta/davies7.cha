@@ -1423,9 +1423,7 @@
 *GAI:	sinsir ? 993631_994608
 %gls:	ginger
 %eng:	ginger?
-*GAI:	yay@s:cym&eng . 994608_995314
-%gls:	yay
-%eng:	yay
+*GAI:	yay@s:eng . 994608_995314
 *GAI:	be &=laugh ? 995314_997346
 %gls:	what
 %eng:	what?
