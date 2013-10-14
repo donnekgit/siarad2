@@ -32,8 +32,15 @@ Make sure the abbreviations in the manual gloss match those in the autogloss and
 
 Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
 
+Remove underlines from numerals.
 
 
+
+CONCOMITANT CHANGES IN PATAGONIA
+
+Remove underlines from numerals.
+
+Regloss.
 
 
 
