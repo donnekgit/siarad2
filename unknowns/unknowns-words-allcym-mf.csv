@@ -10,8 +10,7 @@ cym,a_pedwar,1,,,,,,,,have split this up,robert3
 cym&eng,aargh,4,,,,,,,,"in OED, not in Welsh dictionaries nor 2012 IM list => @eng","fusser25,robert3"
 eng,aargh,4,aargh,aargh,,IM,,,,"in OED, not in Welsh dictionaries nor 2012 IM list => @eng","fusser25,robert3"
 cym,abod,1,,,,,,,,X didn't find this in the transcription,robert5
-cym,achan,1,achan,mate,,N,M,S,,"in new GPC (""->bachgen"")",fusser11
-cym,achan,44,achan,mate,,N,M,S,,"in new GPC (""->bachgen"")","davies4,davies6,fusser11,fusser12,fusser9,robert8"
+cym,achan,44,achan,mate,,N,M,S,,"in new GPC (""->bachgen"")","davies4,davies6,fusser11,fusser12,fusser9,robert8, fusser11"
 cym,achau,5,ach,lineage,ancestry,N,F,P,,,"davies1,fusser23,fusser6,roberts4"
 cym&eng,acoeliac,1,,,,,,,,"error for ""coeliac""",stammers6
 cym,actol,1,actol,dramatic,,ADJ,,,,,fusser23
@@ -58,7 +57,7 @@ cym,alô,1,,,,,,,,"error for ""yn_ôl""",fusser17
 cym,amarch,1,amarch,dishonour,,N,M,S,,GPC,davies2
 cym,amboutu,23,amboutu,about,,PREP,,,,"GPC (""->obeutu"")","davies1,davies13,fusser27,fusser3,fusser6,robert1"
 cym,amdanan,2,am,about,,PREP,,13P,,,"robert4,robert5"
-cym,amddo,1,am,about,,PREP,M,3S,,"non-standard form covered by ""we represent non-standard usage of infelcted prepositions"" in doc file (?)",fusser19
+cym,amddo,1,am,about,,PREP,M,3S,,"non-standard form covered by ""we represent non-standard usage of inflected prepositions"" in doc file (?); added comment tier",fusser19
 cym,amharch,1,,,,,,,,"changed to ""amarch""",davies2
 cym,amhrisiadwy,1,amhrisiadwy,priceless,,ADJ,,,,,fusser23
 cym,amla,1,aml,often,,ADJ.SUP,,,,,davies2
@@ -182,7 +181,8 @@ cym,blanio,1,planio,plan,,V,,,INFIN,GPC,davies15
 cym,bleiddiaid,1,blaidd,wolf,,N,M,P,,,fusser11
 cym,bles,1,ples,content,,ADJ,,,,GPC,davies1
 cym,blês,1,,,,,,,,"changed to ""bles""",fusser15
-cym&eng,bleugh,1,bleugh,bleugh,,IM,,,,"! not in OED, Welsh dictionaries or 2012 IM list",fusser3
+cym&eng,bleugh,1,,,,,,,,"! not in OED, Welsh dictionaries or 2012 IM list, but found in English texts on the web => changed to @eng",fusser3
+eng,bleugh,1,bleugh,bleugh,,IM,,,,"! not in OED, Welsh dictionaries or 2012 IM list, but found in English texts on the web => changed to @eng",fusser3
 cym,blewiach,1,blewiach,fluff,,N,,P,,GPC,davies2
 cym&eng,blob,1,blob,blob,,N,M,S,,changed to to @cym&eng as is in new edition of GPC,davies10 (+others?)
 eng+cym,blob_yn,1,,,,,,,,"changed to ""blobyn"" @cym as is in new edition of GPC",davies10
@@ -557,7 +557,7 @@ cym,dau_ddeg_wyth,1,,,,,,,,systematically remove underscores from numbers,davies
 cym,dau_deg_pum,1,,,,,,,,systematically remove underscores from numbers,smith1
 cym,dau_gan,1,,,,,,,,systematically remove underscores from numbers,fusser15
 cym,daucanmlwyddiant,1,daucanmlwyddiant,bicentenary,,N,M,S,,"GPC and GyA have ""daucanmlwyddiant""",stammers9
-cym,dauganmlwyddiant,1,dauganmlwyddiant,bicentenary,,N,M,S,,"changed to ""daucanmlwyddiant"" in line with GPC and GyA (although ""dauganmlwyddiant widely found on the web and in book title ""Dauganmlwyddiant Ellis Wynne"")",stammers9
+cym,dauganmlwyddiant,1,,,,,,,,"changed to ""daucanmlwyddiant"" in line with GPC and GyA (although ""dauganmlwyddiant widely found on the web and in book title ""Dauganmlwyddiant Ellis Wynne"")",stammers9
 cym,dawnsiwr,1,dawnsiwr,dancer,,N,M,S,,,roberts1
 cym,dd(y)wedwyd,1,dweud,say,,V,,IMPERSONAL,PAST,,fusser10
 cym,ddafedd,1,dafedd,yarn,,N,F,S,,"! dictionaries only have ""edafedd""",davies11
@@ -882,7 +882,8 @@ cym,ffono,9,ffono,phone,,V,,,INFIN,"GPC has ""ffonio""","davies13,davies9,robert
 cym,ffordio,1,,,,,,,,"changed to ""fforddio"" after listening to sound",roberts4
 cym&eng,fforest,1,,,,,,,,"changed to ""forest""",fusser26
 cym,fformwleiddio,1,fformwleiddio,formulate, = geirio,V,,,INFIN,"!  not in dictionaries, but found on the web (including Bangor Uni website/student magazine)",robert9
-cym,ffotocopïo,2,ffotocopïo,ffotocopïo,,V,,,INFIN,"""ffotocopïo"" is what the speakers say; GyA only has ""ffotogopïo"", but ""ffotocopïo/copio"" is found on the web (including official website of Aberystwyth university and WJEC website)","fusser18,fusser29"
+cym,ffotocopïo,2,,,,,,,,"""ffotocopïo"" is what the speakers say; GyA only has ""ffotogopïo"", but ""ffotocopïo/copio"" is found on the web (including official website of Aberystwyth university and WJEC website) => changed to ""ffotogopïo""","fusser18,fusser29"
+cym,ffotogopïo,2,ffotocopïo,ffotocopïo,,V,,,INFIN,GyA,"fusser18,fusser29"
 cym,ffotograffydd,1,ffotograffydd,photographer,,N,M,S,,GPC,fusser14
 cym,ffram,1,,,,,,,,X didn't find this in the transcription,fusser27
 cym,fframin,1,fframin,frame,,N,M,S,,"GPC, GyA",davies1
@@ -1190,10 +1191,12 @@ eng+cym,headshot_io,2,headshot_io,headshot,,V,,,INFIN,,davies16
 cym,hebddyn,1,heb,without,,PREP,,3P,,,fusser11
 cym,heddi,16,heddi,today,,ADV,,,,"GPC ""heddi -> heddiw""","davies13,fusser3,robert1,stammers5"
 cym,heddychwr,1,heddychwr,pacifist,,N,M,S,,,fusser12
-cym,hefru,2,hefru,talk_rubbish,,V,,,INFIN,"! not in dictionaries, but widely on the web, including golwg360",roberts2
+cym,hefru,2,,,,,,,,"not in dictionaries, but widely on the web, including golwg360; changed to ""(r)hefru""",roberts2
+cym,(r)hefru,2,rhefru,rant,,V,,,INFIN,,roberts2
 cym,heglio,1,heglio,run_away,,V,,,INFIN,GPC,davies15
 cym,hegr,1,hegr,harsh,,ADJ,,,,"GPC ""hegr -> egr""",davies10
-cym&eng,hehey,1,hehey,hehey,,IM,,,,! not in any dictionary or the 2012 IM list; seems to indicate approval,fusser29
+cym&eng,hehey,1,,,,,,,,"! not in any dictionary or the 2012 IM list, but found in English texts => @eng; seems to indicate approval",fusser29
+eng,hehey,1,hehey,hehey,,IM,,,,"! not in any dictionary or the 2012 IM list, but found in English texts => @eng; seems to indicate approval",fusser29
 cym,hen_ffasiwn,2,,,,,,,,"have split this up in line with GPC and GyA, who both have ""hen ffasiwn"" (geiriadur.net has ""hen-ffasiwn"")","fusser12,fusser8"
 cym,hena,2,hen,old,,ADJ.SUP,,,,"! list as non-standard form? also ""henach""",davies1
 cym,heneiddiol,1,heneiddiol,ageing,,ADJ,,,,GPC,fusser26
@@ -1201,7 +1204,8 @@ cym,henffasiwn,3,,,,,,,,"have split this up in line with GPC and GyA, who both h
 cym,henoed,1,henoed,elderly_people,,N,M,SP,,GPC,fusser22
 cym,herwydd,1,herwydd,reason,,N,?,S,,GPC,fusser4
 cym,hewl,1,hewl,street,,N,F,S,,GPC,fusser27
-cym&eng,hi_fi,3,hi_fi,hi_fi,,N,,S,,"! ""system hi-fi"" on termau.org, but not in our reference dictionaries",davies3
+cym&eng,hi_fi,3,,,,,,,,"""system hi-fi"" on termau.org, but not in our reference dictionaries => @eng",davies3
+eng,hi_fi,3,hi_fi,hi_fi,,N,,S,,"""system hi-fi"" on termau.org, but not in our reference dictionaries => @eng",davies3
 cym,hintio,2,hintio,hint,,V,,,INFIN,GPC,"davies12,robert4"
 cym&eng,hiya,11,hiya,hiya,,IM,,,,"cited as @0 example in doc file of Bangor pilot on Talkbank; in OED, but not Welsh dictionaries (GyA even translates it as ""shw mae""); not on 2012 IM list; ","davies15,davies7,davies9,fusser21,fusser28,fusser5,lloyd1"
 cym,hoel,10,hoel,trace,,N,M,S,,GPC (->ôl),"fusser17,fusser18,fusser30,fusser4"
@@ -1252,7 +1256,7 @@ cym,indiaid,1,,,,,,,,"changed to ""Indiaid""",davies4
 cym,Indiaid,1,Indiad,Indian,,N,M,P,,GPC,davies4
 cym&eng,indian,4,,,,,,,,"changed to ""Indian""; GPC",davies4
 cym&eng,indians,2,,,,,,,,"changed to ""Indians@eng""; GPC",davies4
-cym,insiwro,1,insiwro,insure,,V,,,InFIN,"GPC has ""insiwrio""",fusser25
+cym,insiwro,1,insiwro,insure,,V,,,INFIN,"GPC has ""insiwrio""",fusser25
 cym&eng,io,1,,,,,,,,"metalinguistic citation of ending ""-io"" => IPA",davies7
 cym,is_bwyllgor,2,is_bwyllgor,subcommittee,,N,M,S,,GPC,fusser32
 cym,is_bwyllgorau,2,is_bwyllgor,subcommittee,,N,M,P,,GPC,fusser32
@@ -1644,13 +1648,12 @@ cym,petasech,18,bod,if_be,,V,,2P,COND,"King has this as two words ""pe tas-"", G
 cym,petasen,29,bod,if_be,,V,,1P,COND,"King has this as two words ""pe tas-"", GPC as one","davies11,deuchar1,fusser10,fusser12,fusser13,fusser21,fusser3,fusser30,fusser32,robert4,roberts1,roberts3,smith1,stammers5,stammers6"
 cym,petawn,1,bod,if_be,,V,,1S,COND,"King has this as two words ""pe tas-"", GPC as one; ""tawn"" covered by King and Thomas",fusser23
 cym,pethach,3,pethach,things,,N,,P,,GPC,davies1
-cym&eng,ph,2,ph,ph,,IM,,,,"! no mention of this in any dictionary nor 2012 IM list; seems to indicate insecurity in davies17, disapproval in fusser11;  Kevin suggested ""pff@eng"", but that isn't in OED either","davies17,fusser11, davies12"
+cym&eng,ph,2,,,,,,,,"no mention of this in any dictionary nor 2012 IM list; seems to indicate insecurity in davies17, disapproval in fusser11;  Kevin suggested ""pff@eng"", but that isn't in OED either; changed to IPA ""&pf?""","davies17,fusser11, davies12"
 cym&eng,phartner,1,partner,partner,,N,M,S,,GyA,fusser18
-eng,phew,1,phew,phew,,IM,,,,OED,davies3
-cym&eng,phh,1,phh,phh,,IM,,,,"changed to ""ph"" in order to be parallel to instances in davies17 and fusser11",davies12
+cym&eng,phh,1,,,,,,,,"changed to IPA ""&pf?""",davies12
 cym&eng,phocket,1,pocket,pocket,,N,F,S,,,fusser26
-cym&eng,phoo,1,,,,,,,,"seems to indicate relief; GPC has ""ffw"" 'away!', otherwise no record of it; not in 2012 IM list; changed to ""phew@eng""; ",davies3
-cym&eng,phooph,3,phooph,phooph,,IM,,,,! no mention of this in any dictionary nor 2012 IM list; seems to indicate surprise and/or relief,"fusser25,robert1,robert3"
+cym&eng,phoo,1,,,,,,,,"seems to indicate relief; GPC has ""ffw"" 'away!', otherwise no record of it; not in 2012 IM list; changed to IPA ""&pfu""",davies3
+cym&eng,phooph,3,,,,,,,,no mention of this in any dictionary nor 2012 IM list; seems to indicate surprise and/or relief; changed to IPA,"fusser25,robert1,robert3"
 cym&eng,photochrom,2,,,,,,,,"changed to ""Photochrom""",fusser9
 cym&eng,Photochrom,2,Photochrom,Photochrom,,NAME,,,,product name,fusser9
 cym&eng,phwoa,1,,,,,,,,"changed to ""phwoar@eng"" in line with OED; not in Welsh dictionaries",robert3
@@ -1693,7 +1696,7 @@ cym,polion,3,pawl,pole,,N,M,P,,GPC,stammers8
 cym,polisio,1,polisio,polish,,V,,,INFIN,GPC,fusser18
 cym,polyn,7,polyn,pole,,N,M,S,,,"davies10,davies15,fusser11,fusser17,robert6"
 cym&eng,poo,1,poo,poo,,N,,S,,"GPC has this as ""ebd. gyda grym enwol""",lloyd1
-cym&eng,pooph,1,,,,,,,,"sign of relief, sounds more like ""poogh"" (not ""poof""); no trace in Welsh or English dictionaries or 2012 IM list; changed to ""phew@eng""",fusser25
+cym&eng,pooph,1,,,,,,,,"sign of relief, sounds more like ""&p?uh"" (not ""poof""); no trace in Welsh or English dictionaries or 2012 IM list; changed to IPA ""&p?uh""",fusser25
 cym,popio,3,popio,pop,,V,,,INFIN,GPC,"deuchar1,fusser25,stammers2"
 cym,popo,2,popo,hurt,,N,M,S,,GPC,"davies17,stammers3"
 cym&eng,porches,1,porch,porches,,N,M,P,,GyA,fusser3
@@ -1959,7 +1962,7 @@ cym,sleidiau,1,sleid,slide,,N,MF,P,,GPC,fusser32
 cym,sleisen,2,sleisen,slice,,N,F,S,,GPC,"fusser5,robert8"
 cym&eng,sling,2,sling,sling,,N,MF,S,,GPC,fusser23
 cym,slipio,1,slipio,slip,,V,,,INFIN,GPC,davies7
-cym,slobrwydd,1,slobrwydd,sloppiness,,N,M,S,,"! not in dictionaries - GPC has ""slob"" 'large fat person' and ""sloblyd"" 'sloppy'",roberts1
+cym,slobrwydd,1,slobrwydd,sloppiness,,N,M,S,,"not in dictionaries - GPC has ""slob"" 'large fat person' and ""sloblyd"" 'sloppy'",roberts1
 cym,slofi,3,slofi,slow_down,,V,,,INFIN,GPC,"fusser18,robert3"
 cym,slum,2,slum,bat,,N,MF,S,,"GPC (""->ystlum"")",fusser16
 cym,slumod,1,slum,bat,,N,MF,P,,this plural in GPC,fusser16
@@ -2092,7 +2095,7 @@ cym&eng,thie,1,tie,tie,,N,MF,S,,,stammers1
 cym,thydy,1,,,,,,,,"changed to ""tydy""",fusser8
 cym,tibod,145,gwybod,know,,V,,2S,PRES,! add to doc file,"davies1,davies3,davies6,deuchar1,fusser10,fusser13,fusser21,fusser3,fusser30,fusser32,fusser6,fusser7,robert2,roberts2,roberts3,stammers3,stammers5,stammers9"
 cym,tical,3,tical,strip,,V,,,INFIN,GPC,davies11
-cym,ticiâu,3,ticiâu,tubercolusis,,N,M,S,,"! GPC only mentions the t- variant at the bottom of the article (as local to North Wales, spelt ""ticiáe"")",fusser26
+cym,ticiâu,3,ticiâu,tuberculosis,,N,M,S,,"! GPC only mentions the t- variant at the bottom of the article (as local to North Wales, spelt ""ticiáe"")",fusser26
 cym&eng,tiles,5,tile,tile,,N,F,P,,GPC,"fusser10,fusser13,fusser28"
 cym,timbod,1,gwybod,know,,V,,2S,PRES,! add to doc file,stammers9
 cym,timoedd,1,tim,team,,N,M,P,,GPC,stammers2
@@ -2290,7 +2293,8 @@ cym,wmgo,1,,,,,,,,X didn't find this in the transcription,fusser23
 cym,wnaen,1,gwneud,do,,V,,1P,IMPERF,"King has ""naen"" 1P.COND, Thomas ""gwnaem"" IMPERF",stammers8
 cym,wnaetho,3,gwneud,do,,V,,3S,PAST,X didn't find the one in davies6,"davies17,davies6,fusser27"
 cym,wnai,1,,,,,,,,X didn't find this in the transcription,fusser21
-cym&eng,woohoo,1,woohoo,woohoo,,IM,,,,! not found in any dictionaries nor 2012 IM list,robert3
+cym&eng,woohoo,1,,,,,,,,"not found in any dictionaries nor 2012 IM list, but in English texts => @eng",robert3
+eng,woohoo,1,woohoo,woohoo,,IM,,,,"! not found in any dictionaries nor 2012 IM list, but in English texts => @eng",robert3
 cym,wrachyddiaeth,2,gwrachyddiaeth,witchery,,N,F,S,,"not in any dictionary, but ""gwrach"" and ""-yddiaeth"" are; widely found on websites",
 cym,wrandawr,1,gwrandawr,listener,,N,M,S,,,fusser9
 cym,wrth_grws,1,,,,,,,,X didn't find this in the transcription,fusser4
