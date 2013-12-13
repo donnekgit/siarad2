@@ -795,7 +795,7 @@ cym,enjoiais,1,enjoio,enjoy,,V,,1S,PAST,GPC,davies4
 cym,eryr,3,eryr,herpes,,N,M,S,,GPC,davies10
 cym,esgeulus,1,esgeulus,negligent,,ADJ,,,,,davies16
 cym,ethen,1,,,,,,,,"changed to ""aethen"" in line with PASt stem and ""gaethen"" and ""gaethet"" below",davies1
-cym&eng,eugh,1,eugh,eugh,,IM,,,,"! not in OED, Welsh dictionaries or 2012 IM list",robert3
+cym&eng,eugh,1,,,,IM,,,,"not in OED, Welsh dictionaries or 2012 IM list => changed to IPA",robert3
 cym&eng,euph,3,,euph,euphonium,N,,S,,"only ""ewffoniwm"" in GyA, but no short form",davies3
 cym&eng,eupho,1,,eupho,euphonium,N,,S,,"only ""ewffoniwm"" in GyA, but no short form",davies3
 cym,euraid,1,euraid,golden,,ADJ,,,,,fusser12
