@@ -922,7 +922,7 @@
 *CRI:	+< dim [/] dim [/] <dim Maes_Awel@s:cym&eng oedd um@s:cym&eng> [///] (.) er@s:cym&eng dim heibio (y)r (.) tŷ Josie@s:cym&eng oedd Richard@s:cym&eng yn byw ? 634102_639861
 %gls:	NEG NEG NEG Maes_Awel be.3S.IMP IM IM NEG past DET house Josie be.3S.IMP Richard PRT live.NONFIN
 %eng:	wasn't it Maes Awel, um...er, wasn't it past Josie's house that Richard was living?
-*ANN:	nace (.) lôn gwaelod oedden nhw (y)n byw . 639861_642891
+*ANN:	nage (.) lôn gwaelod oedden nhw (y)n byw . 639861_642891
 %gls:	no road bottom be.3PL.IMP PRON.3PL PRT live.NONFIN
 %eng:	no, they lived on the lower road
 *ANN:	oh@s:cym&eng Maes_Awel@s:cym&eng <ydy &g> [//] ydy Josie@s:cym&eng de . 642891_645341
@@ -1011,7 +1011,7 @@
 *CRI:	&gwə [//] yn (.) ysbyty ta +/? 696169_698294
 %gls:	in hospital or
 %eng:	at the hospital, or..?
-*ANN:	nace &ŋ yn (.) Glasfryn@s:cym&eng [?] (.) xxx . 697888_700732
+*ANN:	nage &ŋ yn (.) Glasfryn@s:cym&eng [?] (.) xxx . 697888_700732
 %gls:	no in Glasfryn xxx
 %eng:	no in Glasfryn, [...]
 *BEI:	+< xxx . 698805_699734
@@ -3546,8 +3546,10 @@
 %eng:	God, once you'll have had it framed it won't be in view
 *CRI:	&=sniff . 2615455_2616183
 *CRI:	xxx . 2616183_2618756
-*ANN:	+< <cyn_belled â bod o> [///] wneith o (ddi)m rhedeg ti na wneith . 2617401_2619280
-%gls:	as_long_as PRT be.NONFIN PRON.3SM do.3S.NONPAST PRON.3SM NEG run.NONFIN PRON.2S NEG do.3S.NONPAST
+*ANN:	+< <cyn belled â bod o> [///] wneith o (ddi)m rhedeg ti na wneith .
+	2617401_2619280
+%gls:	as as_long PRT be.NONFIN PRON.3SM do.3S.NONPAST PRON.3SM NEG
+	run.NONFIN PRON.2S NEG do.3S.NONPAST
 %eng:	as long as it's...it won't run, will it
 %com:	intonation here doesn't suggest there's retracing, but can't make sense of the utterance otherwise
 *CRI:	na wneith . 2619280_2619963

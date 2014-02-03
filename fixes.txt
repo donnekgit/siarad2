@@ -16,7 +16,7 @@ Run Chatter
 
 Systematically replace "yeah@s:cym" by "yeah@s:cym&eng"
 
-?? Systematically replace "..." quotation marks in main tier by <...> ["]
+?? Systematically replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!
 
 ? Check for unmotivated colons in main tier (e.g. fusser22) - can that be done automatically?
 
@@ -29,6 +29,20 @@ Replace any instances of "tax@s:cym&eng" by "tax@s:eng"
 Replace "uh_huh@s:cym&eng" by "uhuh@s:eng" in line with IM list
 
 Make sure the abbreviations in the manual gloss match those in the autogloss and the abbreviations list in the doc file
+
+Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
+
+Systematically replace "trwadd" by "trwodd" and "drwadd" by "drwodd"
+
+Remove underlines from numerals.
+
+
+
+CONCOMITANT CHANGES IN PATAGONIA
+
+Remove underlines from numerals.
+
+Regloss.
 
 
 

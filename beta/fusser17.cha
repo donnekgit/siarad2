@@ -394,7 +394,7 @@
 *BEN:	<oh@s:cym&eng &i> [//] oh@s:cym&eng efo [//] yeah@s:cym&eng <efo (y)r er@s:cym&eng> [/] efo (y)r [/] er@s:cym&eng (.) yr adar . 197474_200945
 %gls:	IM yeah IM with yeah with DET IM with DET IM DET birds
 %eng:	oh yeah...oh with...yeah with the er...with the er...the birds
-*AET:	y lerych [//] elyrch (.) yeah@s:cym&eng . 200934_202873
+*AET:	y lerych [*] [//] elyrch (.) yeah@s:cym&eng . 200934_202873
 %gls:	DET swans swans yeah
 %eng:	the swans, yeah
 *BEN:	+< ac y er@s:cym&eng um@s:cym&eng (.) tonnau bach er@s:cym&eng um@s:cym&eng (.) tu ôl <i (y)r er@s:cym&eng> [/] <i (y)r &ad> [/] i (y)r adar . 201213_207435
@@ -1224,8 +1224,11 @@
 *AET:	mae (y)r mab (we)di bod . 699248_700502
 %gls:	be.3S.PRES DET son PRT.PAST be.NONFIN
 %eng:	my son's been
-*AET:	oedd o (y)n deud bod o (y)n (.) resymol hawdd (.) cyn_belled dach chi (ddi)m yn ofn (.) uchder (fe)lly de (.) (a)chos mae o ar ochr . 700502_706087
-%gls:	be.3S.IMP PRON.3SM PRT say.NONFIN be.NONFIN PRON.3SM PRT reasonable easy as_far be.2PL.PRES PRON.2PL NEG PRT scared height thus TAG because be.3S.PRES PRON.3SM on edge
+*AET:	oedd o (y)n deud bod o (y)n (.) resymol hawdd (.) cyn belled dach
+	chi (ddi)m yn ofn (.) uchder (fe)lly de (.) (a)chos mae o ar ochr . 700502_706087
+%gls:	be.3S.IMP PRON.3SM PRT say.NONFIN be.NONFIN PRON.3SM PRT reasonable
+	easy as as_far be.2PL.PRES PRON.2PL NEG PRT scared height thus TAG
+	because be.3S.PRES PRON.3SM on edge
 %eng:	he said that it's reasonably easy, as long as you're not scared of height, because it's on an edge
 *BEN:	+< yeah@s:cym&eng . 704868_705413
 %gls:	yeah
@@ -4096,7 +4099,8 @@
 %eng:	there was a little bit of wind on the day too
 *BEN:	&=clears_throat . 2467997_2468914
 @Comment:	Researcher comes in to stop the recording, but Aethwy suggests continuing to the end of the box of photographs. Transcription proceeds after the researcher has left the room. Elapsed time is approximately 38 seconds.
-*AET:	yeah@s:cym&eng llyn Idwal@s:cym&eng edrych tuag at mynydd Pen_yr_Ole_Wen@s:cym&eng . 2508817_2511778
+*AET:	yeah@s:cym&eng llyn Idwal@s:cym&eng edrych tuag at mynydd
+	Pen_yr_Ole_Wen@s:cym&eng . 2508817_2511778
 %gls:	yeah lake Idwal look.NONFIN towards to mountain Pen_yr_Ole_Wen
 %eng:	yeah, lake Idwal looking towards Pen-yr-Ole-Wen mountain
 *BEN:	yeah@s:cym&eng . 2511778_2512637
@@ -4109,7 +4113,7 @@
 *BEN:	yeah@s:cym&eng . 2515841_2516271
 %gls:	yeah
 %eng:	yeah
-*AET:	pen yr ole “wen” de . 2515901_2517827
+*AET:	"pen yr olau wen” de . 2515901_2517827
 %gls:	head DET light white TAG
 %eng:	"the peak of the white light" isn't it
 %com:	This is AET's explanation of the placename's etymology, whereas ole here probably comes from goleddf meaning 'hillside'.
