@@ -1,6 +1,8 @@
 In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV". Also "throw_a_tantrum".
 
-Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".
+Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".  Likewise for negative forms, eg do't ti --> d(oedde)t ti.
+
+Change headers to reflect new marking.
 
 Manual gloss: systematically replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
 
@@ -12,9 +14,19 @@ Get rid of caps at beginning of %eng (unless proper name)?  eg in davies2
 
 Add grammar rule to use lawr (adv) instead of llawr (n) everywhere except after ar (prep)
 
+In English CG, add rule to say that where you have a "_o" ending, SV gets converted to V (eg swim_o)
+
+In English CG, add rule to say that AS+PV will collapse to N.PL when followed by "yn"
+
+(Test the English CG by extracting all the English utterances, and running it against them)
+
 Run Chatter
 
 Systematically replace "yeah@s:cym" by "yeah@s:cym&eng"
+
+Systematically replace t/drwadd by t/drwodd
+
+Convert xx to xxx throughout
 
 ?? Systematically replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!
 
@@ -32,9 +44,9 @@ Make sure the abbreviations in the manual gloss match those in the autogloss and
 
 Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
 
-Systematically replace "trwadd" by "trwodd" and "drwadd" by "drwodd"
-
 Remove underlines from numerals.
+
+
 
 
 

@@ -1,4 +1,4 @@
-Language,Speaker tier,Count,Lemma,English lemma,Clarifier,POS,Gender,Number,Tense,Notes,Occurring in files Ö
+Language,Speaker tier,Count,Lemma,English lemma,Clarifier,POS,Gender,Number,Tense,Notes,Occurring in files ¬Ö
 cym,0,1,,,,,,,,"? ""[- eng] 0 [=! inhales] (.) 0 [=! exhales] ."" Seems to be a notation for non-verbal sounds - see further examples under @eng. Language???",fusser21
 eng,0,8,,,,,,,,"? seems to be a notation for non-verbal sounds, e.g. davies12: ""[- eng] 0 [% seems to be laughing and clearing her throat at the same time] ""; fusser14: ""[- eng] 0 [=! kisses twice]""","davies12,fusser14,fusser17,fusser21,robert7"
 cym,(am)boutu,1,amboutu,about,,PREP,,,,"GPC has ""amboutu -> obeutu""; GyA ""biti/boiti/amboutu""",davies13
@@ -18,7 +18,7 @@ cym,adduniad,1,,,,,,,,"error for ""aduniad""",roberts4
 cym&eng,addyned,1,,,,,,,,cited form (error),fusser30
 cym,adeiladwyr,7,adeiladwr,builder,,N,M,P,,,fusser5
 cym,adferteisio,5,adferteisio,advertise,,V,,,INFIN,GPC,"fusser21,fusser25,robert5,robert7"
-cym,adnabodais,1,adnabod,recognise,,V,,1S,PAST,"! King only has ""-bydd-"" forms for ""bod"" derivatives, Thomas has ""adnab˚m"" and ""adnabyddais""",robert8
+cym,adnabodais,1,adnabod,recognise,,V,,1S,PAST,"! King only has ""-bydd-"" forms for ""bod"" derivatives, Thomas has ""adnab√ªm"" and ""adnabyddais""",robert8
 cym,aduniad,4,aduniad,reunion,,N,M,S,,,"fusser23,stammers1"
 cym,aeliau,2,ael,eyebrow,,N,F,P,,,fusser12
 cym,aetha,2,,,,,,,,"changed to ""aethai"" (one instance only)",roberts3
@@ -53,7 +53,7 @@ cym&eng,alcopop,1,alcopop,alcopop,,N,M,S,,GPC,davies6
 cym,allor,2,allor,altar,,N,F,S,,,"fusser30,fusser6"
 cym,allt,15,allt,slope,,N,F,S,,,"davies10,davies11,davies12,fusser17,fusser4,robert3,robert5,stammers3"
 cym,almaeneg,3,,German Language,,N,F,SG,,"changed to ""Almaeneg""","roberts1,roberts2"
-cym,alÙ,1,,,,,,,,"error for ""yn_Ùl""",fusser17
+cym,al√¥,1,,,,,,,,"error for ""yn_√¥l""",fusser17
 cym,amarch,1,amarch,dishonour,,N,M,S,,GPC,davies2
 cym,amboutu,23,amboutu,about,,PREP,,,,"GPC (""->obeutu"")","davies1,davies13,fusser27,fusser3,fusser6,robert1"
 cym,amdanan,2,am,about,,PREP,,13P,,,"robert4,robert5"
@@ -115,7 +115,7 @@ eng+cym,attract_ia,1,attract_io,attract,,V,,2S,IMPER,,davies16
 cym&eng,au_pair,1,au_pair,au_pair,,N,F,S,,"! entry ""au pair"" in GyA (under ""au"")",davies4
 cym&eng,aw,29,aw,aw,,IM,,,,"in OED, not in Welsh dictionaries nor 2012 IM list, but in Siarad documentation on Talkbank as ""aw@0""","davies10,davies2,fusser15,fusser23,fusser27,fusser6,stammers6"
 cym,awch,1,awch,keenness,,N,MF,S,,GPC,fusser9
-cym,awÍ,3,awÍ,off,,IM/ADV,,,,in new GPC,"davies15,fusser11,fusser13"
+cym,aw√™,3,aw√™,off,,IM/ADV,,,,in new GPC,"davies15,fusser11,fusser13"
 cym,awren,1,awren,hour,,N,F,S,,"""awren"" not in dictionaries, but should be covered by ""-en"" as suffix in GPC",robert7
 cym&eng,aww,29,,,,,,,,"in Siarad documentation on Talkbank as ""aw@0"", thus changed spelling accordingly","davies10,davies2,fusser15,fusser23,fusser27,fusser6,stammers6"
 cym,awyrenau,1,,,,,,,,X didn't find this in the transcription,fusser18
@@ -158,10 +158,10 @@ cym,bendro,2,pendro,dizziness,,N,F,S,,GPC,roberts3
 cym,benelin,1,penelin,elbow,,N,MF,S,,,roberts1
 cym,bensal,1,pensal,pencil,,N,M,S,,GPC,fusser18
 cym,berchynu,1,perchynu,own,,V,,,INFIN,"see ""perchynu""",davies16
-cym,berf‚id,1,berf‚id,barrowful,,N,F,S,,GPC,davies4
+cym,berf√¢id,1,berf√¢id,barrowful,,N,F,S,,GPC,davies4
 cym,berfeddion,1,perfedd,middle,,N,M,P,,,stammers9
 cym,bethe,1,,,,,,,,"changed to ""bethau""",fusser32
-cym,beud·i,3,beudy,cowshed,,N,M,P,,GPC,fusser16
+cym,beud√°i,3,beudy,cowshed,,N,M,P,,GPC,fusser16
 cym&eng,bible,2,,,,,,,,"changed to ""Bible""",fusser8
 cym&eng,Bible,2,Bible,Bible,,N,M,S,,,fusser8
 cym,biciad,2,picio,dash,,V,,,INFIN,GPC,"fusser5,stammers6"
@@ -171,8 +171,8 @@ cym,bidlen,2,pidlen,penis,,N,F,S,,,davies6
 cym&eng,bikes,6,bike,bike,,N,M,P,,,"fusser11,fusser4,roberts4"
 cym&eng,bikinis,3,bikini,bikini,,N,M,P,,GyA,fusser30
 cym&eng,biro,1,biro,biro,,N,MF,S,,GyA,smith1
-cym,bitio,1,,,,,,,,"changed to ""bitÔo""",davies10
-cym,bitÔo,1,pitÔo,pity,,V,,,INFIN,,davies10
+cym,bitio,1,,,,,,,,"changed to ""bit√Øo""",davies10
+cym,bit√Øo,1,pit√Øo,pity,,V,,,INFIN,,davies10
 eng+cym,blag_io,1,blag_io,blag,,V,,,INFIN,,fusser6
 cym,blaidd,3,blaidd,wolf,,N,M,S,,,davies4
 cym,blaidds,1,blaidd,wolf,,N,M,P,,! this plural not in dictionaries,davies4
@@ -180,7 +180,7 @@ cym,blaniau,1,plan,plan,,N,M,P,,GPC,roberts2
 cym,blanio,1,planio,plan,,V,,,INFIN,GPC,davies15
 cym,bleiddiaid,1,blaidd,wolf,,N,M,P,,,fusser11
 cym,bles,1,ples,content,,ADJ,,,,GPC,davies1
-cym,blÍs,1,,,,,,,,"changed to ""bles""",fusser15
+cym,bl√™s,1,,,,,,,,"changed to ""bles""",fusser15
 cym&eng,bleugh,1,,,,,,,,"! not in OED, Welsh dictionaries or 2012 IM list, but found in English texts on the web => changed to @eng",fusser3
 eng,bleugh,1,bleugh,bleugh,,IM,,,,"! not in OED, Welsh dictionaries or 2012 IM list, but found in English texts on the web => changed to @eng",fusser3
 cym,blewiach,1,blewiach,fluff,,N,,P,,GPC,davies2
@@ -202,7 +202,7 @@ eng+cym,book_o,13,book_o,book,,V,,,INFIN,"have changed this to ""book_o"" as I h
 cym,bopio,1,bopio,bop,,V,,,INFIN,GyA,fusser10
 cym,bordyn,2,,,,,,,,X didn't find this in the transcription,stammers6
 cym,bosibilydd,1,,,,,,,,"error for ""bosibilrwydd""",fusser17
-cym&eng,boutiques,1,boutique,boutique,,N,M,P,,"GyA has ""bwtÓg/bwtÓc"", but only with -au plural; GPC doesn't have it at all",fusser27
+cym&eng,boutiques,1,boutique,boutique,,N,M,P,,"GyA has ""bwt√Æg/bwt√Æc"", but only with -au plural; GPC doesn't have it at all",fusser27
 cym&eng,boxes,5,box,box,,N,M,P,,,"fusser28,fusser32,fusser5,robert2,roberts4"
 cym,bragdy,2,bragdy,brewery,,N,M,S,,"new GPC ""bragdy -> bracdy""",fusser10
 cym,brathiad,1,brathiad,bite,,N,M,S,,,fusser16
@@ -220,7 +220,7 @@ cym,brodwaith,1,brodwaith,embroidery,,N,M,S,,,fusser13
 cym,broffesiynnol,1,,,,,,,,"changed to ""broffesiynol""",fusser32
 cym,bromptio,1,,,,,,,,"changed to ""bromtio""",fusser9
 cym,bromtio,1,promtio,prompt,,V,,,INFIN,GPC,fusser9
-cym&eng,brunettes,1,brunette,brunette,,N,F,P,,"GyA has ""brwnÈt"", but not the -s plural",robert6
+cym&eng,brunettes,1,brunette,brunette,,N,F,P,,"GyA has ""brwn√©t"", but not the -s plural",robert6
 cym,brwyn,11,brwynen,rush,,N,F,P,,,fusser17
 cym,buais,7,,,,,,,,"changed to ""bues""",davies1
 cym,bugail,2,bugail,shepherd,,N,M,S,,,fusser30
@@ -266,7 +266,7 @@ cym,caethwasiaeth,1,caethwasiaeth,slavery,,N,F,S,,,stammers9
 cym&eng,caets,1,,,,,,,,changed to @cym (=pronunciation),stammers2
 cym,caets,1,caets,cage,,N,M,S,,GPC,stammers2
 cym&eng,cafe,21,cafe,cafe,,N,M,S,,GPC,"davies10,davies11,davies7,fusser10,fusser14,fusser16,fusser23,fusser6,roberts2"
-cym&eng,cafÈ,2,,,,,,,,"changed to ""cafe"" to conform with the other instances in the corpus",fusser21
+cym&eng,caf√©,2,,,,,,,,"changed to ""cafe"" to conform with the other instances in the corpus",fusser21
 cym&eng,cafes,6,cafe,cafe,,N,M,P,,GPC,"fusser14,fusser16,fusser19"
 cym,caffael,2,caffael,acquire,,V,,,INFIN,or NMS?,fusser15
 cym,calla,1,call,wise,,ADJ.SUP,,,,,davies4
@@ -274,7 +274,7 @@ cym,calonogol,1,calonogol,heartening,,ADJ,,,,,fusser32
 cym,cambihafio,1,cambihafio,misbehave,,,,,,GyA,fusser14
 cym,camddallt,2,camddallt,misunderstand,,V,,,INFIN,"GPC has ""cam-"" and ""dallt""",fusser21
 cym,camelod,1,camel,camel,,N,M,P,,GPC,fusser26
-cym,camer‚u,3,camera,camera,,N,M,P,,,"fusser4,robert1,roberts1"
+cym,camer√¢u,3,camera,camera,,N,M,P,,,"fusser4,robert1,roberts1"
 cym,camgymeryd,2,camgymeryd,mistake,,V,,,INFIN,GPC,"davies11,fusser8"
 cym,cancr,3,cancr,cancer,,N,M,S,,GPC,fusser27
 cym,caniad,2,caniad,ring,,N,M,S,,,"davies15,fusser28"
@@ -297,7 +297,7 @@ cym,carpiau,1,carp,rag,,N,M,P,,GPC,fusser9
 cym,carpiog,1,carpiog,ragged,,ADJ,,,,GPC,fusser9
 cym,cartefi,1,,,,,,,,X didn't find this in the transcription,fusser10
 cym,carw,1,carw,hart,,N,M,S,,,fusser12
-cym,casau,1,,,,,,,,"changed to ""cas·u""",fusser15
+cym,casau,1,,,,,,,,"changed to ""cas√°u""",fusser15
 eng+cym,case_yn,1,case_yn,character,,N,M,S,,,fusser8
 cym,caseg,1,caseg,mare,,N,F,S,,,fusser17
 cym&eng,cases,2,,,,,,,," 'characters'; haven't found any trace of it in Welsh dictionaries and therefore changed the tag to @eng (but cf. ""cesyn"")",fusser6
@@ -382,7 +382,7 @@ cym,cledrau,1,cedr,rail,,N,F,P,,,davies10
 cym,cledrffordd,2,cledrffordd,railroad,,N,F,S,,GPC,fusser4
 cym,cleimio,6,cleimio,claim,,V,,,INFIN,GPC,"davies2,davies4,fusser25,fusser29,robert7"
 cym,cleiog,1,cleiog,clayey,,ADJ,,,,,davies4
-cym,clÍn,10,clÍn,pleasant,,ADJ,,,,GPC,"davies2,fusser11,fusser14,fusser21,fusser23,fusser5"
+cym,cl√™n,10,cl√™n,pleasant,,ADJ,,,,GPC,"davies2,fusser11,fusser14,fusser21,fusser23,fusser5"
 cym,clico,1,clicio,click,,V,,,INFIN,,robert6
 cym&eng,clip_art,2,,,,,,,,"haven't found this as Welsh, on the contrary, www.geiriadur.net has it as ""cliplun"", so have changed it to ""clip art"" @eng",fusser8
 cym,clochdar,1,clochdar,cluck,,V,,,INFIN,,davies11
@@ -408,7 +408,7 @@ cym,coedydd,2,coed,wood,,N,M,P,,,fusser9
 cym,coedyn,5,coedyn,plank,,N,M,S,,GPC,"fusser13,stammers6"
 cym,coel,2,coel,believe,,N,MF,S,,,fusser6
 cym,cogyddes,1,cogyddes,cook,,N,F,S,,,deuchar1
-cym,cÙl,3,cÙl,lap,,N,F,S,,,davies1
+cym,c√¥l,3,c√¥l,lap,,N,F,S,,,davies1
 cym,colur,1,colur,make-up,,N,M,S,,,fusser3
 cym,comitio,1,comitio,commit,,V,,,INFIN,GPC,stammers6
 cym,compario,1,compario,compare,,V,,,INFIN,GPC,robert3
@@ -418,8 +418,8 @@ cym,conffyrmio,2,conffyrmio,confirm,,V,,,INFIN,GPC,davies15
 cym,considro,1,,,,,,,,X didn't find this in the transcription,robert5
 cym,controlio,3,controlio,control,,V,,,INFIN,GPC,"fusser15,robert3"
 cym,copyn,8,,,,,,,,"changed to ""pry_copyn""",fusser16
-cym,cor,1,,,,,,,,"changed to ""cÙr""",fusser9
-cym,cÙr,1,cÙr,plaiting,,N,M,S,,GPC has this only in compositions; metalinguistic citation,
+cym,cor,1,,,,,,,,"changed to ""c√¥r""",fusser9
+cym,c√¥r,1,c√¥r,plaiting,,N,M,S,,GPC has this only in compositions; metalinguistic citation,
 cym,cordwellt,6,cordwellt,cordgrass,,N,M,S,,"! on http://termau.org (citing Cymdeithas Edward Llwyd), but not in our reference dictionaries",fusser9
 cym,cordyn,1,cordyn,string,,N,M,S,,,fusser15
 cym,cored,4,cored,weir,,N,F,S,,GPC,fusser9
@@ -517,7 +517,7 @@ cym,cyrfrifiadur,1,,,,,,,,X didn't find this in the transcription,robert9
 cym,cyrliog,2,cyrliog,curly,,ADJ,,,,GPC,"fusser12,fusser26"
 cym,cyrsys,1,cwrs,course,,N,M,P,,GPC,fusser17
 cym,cysegredig,2,cysegredig,sacred,,ADJ,,,,,davies14
-cym,cyw_iar,2,,,,,,,,"have split this into ""cyw i‚r""",davies2
+cym,cyw_iar,2,,,,,,,,"have split this into ""cyw i√¢r""",davies2
 cym&eng,d,1,d,d,letter,N,F,S,,,fusser30
 cym,d(y)wed,1,dweud,say,,V,,2S,IMPER,,stammers9
 cym,d(y)wedaist,2,dweud,say,,V,,1S,PAST,,fusser14
@@ -536,7 +536,7 @@ cym,dalwr,1,talwr,payer,,N,M,S,,GPC,fusser11
 cym,dannodd,1,dannodd,toothache,,N,F,S,,GPC,davies16
 cym,danodd,1,,,,,,,,"changed to ""dannodd""",davies16
 cym,danyn,2,tan,under,,PREP,,3P,,,"fusser25,robert5"
-cym&eng,d‚p,1,,,,,,,,changed to @cym,robert2
+cym&eng,d√¢p,1,,,,,,,,changed to @cym,robert2
 cym,dario,1,dario,damn,,IM,,,,GPC,fusser21
 cym,darlithydd,3,darlithydd,lecturer,,N,M,S,,,"davies2,stammers7"
 cym,daru,11,darfod,happen,,V,,3S,PAST,King has this,"davies14,deuchar1,fusser31,stammers8"
@@ -591,12 +591,12 @@ cym,ddioddodd,1,dioddau,suffer,,V,,3S,PAST,"GPC has ""dioddau""",stammers1
 cym,ddipyn,14,tipyn,bit,,N,M,S,,,"davies10,davies12,deuchar1,fusser10,fusser11,fusser17,fusser23,fusser31,robert7,roberts3,stammers3"
 cym,ddistawach,1,distaw,quiet,,ADJ.COMP,,,,,davies12
 cym,ddoethach,1,doeth,wise,,ADJ.COMP,,,,,stammers6
-cym,ddois,11,dod,come,,V,,1S,PAST,"! King and Thomas mention ""dÙth"", but no other -o- forms","davies4,fusser11,fusser16,fusser4,lloyd1,robert8,roberts2,stammers1"
+cym,ddois,11,dod,come,,V,,1S,PAST,"! King and Thomas mention ""d√¥th"", but no other -o- forms","davies4,fusser11,fusser16,fusser4,lloyd1,robert8,roberts2,stammers1"
 cym,ddoith,3,dod,come,,V,,3S,PRES,"! this form not mentioned by the grammars (only the one in roberts2 is clearly ""doith"", the others sound more like ""deith"" - which isn't in the grammars either)","davies14,fusser10,roberts2"
-cym,ddon,5,,,,,,,,"changed to ""dÙn"" in line with King","fusser10,fusser16,fusser23,robert7,roberts3"
-cym,ddÙn,5,dod,come,,V,,3P,PRES,"King has ""dÙn""","fusser10,fusser16,fusser23,robert7,roberts3"
-cym,ddothoch,1,dod,come,,V,,2P,PAST,"! King and Thomas mention ""dÙth"", but no other -o- forms",davies11
-cym,ddothon,3,dod,come,,V,,1P,PAST,"! King and Thomas mention ""dÙth"", but no other -o- forms","davies15,fusser17,fusser30"
+cym,ddon,5,,,,,,,,"changed to ""d√¥n"" in line with King","fusser10,fusser16,fusser23,robert7,roberts3"
+cym,dd√¥n,5,dod,come,,V,,3P,PRES,"King has ""d√¥n""","fusser10,fusser16,fusser23,robert7,roberts3"
+cym,ddothoch,1,dod,come,,V,,2P,PAST,"! King and Thomas mention ""d√¥th"", but no other -o- forms",davies11
+cym,ddothon,3,dod,come,,V,,1P,PAST,"! King and Thomas mention ""d√¥th"", but no other -o- forms","davies15,fusser17,fusser30"
 cym,ddou,1,dou,two,,NUM,,,,"GPC ""dou -> dau""",robert1
 cym,ddrewdod,1,drewdod,stink,,N,M,S,,,davies6
 cym,ddropio,1,dropio,drop,,V,,,INFIN,GPC,fusser28
@@ -623,7 +623,7 @@ cym,dech,2,,,,,,,,"changed to ""dych""","davies3,fusser10"
 cym,decin,1,decin,I_suppose,,V,,1S,?,GPC,lloyd1
 cym,decpunt,1,decpunt,ten_pounds,,N,,P,,GPC,fusser27
 cym,dedaist,1,,,,,,,,"changed to ""deudaist"" in line with other instance in transcription",roberts2
-cym&eng,deddy_bears,1,teddy_bear,teddy_bear,,N,M,P,,"GPC ""tedi-bÍr""",fusser26
+cym&eng,deddy_bears,1,teddy_bear,teddy_bear,,N,M,P,,"GPC ""tedi-b√™r""",fusser26
 cym,defnyddais,1,,,,,,,,"changed to ""defnyddiais"" (as she is saying ""defnyddis"" anyway)",fusser13
 cym,deg_ar_ugain,1,,,,,,,,systematically remove underscores from numbers,davies11
 cym,degannau,1,,,,,,,,"changed to ""deganau""",smith1
@@ -646,7 +646,7 @@ cym,di_Gymraeg,4,di_Gymraeg,without_Welsh,,ADJ,,,,"GPC ""di-Gymraeg -> di + Gymr
 cym,di_lun,1,di_lun,shapeless,,ADJ,,,,"GPC ""di-lun""",fusser23
 cym,di_ri,1,di_rif,countless,,ADJ,,,,"GPC ""di-rif -> di + rif""",fusser15
 cym,di_rif,2,di_rif,countless,,ADJ,,,,"GPC ""di-rif -> di + rif""",fusser4
-cym,di‚n,3,,,,,,,,"as this doesn't have a meaning of its own, I've amalgamated it to ""myn_di‚n_i""","fusser11,fusser15"
+cym,di√¢n,3,,,,,,,,"as this doesn't have a meaning of its own, I've amalgamated it to ""myn_di√¢n_i""","fusser11,fusser15"
 cym,diarygaeth,1,,,,,,,,"error for ""daearyddiaeth""",fusser17
 cym,diawch,1,diawch,blimey,,IM,,,,GPC,stammers1
 cym,diawl,34,diawl,devil,,N,M,S,,,"davies1,davies14,davies4,davies6,fusser11,fusser12,fusser22,fusser27,fusser30,fusser32,fusser9,lloyd1,robert8,roberts2"
@@ -664,7 +664,7 @@ cym,digri,1,digri,funny,,ADJ,,,,GPC,robert8
 cym&eng,diles,3,tile,tile,,N,F,P,,GPC,"fusser17,fusser28"
 cym,dilifro,5,dilifro,deliver,,V,,,INFIN,GPC,"fusser28,fusser29,robert7"
 cym,din,8,tim,arse,,MF,M,S,,GPC,"davies16,davies2,davies6,fusser11,fusser29,roberts2,roberts3"
-cym,dÓn,8,,,,,,,,"changed to ""din""","davies16,davies2,davies6,fusser11,fusser29,roberts2,roberts3"
+cym,d√Æn,8,,,,,,,,"changed to ""din""","davies16,davies2,davies6,fusser11,fusser29,roberts2,roberts3"
 cym&eng,ding,4,ding,ding,,IM,,,,"OED has ""ding"", GPC has ""ding-dong""",lloyd1
 cym,diodde,8,dioddef,suffer,,V,,,INFIN,,"davies12,deuchar1,fusser12,fusser16,fusser19,fusser6"
 cym,diogrwydd,1,diogrwydd,laziness,,N,M,S,,,stammers3
@@ -676,12 +676,12 @@ cym,ditsio,1,titsio,teach,,V,,,INFIN,GPC,fusser8
 cym,ditso,1,,,,,,,,"changed to ""ditsio"" (i.e. what she says and what is in GPC)",fusser8
 cym,diwc,2,diwc,gosh,,IM,,,,"! in GPC in examples of ""duwcs"" article; not in 2012 IM list; < duw",robert8
 cym,dlodaidd,1,tlodaidd,poor,,ADJ,,,,GPC,fusser9
-cym,dÙ,2,,,,,,,,"changed to ""do"" ('roof')",fusser23
+cym,d√¥,2,,,,,,,,"changed to ""do"" ('roof')",fusser23
 cym,doedda,1,bod,be,,V,,2S,IMPERF,covered by doc file,fusser11
 cym,doeddachd,2,bod,be,,V,,be.2S.IMP.NEG,IMPERF,covered by doc file,davies4
 cym,doethuriaeth,2,doethuriaeth,doctorate,,N,F,S,,GPC,stammers6
 cym,dofe,7,dofe,wasn't_it,,TAG,,,,in doc file,"davies11,davies13,robert1"
-cym,dÙl,2,dÙl,back,,ADV,,,,"! GPC lists this as a variant in the ""Ùl"" article, but without reference; make sure treatment of this conforms with that of ""yn_dÙl""!",fusser21
+cym,d√¥l,2,d√¥l,back,,ADV,,,,"! GPC lists this as a variant in the ""√¥l"" article, but without reference; make sure treatment of this conforms with that of ""yn_d√¥l""!",fusser21
 cym&eng,doolall,1,,,,,,,,"haven't found any record of that as Welsh and in English only as ""doollaly"", so changed it to ""doolall(y)@eng""",fusser25
 eng,doolall(y),1,doolally,doolally,,ADJ,,,,,fusser25
 cym,dorcalonnus,1,torcalonnus,heartbreaking,,ADJ,,,,GPC,fusser11
@@ -708,11 +708,11 @@ cym,droead,1,troead,turn,,N,MF,S,,GPC,roberts4
 cym,droeo,1,,,,,,,,"replaced by ""draw_io@s:eng+cym""",smith1
 eng+cym,draw_io,1,draw_io,draw,,V,,,INFIN,"""Cymru draw_io neithiwr"" (or ""draw_iodd""?",smith1
 cym,droeodd,3,troi,turn,,V,,3S,PAST,"! King doesn't mention this, Thomas only has ""troes/trodd""","fusser18,stammers1"
-cym,drÙns,3,trÙns,underpants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",davies6
+cym,dr√¥ns,3,tr√¥ns,underpants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",davies6
 cym,dropian,2,dropian,drop,,V,,,INFIN,GPC,fusser7
 cym,dropio,4,dropio,drop,,V,,,INFIN,GPC,"davies12,davies4,lloyd1"
 cym,dropyn,1,dropyn,drop,,N,M,S,,"GPC ""dropyn -> tropyn""",fusser12
-cym,droriau,1,drÙr,drawer,,N,M,P,,GPC,fusser13
+cym,droriau,1,dr√¥r,drawer,,N,M,P,,GPC,fusser13
 cym,drosleisio,2,trosleisio,dub,,V,,,INFIN,GPC,roberts1
 cym,drosor,1,,,,,,,,error - have put & in front of it and deleted gloss,fusser5
 cym,dross,1,,,,,,,,X didn't find this in the transcription,fusser16
@@ -759,8 +759,8 @@ cym,dynn,6,tynn,tight,,ADJ,,,,,"davies14,fusser11,fusser30,fusser4,stammers6"
 cym,dyny,1,,,,,,,,X can't find this in the transcription,fusser3
 cym,dyro,1,rhoi,give,,V,,2S,IMPER,listed by Thomas,fusser28
 cym,dysglaid,2,dysglaid,cupful,,N,M,S,,"GPC, GyA",fusser27
-cym,dyweddio,1,,,,,,,,"changed to ""dyweddÔo""",davies12
-cym,dyweddÔo,1,dyweddÔo,become_engaged,,V,,,INFIN,GPC,davies12
+cym,dyweddio,1,,,,,,,,"changed to ""dywedd√Øo""",davies12
+cym,dywedd√Øo,1,dywedd√Øo,become_engaged,,V,,,INFIN,GPC,davies12
 cym,e_bostio,13,e_bostio,e_mail,,V,,,INFIN,Cysgeir,"davies4,fusser10,fusser27,fusser5,roberts4,stammers7"
 cym,e_bosto,1,e_bostio,e_mail,,V,,,INFIN,"Cysgeir has ""e-bostio""",robert1
 cym,e_bosts,1,e_bost,e_mail,,N,M,P,,! this plural not found in dictionaries,fusser22
@@ -773,7 +773,7 @@ cym,edrau,1,,,,,,,,"error for ""edau""",fusser13
 cym,efail,1,gefail,smithy,,N,F,S,,,fusser23
 cym,efellai,4,efallai,maybe,,ADV,,,,"not in dictionaries, but speaker cites this form specifically",
 cym,efengylaidd,1,efengylaidd,evangelical,,ADJ,,,,GPC,fusser5
-cym,efÙ,1,efÙ,he,,PRON,M,3S,,GPC,fusser9
+cym,ef√¥,1,ef√¥,he,,PRON,M,3S,,GPC,fusser9
 cym,eglwyswr,1,eglwyswr,church_goer,,N,M,S,,,fusser23
 cym,eglwyswraig,1,eglwyswraig,church_goer,,N,F,S,,,fusser23
 cym,eidalaidd,1,,,,,,,,"changed to ""Eidalaidd""",davies11
@@ -809,8 +809,8 @@ cym,f,1,f,f,letter,N,F,S,,,fusser30
 cym&eng,f_l,2,f_l,f_l,,N,?,S,,"""fluid ounce"" according to the speakers",roberts1
 cym&eng,fabi,1,,,,,,,,changed to @cym because of Welsh pronunciation,stammers8
 cym,fabi,1,babi,baby,,N,M,S,,,stammers8
-cym,fabiaidd,1,,,,,,,,"X seems to have already been changed to ""fabÔaidd""",davies2
-cym,fabÔaidd,1,babÔaidd,babyish,,ADJ,,,,GPC,davies5
+cym,fabiaidd,1,,,,,,,,"X seems to have already been changed to ""fab√Øaidd""",davies2
+cym,fab√Øaidd,1,bab√Øaidd,babyish,,ADJ,,,,GPC,davies5
 cym,faco,1,baco,tobacco,,N,M,S,,GPC,robert8
 cym,factory,1,,,,,,,,changed to @cym&eng; in GPC,fusser4
 cym&eng,faddyned,1,,,,,,,,cited form (error),fusser30
@@ -849,7 +849,7 @@ cym,ffarmwrs,7,ffarmwr,farmer,,N,M,S,,GPC has this plural,"davies10,davies11,dav
 cym,ffastach,1,ffast,fast,,ADJ.COMP,,,,"GPC has ""ffast""",robert3
 cym,ffeindrwydd,1,ffeindrwydd,kindness,,N,M,S,,GPC,robert8
 cym,ffeintio,1,ffeintio,faint,,V,,,INFIN,GPC,fusser14
-cym,ffÍr,2,ffÍr,ankle,,N,MF,S,,GPC,roberts4
+cym,ff√™r,2,ff√™r,ankle,,N,MF,S,,GPC,roberts4
 cym,fferfyllfa,1,,,,,,,,"error for ""fferyllfa""",fusser26
 cym,fferins,2,fferins,sweets,,N,,P,,GPC,"davies12,fusser16"
 cym,ffermentio,1,ffermentio,ferment,,V,,,INFIN,GPC,fusser4
@@ -882,8 +882,8 @@ cym,ffono,9,ffono,phone,,V,,,INFIN,"GPC has ""ffonio""","davies13,davies9,robert
 cym,ffordio,1,,,,,,,,"changed to ""fforddio"" after listening to sound",roberts4
 cym&eng,fforest,1,,,,,,,,"changed to ""forest""",fusser26
 cym,fformwleiddio,1,fformwleiddio,formulate, = geirio,V,,,INFIN,"!  not in dictionaries, but found on the web (including Bangor Uni website/student magazine)",robert9
-cym,ffotocopÔo,2,,,,,,,,"""ffotocopÔo"" is what the speakers say; GyA only has ""ffotogopÔo"", but ""ffotocopÔo/copio"" is found on the web (including official website of Aberystwyth university and WJEC website) => changed to ""ffotogopÔo""","fusser18,fusser29"
-cym,ffotogopÔo,2,ffotocopÔo,ffotocopÔo,,V,,,INFIN,GyA,"fusser18,fusser29"
+cym,ffotocop√Øo,2,,,,,,,,"""ffotocop√Øo"" is what the speakers say; GyA only has ""ffotogop√Øo"", but ""ffotocop√Øo/copio"" is found on the web (including official website of Aberystwyth university and WJEC website) => changed to ""ffotogop√Øo""","fusser18,fusser29"
+cym,ffotogop√Øo,2,ffotocop√Øo,ffotocop√Øo,,V,,,INFIN,GyA,"fusser18,fusser29"
 cym,ffotograffydd,1,ffotograffydd,photographer,,N,M,S,,GPC,fusser14
 cym,ffram,1,,,,,,,,X didn't find this in the transcription,fusser27
 cym,fframin,1,fframin,frame,,N,M,S,,"GPC, GyA",davies1
@@ -972,7 +972,7 @@ cym,gardotwyr,2,cardotwr,beggar,,N,M,P,,GPC,stammers9
 cym,gardyn,2,cardyn,card,,N,M,S,,GPC,fusser3
 cym,garlleg,1,garlleg,garlic,,N,,P,,GPC,lloyd1
 cym,gaseg,2,caseg,mare,,N,F,S,,,davies10
-cym,g‚t,1,g‚t,gate,,N,F,S,,GyA,fusser13
+cym,g√¢t,1,g√¢t,gate,,N,F,S,,GyA,fusser13
 cym,gawd,1,cael,get,,V,,IMPERSONAL,PAST,"! Thomas has ""caed"" and ""cafwyd"", but numerous instances of ""cawd"" on the web",stammers1
 cym,gawell,3,cawell,cage,,N,M,S,,GPC,fusser9
 cym,gawl,1,cawl,soup,,N,M,S,,,fusser3
@@ -985,7 +985,7 @@ cym,geirw,1,carw,deer,,N,M,P,,,fusser12
 cym,geitha,1,cael,get,,V,,1S,PRES,"! ""geitha fi"" uttered by 10-year old after number of retracings - or mark as error?",stammers2
 cym,gella,1,,,,,,,,"error for ""ella""",roberts3
 cym,gemwaith,1,gemwaith,jewellery,,N,M,S,,GPC,robert1
-cym,gÍn,1,gÍn,chin,,N,F,S,,,davies12
+cym,g√™n,1,g√™n,chin,,N,F,S,,,davies12
 cym,genenod,1,,,,,,,,"error for ""genethod""",davies4
 cym,gennod,6,hogan,girl,,N,F,P,,"GyA ""gen[n]od""","davies15,fusser26,fusser29,stammers7"
 cym,gennyn,28,gan,with,,PREP,,13P,,,"davies2,davies3,davies6,fusser10,fusser12,fusser15,fusser19,fusser23,fusser27,fusser32,fusser4,fusser7,lloyd1,stammers2"
@@ -996,7 +996,7 @@ cym,gewin,2,gewin,claw,,N,MF,S,,"! add to doc file - form ""gewin"" only feature
 cym,gewn,2,cael,get,,V,,1P,PRES,King mentions this variant,"davies1,fusser3"
 cym,giami,2,giami,gammy,,ADJ,,,,GyA,"davies4,fusser15"
 cym,giang,4,giang,gang,,N,F,S,,GPC,"fusser16,robert8"
-cym,giatiau,2,gi‚t,gate,,N,F,P,,GyA,"fusser12,stammers9"
+cym,giatiau,2,gi√¢t,gate,,N,F,P,,GyA,"fusser12,stammers9"
 cym&eng,gick,1,kick,kick,,N,F,S,,GyA,lloyd1
 cym&eng,gigabytes,5,gigabyte,gigabyte,,N,M,P,,"Cysgeir and http://www.geiriadur.net have pl ""gigabeitiau"", GPC and GyA haven't got it at all","davies13,davies5"
 cym,ginc,1,,,,,,,,"have changed this to ""gink@cym&eng""",stammers5
@@ -1007,7 +1007,7 @@ cym,glasiad,1,glasiad,glassful,,N,M,S,,GPC,fusser10
 cym,glasied,1,,,,,,,,"changed to ""glasiad""",fusser10
 cym,glec,2,clec,blow,,N,F,S,,GPC,"robert9,roberts3"
 cym,gleddyf,1,cleddyf,sword,,N,M,S,,GPC,fusser23
-cym,glÍn,3,clÍn,kind,,ADJ,,,,GPC,"davies2,fusser13,fusser14"
+cym,gl√™n,3,cl√™n,kind,,ADJ,,,,GPC,"davies2,fusser13,fusser14"
 cym,glogyrnaidd,1,clogyrnaidd,clumsy,,ADJ,,,,GPC,robert9
 cym,glou,3,clou,quick,,ADJ,,,,GyA,"davies1,robert6"
 cym,glun,1,clun,hip,,N,F,S,,GPC,fusser8
@@ -1076,7 +1076,7 @@ cym,gwatsiwch,1,gwatsio,wait,,V,,2P,IMPER/PRES,,fusser16
 cym,gwed,2,gweud,say,,V,,2S,IMPER,"not covered by King, Thomas only has ""dywed"" - which one may take to licence ""gwed"" in conjunction with GPC's entry for ""gweud""; listed in doc file as tag",davies1
 cym,gwefl,1,gwefl,lip,,N,F,S,,GPC,robert8
 cym,gweilch_y_pysgod,1,gwalch_y_pysgol,osprey,,N,M,P,,! GyA (as three words),davies10
-cym,gweill,4,gw‰ell,knitting_needle,,N,MF,P,,,"davies14,stammers6"
+cym,gweill,4,gw√§ell,knitting_needle,,N,MF,P,,,"davies14,stammers6"
 cym,gweinidoges,1,gweinidoges,minister,,N,F,S,,GPC,stammers8
 cym,gweithiol,1,gweithiol,working,,ADJ,,,,,stammers1
 cym,gweitho,2,,,,,,,,"changed to ""gweithio"" after listening to sound","davies12,fusser10"
@@ -1090,7 +1090,7 @@ cym&eng,gwig,4,,,,,,,,"seems to be a made-up or corrupted word uttered by a 10-y
 cym,gwinedd,2,gewin,claw,,N,MF,P,,"! add to doc file - form ""gwinedd"" only features in the examples of the GPC article ""ewin""","fusser30,lloyd1"
 cym,gwlanog,1,gwlanog,woolly,,ADJ,,,,,fusser6
 cym,gwlybaniaeth,2,gwlybaniaeth,moisture,,N,M,S,,GPC,"fusser9,robert7"
-cym,gwmnÔaeth,1,cwmnÔaeth,companionship,,N,MF,S,,GPC,stammers1
+cym,gwmn√Øaeth,1,cwmn√Øaeth,companionship,,N,MF,S,,GPC,stammers1
 cym,gwmws,2,,,,,,,,"changed to ""gymwys"", which is in GPC and GyA","davies13,fusser3"
 cym,gwmwys,2,cymwys,exact,,ADJ,,,,"GPC, GyA","davies13,fusser3"
 cym,gwningen,4,cwningen,rabbit,,N,F,S,,,"fusser14,fusser16"
@@ -1208,9 +1208,9 @@ cym&eng,hi_fi,3,,,,,,,,"""system hi-fi"" on termau.org, but not in our reference
 eng,hi_fi,3,hi_fi,hi_fi,,N,,S,,"""system hi-fi"" on termau.org, but not in our reference dictionaries => @eng",davies3
 cym,hintio,2,hintio,hint,,V,,,INFIN,GPC,"davies12,robert4"
 cym&eng,hiya,11,hiya,hiya,,IM,,,,"cited as @0 example in doc file of Bangor pilot on Talkbank; in OED, but not Welsh dictionaries (GyA even translates it as ""shw mae""); not on 2012 IM list; ","davies15,davies7,davies9,fusser21,fusser28,fusser5,lloyd1"
-cym,hoel,10,hoel,trace,,N,M,S,,GPC (->Ùl),"fusser17,fusser18,fusser30,fusser4"
+cym,hoel,10,hoel,trace,,N,M,S,,GPC (->√¥l),"fusser17,fusser18,fusser30,fusser4"
 cym,hogia,1,,,,,,,,"changed to ""hogiau""",fusser32
-cym,hogiau,1,hÚg,boy,,N,M,P,,GPC,fusser32
+cym,hogiau,1,h√≤g,boy,,N,M,P,,GPC,fusser32
 cym&eng,hollol,3,,,,,,,,changed to @cym,"fusser11,fusser17,fusser4"
 cym,holloll,16,,,,,,,,"error for ""hollol""",fusser17
 cym,holwr,1,holwr,questioner,,N,M,S,,GPC,fusser9
@@ -1231,8 +1231,8 @@ cym,huro,1,huro,hire,,V,,,INFIN,"GPC has ""hurio""",davies6
 cym,hwfro,9,hwfro,hoover,,V,,,INFIN,GyA,"davies17,fusser5,robert7"
 cym,hwnt,1,hwnt,far,,ADJ,,,,,fusser15
 cym,hwntw,1,hwntw,Southerner,,N,M,S,,GPC,davies1
-cym,hwre,2,,,,,,,,"changed to ""hwrÍ"" (pronunciation seems to be clearly Welsh)",robert8
-cym,hwrÍ,2,hurrah,hurrah,,IM,,,,GPC,robert8
+cym,hwre,2,,,,,,,,"changed to ""hwr√™"" (pronunciation seems to be clearly Welsh)",robert8
+cym,hwr√™,2,hurrah,hurrah,,IM,,,,GPC,robert8
 cym,hwyliog,3,hwyliog,lively,,ADJ,,,,,fusser3
 cym,hwyluswyr,2,hwyluswyr,facilitator,,N,M,P,,GyA,fusser15
 cym,hwylusydd,1,hwylusydd,facilitator,,N,M,S,,GyA,fusser15
@@ -1286,7 +1286,7 @@ cym&eng,jange,1,change,change,,N,M,S,,GPC,davies4
 eng+cym,jannel_i,1,channel,channel,,N,F,P,,,davies2
 cym&eng,japanais,2,,,,,,,,"speaker quotes a misspelling for ""Japanese""",fusser8
 cym,Japaneeg,1,Japaneeg,Japanese,,ADJ,,,,GPC,fusser14
-cym,japanÎeg,1,,,,,,,,"changed to ""Japaneeg""",fusser14
+cym,japan√´eg,1,,,,,,,,"changed to ""Japaneeg""",fusser14
 cym,jarjio,4,tsiarjio,charge,,V,,,INFIN,GPC,"fusser28,robert7"
 cym,jawnswr,3,tsiawnswr,chancer,,N,M,S,,"GPC has ""tsiawns"", ""-wr"" and ""siawnswr"", but not ""tsiawnswr""",robert8
 cym,jecio,8,tsiecio,check,,V,,,INFIN,,"davies13,davies4,fusser10,fusser30,lloyd1,roberts2,stammers6"
@@ -1321,7 +1321,7 @@ cym&eng,Labrador,2,Labrador,Labrador,,N,M,S,,GyA,"fusser12,stammers2"
 cym&eng,labradors,1,,,,,,,,"changed to ""Labradors""",stammers2
 cym&eng,Labradors,1,Labrador,Labrador,,N,M,P,,"GyA only has plural ""c?n Labrador""",stammers2
 cym,labrwr,1,labrwr,labourer,,N,M,S,,GPC,stammers3
-cym,lan_mÙrs,1,glan_mÙr,seaside,,N,F,P,,! add to doc file,davies4
+cym,lan_m√¥rs,1,glan_m√¥r,seaside,,N,F,P,,! add to doc file,davies4
 cym,landeri,1,lander,roof_gutter,,N,M,P,,GPC,roberts2
 cym,landio,4,landio,land,,V,,,INFIN,GPC,"fusser13,fusser23,fusser4,fusser6"
 cym,lawnt,3,lawnt,lawn,,N,F,S,,GPC,stammers9
@@ -1351,7 +1351,7 @@ cym,llnau,16,llnau,clean,,V,,,INFIN,"GPC ""llnau -> glanhau""","davies14,davies1
 cym,lloc,10,lloc,pen,sheep-,N,M,S,,GPC,fusser9
 cym,lloerig,1,lloerig,lunatic,,ADJ,,,,,davies17
 cym,llofftau,1,llofft,bedroom,,N,F,P,,! this plural not in dictionaries,davies17
-cym,llungopÔo,1,llungopÔo,photocopy,,,,,,"Cysgeir has ""llungopÔo""",roberts3
+cym,llungop√Øo,1,llungop√Øo,photocopy,,,,,,"Cysgeir has ""llungop√Øo""",roberts3
 cym,llwglyd,2,llwglyd,starving,,ADJ,,,,GPC,"fusser31,stammers6"
 cym,llyfyr,1,,,,,,,,X didn't find this in the transcription,robert1
 cym,llygadau,7,llygad,eye,,N,MF,P,,GPC,"davies13,fusser26,fusser27,fusser30,robert2"
@@ -1362,7 +1362,7 @@ cym,loeau,1,llo,calf,,N,MF,P,,GPC,fusser4
 cym,logio,1,logio,log,,V,,,INFIN,GyA,stammers6
 cym,lolfa,2,lolfa,lounge,,N,F,S,,GPC,"davies17,fusser3"
 cym&eng,lollypop,1,lollypop,lollypop,,N,M,S,,GPC,davies10
-cym,lÙn,73,lÙn,road,,N,F,S,,GPC,"davies10,davies5,fusser10,fusser11,fusser13,fusser16,fusser17,fusser19,fusser21,fusser26,fusser29,fusser32,fusser4,fusser5,fusser8,robert3,robert4,robert7,robert9,roberts2,roberts4,smith1,stammers2,stammers3"
+cym,l√¥n,73,l√¥n,road,,N,F,S,,GPC,"davies10,davies5,fusser10,fusser11,fusser13,fusser16,fusser17,fusser19,fusser21,fusser26,fusser29,fusser32,fusser4,fusser5,fusser8,robert3,robert4,robert7,robert9,roberts2,roberts4,smith1,stammers2,stammers3"
 cym&eng,l'Opera,1,,,,,,,,"changed to ""l_Opera""",fusser21
 cym,lwmpyn,1,lwmpyn,lump,,N,M,S,,GPC,fusser17
 cym,lympiau,1,lwmp,lump,,N,M,P,,GPC,fusser17
@@ -1391,12 +1391,12 @@ cym,main,1,main,slender,,ADJ,,,,GPC,fusser8
 cym&eng,make_up,4,,,,,,,,changed to @eng as no record of this as Welsh,"davies1,robert1"
 cym,mallryg,4,mallryg,ergot,,N,M,S,,GPC,fusser9
 cym,mam_gu,11,mam_gu,grandmother,,N,F,S,,GPC,"davies1,davies13,fusser27,robert1,robert6"
-cym,mana,1,m‚n,small,,ADJ.SUP,,,,,fusser9
+cym,mana,1,m√¢n,small,,ADJ.SUP,,,,,fusser9
 cym,manejio,9,manejio,manage,,V,,,INFIN,GPC,"davies12,davies15,davies16,fusser15,fusser21,fusser25,stammers6"
 cym&eng,mangoes,1,mango,mango,,N,M,P,,GyA,stammers6
 cym,marcyn,1,marcyn,mark,,N,M,S,,GPC,robert1
 cym,marliod,2,merlyn,pony,,N,M,P,,GPC,fusser11
-cym&eng,matÈ,4,matÈ,matÈ,,N,M,S,,GyA,fusser16
+cym&eng,mat√©,4,mat√©,mat√©,,N,M,S,,GyA,fusser16
 cym&eng,mates,3,mate,mate,,N,M,P,,plural in GPC,"fusser10,fusser31,robert3"
 cym,mathemategydd,1,mathemategydd,mathematician,,N,M,S,,GPC,fusser9
 cym,matsio,7,matsio,match,,V,,,INFIN,GPC,"fusser13,fusser18,stammers5,stammers8"
@@ -1413,7 +1413,7 @@ cym,medsech,1,medru,can,,V,,2P,COND,,fusser12
 cym,meithrinfa,7,meithrinfa,nursery,,N,F,S,,GPC,"robert9,roberts3"
 cym,meithrinfeydd,2,meithrinfa,nursery,,N,F,P,,GPC,"robert9,roberts3"
 cym,meitin,1,meitin,while,,N,M,S,,GPC,fusser12
-cym,melfarÈd,2,melfarÈd,velveret,,N,M,S,,GPC,davies11
+cym,melfar√©d,2,melfar√©d,velveret,,N,M,S,,GPC,davies11
 cym,melfed,1,melfed,velvet,,N,M,S,,GPC,robert5
 cym,melynwy,1,melynwy,yolk,,N,M,S,,GPC,robert8
 cym&eng,menus,1,menu,menu,,N,M,P,,"GPC, but no plural",fusser15
@@ -1459,11 +1459,11 @@ cym,mwdlyd,7,mwdlyd,muddy,,ADJ,,,,GPC,"davies5,robert3"
 cym,mwdwl,1,mwdwl,stack,,N,M,S,,GPC,fusser11
 cym,mwn,1,,,,,,,,"have split this up into ""m(i) wn"" as not listed in GPC or grammars",fusser9
 cym,mwnci,7,mwnci,monkey,,N,M,S,,GPC,"fusser9,robert9,roberts4"
-cym,mwncÔod,2,mwnci,monkey,,N,M,P,,GPC,stammers2
+cym,mwnc√Øod,2,mwnci,monkey,,N,M,P,,GPC,stammers2
 cym,mwsog,1,mwsog,moss,,N,M,S,,GPC,fusser12
 cym,mwythau,1,mwyth,caress,,N,M,P,,GPC,fusser6
 cym,myllt,3,mollt,castrated_ram,,N,M,P,,GPC,fusser17
-cym,myn_di‚n_i,3,myn_di‚n_i,by_heck,,IM,,,,! not in dictionaries nor 2012 IM list; < diawl,"fusser11,fusser15"
+cym,myn_di√¢n_i,3,myn_di√¢n_i,by_heck,,IM,,,,! not in dictionaries nor 2012 IM list; < diawl,"fusser11,fusser15"
 cym,mynach,2,mynach,monk,,N,M,S,,GPC,fusser9
 cym,mynachlogydd,1,mynachlogydd,monastery,,N,F,P,,GPC,fusser9
 cym,mynachod,2,mynach,monk,,N,M,P,,GPC,fusser9
@@ -1485,7 +1485,7 @@ cym,nag_oedd,2,,,,,,,,"changed to ""nac oedd""",davies14
 cym,nag_oes,3,,,,,,,,"changed to ""nac oes""",davies14
 cym,nag_ydw,1,,,,,,,,X haven't found this in the transcription,fusser19
 cym,naill_ai,4,naill_ai,either,,CONJ,,,,!,"davies1,fusser32,fusser8,robert5"
-cym&eng,naÔve,1,naÔve,naÔve,,ADJ,,,,GPC,stammers6
+cym&eng,na√Øve,1,na√Øve,na√Øve,,ADJ,,,,GPC,stammers6
 cym&eng,nanos,3,,,,,,,,"changed to ""Nanos""",davies13
 cym&eng,Nanos,3,Nanos,Nanos,,NAME,,P,,,davies13
 cym,nantoedd,1,nant,stream,,N,F,P,,! this plural not in dictionaries (uttered by learner),fusser17
@@ -1513,8 +1513,8 @@ cym,nghesail,1,cesail,armpit,,N,F,P,,GPC,fusser30
 cym,ngho,1,cof,memory,,N,M,S,,,fusser10
 cym&eng,nghoat,1,coat,coat,,N,F,S,,,fusser30
 cym,nhain,1,nain,grandmother,,N,F,S,,,fusser6
-cym,nhÙl,1,nÙl,fetch,,V,,,INFIN,GPC,fusser16
-cym,nhrÙns,1,trÙns,pants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",davies6
+cym,nh√¥l,1,n√¥l,fetch,,V,,,INFIN,GPC,fusser16
+cym,nhr√¥ns,1,tr√¥ns,pants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",davies6
 cym&eng,nhurn,1,turn,turn,,N,M,S,,GPC,davies2
 cym,nhwpdra,1,twpdra,stupidity,,N,M,S,,GyA has this spelling,fusser5
 cym,nhwwn,1,,,,,,,,X haven't found this in the transcription,fusser23
@@ -1552,7 +1552,7 @@ cym,oeddat,1,bod,be,,V,,2S,IMPERF,King generally mentions -a- in final syllable,
 cym,oeddl,1,,,,,,,,X haven't found this in the transcription,robert8
 cym,oedranau,1,,,,,,,,"changed to ""oedrannau""",davies17
 cym,oedrannau,1,oedran,age,,N,F,P,,GPC,davies17
-cym,oel,1,oel,trace,,N,M,S,,"GPC has ""oel -> Ùl""",fusser18
+cym,oel,1,oel,trace,,N,M,S,,"GPC has ""oel -> √¥l""",fusser18
 cym,oe'n,1,,,,,,,,X haven't found this in the transcription,davies14
 cym,ofan,3,ofan,fear,,N,M,S,,"GPC ""ofan -> ofn""",davies1
 cym,offendio,2,offendio,offend,,V,,,INFIN,GPC,roberts4
@@ -1560,12 +1560,12 @@ cym,offerynnol,1,offerynnol,instrumental,,ADJ,,,,,davies7
 cym&eng,offices,2,office,office,,N,F,S,,GPC,"davies11,fusser6"
 cym,ogofeydd,1,ogof,cave,,N,F,P,,GPC,fusser26
 cym&eng,ohh,1,,,,,,,,"changed to ""oh"" after listening to sound",davies16
-cym,ohÙl,1,,,,,,,,"error with retracing for ""ohoni""",fusser13
+cym,oh√¥l,1,,,,,,,,"error with retracing for ""ohoni""",fusser13
 cym,ohona,10,o,from,,PREP,,1S,,,"davies2,davies4,fusser16,fusser19,fusser6,robert9,roberts2,roberts4,stammers7"
 cym,ohonof,1,o,from,,PREP,,1S,,,stammers3
 cym,ole,1,,,,,,,,"changed to ""olau"" - speaker is trying to (mistakenly) explain ""Pen yr Ole Wen"" as ""mountain of light""",fusser17
 cym,oleuach,2,golau,light,,ADJ.COMP,,,,,fusser17
-cym,olradd,2,olradd,postgraduate,,ADJ,,,,"! not in dictionaries (nor the prefix ""ol-"" - only ""Ùl-""), but found on the web",fusser6
+cym,olradd,2,olradd,postgraduate,,ADJ,,,,"! not in dictionaries (nor the prefix ""ol-"" - only ""√¥l-""), but found on the web",fusser6
 cym,olygus,1,golygus,beautiful,,ADJ,,,,,robert6
 cym,ond_yndyn,1,,,,,,,,"have split this into two words, interpreting it as a retracing ""ond - yndyn - ond...""",fusser23
 cym,onddw,1,,,,,,,,X haven't found this in the transcription,fusser30
@@ -1574,8 +1574,8 @@ cym&eng,oof,1,,,,,,,,"in OED, but not Welsh dictionaries nor 2012 IM list => @en
 eng,oof,1,oof,oof,,IM,,,,"in OED, but not Welsh dictionaries nor 2012 IM list => @eng",fusser7
 cym&eng,oooh,2,,,,,,,,"changed to ""ooh"" (just happens to be a long one), which is on IM list",davies2
 cym&eng,ooph,1,,,,,,,,"changed to ""oof"", which is in OED",fusser7
-cym,operau,1,,,,,,,,"changed to ""oper‚u""",davies2
-cym,oper‚u,1,opera,opera,,N,F,P,,GPC,davies2
+cym,operau,1,,,,,,,,"changed to ""oper√¢u""",davies2
+cym,oper√¢u,1,opera,opera,,N,F,P,,GPC,davies2
 cym,optegydd,1,optegydd,optician,,N,M,S,,GPC,fusser17
 cym,orchestog,1,gorchestog,boastful,,ADJ,,,,"GPC only has ""gorchestol"", but of course has ""gorchest"" and suffix ""-og""",fusser4
 cym,orchestog,1,gorchestog,boastful,,ADJ,,,,"GPC only has ""gorchestol"", but of course has ""gorchest"" and suffix ""-og""",
@@ -1631,7 +1631,7 @@ cym,pengliniau,1,penglin,knee,,N,M,P,,"GyA has ""pen-gliniau"", GPC ""pengliniau
 cym,penglog,1,penglog,skull,,N,F,S,,,stammers6
 cym,pennau_gliniau,1,pen_glin,knee,,N,M,P,,"GPC has ""pennau gliniau"", GyA ""pennau-gliniau""",fusser11
 cym,pennaugliniau,1,,,,,,,,"changed to ""pennau_gliniau""",fusser11
-cym,penolau,1,pen_Ùl,backside,,N,M,P,,GPC,fusser3
+cym,penolau,1,pen_√¥l,backside,,N,M,P,,GPC,fusser3
 cym,pensiynwr,1,pensiynwr,pensioner,as in old-age pensioner,N,M,S,,,davies13
 cym,penstandod,1,penstandod,dizziness,,N,M,S,,"GPC (""-> pensyfrdandod"")",roberts3
 cym&eng,pentecostal,1,,,,,,,,"not in Welsh dictionaries (except as noun), adj should be ""Pentecostaidd"" => changed to @eng",deuchar1
@@ -1758,7 +1758,7 @@ cym&eng,ranches,1,ranch,ranch,,N,F,P,,GyA,fusser16
 cym,rardd,2,,,,,,,,X didn't find this in the transcriptions,"fusser21,robert5"
 cym,ras,1,ras,race,as in contest,N,F,S,,GPC,roberts2
 cym,rasys,1,ras,race,as in contests,N,F,P,,GPC,fusser4
-cym,r‚t,2,r‚t,rate,,N,M,S,,GPC,davies3
+cym,r√¢t,2,r√¢t,rate,,N,M,S,,GPC,davies3
 cym,ratlio,1,ratlio,rattle,,V,,,INFIN,GPC,robert8
 eng+cym,re_release_io,1,re_release_io,re_release,,V,,,INFIN,,stammers5
 cym,realaidd,2,realaidd,realist,,ADJ,,,,GPC,fusser12
@@ -1774,7 +1774,7 @@ cym,reithordy,5,reithordy,vicarage,,N,M,S,,,"davies17,fusser4"
 cym,rejistro,4,rejistro,register,,V,,,INFIN,GPC,"fusser15,fusser27,fusser31,fusser7"
 cym,repetio,4,repetio,repeat,,V,,,INFIN,GPC,"davies3,davies5,robert3"
 cym,reportio,1,reportio,report,,V,,,INFIN,"GPC (""-> riportio"")",fusser9
-cym,rÍs,2,,,,,,,,"changed to ""res""",fusser23
+cym,r√™s,2,,,,,,,,"changed to ""res""",fusser23
 cym,resaid,1,rhesaid,row,,N,F,S,,GPC,fusser11
 cym,reseinio,2,reseinio,resign,,V,,,INFIN,GPC,davies12
 cym,resto,1,resto,rest,,V,,,,GPC,davies1
@@ -1839,8 +1839,8 @@ cym,rwybeth,1,,,,,,,,X didn't find this in the transcription,robert7
 cym,rydw,3,bod,be,,V,,1S,PRES,cited by King (with a star),"davies9,stammers3"
 cym,rym,2,grym,power,,N,M,S,,,"davies14,fusser32"
 cym,rymblo,1,rymblo,rumble,,V,,,INFIN,GPC,fusser29
-cym,rysÍt,3,ryset,recipe,,N,MF,S,,GPC,davies10
-cym,rysÍts,1,ryset,recipe,,N,MF,P,,GPC,davies10
+cym,rys√™t,3,ryset,recipe,,N,MF,S,,GPC,davies10
+cym,rys√™ts,1,ryset,recipe,,N,MF,P,,GPC,davies10
 cym&eng,s,1,s,s,,N,F,S,,letter,davies11
 cym,saesneg,6,,,,,,,,"changed to ""Saesneg""","davies12,fusser8,roberts3"
 cym,saeson,1,,,,,,,,"changed to ""Saeson""",fusser10
@@ -1869,9 +1869,9 @@ cym,sbelan,1,,,,,,,,"changed to ""sbelen""",fusser9
 cym,sbelen,1,sbelen,spell,,N,F,S,,GPC,fusser9
 cym,sbelio,1,sbelio,spell,,V,,,INFIN,GPC,fusser8
 cym,sbensh,3,sbensh,understairs_cupboard,,N,MF,S,,GPC,fusser4
-cym,sbÔad,7,sbÔad,look,,V,,,INFIN,,"fusser18,roberts3,roberts4"
+cym,sb√Øad,7,sb√Øad,look,,V,,,INFIN,,"fusser18,roberts3,roberts4"
 cym,sbian,1,,,,,,,,"King has ""-an"" as 3P only, but instance in fusser8 is 1P => changed to ""sbiwn""",fusser8
-cym,sbiwn,1,sbio,look,,V,,1P,PRES,"GPC (""-> ysbÔo"")",fusser8
+cym,sbiwn,1,sbio,look,,V,,1P,PRES,"GPC (""-> ysb√Øo"")",fusser8
 cym,sbinio,3,sbinio,spin,,V,,,INFIN,GPC,"davies15,fusser7"
 cym,sblitio,5,sblitio,split,,V,,,INFIN,GPC,"davies16,davies5,fusser3,fusser7,robert4"
 cym,sbo,1,sboso,suppose,,V,,1S,PRES,"! GPC has ""sboso"" 'suppose'",davies13
@@ -1910,7 +1910,7 @@ cym,seto,1,seto,set,,V,,,INFIN,GPC,robert1
 cym&eng,settings,1,setting,setting,,N,M,P,,GPC (doesn't mention plural),robert1
 cym,sgidie,3,,,,,,,,"changed to ""(e)sgidiau""","davies13,fusser6"
 cym,sgil,1,sgil,back,,N,M,S,,,fusser15
-cym,sgÔo,11,sgÔo,ski,,V,,,INFIN,"GyA has this spelling; GPC ""sgio""","davies15,davies3,fusser16,robert3,robert7,stammers1"
+cym,sg√Øo,11,sg√Øo,ski,,V,,,INFIN,"GyA has this spelling; GPC ""sgio""","davies15,davies3,fusser16,robert3,robert7,stammers1"
 cym,sgiwsiwch,1,sgiwsio,excuse,,V,,2P,IMPER/PRES,,fusser12
 cym,sglyfaeth,1,sglyfaeth,prey,,N,MF,S,,GPC,fusser30
 cym,sgodyn,2,sgodyn,fish,,N,M,S,,"GPC has ""'sgodyn => pysgod""",fusser14
@@ -1939,7 +1939,7 @@ cym,siafins,1,siafins,shavings,,N,,P,,GPC,davies14
 cym,siagio,1,siagio,shag,,V,,,INFIN,GPC,stammers6
 cym&eng,sialeni,1,,,,,,,,"error for ""sianeli"" (retraced)",roberts1
 cym,siapus,2,siapus,shapely,,ADJ,,,,GPC,"fusser16,fusser30"
-cym,si‚r,1,si‚r,share,,N,F,S,,GPC,fusser21
+cym,si√¢r,1,si√¢r,share,,N,F,S,,GPC,fusser21
 cym,siaradus,1,siaradus,talkative,,ADJ,,,,,robert5
 cym,sieco,1,sieco,check,,V,,,INFIN,GPC,davies11
 cym,siffito,1,,,,,,,,X didn't find this in the transcription,fusser32
@@ -1952,7 +1952,7 @@ cym,siopiau,1,siop,shop,,N,F,P,,GPC,robert6
 cym,siopio,10,siopio,shop,,V,,,INFIN,GPC,"davies10,fusser30,fusser6,robert3,robert4,robert7,robert8"
 cym,sirioldeb,1,sirioldeb,cheerfulness,,N,M,S,,GPC,davies14
 cym&eng,sisitors,1,,,,,,,,"error for ""visitors""",fusser16
-cym,siten,1,siten,sheet,,N,F,S,,"GPC (""->sÓt"")",stammers2
+cym,siten,1,siten,sheet,,N,F,S,,"GPC (""->s√Æt"")",stammers2
 cym,siwio,4,siwio,sue,,V,,,INFIN,GPC,"fusser19,fusser5,stammers3"
 cym&eng,sketches,1,sketch,sketch,,N,MF,P,,GPC,robert5
 cym,slantio,1,slantio,slant,,V,,,INFIN,GPC,roberts2
@@ -1990,7 +1990,7 @@ cym,stabl,1,stabl,stable,,N,F,S,,GPC,fusser11
 cym&eng,stables,1,,,,,,,,changed to @eng as in the following utternace,stammers3
 cym,stacio,1,stacio,stack,,V,,,INFIN,GPC,davies12
 cym,stad,4,stad,state,,N,MF,S,,GPC,"davies11,davies6,fusser12"
-cym,st‚d,4,,,,,,,,"changed to ""stad"" in line with GPC","davies11,davies6,fusser12"
+cym,st√¢d,4,,,,,,,,"changed to ""stad"" in line with GPC","davies11,davies6,fusser12"
 cym,stadiwm,1,stadiwm,stadium,,N,MF,S,,GPC,roberts1
 cym,staen,1,staen,stain,,N,MF,S,,GPC,fusser11
 cym,staer,1,staer,stairway,,N,MF,S,,GPC,davies12
@@ -2030,7 +2030,7 @@ cym,sul,1,,,,,,,,"changed to ""Sul""",davies11
 cym,sure,55,,,,,,,,changed tag to @cym&eng,"robert5,robert8"
 cym&eng,surnames,2,surname,surname,,N,M,P,,GPC,"davies5,fusser29"
 cym,swaden,2,swaden,slap,,N,F,S,,GPC,stammers3
-cym,swÍj,4,swÍj,swedes,,N,,P,,GPC,stammers8
+cym,sw√™j,4,sw√™j,swedes,,N,,P,,GPC,stammers8
 cym&eng,swing,1,swing,swing,,N,FM,S,,GPC,fusser18
 cym&eng,switches,1,switch,switch,,N,FM,P,,GPC,roberts3
 cym,swllt,2,swllt,shilling,coin,N,M,S, ,,"fusser11,fusser23"
@@ -2051,8 +2051,8 @@ cym,symudolaeth,1,symudolaeth,mobility,,N,M,S,,"not in dictionaries (only ""symu
 cym,syniadaeth,3,syniadaeth,ideology,,N,F,S,,GPC,fusser9
 cym,syportio,8,syportio,support,,V,,,INFIN,GPC,"davies14,fusser31,fusser5,smith1,stammers2"
 cym,syrfio,2,syrfio,serve,,V,,,INFIN,"GPC (""->serfio"")","fusser25,smith1"
-cym,syth_bin,1,,,,,,,,"changed to ""syth_bÌn""",fusser30
-cym,syth_bÌn,1,syth_bÌn,immediately,,ADV,,,,"! GPC ""yn syth bÌn"" in article ""syth""; add to doc file",fusser30
+cym,syth_bin,1,,,,,,,,"changed to ""syth_b√≠n""",fusser30
+cym,syth_b√≠n,1,syth_b√≠n,immediately,,ADV,,,,"! GPC ""yn syth b√≠n"" in article ""syth""; add to doc file",fusser30
 cym,t,2,t,t,letter,N,F,S,,,fusser16
 cym&eng,t,1,t,t,letter,N,F,S,,,davies11
 cym,T_G_A_U,2,T_G_A_U,G_C_S_E,,N,M?,S,,changed to capitals,fusser27
@@ -2075,7 +2075,7 @@ cym,tast,2,tast,taste,,N,MF,S,,GPC,fusser8
 cym&eng,taxes,1,,,,,,,,"haven't found this in Welsh dictionaries, so changed the tag to @eng - occurances of the singular may need changing as well!",fusser12
 cym,tebol,1,tebol,responsible,,ADJ,,,,"GPC has ""'tebol -> atebol""",fusser12
 cym,technel,1,,,,,,,,"error for ""technoleg"", retraced",fusser18
-cym&eng,teddy_bear,1,teddy_bear,teddy_bear,,N,M,P,,"GPC ""tedi-bÍr""",roberts4
+cym&eng,teddy_bear,1,teddy_bear,teddy_bear,,N,M,P,,"GPC ""tedi-b√™r""",roberts4
 cym,teiar,1,teiar,tyre,,N,M,S,,,stammers7
 cym,teiars,2,teiar,tyre,,N,M,P,,GPC,"davies3,fusser11"
 cym,teilsau,1,teilsen,tile,,N,F,P,,! this plural not in dictionaries,fusser28
@@ -2095,7 +2095,7 @@ cym&eng,thie,1,tie,tie,,N,MF,S,,,stammers1
 cym,thydy,1,,,,,,,,"changed to ""tydy""",fusser8
 cym,tibod,145,gwybod,know,,V,,2S,PRES,! add to doc file,"davies1,davies3,davies6,deuchar1,fusser10,fusser13,fusser21,fusser3,fusser30,fusser32,fusser6,fusser7,robert2,roberts2,roberts3,stammers3,stammers5,stammers9"
 cym,tical,3,tical,strip,,V,,,INFIN,GPC,davies11
-cym,tici‚u,3,tici‚u,tuberculosis,,N,M,S,,"! GPC only mentions the t- variant at the bottom of the article (as local to North Wales, spelt ""tici·e"")",fusser26
+cym,tici√¢u,3,tici√¢u,tuberculosis,,N,M,S,,"! GPC only mentions the t- variant at the bottom of the article (as local to North Wales, spelt ""tici√°e"")",fusser26
 cym&eng,tiles,5,tile,tile,,N,F,P,,GPC,"fusser10,fusser13,fusser28"
 cym,timbod,1,gwybod,know,,V,,2S,PRES,! add to doc file,stammers9
 cym,timoedd,1,tim,team,,N,M,P,,GPC,stammers2
@@ -2141,7 +2141,7 @@ cym,tripiau,4,trip,trip,,N,M,P,,GPC,"fusser16,fusser23,stammers9"
 cym,triptych,4,triptych,triptych,,N,M,S,,GPC,stammers6
 cym,triwch,1,trio,try,,V,,2P,IMPER/PRES,,davies14
 cym,troead,3,troead,turning,,N,MF,S,,GPC,"fusser17,roberts4"
-cym,trÙns,1,trÙns,underpants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",fusser25
+cym,tr√¥ns,1,tr√¥ns,underpants,,N,M,S,,"GyA has it as MS, with ""tronsiau"" as pl",fusser25
 cym,tropyn,2,tropyn,drop,,N,M,S,,GPC,fusser12
 cym,trosleisio,14,trosleisio,dub,,V,,,INFIN,GPC,roberts1
 cym,trwadd,3,,,,,,,,"change systematically to ""trwodd""","davies11,robert7"
@@ -2235,7 +2235,7 @@ cym,w,1,bod,be,,V,,1S,PRES,King cites this form,stammers5
 cym,'w,3,,,,,,,,"replaced by ""w""","davies14,fusser23"
 cym,w_gilydd,5,ei_gilydd,each_other,,ADV,,,,,"fusser13,fusser30,fusser4,roberts1"
 cym&eng,waa,2,,,,IM?,,,,"onomatopoetic imitating screaming; in no dictionary nor 2012 IM list (OED's ""wah"" is different) => IPA",fusser31
-cym,w‚c,1,w‚c,walk,,N,MF,SG,,GPC,fusser27
+cym,w√¢c,1,w√¢c,walk,,N,MF,SG,,GPC,fusser27
 cym&eng,wadding,1,wadding,wadding,,N,M,S,,"GPC and GyA have ""wadin""",fusser13
 cym,waeddi,1,,,,,,,,"changed to ""weiddi""",davies16
 cym,waetsiad,4,waetsiad,watch,,V,,,INFIN,"GPC has ""(g)waetsio""","fusser13,fusser28,lloyd1"
@@ -2278,7 +2278,7 @@ cym&eng,wellington,1,wellington,wellington,,N,F,S,,GyA,robert5
 cym,welw,1,gwelw,pale,,ADJ,,,,,davies11
 cym,whare,5,whare,play,,V,,,INFIN,GPC,"davies1,robert1"
 cym,whi,1,,,,,,,,"changed to ""chwid""",davies11
-cym,whiliau,1,whil,wheel,,N,F,P,,"! GPC has ""whil"", with plural ""whÓls""",stammers8
+cym,whiliau,1,whil,wheel,,N,F,P,,"! GPC has ""whil"", with plural ""wh√Æls""",stammers8
 cym&eng,whoa,6,,,,,,,,"not on 2012 IM list; in OED, but not Welsh dictionaries (GyA even has a translation for ""whoa"") => @eng",davies16
 eng,whoa,6,whoa,whoa,,IM,,,,OED,davies16
 cym&eng,whoah,6,,,,,,,,"changed to ""whoa"" in line with OED",davies16
@@ -2350,13 +2350,13 @@ cym,yn_bysai,8,bod,be,,V,,3S,COND.NEG,bys- covered by doc file,"davies12,fusser1
 cym,yn_bysech,2,bod,be,,V,,2P,COND.NEG,bys- covered by doc file,"fusser16,fusser26"
 cym,yn_bysen,1,bod,be,,V,,13P,COND.NEG,bys- covered by doc file,fusser12
 cym,yn_byset,1,bod,be,,V,,2S,COND.NEG,bys- covered by doc file,fusser12
-cym,yn_c‚n,1,cael,get,,V,,3P,PRES.NEG,"King has ""c‚n""",roberts3
+cym,yn_c√¢n,1,cael,get,,V,,3P,PRES.NEG,"King has ""c√¢n""",roberts3
 cym,yn_cei,1,cael,get,,V,,2S,PRES.NEG,"King has ""cei""",fusser19
 cym,yn_doeddachd,1,bod,be,,V,,2S,IMPERF.NEG,covered by doc file,fusser14
 cym,yn_doeddechd,1,,,,,,,,"changed to ""yn_doeddachd"" in line with doc file",fusser14
 cym,yn_doeddet,1,bod,be,,V,,2S,IMPERF.NEG,,davies12
 cym,yn_dofe,1,yn_dofe,wasn't_it,,TAG,,,,"! ""yn_do"", ""yn_dyfe"" and ""dofe"" are in the odc file",davies13
-cym,yn_dÙl,23,yn_dÙl,back,,ADV,,,,"! GPC lists ""dÙl"" as a variant in the ""Ùl"" article, but without reference;  make sure treatment of this conforms with that of ""dÙl""!","deuchar1,fusser13,fusser21,robert2,robert4,robert7,robert8"
+cym,yn_d√¥l,23,yn_d√¥l,back,,ADV,,,,"! GPC lists ""d√¥l"" as a variant in the ""√¥l"" article, but without reference;  make sure treatment of this conforms with that of ""d√¥l""!","deuchar1,fusser13,fusser21,robert2,robert4,robert7,robert8"
 cym,yn_do'n,1,,,,,,,,"replaced by ""yn_doedden"" - cf. fixes file",stammers1
 cym,yn_do't,1,,,,,,,,"replaced by ""yn_doeddet"" - cf. fixes file",davies12
 cym,yn_dwyt,15,bod,be,,V,,2S,PRES.NEG,,"davies12,fusser12,fusser13,fusser21,fusser31,fusser6,fusser9,robert4,robert9,smith1,stammers6,stammers7"
@@ -2370,11 +2370,11 @@ cym,yn_fydd,2,bod,be,,V,,3S,FUT.NEG,,"davies11,fusser7"
 cym,yn_fysai,1,bod,be,,V,,3S,COND.NEG,bys- covered by doc file,fusser6
 cym,yn_galla,1,gallu,can,,V,,1S,PRES.NEG,,fusser6
 cym,yn_gelli,1,gallu,can,,V,,2S,PRES.NEG,King has this form,fusser30
-cym,yn_gwn‚n,2,gwneud,do,,V,,3P,PRES.NEG,King has this form,"fusser12,fusser4"
+cym,yn_gwn√¢n,2,gwneud,do,,V,,3P,PRES.NEG,King has this form,"fusser12,fusser4"
 cym,yn_gwnawn,1,gwneud,do,,V,,1P,PRES.NEG,King has this form,fusser21
 cym,yn_hytrach,8,,,,,,,,have split this up,"davies11,fusser12,fusser18,fusser28"
 cym,yn_rhaid,1,rhaid,necessity,,N,M,S.NEG,,,lloyd1
-cym,yn_te,27,,,,,,,,"changed to ""yn_de"", which is in the doc file (GPC has ""yntÍ"") (didn't find the instance in stammers9 though)","davies4,fusser12,fusser16,fusser8,robert7,robert8,stammers9"
+cym,yn_te,27,,,,,,,,"changed to ""yn_de"", which is in the doc file (GPC has ""ynt√™"") (didn't find the instance in stammers9 though)","davies4,fusser12,fusser16,fusser8,robert7,robert8,stammers9"
 cym,yn_tydy,17,bod,be,,V,,3S,PRES.NEG,,"fusser15,fusser16,fusser17,fusser9,robert2,stammers2,stammers9"
 cym,yn_tydych,1,bod,be,,V,,2P,PRES.NEG,,fusser15
 cym,yn_tydyn,5,bod,be,,V,,13P,PRES.NEG,,"fusser12,fusser15,fusser16,stammers2"
@@ -2393,7 +2393,7 @@ cym,ysglyfaeth,1,ysglyfaeth,prey,,N,MF,S,,,fusser13
 cym,ysglyfaethus,1,ysglyfaethus,predatory,,ADJ,,,,,davies14
 cym,ysgoldy,1,ysgoldy,schoolhouse,,N,M,S,,,stammers8
 cym,ysgrifenyddes,4,ysgrifenyddes,secretary,,N,F,S,,,"davies13,fusser30,roberts3"
-cym,yst‚d,4,yst‚d,estate,,N,F,S,,"GyA (GPC has ""ystad"")",stammers1
+cym,yst√¢d,4,yst√¢d,estate,,N,F,S,,"GyA (GPC has ""ystad"")",stammers1
 cym,ysti,7,gwybod,know,,V,,2S,PRES,! add to doc file,"fusser5,fusser6,stammers3,stammers6"
 cym,ystol,5,ystol,ladder,,N,F,S,,"GPC (""-> ysgol"")","fusser9,roberts4,stammers1"
 cym,yt,7,,,,,,,,X didn't find this in the transcription,davies13
