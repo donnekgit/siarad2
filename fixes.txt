@@ -20,6 +20,8 @@ In English CG, add rule to say that AS+PV will collapse to N.PL when followed by
 
 (Test the English CG by extracting all the English utterances, and running it against them)
 
+Change ei to MF, and add rule to choose M if (f)o/e follows, F if hi follows, M if SM follows.
+
 Run Chatter
 
 Systematically replace "yeah@s:cym" by "yeah@s:cym&eng"
