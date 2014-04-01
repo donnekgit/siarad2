@@ -42,6 +42,8 @@ Replace any instances of "tax@s:cym&eng" by "tax@s:eng"
 
 Replace "uh_huh@s:cym&eng" by "uhuh@s:eng" in line with IM list
 
+Replace "de" by "(yn)de"
+
 Make sure the abbreviations in the manual gloss match those in the autogloss and the abbreviations list in the doc file
 
 Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
