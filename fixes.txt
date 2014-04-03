@@ -1,64 +1,93 @@
-In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV". Also "throw_a_tantrum".
+CHANGES IN SIARAD2
+===================
 
-Main tier: systematically replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".  Likewise for negative forms, eg do't ti --> d(oedde)t ti.
 
-Change headers to reflect new marking.
+Header corrections
+-----------------------
 
-Make corrections thrown up by the wedi examples (KD email of 4 August 2013 ff).
+Change headers to reflect new marking. = DONE
 
-Get rid of caps at beginning of %eng (unless proper name)?
 
-Manual gloss: systematically replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
+Main tier corrections
+--------------------------
 
-? Add "elwch" 'merriment' to autoglosser dictionary - or change gloss for davies9, 379 manually?
+Replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".  Likewise for negative forms, eg do't ti --> d(oedde)t ti.
+
+Make corrections thrown up by the wedi examples (KD email of 4 August 2013 ff).  Includes: Replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
+
+Replace "yeah@s:cym" by "yeah@s:cym&eng"
+
+Replace "t/drwadd" by "t/drwodd"
+
+Convert xx to xxx
+
+Replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!  -- KD to check with BM what the current marking is.
+
+Replace "nag" by "nac" in tags (only "nac ydy" is on Patagonia changes list)
+
+Replace "wan" (now) by "ŵan"
+
+Replace "tax@s:cym&eng" by "tax@s:eng"
+
+Replace "uh_huh@s:cym&eng" by "uhuh@s:eng" in line with IM list
+
+Replace "de" by "(yn)de", and also "te" by "(yn)te" -- needs manual checking. :-(
+
+? Check for unmotivated colons in main tier (e.g. fusser22) - can that be done automatically?
+
+Remove underlines from numerals.
+
+
+Other tier corrections
+---------------------------
 
 Where changes have been made to xx/xxx on the main tier, sometimes the manual gloss doesn't match now. Can this be fixed by a programme?
 
 Get rid of caps at beginning of %eng (unless proper name)?  eg in davies2
 
-Add grammar rule to use lawr (adv) instead of llawr (n) everywhere except after ar (prep)
 
-In English CG, add rule to say that where you have a "_o" ending, SV gets converted to V (eg swim_o)
+Glossary
+-----------
 
-In English CG, add rule to say that AS+PV will collapse to N.PL when followed by "yn"
+? Add "elwch" 'merriment' to autoglosser dictionary - or change gloss for davies9, 379 manually?
 
-(Test the English CG by extracting all the English utterances, and running it against them)
+In write_cgautogloss.php, add code to convert spaces to underscores, so that "this year.ADV" is written "this_year.ADV". Also "throw_a_tantrum".
+
+
+Welsh constraint grammar rules
+---------------------------------------
+
+Use lawr (adv) instead of llawr (n) everywhere except after ar (prep)
 
 Change ei to MF, and add rule to choose M if (f)o/e follows, F if hi follows, M if SM follows.
 
+
+English constraint grammar rules
+-----------------------------------------
+
+(Test the English CG by extracting all the English utterances, and running it against them)
+
+Where you have a "_o" ending, SV gets converted to V (eg swim_o)
+
+AS+PV will collapse to N.PL when followed by "yn"
+
+
+Packaging
+-------------
+
 Run Chatter
-
-Systematically replace "yeah@s:cym" by "yeah@s:cym&eng"
-
-Systematically replace t/drwadd by t/drwodd
-
-Convert xx to xxx throughout
-
-?? Systematically replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!
-
-? Check for unmotivated colons in main tier (e.g. fusser22) - can that be done automatically?
-
-Replace "nag" by "nac" in tags (only "nac ydy" is on Patagonia changes list)
-
-? Replace "wan" 'now' by "ŵan" (probably a manual job...)
-
-Replace any instances of "tax@s:cym&eng" by "tax@s:eng"
-
-Replace "uh_huh@s:cym&eng" by "uhuh@s:eng" in line with IM list
-
-Replace "de" by "(yn)de"
-
-Make sure the abbreviations in the manual gloss match those in the autogloss and the abbreviations list in the doc file
 
 Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
 
-Remove underlines from numerals.
+Make sure the abbreviations in the manual gloss match those in the autogloss and the abbreviations list in the doc file
 
 
 
 
 
-CONCOMITANT CHANGES IN PATAGONIA
+CHANGES IN PATAGONIA
+=====================
+
 
 Remove underlines from numerals.
 
@@ -69,6 +98,8 @@ Regloss.
 
 
 CHANGES IN MIAMI
+=================
+
 
 Regloss.
 
