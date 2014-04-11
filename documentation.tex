@@ -8,25 +8,32 @@
 \newfontfamily{\transcript}{Liberation Sans}
 \newcommand\chat[1]{{\transcript #1}}
 
+\usepackage{titlesec}  % Allow the chapter/section heading settings to be fine-tuned.
+\titleformat{\chapter}[display]{\normalfont\large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\Large}[\vspace{2ex}\titlerule]  % 10pt is the space between chapter and chapter name.  [display] sets the chapter and chapter name on separate lines.  The square brackets at the end draw a line under each chapter name, with 2ex gap from the name.
+\titlespacing{\chapter}{0pt}{0pt}{20pt}  % First is indent from the side, second is length down from the top, third is gap between heading and text.
+\titleformat{\section}[block]{\normalfont\large\itshape}{\itshape\thesection}{1em}{}  % 1em is the space between section number and section name.  [block] sets the section and section name on the same line.
+
+\renewcommand{\chaptername}{Section}  % Change Chapter to read: Section.
+
 % set properties for captions - wider margins, smaller font, bold figure label, etc
 \usepackage[labelfont=bf, labelsep=endash]{caption}
 
 \usepackage{underscore}  % Escape _ so that it doesn't cause compile errors.
 
-\usepackage{longtable}
-\usepackage{booktabs}
-\usepackage{multirow}  % to merge cells in a table: provides \multirow, \multicolumn
+\usepackage{longtable}  % Tables that split over a pagebreak.
+\usepackage{booktabs}  % Modern-style tables.
+\usepackage{multirow}  % Merge cells in a table: provides \multirow, \multicolumn
 
-% to use urls in text and captions
-\usepackage[obeyspaces]{url}
-\urlstyle{rm}
+
+\usepackage[obeyspaces]{url}  % Use urls in text and captions with sensible linewrap.
+\urlstyle{rm}  % Set urls in roman.
 
 % Set up numbered paragraphs
 \newcounter{paranum}[section]
 \newcommand{\mypara}{\vspace{10pt}\noindent\thesection.\refstepcounter{paranum}\theparanum\hspace{5 mm}}
 
 % Title Page
-\title{Documentation File\\for the\\Bangor \textit{Siarad} Corpus\vspace{7cm}}
+\title{Documentation File \\ for the \\ \textbf{Bangor \textit{Siarad} Corpus}\vspace{7cm}}
 \author{Margaret Deuchar\\
 Centre for Research on Bilingualism\\
 Bangor University\\
@@ -119,7 +126,7 @@ We request that a copy of any publications that make use of this corpus be sent 
 
 \mypara Words marked as ‘@s’ (English) are transcribed in standard English orthography, including contractions, such as ‘isn’t’. Some non-standard spellings for colloquial forms such as ‘gonna’ are used.
 
-\mypara Words whose language source is undetermined are transcribed in English rather than in Welsh orthography, e.g. ‘acid@s:cym\&eng’ rather than ‘asid@s:cym\&eng’. This is in order to make the corpus more accessible to non-Welsh-speakers who might use the data. 
+\mypara Words whose language source is undetermined are transcribed in English rather than in Welsh orthography, e.g. ‘acid@s:cym\&eng’ rather than ‘asid@s:cym\-\&eng’. This is in order to make the corpus more accessible to non-Welsh-speakers who might use the data. 
 
 \mypara When words marked as English or undetermined are mutated (where the sound of an initial consonant is changed depending on the grammatical context, see for example \citealt[pp14--20]{King2003}, the initial (mutated) sound is written in Welsh orthography and the rest in English, e.g. ‘ei firthday@s’ = ‘his birthday’; ‘ei goat@s’ = his coat. In the case of words that begin with ‘qu’ in English orthography but that are mutated in the data, the mutated sound and the following [w] are written in Welsh orthography, e.g. ‘question’ (unmutated), ‘gwestion’ (soft mutation), ‘chwestion’ (aspirate mutation), ‘nghwestion’ (nasal mutation).
 
