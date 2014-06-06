@@ -9,7 +9,7 @@
 \newcommand\chat[1]{{\transcript #1}}
 
 \usepackage{titlesec}  % Allow the chapter/section heading settings to be fine-tuned.
-\titleformat{\chapter}[display]{\normalfont\large\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\Large}[\vspace{2ex}\titlerule]  % 10pt is the space between chapter and chapter name.  [display] sets the chapter and chapter name on separate lines.  The square brackets at the end draw a line under each chapter name, with 2ex gap from the name.
+\titleformat{\chapter}[display]{\normalfont\LARGE\bfseries}{\chaptertitlename\ \thechapter}{10pt}{\Large}[\vspace{2ex}\titlerule]  % 10pt is the space between chapter and chapter name.  [display] sets the chapter and chapter name on separate lines.  The square brackets at the end draw a line under each chapter name, with 2ex gap from the name.
 \titlespacing{\chapter}{0pt}{0pt}{20pt}  % First is indent from the side, second is length down from the top, third is gap between heading and text.
 \titleformat{\section}[block]{\normalfont\large\itshape}{\itshape\thesection}{1em}{}  % 1em is the space between section number and section name.  [block] sets the section and section name on the same line.
 
@@ -41,7 +41,7 @@ Bangor\\
 Gwynedd LL57 2DG\\
 United Kingdom\\
 m.deuchar@gmail.com}
-\date{7 April 2014}
+\date{May 2014}
 
 \begin{document}
 \maketitle
@@ -51,34 +51,36 @@ m.deuchar@gmail.com}
 \setcounter{section}{1}  % Set the sections to start at 1 instead of 0.
 \setcounter{paranum}{0}  % If no section is specified, you need to set paranum manually.
 
-\mypara The Siarad\footnote{\textbf{Siarad} (/ʃarad/) is the Welsh word for ‘to speak’ or ‘speaking’.} corpus of Welsh-English bilingual speech was recorded and transcribed between 2005 and 2008 as part of a research project funded by the Arts and Humanities Research Council (AHRC), entitled `Code-switching and convergence in Welsh: a universal versus a typological approach'. The main theoretical aim of the project was to test alternative models of code-switching with Welsh-English data.
+\mypara The Siarad\footnote{\textbf{Siarad} (/ʃarad/) is the Welsh word for `to speak' or `speaking'.} corpus of Welsh-English bilingual speech was recorded and transcribed between 2005 and 2008 as part of a research project funded by the Arts and Humanities Research Council (AHRC), entitled `Code-switching and convergence in Welsh: a universal versus a typological approach'. The main theoretical aim of the project was to test alternative models of code-switching with Welsh-English data.
 
-\mypara Please refer to the corpus as the `Bangor \textit{Siarad}' corpus, and provide a link to the website by which you accessed the corpus, either \url{bangortalk.org.uk} or \url{talkbank.org}. Please also cite:
+\mypara Please refer to the corpus as the `Bangor \textit{Siarad}' corpus, and provide a link to the website by which you accessed the corpus, either \textit{\url{bangortalk.org.uk}} or \textit{\url{talkbank.org}}. Please also cite:
 \begin{quotation}
-\noindent Deuchar, M. and Davies, P. Code-switching and the future of the Welsh language. \textit{International Journal of the Sociology of Language} 195:15-38
+\noindent Deuchar, M., P. Davies, J. Herring, M. Parafita Couto, and D. Carter (2014). Building bilingual corpora. In: E. M. Thomas and I. Mennen (Eds.), \textit{Advances in the Study of Bilingualism}, pp. 93–111. Bristol: Multilingual Matters.
 \end{quotation}
 We request that a copy of any publications that make use of this corpus be sent to us at the email address \textit{m.deuchar@gmail.com}.  For introductory information about the Welsh-speaking community see \citet{Deuchar2005}.
+
+\mypara The Siarad corpus is licensed under the GNU GPL\footnote{gnu.org/licenses/gpl.html} if retrieved from \textit{bangortalk.org.uk}, and under Creative Commons BY-NC-SA\footnote{creativecommons.org/licenses/by-nc-sa/3.0} if retrieved from \textit{talkbank.org}.
 
 
 \chapter{The data}
 \setcounter{section}{1}  % Set the sections to start at 1 instead of 0.
 \setcounter{paranum}{0}  % If no section is specified, you need to set paranum manually.
 
-\mypara The corpus consists of 69 audio recordings and their corresponding transcripts of informal conversation between two or more speakers, involving a total of 151 speakers from across Wales.  Participants were recruited via a variety of methods, including advertising, approaching visitors at a Welsh-language cultural event, and using the research team’s extended social network.  In total, the corpus consists of 452,116 words of text from 40 hours of recorded conversation. The transcriptions (in CHAT format) are linked to the digitized recordings through sound links at the end of each main tier.  Most recordings were in stereo, and made using radio microphones and a Marantz hard disk recorder.  A minidisk recorder was also occasionally used, meaning that some recordings are in mono mode. 
+\mypara The corpus consists of 69 audio recordings and their corresponding transcripts of informal conversation between two or more speakers, involving a total of 151 speakers from across Wales.  Participants were recruited via a variety of methods, including advertising, approaching visitors at a Welsh-language cultural event, and using the research team's extended social network.  In total, the corpus consists of 452,116 words of text from 40 hours of recorded conversation. The transcriptions (in CHAT format) are linked to the digitized recordings through sound links at the end of each main tier.  Most recordings were in stereo, and made using radio microphones and a Marantz hard disk recorder.  A minidisk recorder was also occasionally used, meaning that some recordings are in mono mode. 
 
 \mypara The recordings were made at a place convenient for the speakers, e.g. at their homes, workplaces or at the university. After setting up the equipment the researcher would leave the speakers to talk freely with one another. The first five minutes of all recordings after the point when the researcher left the room have been deleted. In some cases the researcher re-entered briefly during the recording. These sections have not been transcribed, but notes have been made in the relevant parts of the transcripts.
 
 \mypara At the end of each recording all participants were asked to fill in questionnaires providing background information regarding their age, gender, location of places lived, etc, in order to provide information for sociolinguistic analysis. They were also asked to sign consent forms giving permission for their recording and its transcript to be used for research purposes and to be submitted to online linguistic archives. The consent form included the provision that the names of speakers and other people named in the recording would be replaced by pseudonyms in the transcript. In the case of children of 16 years or younger, a consent form was also been signed by a parent or guardian. 
 
-\mypara Sound and transcription files in the corpus are named after the researcher (primarily) responsible for recording them, namely Marika Fusser, Peredur Davies, Elen Robert, Jonathan Stammers, Nesta Roberts, Gary Smith and Margaret Deuchar.  Each file name is made up of the surname followed by a number (ordered chronologically).  The sound and transcription files for each conversation share the filename, but have different file extensions (‘*.wav’ and ‘*.cha’respectively).  For example, Davies3.cha is the transcription of Peredur Davies’ third recording (sound file Davies3.wav).  In a few cases numbers are discontinuous.  The ‘Fusser’ files begin with Fusser3, for example.  Also, five recordings collected (including Fusser20, Fusser24 and Davies8) ultimately had to be left out of the corpus. In three cases this was due to the lack of consent from speakers in the recording, in one case due to the researcher taking an extensive part in the conversation, and in one case due to a participant being a Welsh speaker from Patagonia who was not a Welsh-English bilingual.
+\mypara Sound and transcription files in the corpus are named after the researcher (primarily) responsible for recording them, namely Marika Fusser, Peredur Davies, Elen Robert, Jonathan Stammers, Nesta Roberts, Gary Smith and Margaret Deuchar.  Each file name is made up of the surname followed by a number (ordered chronologically).  The sound and transcription files for each conversation share the filename, but have different file extensions (*.wav and *.cha respectively).  For example, Davies3.cha is the transcription of Peredur Davies' third recording (sound file Davies3.wav).  In a few cases numbers are discontinuous.  The Fusser files begin with Fusser3, for example.  Also, five recordings collected (including Fusser20, Fusser24 and Davies8) ultimately had to be left out of the corpus. In three cases this was due to the lack of consent from speakers in the recording, in one case due to the researcher taking an extensive part in the conversation, and in one case due to a participant being a Welsh speaker from Patagonia who was not a Welsh-English bilingual.
 
 \mypara A list of the transcript files in the corpus can be found in the Appendix. This list includes information about the length of the recording, the number of main participants, their age and sex.  Details regarding the context of each conversation and a list of all speakers involved are given in the transcript headers. Some additional information about the speakers and recordings is available to researchers on request. 
 
-\mypara All recordings have been transcribed in the CHAT transcription and coding format \citep{MacWhinney2000}, in accordance with the online CHAT manual\footnote{\url{http://childes.talkbank.org/manuals/CHAT.pdf}} from the Talkbank website. All further references to CHAT in this document are taken from this online version. 
+\mypara All recordings have been transcribed in the CHAT transcription and coding format \citep{MacWhinney2000}, in accordance with the online CHAT manual\footnote{\url{childes.talkbank.org/manuals/CHAT.pdf}} from the Talkbank website. All further references to CHAT in this document are taken from this online version. 
 
-\mypara All transcripts have been done by trained transcribers working on the project: Peredur Davies, Marika Fusser, Siân Wynn Lloyd, Elen Robert and Jonathan Stammers. For 22\% of the transcripts an independent transcription was done, in which a member of the transcription team transcribed one (randomly selected) minute of the recording independently from the original transcriber of that particular transcript. Transcripts were then compared and a rate of similarity was calculated. The average reliability score\footnote{An innovative method was used based on Turnitin plagiarism detection software (\url{http://www.turnitin.com}).  For further details see \citet{Deucharforthcoming}.} for independent transcriptions was 75\%. 
+\mypara All transcripts have been done by trained transcribers working on the project: Peredur Davies, Marika Fusser, Siân Wynn Lloyd, Elen Robert and Jonathan Stammers. For 22\% of the transcripts an independent transcription was done, in which a member of the transcription team transcribed one (randomly selected) minute of the recording independently from the original transcriber of that particular transcript. Transcripts were then compared and a rate of similarity was calculated. The average reliability score\footnote{An innovative method was used based on Turnitin plagiarism detection software (\url{turnitin.com}).  For further details see \citet{Deuchar2014}.} for independent transcriptions was 75\%. 
 
-\mypara All transcripts contain at least three different tiers. In addition to the main tier, required by CHAT, we use two alternative gloss tiers for the closest English equivalent for each word (including morphological information where relevant). One tier contains manually produced glosses and is labelled ‘\%gls’ while the other contains automatically generated glosses and is labelled ‘\%aut’.  There is also a translation tier (‘\%eng’), which contains a free translation of the main tier. A comments tier (‘\%com’) has also been used occasionally for comments by the transcriber that are specific to the utterance in the corresponding main tier. All main tiers include a sound link to the corresponding section of the recording.
+\mypara All transcripts contain at least three different tiers. In addition to the main tier, required by CHAT, we use two alternative gloss tiers for the closest English equivalent for each word (including morphological information where relevant). One tier contains manually produced glosses and is labelled \textit{\%gls} while the other contains automatically generated glosses and is labelled \textit{\%aut}.  There is also a translation tier (\textit{\%eng}), which contains a free translation of the main tier. A comments tier (\textit{\%com}) has also been used occasionally for comments by the transcriber that are specific to the utterance in the corresponding main tier. All main tiers include a sound link to the corresponding section of the recording.
 
 \mypara The remainder of this document outlines the conventions used in the main tier and the gloss tier.
 
@@ -89,61 +91,15 @@ We request that a copy of any publications that make use of this corpus be sent 
 
 \mypara Since the theoretical aims of the project include clause-based analysis, the transcribed data are divided into clauses where possible. Where an utterance contains two main clauses, each clause in that utterance is written on a separate main tier. Complex clauses are treated as one clause and therefore subordinate clauses are included in the same tier as their main clauses. Adverbial clauses are also written on the same main tier as their related main clause.
 
-\mypara Each main tier is divided into units which we call ‘words’ for the purposes of these conventions. With some exceptions (see 3.1.3) a word is considered to be a continuous sequence of characters containing no spaces, as found in Geiriadur Prifysgol Cymru \citep{Thomas1950}, Geiriadur yr Academi \citep{Griffiths1995}, Cysgeir \citep{Bedwyr2008} or the Oxford English Dictionary online \citep{OED2008}. These are referred to as GPC, GyrA, Cysgeir and OED respectively throughout this document. Where items are entered as two hyphenated words in these reference dictionaries, they are connected by underscore in the transcripts. When one of the reference dictionaries offers more than one alternative (e.g. ‘minibus’, ‘mini-bus’ or ‘mini bus’), or when the reference dictionaries differ from each other, the most compact alternative is chosen (‘minibus’ in this case).
+\mypara Each main tier is divided into units which we call `words' for the purposes of these conventions. With some exceptions (see 3.1.3) a word is considered to be a continuous sequence of characters containing no spaces, as found in Geiriadur Prifysgol Cymru \citep{Thomas1967}, Geiriadur yr Academi \citep{Griffiths1995}, Cysgeir \citep{Bedwyr2008} or the Oxford English Dictionary online \citep{OED2008}. These are referred to as GPC, GyrA, Cysgeir and OED respectively throughout this document. Where items are entered as two hyphenated words in these reference dictionaries, they are connected by underscore in the transcripts. When one of the reference dictionaries offers more than one alternative (e.g. \textit{minibus}, \textit{mini-bus} or \textit{mini bus}), or when the reference dictionaries differ from each other, the most compact alternative is chosen (\textit{minibus} in this case).
 
 \mypara Other items which are treated as words are:
 \begin{enumerate}
-\item interjections and interactional markers, e.g. ‘ah’, ‘er’, ‘um’ etc.
-\item proper names (including names of books, films, organisations etc.), a sequence of words being connected by underscores, e.g. ‘Elton_John’, ‘Hong_Kong’, ’Sweet_Valley_High’
-\item abbreviations (connected by underscore), e.g. ‘N_S_P_C_C’
-\item some prepositions and adverbs, usually represented as two words, whose individual parts are meaningless or difficult to translate in isolation, e.g. `oddi_wrth'. See a full list below in Table \ref{phrasewords} on page \pageref{phrasewords}.
+\item interjections and interactional markers, e.g. \textit{ah}, \textit{er}, \textit{um} etc.
+\item proper names (including names of books, films, organisations etc.), a sequence of words being connected by underscores, e.g. \textit{Elton_John}, H\textit{ong_Kong}, \textit{Sweet_Valley_High}
+\item abbreviations (connected by underscore), e.g. \textit{N_S_P_C_C}
+\item some prepositions and adverbs, usually represented as two words, whose individual parts are meaningless or difficult to translate in isolation, e.g. \textit{oddi_wrth}. See Table \ref{phrasewords} - most of these are normally translated into just a single English word.
 \end{enumerate}
-
-\mypara Contractions that do not have entries in one of the Welsh-language reference dictionaries (namely GPC, GyrA or Cysgeir) or in \citet{King2003}, are transcribed in full, but the unpronounced parts are bracketed. For example, the pronunciation of ‘fel yna’ (like that) as [vɛla] in speech is represented in the transcripts as ‘fel (yn)a’. 
-
-\mypara There are some continuous sequences of characters in the main tier which are not treated as words. These include simple events such as ‘\&=laughs’ (see CHAT\footnote{References to section numbers in the online CHAT manual are to the version dated March 4, 2014.} 7.8.1), ‘xxx’ for unintelligible material, or the use of an ampersand plus phonetic characters for intelligible sounds without clear meaning (see CHAT 6.4 for both).
-
-
-\section{Language marking}
-
-\mypara Each word in the main tier has its language source identified. The default language is identified as that providing the greatest number of words in the transcript and is Welsh in all the transcripts. Welsh words are unmarked but English words are identified with the tag ‘@s:eng’. Words which could come from both Welsh and English are considered to be of ‘undetermined’ language and are marked ‘@s:cym\&eng’, where ‘cym’ represents Welsh and ‘eng’ English. An entire utterance in English, the non-default language, is marked with a precode ‘[- eng]’ instead of marking each word as English.
-
-\mypara A word or morpheme is considered to be Welsh if it can be found in any of the Welsh-language reference dictionaries or in \citet{King2003} or \citet{Thomas1996}.
-
-\mypara Words which contain two or more morphemes from different languages are marked as mixed-language words, e.g. ‘concentrate_io@s:eng+cym’ (‘to concentrate’). However, where a word containing at least one English morpheme and at least one Welsh morpheme is included in one or more of the Welsh-language reference dictionaries, it is marked as a Welsh word. For example, the English word ‘use’ forms the basis of the Welsh word ‘iwsio’ (‘to use’) but the entire word is considered to be Welsh (and transcribed without a language marker as ‘iwsio’) because it is included in one of the Welsh-language reference dictionaries.
-
-\mypara The language marker @s:cym\&eng is used with words where the language source is undetermined. It marks words that occur in the lexicon of both languages, (as determined by the Welsh-language reference dictionaries for Welsh or by the OED for English), that are pronounced in a way that is possible both in Welsh and in English, e.g. [əŋkl] (‘uncle’ in English or ‘yncl’ in Welsh) or [mat]  (‘mat’ in both languages). @s: cym\&eng  also marks a specified list of interjections and interactional markers, e.g. ‘ah’, ‘aha’, ‘hmm’, ‘oh’, ‘ooh’, ‘um’. Other interjections and interactional markers are assigned language markers according to their inclusion (or not) in the reference dictionaries. For example, ‘ych’ (a marker of disgust equivalent to ‘yuk’ in English) is unmarked as it is considered to be Welsh and only found in the Welsh-language reference dictionaries.
-
-\mypara Where a lexeme could belong to both languages, but its pronunciation in a specific occurrence belongs unambiguously to one language only, it will be assigned a language source and marked or not accordingly, depending on its pronunciation. For example, ‘toast@s’ is used where the word is pronounced with [əʊ] as in English only, but ‘toast@s:cym\&eng’ where the word is pronounced with [o] as in Welsh or some varieties of Welsh English.
-
-\mypara Proper names and titles are marked ‘@s:cym\&eng’ (undetermined) unless there are alternatives in each language in general use, e.g. ‘Elton_John@s:cym\&eng’, ‘One_Flew_Over_the_Cuckoo’s_Nest@s:cym\&eng’, ‘Hong_Kong@s:cym\&eng’, ‘Tebot_Piws@s:cym\&eng’ (a Welsh-language pop group, literally meaning ‘purple teapot’) but ‘Cardiff@s:cym\&eng’, ‘Caerdydd’ (the Welsh word for ‘Cardiff’).
-
-\mypara According to GPC, the ‘-s’ plural ending is an established loan in the Welsh lexicon. Any plural formed with the ‘-s’ ending is assigned the language source of the previous morpheme. For example, ‘pregethwrs’ is unmarked like the singular form ‘pregethwr’ (preacher), but ‘dolphins@s:cym\&eng’ is marked undetermined like ‘dolphin@s:cym\&eng’ and ‘dogs@s’ English like ‘dog@s’.
-
-\mypara In multi-word phrases, each word is tagged separately, regardless of the phrase’s internal syntax. For example, in ‘traffic@s:cym\&eng lights@eng’, ‘traffic’ is coded as undetermined, although the syntax of the whole phrase is English.
-
-\section{Orthography}
-
-\mypara Words marked as ‘@s’ (English) are transcribed in standard English orthography, including contractions, such as ‘isn’t’. Some non-standard spellings for colloquial forms such as ‘gonna’ are used.
-
-\mypara Words whose language source is undetermined are transcribed in English rather than in Welsh orthography, e.g. ‘acid@s:cym\&eng’ rather than ‘asid@s:cym\-\&eng’. This is in order to make the corpus more accessible to non-Welsh-speakers who might use the data. 
-
-\mypara When words marked as English or undetermined are mutated (where the sound of an initial consonant is changed depending on the grammatical context, see for example \citealt[pp14--20]{King2003}, the initial (mutated) sound is written in Welsh orthography and the rest in English, e.g. ‘ei firthday@s’ = ‘his birthday’; ‘ei goat@s’ = his coat. In the case of words that begin with ‘qu’ in English orthography but that are mutated in the data, the mutated sound and the following [w] are written in Welsh orthography, e.g. ‘question’ (unmutated), ‘gwestion’ (soft mutation), ‘chwestion’ (aspirate mutation), ‘nghwestion’ (nasal mutation).
-
-\mypara Words marked as Welsh are transcribed in Welsh orthography. We have not represented regional variation in the transcripts, except in cases which have orthographic representation in the Welsh-language reference dictionaries or in \citet{King2003}.
-
-There are some cases where we differ from the standard orthography:
-\begin{enumerate}
-\item We transcribe some non-standard verb-noun suffixes, e.g. ‘-ian’ in ‘swnian’ (to grumble) rather than ‘-io’ in the standard form ‘swnio’. We also transcribe non-standard plural forms of nouns, e.g. ‘cobenni’ (night-dresses) rather than the standard form ‘cobannau’.
-\item We represent non-standard usage of inflected prepositions. Agreement markers for person and number show considerable variation in the spoken language. Thus one may, for example, find several forms for ‘to you’ (plural/respect form), such as ‘wrthoch chi’ (the variant found in \citet{King2003}, ‘wrthych (chi)’ (more formal variant, e.g. prescribed in \citet{Thomas1996} as well as ‘wrthach chi’ (more colloquial, northern variant). The orthography used in the transcripts is based on pronunciation. 
-\item Northern second person singular verb and preposition endings not usually represented in writing are transcribed with a final ‘-a’ where they are followed by the pronoun ‘chdi’, e.g. ‘oedda chdi’ (you were), ‘arna chdi’ (on you). Where they occur in isolation, they are transcribed as ‘-achd’, e.g. ‘oeddachd’ (you were/weren’t you), ‘arnachd’ (on you).
-\item We do not represent morpheme-final [v] when it is not pronounced. For example, [pɛntre] (‘village’) is written ‘pentre’ in the transcripts rather than ‘pentref’ (as the word is represented in the Welsh-language reference dictionaries).
-\item Morpheme-initial /r/ is only transcribed as ‘rh’ where it is clearly heard by the transcriber to be voiceless [r̥].  Otherwise it is transcribed as ‘r’, even when the standard orthography prescribes ‘rh’.  Some speakers do not have [r̥] as part of their phonological system in any case. 
-\item Morphemes in Welsh which are usually written with an initial apostrophe, such as the possessive pronoun ‘’w’, and the marking of the ellipsis of a possessive pronoun in e.g. ‘’nhad’(‘my father’), do not have this initial apostrophe marked in the transcripts owing to the constraints of CHAT.
-\item We have represented mutation (sound change to initial consonants) or its absence without following prescriptive rules as to where mutation might or might not be expected. Thus the Welsh form of ‘in Cardiff’ may be transcribed ‘yn Caerdydd’ (with an initial [k] on the placename) and ‘yn Gaerdydd’ (with initial [g]), as well as the standard form ‘yng Nghaerdydd’ (with initial [ŋ̥], according to what is heard. We have also transcribed the aspirate mutation of /m/ and /n/ after the 3rd singular feminine possessive adjective common in northern varieties, e.g. ‘ei mham’ (‘her mother’, with initial [m̥]) , rather than standard ‘ei mam’ (with initial [m]).
-\end{enumerate}
-
-\mypara The phrases treated as words as described in 3.1.2 are listed in Table~\ref{phrasewords} below.  Most of these are normally translated into just a single English word.
 
 \begin{longtable}[c]{lll}
 \caption{Phrases treated as words\label{phrasewords}} \\
@@ -190,7 +146,7 @@ lefel_O & lefel O & O-level \\
 naill_ai & naill ai & either \\ 
 o_dan & o dan & under \\ 
 o_danodd & o danodd & beneath \\ 
-o_gloch & o’r gloch & o’clock \\ 
+o_gloch & o'r gloch & o'clock \\ 
 o_gwbl & o gwbl & at all \\ 
 o_gwmpas & o gwmpas & around \\ 
 o_wrth & oddi wrth & from \\ 
@@ -200,7 +156,7 @@ oni_bai & oni bai & unless \\
 pob_dim & pob dim & everything \\ 
 pryf_copyn & pryf copyn & spider \\ 
 syth_bín & syth bín & straight away \\ 
-ta_waeth & ’ta waeth & anyway \\ 
+ta_waeth & 'ta waeth & anyway \\ 
 un_ai & un ai & either \\ 
 wrth_gwrs & wrth gwrs & of course \\ 
 y_chdi & y chdi & you (emphatic) \\ 
@@ -212,11 +168,55 @@ yn_ôl & yn ôl & back \\
 yn_ystod & yn ystod & during \\
 \end{longtable}
 
+\mypara Contractions that do not have entries in one of the Welsh-language reference dictionaries (namely GPC, GyrA or Cysgeir) or in \citet{King2003}, are transcribed in full, but the unpronounced parts are bracketed. For example, the pronunciation of \textit{fel yna} `like that' as [vɛla] in speech is represented in the transcripts as \textit{fel (yn)a}. 
+
+\mypara There are some continuous sequences of characters in the main tier which are not treated as words. These include simple events such as \textit{\&=laughs} (see CHAT\footnote{References to section numbers in the online CHAT manual are to the version dated March 4, 2014.} 7.8.1), \textit{xxx} for unintelligible material, or the use of an ampersand plus phonetic characters for intelligible sounds without clear meaning (see CHAT 6.4 for both).
+
+
+\section{Language marking}
+
+\mypara Each word in the main tier has its language source identified. The default language is identified as that providing the greatest number of words in the transcript and is Welsh in all the transcripts. Welsh words are unmarked but English words are identified with the tag \textit{@s:eng}. Words which could come from both Welsh and English are considered to be of `undetermined' language and are marked \textit{@s:cym\&eng}, where \textit{cym} represents Welsh and \textit{eng} English. An entire utterance in English, the non-default language, is marked with a precode \textit{[- eng]} instead of marking each word as English.
+
+\mypara A word or morpheme is considered to be Welsh if it can be found in any of the Welsh-language reference dictionaries or in \citet{King2003} or \citet{Thomas1996}.
+
+\mypara Words which contain two or more morphemes from different languages are marked as mixed-language words, e.g. \textit{concentrate_io@s:eng+cym} `to concentrate'. However, where a word containing at least one English morpheme and at least one Welsh morpheme is included in one or more of the Welsh-language reference dictionaries, it is marked as a Welsh word. For example, the English word \textit{use} forms the basis of the Welsh word \textit{iwsio} `to use' but the entire word is considered to be Welsh (and transcribed without a language marker as \textit{iwsio}) because it is included in one of the Welsh-language reference dictionaries.
+
+\mypara The language marker \textit{@s:cym\&eng} is used with words where the language source is undetermined. It marks words that occur in the lexicon of both languages (as determined by the Welsh-language reference dictionaries for Welsh or by the OED for English), that are pronounced in a way that is possible both in Welsh and in English, e.g. [əŋkl] (\textit{uncle} in English or \textit{yncl} in Welsh) or [mat]  (\textit{mat} in both languages). \textit{@s: cym\&eng}  also marks a specified list of interjections and interactional markers, e.g. \textit{ah}, \textit{aha}, \textit{hmm}, \textit{oh}, \textit{ooh}, \textit{um}. Other interjections and interactional markers are assigned language markers according to their inclusion (or not) in the reference dictionaries. For example, \textit{ych} (a marker of disgust equivalent to `yuk' in English) is unmarked as it is considered to be Welsh and only found in the Welsh-language reference dictionaries.
+
+\mypara Where a lexeme could belong to both languages, but its pronunciation in a specific occurrence belongs unambiguously to one language only, it will be assigned a language source and marked or not accordingly, depending on its pronunciation. For example, \textit{toast@s:eng} is used where the word is pronounced with [əʊ] as in English only, but \textit{toast@s:cym\&eng} where the word is pronounced with [o] as in Welsh or some varieties of Welsh English.
+
+\mypara Proper names and titles are marked\textit{ @s:cym\&eng} (undetermined) unless there are alternatives in each language in general use, e.g. \textit{Elton_John@s:cym\&eng}, \textit{One_Flew_Over_the_Cuckoo's_Nest@s:cym\&eng}, \textit{Hong_Kong@s:cym\&eng}, \textit{\url{Tebot_Piws@s:cym\&eng}} (a Welsh-language pop group, literally meaning `purple teapot') but \textit{Cardiff@s:cym\&eng}, \textit{Caerdydd} (the Welsh word for `Cardiff').
+
+\mypara According to GPC, the `-s' plural ending is an established loan in the Welsh lexicon. Any plural formed with the `-s' ending is assigned the language source of the previous morpheme. For example, \textit{pregethwrs} is unmarked like the singular form \textit{pregethwr} `preacher', but \textit{dolphins@s:cym\&eng} is marked undetermined like \textit{dolphin@s:cym\&eng} and \textit{dogs@s:eng} English like \textit{dog@s:eng}.
+
+\mypara In multi-word phrases, each word is tagged separately, regardless of the phrase's internal syntax. For example, in \textit{traffic@s:cym\&eng lights@eng}, \textit{traffic} is coded as undetermined, although the syntax of the whole phrase is English.
+
+\section{Orthography}
+
+\mypara Words marked as \textit{@s:eng} (English) are transcribed in standard English orthography, including contractions, such as \textit{isn't}. Some non-standard spellings for colloquial forms such as \textit{gonna} are used.
+
+\mypara Words whose language source is undetermined are transcribed in English rather than in Welsh orthography, e.g. \textit{acid@s:cym\&eng} rather than \textit{asid@s:cym\&eng}. This is in order to make the corpus more accessible to non-Welsh-speakers who might use the data. 
+
+\mypara When words marked as English or undetermined are mutated (where the sound of an initial consonant is changed depending on the grammatical context, see for example \citealt[pp14--20]{King2003}, the initial (mutated) sound is written in Welsh orthography and the rest in English, e.g. \textit{ei firthday@s:eng} = `his birthday'; \textit{ei goat@s:eng} = his coat. In the case of words that begin with `qu' in English orthography but that are mutated in the data, the mutated sound and the following [w] are written in Welsh orthography, e.g. \textit{question} (unmutated), \textit{gwestion} (soft mutation), \textit{chwestion} (aspirate mutation), \textit{nghwestion} (nasal mutation).
+
+\mypara Words marked as Welsh are transcribed in Welsh orthography. We have not represented regional variation in the transcripts, except in cases which have orthographic representation in the Welsh-language reference dictionaries or in \citet{King2003}.
+
+There are some cases where we differ from the standard orthography:
+\begin{enumerate}
+\item We transcribe some non-standard verb-noun suffixes, e.g. \textit{-ian} in \textit{swnian} `to grumble' rather than \textit{-io} in the standard form \textit{swnio}. We also transcribe non-standard plural forms of nouns, e.g. \textit{cobenni} `night-dresses' rather than the standard form \textit{cobannau}.
+\item We represent non-standard usage of inflected prepositions. Agreement markers for person and number show considerable variation in the spoken language. Thus one may, for example, find several forms for `to you' (plural/respect form), such as \textit{wrthoch chi} (the variant found in \citet{King2003}, \textit{wrthych (chi)} (more formal variant, e.g. prescribed in \citet{Thomas1996} as well as \textit{wrthach chi} (more colloquial, northern variant). The orthography used in the transcripts is based on pronunciation. 
+\item Northern second person singular verb and preposition endings not usually represented in writing are transcribed with a final \textit{-a} where they are followed by the pronoun \textit{chdi}, e.g. \textit{oedda chdi} `you were', \textit{arna chdi} `on you'. Where they occur in isolation, they are transcribed as \textit{-achd}, e.g. \textit{oeddachd} `you were/weren't you', \textit{arnachd} `on you'.
+\item We do not represent morpheme-final [v] when it is not pronounced. For example, [pɛntre] `village' is written \textit{pentre} in the transcripts rather than \textit{pentref} (as the word is represented in the Welsh-language reference dictionaries).
+\item Morpheme-initial /r/ is only transcribed as `rh' where it is clearly heard by the transcriber to be voiceless [r̥].  Otherwise it is transcribed as `r', even when the standard orthography prescribes `rh'.  Some speakers do not have [r̥] as part of their phonological system in any case. 
+\item Morphemes in Welsh which are usually written with an initial apostrophe, such as the possessive pronoun \textit{'w}, and the marking of the ellipsis of a possessive pronoun in e.g. \textit{'nhad} `my father', do not have this initial apostrophe marked in the transcripts owing to the conventions of CHAT.
+\item We have represented mutation (sound change to initial consonants) or its absence without following prescriptive rules as to where mutation might or might not be expected. Thus the Welsh form of `in Cardiff' may be transcribed \textit{yn Caerdydd} (with an initial [k] on the placename) and \textit{yn Gaerdydd} (with initial [g]), as well as the standard form \textit{yng Nghaerdydd} (with initial [ŋ̥], according to what is heard. We have also transcribed the aspirate mutation of /m/ and /n/ after the 3rd singular feminine possessive adjective common in northern varieties, e.g. \textit{ei mham} `her mother', with initial [m̥) , rather than standard \textit{ei mam}' with initial [m].
+\end{enumerate}
+
 \mypara In Table \ref{colloquial} we list some colloquial forms which are not represented in the Welsh-language reference dictionaries but which we have transcribed as indicated:
 
 \begin{footnotesize}
 \begin{longtable}[c]{@{}p{3cm}p{3cm}p{3cm}p{4.5cm}@{}}
-\caption{Phrases treated as words\label{colloquial}} \\
+\caption{Colloquial forms\label{colloquial}} \\
 \hline
 \textbf{Our} & \textbf{Standard} & \textbf{English} & Comments\\
 \textbf{transcription} & \textbf{equivalent} & \textbf{equivalent} & Comments\\
@@ -239,26 +239,26 @@ yn_ystod & yn ystod & during \\
 \hline
 \noalign{\medskip}
 (r)hein,~(r)hain, (r)heiny etc & rhein,~rhain, rheiny etc. & these, those etc. & pronounced with initial [h] \\ 
-cordwellt & cordwellt & cordgrass & technical term listed on http://termau.org but not in our reference dictionaries \\ 
+cordwellt & cordwellt & cordgrass & technical term listed on termau.org but not in our reference dictionaries \\ 
 cwfwr & cyfarfod & meet & common in north west Wales \\ 
 cyfryngi & cyfryngi & someone working in the media & recent coinage not yet in dictionaries \\ 
-dafedd & edafedd & yarn & mutates to ‘ddafedd’ \\ 
+dafedd & edafedd & yarn & mutates to \textit{ddafedd} \\ 
 diwc & duwcs & gosh &  \\ 
 dôl, yn_dôl & yn ôl & back & common in north Wales \\ 
 fannodd & dannodd & toothache & northern variant \\ 
 ffluch & --- & fling & heard in the north west \\ 
 fformwleiddio & geirio & formulate & coinage based on English equivalent \\ 
 Fictorianaidd & Fictoraidd & Victorian & wide-spread variant \\ 
-gewin, gwinedd & ewin, ewinedd & claw(s)/ finger nail(s) & colloquial form listed in GPC article for ‘ewin’ \\ 
+gewin, gwinedd & ewin, ewinedd & claw(s)/ finger nail(s) & colloquial form listed in GPC article for \textit{ewin} \\ 
 gosa & oni bai & unless & heard in north-western varieties \\ 
 hompen & homer & huge thing & form used by speaker from the south-west \\ 
-jaman & --- & (embarrass) & ‘cael jaman’ = Caernarfon expression for 'being proved wrong'\footnote{See \url{http://www.youtube.com/watch?v=Z-x7zLAZdLM}} \\ 
-molchi & ymolchi & wash oneself & mutates to ‘folchi’ \\ 
+jaman & --- & (embarrass) & \textit{cael jaman} = Caernarfon expression for 'being proved wrong'\footnote{See \url{youtube.com/watch?v=Z-x7zLAZdLM}} \\ 
+molchi & ymolchi & wash oneself & mutates to \textit{folchi} \\ 
 nunman & unman & nowhere & widespread \\ 
 olradd & ôl-raddedig & postgraduate & heard in Welsh universities \\ 
-penwsnos & penwythnos & weekend & GPC has an entry for ‘wsnos’ \\ 
+penwsnos & penwythnos & weekend & GPC has an entry for \textit{wsnos} \\ 
 perchynu & perchen & own & form used several times by 16 year-old native speaker \\ 
-pwpŵo & --- & poo (verb) & “pwpŵo” is listed in GPC meaning ‘talking derogatively’ \\ 
+pwpŵo & --- & poo (verb) & \textit{pwpŵo} is listed in GPC meaning `talking derogatively' \\ 
 socsen & sociad & soaking & heard in north-western varieties \\ 
 ticiâu & diciâu & tuberculosis & northern variant attested in “diciau” article in GPC \\ 
 \noalign{\medskip}
@@ -278,27 +278,27 @@ dyla fi & dylwn i & I should &  \\
 dylen i, bydden i etc. & dylwn i, byddwn i etc. & I should, I would etc. \\ 
  & common in southern varieties \\ 
 gada & gad & leave & imperative \\ 
-mag & mae & (he/she/it) is & 3rd singular present form of ‘bod’ (to be) heard in south-western varieties \\ 
+mag & mae & (he/she/it) is & 3rd singular present form of \textit{bod} `to be' heard in south-western varieties \\ 
 na i etc. & a i etc. & I will go etc. & heard in the Caernarfon area \\ 
 oedd nhw, wneith nhw etc. & oedden nhw, wnan nhw etc. & they were, they will etc. & 3rd person singular verb forms used with plural pronouns \\ 
 syma & symud & move & imperative \\ 
-tes i (ddi)m & es i ddim & I didn’t go & some northern varieties \\ 
+tes i (ddi)m & es i ddim & I didn't go & some northern varieties \\ 
 troeodd hi & troes, trodd & she turned &  \\ 
 y fi     & rwy i & I am & southern Welsh \\ 
 \noalign{\medskip}
 \multicolumn{4}{c}{\textbf{(c) Interactional markers}} \\ 
 \hline
 \noalign{\medskip}
-argob & argoel & gosh & interactional marker based on “arglwydd” ‘lord’ \\ 
-asu & --- & gosh & interactional marker based on “Iesu” ‘Jesus’ \\ 
-diwc & duwcs & gosh & variant listed in GPC under ‘duwcs’ \\ 
-duwarth & duwcs & gosh & interactional marker based on “duw” ‘god’ \\ 
-duwedd & duwcs & gosh & interactional marker based on “duw” ‘god’ \\ 
+argob & argoel & gosh & interactional marker based on \textit{arglwydd} `lord' \\ 
+asu & --- & gosh & interactional marker based on \textit{Iesu} `Jesus' \\ 
+diwc & duwcs & gosh & variant listed in GPC under \textit{duwcs} \\ 
+duwarth & duwcs & gosh & interactional marker based on \textit{duw} `god' \\ 
+duwedd & duwcs & gosh & interactional marker based on \textit{duw} `god' \\ 
 ewadd & ew & wow &  \\ 
-iargoel & argoel & gosh & interactional marker based on “arglwydd” ‘lord’ \\ 
-iesgob & esgob & gosh & interactional marker based on “Iesu” ‘Jesus’ \\ 
-myn_diân_i & --- & by heck & interactional marker based on “diawl” ‘devil’ \\ 
-wannwyl & duw annwyl & good lord & a contraction of ‘duw annwyl’  \\ 
+iargoel & argoel & gosh & interactional marker based on \textit{arglwydd} `lord' \\ 
+iesgob & esgob & gosh & interactional marker based on \textit{Iesu} `Jesus' \\ 
+myn_diân_i & --- & by heck & interactional marker based on \textit{diawl} `devil' \\ 
+wannwyl & duw annwyl & good lord & a contraction of \textit{duw annwyl}  \\ 
 bleugh & --- & --- & English interactional marker indicating disgust \\ 
 hehey & --- & --- & English interactional marker indicating approval \\ 
 woohoo & --- & --- & English interactional marker indicating joy \\ 
@@ -306,7 +306,7 @@ woohoo & --- & --- & English interactional marker indicating joy \\
 \multicolumn{4}{c}{\textbf{(d) Playful and ad hoc forms}} \\ 
 \hline
 \noalign{\medskip}
-cyn_rodidenaidd & --- & ‘pre-rhodonedric’ & ad hoc adjective to describe the period before the arrival of rhododendrons in Wales \\ 
+cyn_rodidenaidd & --- & `pre-rhodonedric' & ad hoc adjective to describe the period before the arrival of rhododendrons in Wales \\ 
 geitha fi & ges i & I got & uttered by 10-year old after a number of retracings \\ 
 ruddydendrons & rhododendrons & rhododendrons & apparently a citation of local playwright W.S. Jones \\ 
 \noalign{\medskip}
@@ -314,7 +314,7 @@ ruddydendrons & rhododendrons & rhododendrons & apparently a citation of local p
 \hline
 \noalign{\medskip}
 cynna fi, cynna chdi etc. & gen i, gen ti, etc. & before me, before you etc. & preposition inflected in northern varieties \\ 
-dwmbo, wmbo & dw i ddim yn gwybod & I don’t know & contraction \\ 
+dwmbo, wmbo & dw i ddim yn gwybod & I don't know & contraction \\ 
 henach, henaf & hŷn, hynaf & older, oldest & \\
 \end{longtable}
 \end{footnotesize}
@@ -324,17 +324,17 @@ henach, henaf & hŷn, hynaf & older, oldest & \\
 
 \section{Principles}
 
-\mypara Each word (see 3.1.2 and 3.1.3) in the main tier is given a manual gloss in the gloss tier (\%gls) and an automatic gloss in a second gloss tier (\%aut) which has been automatically generated using the Bangor Autoglosser (\url{http://bangortalk.org.uk/autoglosser.php}): for further details see \citet{Donnelly2011}. 
+\mypara Each word (see 3.1.2 and 3.1.3) in the main tier is given a manual gloss in the gloss tier (\textit{\%gls}) and an automatic gloss in a second gloss tier (\textit{\%aut}) which has been automatically generated using the Bangor Autoglosser (\url{bangortalk.org.uk/autoglosser.php}): for further details see \citet{Donnelly2011}. 
 
-\mypara Non-words (see 3.1.5) are not glossed, with the exception of ‘xx’ and ‘xxx’, which are represented by the same characters in the manual gloss (\%gls), while being omitted for readability in the autogloss (\%aut).
+\mypara Non-words (see 3.1.5) are not glossed, with the exception of \textit{xxx}, which are represented by the same characters in the manual gloss (\textit{\%gls}), while being omitted for readability in the autogloss (\textit{\%aut}).
 
 \mypara In both gloss tiers,  words are glossed with the closest English-language equivalent (in lower case), with the exception of proper names (see below). In Welsh or mixed-language words, morphological information is frequently included in the gloss in upper case: see 4.2.1. 
 
-\mypara Proper names (including names of books, films, organisations etc.) marked as English or undetermined are glossed as they appear in the main tier. For example, ‘Hong_Kong@s:cym\&eng’ is glossed as ‘Hong_Kong’, ‘Cardiff@s’ is glossed as ‘Cardiff’ and ‘Tebot_Piws@s:cym\&eng’ is glossed as ‘Tebot_Piws’. However, proper names marked as Welsh are glossed with their English-language equivalents. For example, ‘Caerdydd’ is glossed as ‘Cardiff’.
+\mypara Proper names (including names of books, films, organisations etc.) marked as English or undetermined are glossed as they appear in the main tier. For example, \textit{Hong_Kong@s:cym\&eng} is glossed as `Hong_Kong', \textit{Cardiff@s:eng} is glossed as `Cardiff' and \textit{Tebot_Piws@s:cym\&eng} is glossed as `Tebot_Piws'. However, proper names marked as Welsh are glossed with their English-language equivalents. For example, \textit{Caerdydd} is glossed as `Cardiff'.
 
-\mypara Lexical information always precedes morphological information in the gloss. A full stop ‘.’ is used to separate morphological information from lexical information (e.g. go.NONFIN) and also to separate two pieces of morphological information (e.g. PRON.3SM). Some manual glosses contain only morphological information, such as ‘POSS.2S’ for the 2nd singular possessive adjective ‘dy’.
+\mypara Lexical information always precedes morphological information in the gloss. A full stop (.) is used to separate morphological information from lexical information (e.g. go.NONFIN) and also to separate two pieces of morphological information (e.g. PRON.3SM). Some manual glosses contain only morphological information, such as POSS.2S for the 2nd singular possessive adjective \textit{dy}.
 
-\mypara The underscore is used in the gloss tier to connect more than one lexical item in a gloss, where the English translation of a single Welsh word involves more than one word. For example, ‘neithiwr’ is glossed as ‘last_night’.
+\mypara The underscore is used in the gloss tier to connect more than one lexical item in a gloss, where the English translation of a single Welsh word involves more than one word. For example, \textit{neithiwr} is glossed as `last_night'.
 
 
 \section{Key to morphological glosses}
@@ -362,9 +362,9 @@ henach, henaf & hŷn, hynaf & older, oldest & \\
 CONDIT & conditional/habitual past \\ 
 DET & determiner \\ 
 F & feminine  \\ 
-FUT & future/habitual present (verb ‘bod’ (to be) only) \\ 
-IM & interactional marker/exclamation, e.g. ‘um’, ‘oh’ \\ 
-IMP & imperfect (verb ‘bod’ (to be) only) \\ 
+FUT & future/habitual present (verb \textit{bod} `to be' only) \\ 
+IM & interactional marker/exclamation, e.g. \textit{um}, \textit{oh} \\ 
+IMP & imperfect (verb \textit{bod} `to be' only) \\ 
 IMPER & imperative \\ 
 IMPERSONAL & impersonal \\ 
 INT & interrogative \\ 
@@ -377,7 +377,7 @@ PAST & past tense \\
 PERF & perfect \\ 
 POSS & possessive \\ 
 POSSD & possessed \\ 
-PRES & present tense (verb ‘bod’ (to be) only) \\ 
+PRES & present tense (verb \textit{bod} `to be' only) \\ 
 PRON & pronoun  \\ 
 PRT & particle \\ 
 REL & relative \\ 
@@ -431,7 +431,7 @@ AM & aspirate mutation \\
 AV & adjective or verb \\ 
 ASV & adjective, singular noun, or verb \\ 
 AUG & augmentative \\ 
-BE & auxiliary verb "be" \\ 
+BE & auxiliary verb `be' \\ 
 COMP & comparative \\ 
 COND & conditional \\ 
 CONJ & conjunction \\ 
@@ -445,10 +445,10 @@ F & feminine \\
 FAR & far (demonstrative) \\ 
 FOCUS & item with focus \\ 
 FUT & future \\ 
-GB & 's – genitive or auxiliary "be" elision \\ 
+GB & 's – genitive or auxiliary `be' elision \\ 
 GER & gerund \\ 
 H & pre-vocalic h after 3S.F, 1P and 3P possessives \\ 
-HAVE & auxiliary verb "have" \\ 
+HAVE & auxiliary verb `have' \\ 
 HYP & hypothetical \\ 
 IM & interactional marker \\ 
 IMPER & imperative \\ 
@@ -493,51 +493,51 @@ TAG & tag question \\
 V & verb
 \end{longtable}
 
-\mypara Gender-specific adjectives in Welsh are not marked for gender in the gloss. For example, ‘gwyn’ (used to modify masculine nouns) and ‘wen’ (used to modify feminine nouns) are both glossed simply ‘white’ in the manual glosses but ‘white.ADJ.M’ and ‘white.ADJ.F+SM’ in the automatic glosses.
+\mypara Gender-specific adjectives in Welsh are not marked for gender in the gloss. For example, \textit{gwyn} (used to modify masculine nouns) and \textit{wen} (used to modify feminine nouns) are both glossed simply `white' in the manual glosses but `white.ADJ.M' and `white.ADJ.F+SM' in the automatic glosses.
 
-\mypara Numerals are glossed for gender where appropriate. For example, ‘dau’ and ‘dwy’ are glossed as ‘two.M’ and ‘two.F’ respectively.  The autogloss is be 'two.NUM.M' and 'two.NUM.F' respectively.
+\mypara Numerals are glossed for gender where appropriate. For example, \textit{dau} and \textit{dwy} are glossed as `two.M' and `two.F' respectively.  The autogloss is be `two.NUM.M' and `two.NUM.F' respectively.
 
-\mypara Welsh collective nouns are glossed by the English plural. For example, ‘moch’ (singular collective noun indicating ‘pigs’) has the gloss ‘pigs’.  The automatic gloss is  'pigs.N.M.PL'.
+\mypara Welsh collective nouns are glossed by the English plural. For example, \textit{moch} (singular collective noun indicating `pigs') has the gloss `pigs'.  The automatic gloss is  `pigs.N.M.PL'.
 
 \mypara In the manual glosses of third person singular possessive constructions, the gender of the possessor is marked  only where there is positive evidence of that gender (i.e. either when the possessed noun is mutated, or when a gender-specific pronoun follows the possessed noun, specifically referring to the possessor). The gender is marked on the possessive adjective. For example:\\
 
-\noindent ‘her mother’\\
-ei mam : POSS.3S mother\\
-ei mham: POSS.3SF mother\\
-ei mam hi : POSS.3SF mother PRON.3SF\\
+\noindent `her mother'\\
+\textit{ei mam} : POSS.3S mother\\
+\textit{ei mham}: POSS.3SF mother\\
+\textit{ei mam hi} : POSS.3SF mother PRON.3SF\\
 
-\noindent ‘his mother’\\
-ei fam : POSS.3SM mother\\
-ei fam e : POSS.3SM mother PRON.3SM\\
-ei mam e : POSS.3SM mother PRON.3SM\\
+\noindent `his mother'\\
+\textit{ei fam} : POSS.3SM mother\\
+\textit{ei fam e} : POSS.3SM mother PRON.3SM\\
+\textit{ei mam e} : POSS.3SM mother PRON.3SM\\
 
-\noindent The above applies also to possessive constructions involving non-finite verbs preceded by ‘ei’. For example:\\
+\noindent The above applies also to possessive constructions involving non-finite verbs preceded by \textit{ei}. For example:\\
 
-\noindent ‘he was born’\\
-gaeth (e) ei eni: get.3S.PAST (PRON.3SM) POSS.3SM bear.NONFIN\\
+\noindent `he was born'\\
+\textit{gaeth (e) ei eni}: get.3S.PAST (PRON.3SM) POSS.3SM bear.NONFIN\\
 
-\noindent ‘he/she was shot’\\
-gaeth ei saethu: get.3S.PAST POSS.3S shoot.NONFIN\\
+\noindent `he/she was shot'\\
+\textit{gaeth ei saethu}: get.3S.PAST POSS.3S shoot.NONFIN\\
 
-\mypara When a possessive construction in the first person singular is marked only by mutation of the noun, the possessed noun is followed in the manual gloss by ‘.POSSD.1S’. For example:\\
+\mypara When a possessive construction in the first person singular is marked only by mutation of the noun, the possessed noun is followed in the manual gloss by `.POSSD.1S'. For example:\\
 
-\noindent ‘my father’\\
-nhad : father.POSSD.1S\\
+\noindent `my father'\\
+\textit{nhad} : father.POSSD.1S\\
 
-\noindent (However, the automatic gloss will mark ‘nhad’ as father.N.M.SG+SM.)\\
+\noindent (However, the automatic gloss will mark \textit{nhad} as `father.N.M.SG+SM'.)\\
 
 \noindent Contrast this with the following:\\
 
-\noindent fy nhad : POSS.1S father\\
-nhad i : father PRON.1S\\
-fy nhad i : POSS.1S father PRON.1S\\
+\noindent \textit{fy nhad} : POSS.1S father\\
+\textit{nhad i} : father PRON.1S\\
+\textit{fy nhad i} : POSS.1S father PRON.1S\\
 
 
 \chapter{Tags}
 \setcounter{section}{1}  % Set the sections to start at 1 instead of 0.
 \setcounter{paranum}{0}  % If no section is specified, you need to set paranum manually.
 
-\mypara Certain phrases in Welsh, usually at the end of an utterance, but also sometimes mid-utterance, are used discursively to engage with the listener. We term these ‘tags’. Tags can be agreeing (i.e. they include a verb form that agrees in person, number and tense with the finite verb in the main clause) or they can be non-agreeing. Both kinds are particularly problematic in transcription, as they are seldom seen in the written language and therefore there are no fixed conventions for their spelling. They can also be problematic for glossing.
+\mypara Certain phrases in Welsh, usually at the end of an utterance, but also sometimes mid-utterance, are used discursively to engage with the listener. We term these `tags'. Tags can be agreeing (i.e. they include a verb form that agrees in person, number and tense with the finite verb in the main clause) or they can be non-agreeing. Both kinds are particularly problematic in transcription, as they are seldom seen in the written language and therefore there are no fixed conventions for their spelling. They can also be problematic for glossing.
 
 \mypara Table \ref{agree} is an incomplete list of agreeing tags that may occur, giving the tag as represented by us in the main tier, and its manual gloss. This will serve as a pattern for other agreeing tags with different verbs, tenses and persons.
 
@@ -561,10 +561,10 @@ fy nhad i : POSS.1S father PRON.1S\\
 byddaf & be.1S.FUT \\ 
 na fyddaf & NEG be.1S.FUT \\ 
 yn_byddaf & be.1S.FUT.NEG \\ 
-Medri & can.2S.NONPAST \\ 
+medri & can.2S.NONPAST \\ 
 na fedri & NEG can.2S.NONPAST \\ 
 yn_medri & can.2S.NONPAST.NEG \\ 
-Dylai & should.3S.CONDIT \\ 
+dylai & should.3S.CONDIT \\ 
 na ddylai & NEG should.3S.CONDIT \\ 
 yn_dylai & should.3S.CONDIT.NEG \\ 
 ydy, yndy & be.3S.PRES \\ 
