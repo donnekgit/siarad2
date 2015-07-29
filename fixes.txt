@@ -11,6 +11,8 @@ Change headers to reflect new marking. = DONE
 Main tier corrections
 --------------------------
 
+Remove incorrectly-introduced linebreak+tab (eg davies13, 729, 749)
+
 Replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni".  Likewise for negative forms, eg do't ti --> d(oedde)t ti.
 
 Make corrections thrown up by the wedi examples (KD email of 4 August 2013 ff).  Includes: Replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
@@ -35,9 +37,9 @@ Replace "de" by "(yn)de", and also "te" by "(yn)te" -- needs manual checking. :-
 
 ? Check for unmotivated colons in main tier (e.g. fusser22) - can that be done automatically?
 
-Remove underlines from numerals.
+Remove underlines from numerals (numerals.txt)
 
-Change spwnjo’ -> ‘spynjo’ in fusser30.
+Change spwnjo -> spynjo in fusser30.
 
 
 Other tier corrections
