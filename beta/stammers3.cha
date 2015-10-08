@@ -3,8 +3,8 @@
 @Begin
 @Languages:	cym, eng
 @Participants:	NER Nerys Adult, GUT Guto Adult
-@ID:	cym|siarad|NER|33;|female|||Adult||
-@ID:	cym|siarad|GUT|37;|male|||Adult||
+@ID:	cym, eng|siarad|NER|33;|female|||Adult||
+@ID:	cym, eng|siarad|GUT|37;|male|||Adult||
 @Situation:	Informal conversation between a brother and sister, recorded at her home.
 @Comment:	NER (Right channel) was brought up in north-west Wales, and is living there now, after spending a significant period in England and in south Wales
 @Comment:	GUT (Left channel) was brought up in north-west Wales and has lived there all his life

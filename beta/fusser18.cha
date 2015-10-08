@@ -2,10 +2,10 @@
 @Begin
 @Languages:	cym, eng
 @Participants:	BEU Beuno Adult, ARD Arddun Adult, HAF Haf Child, CAI Cai Child
-@ID:	cym|siarad|BEU|41;|male|||Adult||
-@ID:	cym|siarad|ARD|41;|female|||Adult||
-@ID:	cym|siarad|HAF||female|||Child||
-@ID:	cym|siarad|CAI||male|||Child||
+@ID:	cym, eng|siarad|BEU|41;|male|||Adult||
+@ID:	cym, eng|siarad|ARD|41;|female|||Adult||
+@ID:	cym, eng|siarad|HAF||female|||Child||
+@ID:	cym, eng|siarad|CAI||male|||Child||
 @Situation:	informal conversation in a family in the speakers' home
 @Comment:	BEU was brought up in north-west Wales, where he is now living, after spending a significant period in south-east Wales
 @Comment:	ARD was born in north-west Wales, where she is now living, after spending a significant period abroad
