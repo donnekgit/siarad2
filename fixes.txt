@@ -1,7 +1,6 @@
 CHANGES IN SIARAD2
 ===================
 
-
 Header corrections
 -----------------------
 
@@ -13,20 +12,11 @@ Main tier corrections
 
 Remove incorrectly-introduced linebreak+tab (eg davies13, 729, 749). = DONE
 
-Replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni". 
-Likewise for negative forms, eg do't ti --> d(oedde)t ti.
-
-Make corrections thrown up by the wedi examples (KD email of 4 August 2013 ff).  Includes: Replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
-
 Replace "yeah@s:cym" by "yeah@s:cym&eng". = DONE
 
 Replace "t/drwadd" by "t/drwodd". = DONE
 
 Convert xx to xxx. = DONE
-
-Replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!  -- KD to check with BM what the current marking is.
-
-Replace "nag" by "nac" in tags (only "nac ydy" is on Patagonia changes list).
 
 Replace "wan" (now) by "(r)wan". = DONE
 
@@ -34,13 +24,22 @@ Replace "tax@s:cym&eng" by "tax@s:eng". = DONE
 
 Replace "uh_huh@s:cym&eng" by "uhuh@s:eng" in line with IM list. = DONE
 
+Change spwnjo -> spynjo in fusser30. = DONE
+
+Replace "o't ti" by "o(edde)t ti", "o'n i" by "o(eddw)n i", "o'ch chi" by "o(edde)ch chi" and "o'n ni" by "o(edde)n ni". 
+Likewise for negative forms, eg do't ti --> d(oedde)t ti.
+
+Make corrections thrown up by the wedi examples (KD email of 4 August 2013 ff).  Includes: Replace PRT.PAST by PRT.PERF; PERF also needs adding in conventions file.
+
+Replace "..." quotation marks in main tier by <...> ["] - OR IS IT ACTUALLY THE OTHER WAY ROUND? JUST DOWNLOADED THE CHAT MANUAL AND FOUND THE "..." QUOTATION MARKS IN THERE!  -- KD to check with BM what the current marking is.
+
+Replace "nag" by "nac" in tags (only "nac ydy" is on Patagonia changes list).
+
 Replace "de" by "(yn)de", and also "te" by "(yn)te" -- needs manual checking. :-(
 
 ? Check for unmotivated colons in main tier (e.g. fusser22) - can that be done automatically?
 
 Remove underlines from numerals (numerals.txt).
-
-Change spwnjo -> spynjo in fusser30. = DONE
 
 
 Other tier corrections
@@ -48,7 +47,7 @@ Other tier corrections
 
 Where changes have been made to xx/xxx on the main tier, sometimes the manual gloss doesn't match now. Can this be fixed by a programme? = DONE
 
-Get rid of caps at beginning of %eng (unless proper name) in davies2 and fusser6.  
+Get rid of caps at beginning of %eng (unless proper name) in davies2 and fusser6. = DONE
 
 Stammers3 line 68 has 'poss.2S' in the gls tier instead of 'POSS.2S'. = DONE
 
@@ -77,57 +76,6 @@ English constraint grammar rules
 Where you have a "_o" ending, SV gets converted to V (eg swim_o)
 
 AS+PV will collapse to N.PL when followed by "yn"
-
-
-Packaging
--------------
-
-Run Chatter
-
-Change language tags in the files for Talkbank: @s:eng => @s; @s@cym&eng => @s:und
-
-Make sure the abbreviations in the manual gloss match those in the autogloss and the abbreviations list in the doc file
-
-
-
-
-
-CHANGES IN PATAGONIA
-=====================
-
-
-Remove underlines from numerals.
-
-Regloss.
-
-
-
-
-
-CHANGES IN MIAMI
-=================
-
-
-Regloss.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
