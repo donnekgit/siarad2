@@ -14,7 +14,7 @@
 @Media:	fusser10, audio
 @Comment:	Language markers: @s:eng = English, @s:cym&eng = Undetermined, @s:eng+cym = word with first morpheme(s) English, second morpheme(s) Welsh, @s:cym+eng = word with first morpheme(s) Welsh, second morpheme(s) English. Untagged words are Welsh except where part of an utterance headed [- eng], in which untagged words are English.
 @Warning:	Soundfile is mono
-*BAR:	xxx os o't ti (y)n cofio . 35_917
+*BAR:	xxx os o(edde)t ti (y)n cofio . 35_917
 %gls:	xxx if be.2S.IMP PRON.2S PRT remember.NONFIN
 %eng:	[...] if you remembered
 *BAR:	dw meddwl bod o ddipyn (i)fengach na ni . 964_2461
@@ -178,7 +178,7 @@
 *BAR:	<ac um@s:cym&eng> [//] (..) ac (.) es i garage@s:cym&eng (y)ma (.) efo (y)r car@s:cym&eng (y)ma (.) . 90044_94792
 %gls:	and IM and go.1S.PAST PRON.1S garage here with DET car here
 %eng:	and um...and I went to this garage with this car
-*BAR:	ac o'n i (y)n cael bron ddim (.) ymateb yn siarad yn Saesneg . 95002_98416
+*BAR:	ac o(eddw)n i (y)n cael bron ddim (.) ymateb yn siarad yn Saesneg . 95002_98416
 %gls:	and be.1S.IMP PRON.1S PRT get.NONFIN nearly NEG response PRT speak.NONFIN in English
 %eng:	and I was getting nearly no response in English.
 *BAR:	xxx dechrau siarad Cymraeg . 98439_99762
@@ -452,7 +452,7 @@
 *BAR:	oh@s:cym&eng yeah@s:cym&eng . 305474_306066
 %gls:	IM yeah
 %eng:	oh yeah
-*ADD:	a gofyn (fa)swn i mynd i dynnu luniau fo (.) um@s:cym&eng os o'n i Gaerdydd (.) i games@s:cym&eng (.) rhyngwladol . 306078_311082
+*ADD:	a gofyn (fa)swn i mynd i dynnu luniau fo (.) um@s:cym&eng os o(eddw)n i Gaerdydd (.) i games@s:cym&eng (.) rhyngwladol . 306078_311082
 %gls:	and ask.NONFIN be.1S.CONDIT PRON.1S go.NONFIN to take.NONFIN pictures PRON.3SM IM if be.1S.IMP PRON.1S Cardiff to games international
 %eng:	and asked if I could go to take its picture, um, if I was going down to Cardiff for international games
 *ADD:	well@s:cym&eng (.) games@s:cym&eng rhyngwladol ti (y)n gweld miloedd [?] [/] miloedd xxx . 311105_313949
@@ -557,7 +557,7 @@
 *ADD:	oh@s:cym&eng (.) wnes i wario de . 381280_382905
 %gls:	IM do.1S.PAST PRON.1S spend.NONFIN TAG
 %eng:	oh I spent [a lot] you know
-*ADD:	xxx o'n isio prynu suit@s:cym&eng . 382749_384677
+*ADD:	xxx o(eddw)n isio prynu suit@s:cym&eng . 382749_384677
 %gls:	xxx be.1S.IMP want buy.NONFIN suit
 %eng:	[...] I wanted to buy a suit
 *ADD:	(we)dyn Marks_(a)nd_Sparks@s:cym&eng wedyn ges i un do (..) off@s:cym&eng the@s:eng peg@s:cym&eng . 384711_388705
@@ -584,7 +584,7 @@
 *BAR:	beth gest ti ? 401621_402979
 %gls:	what get.2S.PAST PRON.2S
 %eng:	what did you get ?
-*ADD:	um@s:cym&eng (..) o(edd) [?] [/] o(edd) gyn i (.) tokens@s:eng o'n i (we)di gael gan yn chwaer (.) i (.) Waterstones@s:cym&eng (.) a H_M_V@s:cym&eng . 403025_411048
+*ADD:	um@s:cym&eng (..) o(edd) [?] [/] o(edd) gyn i (.) tokens@s:eng o(eddw)n i (we)di gael gan yn chwaer (.) i (.) Waterstones@s:cym&eng (.) a H_M_V@s:cym&eng . 403025_411048
 %gls:	IM be.3S.IMP be.3S.IMP with PRON.1S tokens be.1S.IMP PRON.1S PRT.PAST get.NONFIN from POSS.1S sister to Waterstones and H_M_V
 %eng:	um I had tokens I had from my sister for Waterstones and HMV
 *BAR:	oh@s:cym&eng ia . 411129_411466
@@ -698,7 +698,7 @@
 *ADD:	dw i (ddi)m (y)n gwybod [?] . 499883_500510
 %gls:	be.1S.PRES PRON.1S NEG PRT know.NONFIN
 %eng:	I don't know
-*ADD:	o'n i meddwl bod o (y)n gorffen (.) am bedwar_deg timod +/. 500480_502911
+*ADD:	o(eddw)n i meddwl bod o (y)n gorffen (.) am bedwar_deg timod +/. 500480_502911
 %gls:	be.1S.IMP PRON.1S think.NONFIN be.NONFIN PRON.3SM PRT finish.NONFIN at forty know.2S
 %eng:	I thought it finished at forty, you know
 *BAR:	+< xxx . 501053_501563
@@ -1136,13 +1136,13 @@
 *BAR:	ond dyna (y)n safbwynt i . 772823_774216
 %gls:	but there POSS.1S standpoint PRON.1S
 %eng:	but that's my point of view
-*BAR:	ac <o'n i> [/] o'n i just@s:cym&eng (.) braidd yn wyllt . 774323_776192
+*BAR:	ac <o(eddw)n i> [/] o(eddw)n i just@s:cym&eng (.) braidd yn wyllt . 774323_776192
 %gls:	and be.1S.IMP PRON.1S be.1S.IMP PRON.1S just rather PRT wild
 %eng:	and I was...I was just a little angry
 *BAR:	wnaeth [/] um@s:cym&eng wnaeth Dylan@s:cym&eng just@s:cym&eng neidio allan . 776169_778212
 %gls:	do.3S.PAST IM do.3S.PAST Dylan just jump.NONFIN out
 %eng:	um Dylan just jumped out
-*BAR:	o'n i (y)n sefyll tu allan i drws . 778178_779780
+*BAR:	o(eddw)n i (y)n sefyll tu allan i drws . 778178_779780
 %gls:	be.1S.IMP PRON.1S PRT stand.NONFIN side out to door
 %eng:	I was standing outside the door
 *ADD:	+< xxx . 778699_779222
@@ -1173,7 +1173,7 @@
 *BAR:	so@s:cym&eng [/] so@s:cym&eng mae [/] mae hwnna (we)di +/. 790801_792659
 %gls:	so so be.3S.PRES be.3S.PRES that PRT.PAST
 %eng:	so...so that that has...
-*ADD:	ond (.) fynd yn_ôl be <o'n i ddeud> [?] . 792612_794807
+*ADD:	ond (.) fynd yn_ôl be <o(eddw)n i ddeud> [?] . 792612_794807
 %gls:	but go.NONFIN back what be.1S.IMP PRON.1S say.NONFIN
 %eng:	but to go back to what I was saying
 *ADD:	wnaeth o gael ei godi yn [/] (.) yn y pwyllgor . 794747_797115
@@ -1704,7 +1704,7 @@
 *ADD:	a mae Bae_Colwyn (we)di curo Pwllheli@s:cym&eng dydd Sadwrn dwytha . 1105399_1107661
 %gls:	and be.3S.PRES Colwyn_Bay PRT.PAST beat.NONFIN Pwllheli day Saturday previous
 %eng:	and Colwyn Bay beat Pwllheli last Saturday
-*BAR:	oedd o'n i gweld . 1107465_1108464
+*BAR:	oedd o(eddw)n i gweld . 1107465_1108464
 %gls:	be.3S.IMP be.1S.IMP PRON.1S see.NONFIN
 %eng:	yes, I saw
 *BAR:	<oedd o (y)n> [?] papur doedd . 1108417_1109578
@@ -1956,7 +1956,7 @@
 *BAR:	ond <fydd raid nhw> [/] fydd raid nhw (.) gyfarfod eitha [?] +//. 1313645_1315711
 %gls:	but be.3S.FUT neccessity PRON.3PL be.3S.FUT neccessity PRON.3PL meet quite
 %eng:	but they'll have to they'll have to meet quite...
-*BAR:	ond (.) o'n i (we)di anghofio mae Ceian@s:cym&eng (we)di bod ffwrdd (yn)dy ar ei wyliau dydy . 1315675_1319332
+*BAR:	ond (.) o(eddw)n i (we)di anghofio mae Ceian@s:cym&eng (we)di bod ffwrdd (yn)dy ar ei wyliau dydy . 1315675_1319332
 %gls:	but be.1S.IMP PRON.1S PRT.PAST forget.NONFIN be.3S.PRES Ceian PRT.PAST be.NONFIN away be.3S.PRES on POSS.3SM holiday be.3S.PRES.NEG
 %eng:	but I'd forgotten, Ceian's been away on his holidays, hasn't he
 *BAR:	yeah@s:cym&eng yeah@s:cym&eng yeah@s:cym&eng . 1319338_1322287
@@ -2404,7 +2404,7 @@
 *ADD:	felly wnaethon ni droi round@s:cym&eng a mynd (y)n_ôl i (y)r gwesty . 1721288_1723749
 %gls:	thus do.1PL.PAST PRON.1PL turn round and go.NONFIN back to DET hotel
 %eng:	so we turned around and went back to the hotel
-*ADD:	<o'n ni> [=? o'n i] isio gweld Brokeback_Mountain@s:cym&eng sti . 1723744_1725950
+*ADD:	<o(edde)n ni> [=? o(eddw)n i] isio gweld Brokeback_Mountain@s:cym&eng sti . 1723744_1725950
 %gls:	be.1PL.PAST PRON.1PL want see.NONFIN Brokeback_Mountain know.2S
 %eng:	we wanted to see Brokeback Mountain, you know
 *BAR:	oh@s:cym&eng ia mae +/. 1725939_1727007
@@ -2554,7 +2554,7 @@
 *ADD:	ti dda efo cowboys@s:cym&eng (y)ma . 1804645_1805794
 %gls:	PRON.2S good with cowboys here
 %eng:	you're good with these cowboy things
-*ADD:	<(be)cause@s:eng ti> [?] [//] <o'ch chdi (y)n gwybod> [///] wnest di ffindio allan pwy oedd Lone_Ranger@s:cym&eng hefyd do . 1805782_1808929
+*ADD:	<(be)cause@s:eng ti> [?] [//] <o(edde)ch chdi (y)n gwybod> [///] wnest di ffindio allan pwy oedd Lone_Ranger@s:cym&eng hefyd do . 1805782_1808929
 %gls:	because PRON.2S be.2S.IMP PRON.2S PRT know.NONFIN do.2S.PAST PRON.2S find.NONFIN out who be.3S.IMP Lone_Ranger also yes
 %eng:	because you...you knew...you found out who the Lone Ranger was too, didn't you
 *BAR:	do [=! laughs] . 1808877_1809631
@@ -2820,7 +2820,7 @@
 *BAR:	oedd [//] ac (.) fel xxx bryd o fwyd ac wedyn twmpath wedyn . 1996024_2000995
 %gls:	be.3S.IMP and like xxx meal of food and then folk_dance then
 %eng:	yes and like [...] meal and then a folk dance afterwards
-*ADD:	<o'ch chdi (y)n deud> [=! laughs] . 2001006_2002330
+*ADD:	<o(edde)ch chdi (y)n deud> [=! laughs] . 2001006_2002330
 %gls:	be.2S.IMP PRON.2S PRT say.NONFIN
 %eng:	you were saying
 *BAR:	+< <oedd o> [/] <oedd o (y)n> [/] (.) <oedd o (y)n> [///] do(edd) (ddi)m quite@s:cym&eng gweithio i mi de twmpath yn y Park@s:cym&eng +/. 2001982_2007647
