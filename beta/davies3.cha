@@ -211,11 +211,11 @@
 *TOS:	be dw i (y)n edrych (y)mlaen xxx ydy cael job@s:cym&eng (r)wan dechrau gweithio . 170424_174662
 %gls:	what be.1S.PRES PRON.1S PRT look.NONFIN forward xxx be.3S.PRES get.NONFIN job now start.NONFIN work.NONFIN
 %eng:	what I'm looking forward to [...] is to get a job now, start working
-*HAR:	yeah@s:cym&eng faint (y)dy hynna [?] un_deg_chwech fydd o yeah@s:cym&eng ? 174662_176508
-%gls:	yeah how_much be.3S.ores that sixteen be.3S.FUT PRON.3SM yeah
+*HAR:	yeah@s:cym&eng faint (y)dy hynna [?] un_deg chwech fydd o yeah@s:cym&eng ? 174662_176508
+%gls:	yeah how_much be.3S.ores that ten six be.3S.FUT PRON.3SM yeah
 %eng:	yeah, how much is that, he'll be sixteen yeah?
-*TOS:	<mae o (y)n> [//] (.) yndy mae o (y)n un_deg_chwech dydy . 176508_178714
-%gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES be.3S.PRES PRON.3SM PRT sixteen be.3S.PRES.NEG
+*TOS:	<mae o (y)n> [//] (.) yndy mae o (y)n un_deg chwech dydy . 176508_178714
+%gls:	be.3S.PRES PRON.3SM PRT be.3S.PRES be.3S.PRES PRON.3SM PRT ten six be.3S.PRES.NEG
 %eng:	he's...yes, he's sixteen, isn't he
 *TOS:	achos mae (y)n +... 178714_179468
 %gls:	because be.3S.PRES PRT
@@ -223,8 +223,8 @@
 *HAR:	oh@s:cym&eng yeah@s:cym&eng so@s:cym&eng (.) pam bod genno barty@s:cym&eng mor fawr te ? 179468_182789
 %gls:	IM yeah so why be.NONFIN with.3SM party so big then
 %eng:	oh yeah, so why has he got such a big barty then?
-*HAR:	xxx un_deg_saith xxx ? 182789_183810
-%gls:	xxx seventeen xxx
+*HAR:	xxx un_deg saith xxx ? 182789_183810
+%gls:	xxx ten seven xxx
 %eng:	[...] seventeen [...] ?
 *TOS:	nage just@s:cym&eng party@s:cym&eng (.) just@s:cym&eng cyffredinol . 183810_187758
 %gls:	no just party just general
@@ -287,7 +287,7 @@
 *TOS:	mmm@s:cym&eng . 235150_235881
 %gls:	IM
 %eng:	mm
-*HAR:	+, <mae o> [//] um@s:cym&eng (.) &=clears_throat maen nhw newydd &k gymryd y job@s:cym&eng oddi_wrtho fo . 235881_241431
+*HAR:	+, <mae o> [//] um@s:cym&eng (.) &=clears_throat maen nhw newydd &k gymryd y job@s:cym&eng oddiwrtho fo . 235881_241431
 %gls:	be.3S.PRES PRON.3SM IM be.3PL.PRES PRON.3PL newly take.NONFIN DET job from.3SM PRON.3SM
 %eng:	he's...um, the've just taken the job away from him
 *HAR:	<am y> [?] Chronicle@s:cym&eng (y)dy o . 241431_243044
@@ -378,8 +378,8 @@
 *HAR:	&=sigh (.) um@s:cym&eng +/. 294279_296810
 %gls:	IM
 %eng:	um...
-*TOS:	ond be dw (y)n edrych (y)mlaen i wneud ydy (.) unwaith fydda i (y)n (.) un_deg_saith (.) <pan fydda i (y)n> [?] y chweched (.) fydda i (y)n gallu dechrau dreifio (.) byddaf [?] . 296810_305286
-%gls:	but what be.1S.PRES PRT look.NONFIN forward to do.NONFIN be.3S.PRES once be.1S.FUT PRON.1S PRT seventeen when be.1S.FUT PRON.1S PRT DET sixth be.1S.FUT PRON.1S PRT can.NONFIN start.NONFIN drive.NONFIN be.1S.FUT
+*TOS:	ond be dw (y)n edrych (y)mlaen i wneud ydy (.) unwaith fydda i (y)n (.) un_deg saith (.) <pan fydda i (y)n> [?] y chweched (.) fydda i (y)n gallu dechrau dreifio (.) byddaf [?] . 296810_305286
+%gls:	but what be.1S.PRES PRT look.NONFIN forward to do.NONFIN be.3S.PRES once be.1S.FUT PRON.1S PRT ten seven when be.1S.FUT PRON.1S PRT DET sixth be.1S.FUT PRON.1S PRT can.NONFIN start.NONFIN drive.NONFIN be.1S.FUT
 %eng:	but what I'm looking forward to doing is, once I'll be seventeen, when I'll be in the sixth form I'll be able to start driving, won't I
 *TOS:	dyna dw i (y)n edrych (y)mlaen xxx wneud . 305286_306644
 %gls:	there be.1S.PRES PRON.1S PRT look.NONFIN forward xxx do.NONFIN
@@ -467,8 +467,8 @@
 *HAR:	yndy [?] ? 372520_372903
 %gls:	be.3 .PRES
 %eng:	yes?
-*TOS:	xxx chwech_deg_tri punt am +/. 372903_374610
-%gls:	xxx sixty_three.M pound for
+*TOS:	xxx chwech_deg tri punt am +/. 372903_374610
+%gls:	xxx sixty three.M pound for
 %eng:	[...] sixty-three pounds for...
 *HAR:	yeah@s:cym&eng be [/] be dw i (ddi)m yn dallt efo phone@s:cym&eng (y)ma hefyd de (.) seven@s:eng +/. 374610_377222
 %gls:	yeah what what be.1S.PRES PRON.1S neg PRT understand.NONFIN with phone here also TAG seven
@@ -1735,7 +1735,7 @@
 *TOS:	achos fedri di (ddi)m +/. 1355060_1355768
 %gls:	because can.2S.NONPAST PRON.2S NEG
 %eng:	because you can't...
-*TOS:	oni_bai bod yr [//] os mai fi (.) yn y sample@s:cym&eng (.) sy (y)n cael ei anfon ffwrdd i farcio . 1355768_1361318
+*TOS:	onibai bod yr [//] os mai fi (.) yn y sample@s:cym&eng (.) sy (y)n cael ei anfon ffwrdd i farcio . 1355768_1361318
 %gls:	unless be.NONFIN DET if PRT PRON.1S in DET sample be.PRES.REL PRT get.NONFIN POSS.3S send.NONFIN away to mark.NONFIN
 %eng:	unless the...if I'm in the sample that's sent away to mark
 *TOS:	&s gobeithio wneith yr arholwr fan (y)na roid mark@s:cym&eng ychwanegol i fi (.) &=laugh . 1361318_1365776
@@ -2015,8 +2015,8 @@
 *HAR:	xxx stuck@s:cym&eng ar ryw minus@s:cym&eng &f (.) forty_five@s:eng xxx . 1594286_1599696
 %gls:	xxx stuck on some minus forty_five
 %eng:	[...] stuck on about minus forty-five
-*HAR:	mae (y)n gallu mynd at (.) pedwar_deg_pump decibel@s:cym&eng xxx . 1599696_1602936
-%gls:	be.3S.PRES PRT can.NONFIN go.NONFIN to forty_five.M decibel xxx
+*HAR:	mae (y)n gallu mynd at (.) pedwar_deg pump decibel@s:cym&eng xxx . 1599696_1602936
+%gls:	be.3S.PRES PRT can.NONFIN go.NONFIN to forty five.M decibel xxx
 %eng:	it can go to forty-five decibels
 *TOS:	yeah@s:cym&eng . 1602936_1603632
 %gls:	yeah

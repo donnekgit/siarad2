@@ -2073,11 +2073,11 @@
 *JAQ:	[- eng] ninety_nine ? 1246906_1249275
 %gls:	ninety_nine
 %eng:	ninety-nine?
-*CHR:	naw_deg_naw punt . 1249275_1250633
-%gls:	ninety_nine pound
+*CHR:	naw_deg naw punt . 1249275_1250633
+%gls:	ninety nine pound
 %eng:	ninety-nine pounds
-*JAQ:	&=gasp dw i (ddi)m yn prynu un am naw_deg_naw punt no@s:eng way@s:eng Jose@s:cym&eng . 1250343_1254812
-%gls:	be.1S.PRES PRON.1S NEG PRT buy.NONFIN one for ninety_nine pound no way Jose
+*JAQ:	&=gasp dw i (ddi)m yn prynu un am naw_deg naw punt no@s:eng way@s:eng Jose@s:cym&eng . 1250343_1254812
+%gls:	be.1S.PRES PRON.1S NEG PRT buy.NONFIN one for ninety nine pound no way Jose
 %eng:	I'm not buying one for ninety-nine pounds, no way Jose
 *CHR:	well@s:cym&eng [?] (.) maybe@s:eng maen nhw (y)n (.) mynd i_lawr . 1253814_1258702
 %gls:	well perhaps be.3PL.PRES PRON.3PL PRT go.NONFIN down
@@ -2416,10 +2416,10 @@
 *CHR:	(ddi)m gwybod . 1491500_1492458
 %gls:	NEG know.NONFIN
 %eng:	don't know
-*JAQ:	oddi_wrth (.) ei brawd ? 1492458_1493973
+*JAQ:	oddiwrth (.) ei brawd ? 1492458_1493973
 %gls:	from POSS.3S brother
 %eng:	from her brother?
-*CHR:	oddi_wrth yeah@s:cym&eng . 1493637_1494595
+*CHR:	oddiwrth yeah@s:cym&eng . 1493637_1494595
 %gls:	from yeah
 %eng:	from yeah
 *JAQ:	mae hwnna (y)n cas yn_tydy . 1494595_1495913
@@ -2464,7 +2464,7 @@
 *JAQ:	a wedyn oedd Sharon@s:cym&eng (we)di +/? 1513209_1514470
 %gls:	and then be.3S.IMP Sharon PRT.PAST
 %eng:	and then Sharon had...
-*CHR:	++ cuddio fo oddi_wrtho fo . 1514470_1516107
+*CHR:	++ cuddio fo oddiwrtho fo . 1514470_1516107
 %gls:	hide.NONFIN PRON.3SM from.3SM PRON.3SM
 %eng:	hide it from him
 *JAQ:	+< +, cuddio +//. 1515518_1515894
